@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-12-12
+Version Consolidée au 1999-12-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -214,7 +214,7 @@ Version Consolidée au 1999-12-12
       - [Titre VI : Dispositions relatives à l'outre-mer. (art. L661-1 à L662-2)](#211)
         - [Chapitre Ier : Dispositions particulières aux départements d'outre-mer. (art. L661-1 à L661-2)](#212)
         - [Chapitre II : Dispositions relatives à la Polynésie française. (art. L662-1 à L662-2)](#213)
-  - [Partie réglementaire (art. R*111-1 à R651-1)](#214)
+  - [Partie réglementaire (art. R*111-1 à R651-2)](#214)
     - [Livre Ier : Dispositions générales. (art. R*111-1 à R*161-2)](#215)
       - [Titre Ier : Construction des bâtiments. (art. R*111-1 à R*111-42)](#216)
         - [Chapitre Ier : Règles générales. (art. R*111-1 à R*111-42)](#217)
@@ -594,7 +594,7 @@ Version Consolidée au 1999-12-12
         - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#591)
         - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#592)
       - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#593)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#594)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-2)](#594)
       - [Titre Ier : Dispositions générales. (art. R612-1 à R615-5)](#595)
         - [Chapitre II : Occupation du domaine public. (art. R612-1)](#596)
         - [Chapitre V : Mesures de sauvegarde. (art. R615-1 à R615-5)](#597)
@@ -612,8 +612,8 @@ Version Consolidée au 1999-12-12
           - [Section 2 : Procédure. (art. R*642-5 à R*642-8)](#609)
           - [Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition. (art. R*642-9 à R*642-10)](#610)
           - [Section 4 : Plafonds de ressources et loyers. (art. R642-11 à R642-12)](#611)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#612)
-        - [Chapitre unique. (art. R651-1)](#613)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1 à R651-2)](#612)
+        - [Chapitre unique. (art. R651-1 à R651-2)](#613)
   - [Annexes (art. Annexe à l'article R322-20 à Annexe à l'article R443-11)](#614)
     - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#615)
       - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#616)
@@ -79100,6 +79100,41 @@ _Codifié par_:
 _Anciens textes_:
 
   - Code de l'urbanisme 357
+
+
+###### Article R651-2
+
+I.-L'information relative à l'engagement des poursuites et la communication de la décision de confiscation au propriétaire de
+l'immeuble et au propriétaire du fonds de commerce auxquelles procède le ministère public, ainsi que l'apposition des
+mentions au registre du commerce et des sociétés et aux registres sur lesquels sont inscrites les sûretés, prévues au II de
+l'article L. 651-10, sont effectuées selon les modalités définies aux articles R. 51 et R. 51-1 du code de procédure pénale. 
+
+II.-Lorsque l'autorité administrative saisit le président du tribunal de grande instance ou le magistrat du siège délégué par
+lui aux fins de désignation d'un administrateur provisoire, sa requête est dispensée de ministère d'avocat. 
+
+Une copie de l'ordonnance qui désigne un administrateur provisoire est adressée par le ministère public au propriétaire de
+l'immeuble et au propriétaire du fonds de commerce dans les conditions prévues au I. 
+
+Une copie est également jointe à la réquisition que le ministère public adresse au greffe du tribunal de commerce afin que
+soit portée au registre du commerce et des sociétés et aux registres sur lesquels sont inscrites les sûretés la mention de
+cette ordonnance, avec indication de sa date, de la juridiction qui a statué ainsi que de l'identité et de l'adresse de
+l'administrateur désigné, selon les formes prévues à l'article R. 51-1 du code de procédure pénale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°99-1050 du 14 décembre 1999 - art. 2 () JORF 16 décembre 1999
+
+_Cite_:
+
+  - Code de procédure pénale - art. R51 (V)
+  - Code de procédure pénale - art. R51-1 (V)
+  - Code de la construction et de l'habitation. - art. L651-10 (V)
 
 
 # Annexes<a id=614></a>
