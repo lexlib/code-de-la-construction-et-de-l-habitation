@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-08-22
+Version Consolidée au 1986-08-26
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -388,69 +388,69 @@ Version Consolidée au 1986-08-22
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-2 à R351-4-1)](#385)
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-8)](#386)
             - [Sous-section 3 : Conditions particulières. (art. R351-12 à R351-17-2)](#387)
-            - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-20-1)](#388)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-55 à R351-59)](#389)
-              - [SECTION IV : Dispositions particulières aux logements-foyers (art. R351-55)](#390)
-                - [SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif. (art. R351-55)](#391)
-              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-59)](#392)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-29)](#393)
-          - [Section 1 : Aide personnalisée (art. R351-1-1 à R351-32)](#394)
-            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1-1)](#395)
-            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-4)](#396)
-            - [Sous-section 3 : Conditions particulières. (art. R351-15 à R351-17-1)](#397)
-            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20 à R351-22)](#398)
-            - [Sous-section 5 : Prime de déménagement. (art. R351-24)](#399)
-            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28)](#400)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-32)](#401)
-          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#402)
-            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#403)
-            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#404)
-            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#405)
-          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R351-50 à R351-53)](#406)
-          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-56 à R351-65)](#407)
-            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-56 à R351-57)](#408)
-            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-63 à R351-65)](#409)
-          - [Section 4 : Dispositions particulières aux logements-foyers. (art. R351-62 à R351-66)](#410)
-            - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-62 à R351-66)](#411)
-        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-18 à R353-209)](#412)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-18)](#413)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-25)](#414)
-          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#415)
-          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-88)](#416)
-          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-68 à R353-73)](#417)
-          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-89 à R353-94)](#418)
-          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-91 à R353-118)](#419)
-          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#420)
-          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-131 à R353-135)](#421)
-          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°). (art. R353-154 à R353-165)](#422)
-          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-166 à R353-177)](#423)
-          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-168)](#424)
-          - [Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques. (art. R353-189 à R353-199)](#425)
-          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-202)](#426)
-          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-200 à R353-213)](#427)
-          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-208 à R353-209)](#428)
-      - [Titre V : Aide personnalisée au logement. (art. R351-17 à R351-46)](#429)
-        - [Chapitre Ier : Dispositions générales (art. R351-17 à R351-46)](#430)
-          - [Section 1 : Aide personnalisée (art. R351-17 à R351-60)](#431)
-            - [Sous-section 3 : Conditions particulières. (art. R351-17)](#432)
-            - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-18)](#433)
-            - [Sous-section 5 : Prime de déménagement. (art. R351-25)](#434)
-            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-27)](#435)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-30 à R351-31)](#436)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-58 à R351-60)](#437)
-              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-60)](#438)
+            - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-20-1 à R351-21)](#388)
+            - [Sous-section 7 : Dispositions diverses. (art. R351-49 à R351-59)](#389)
+              - [SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R351-49 à R351-52)](#390)
+              - [SECTION IV : Dispositions particulières aux logements-foyers (art. R351-55)](#391)
+                - [SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif. (art. R351-55)](#392)
+              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-59)](#393)
+            - [Sous-section 7 : Dispositions diverses. (art. R351-29)](#394)
+          - [Section 1 : Aide personnalisée (art. R351-1-1 à R351-32)](#395)
+            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1-1)](#396)
+            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-4 à R351-9)](#397)
+            - [Sous-section 3 : Conditions particulières. (art. R351-15 à R351-17-1)](#398)
+            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20 à R351-22)](#399)
+            - [Sous-section 5 : Prime de déménagement. (art. R351-24)](#400)
+            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28)](#401)
+            - [Sous-section 7 : Dispositions diverses. (art. R351-32)](#402)
+          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#403)
+            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#404)
+            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#405)
+            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#406)
+          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R351-50 à R351-53)](#407)
+          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-56 à R351-65)](#408)
+            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-56 à R351-57)](#409)
+            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-63 à R351-65)](#410)
+          - [Section 4 : Dispositions particulières aux logements-foyers. (art. R351-62 à R351-66)](#411)
+            - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-62 à R351-66)](#412)
+        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-18 à R353-209)](#413)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-18)](#414)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-25)](#415)
+          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#416)
+          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-88)](#417)
+          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-68 à R353-73)](#418)
+          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-89 à R353-94)](#419)
+          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-91 à R353-118)](#420)
+          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#421)
+          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-131 à R353-135)](#422)
+          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°). (art. R353-154 à R353-165)](#423)
+          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-166 à R353-177)](#424)
+          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-168)](#425)
+          - [Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques. (art. R353-189 à R353-199)](#426)
+          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-202)](#427)
+          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-200 à R353-213)](#428)
+          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-208 à R353-209)](#429)
+      - [Titre V : Aide personnalisée au logement. (art. R351-17 à R*351-48)](#430)
+        - [Chapitre Ier : Dispositions générales (art. R351-17 à R*351-48)](#431)
+          - [Section 1 : Aide personnalisée (art. R351-17 à R351-64)](#432)
+            - [Sous-section 3 : Conditions particulières. (art. R351-17)](#433)
+            - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-18)](#434)
+            - [Sous-section 5 : Prime de déménagement. (art. R351-25)](#435)
+            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-27)](#436)
+            - [Sous-section 7 : Dispositions diverses. (art. R*351-30 à R351-64)](#437)
+              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-64)](#438)
           - [Section 2 : Fonds national de l'habitation (art. R351-46)](#439)
             - [Sous-section 4 : Dispositions transitoires. (art. R351-46)](#440)
-      - [Titre V : Aide personnalisée au logement. (art. R351-1 à R351-64)](#441)
-        - [Chapitre Ier : Dispositions générales. (art. R351-1 à R351-64)](#442)
-          - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1)](#443)
-          - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-5 à R351-9)](#444)
-          - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-14)](#445)
-          - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-19 à R351-21-1)](#446)
-          - [Sous-section 5 : Prime de déménagement. (art. R351-23)](#447)
-          - [Section 3 : Commission départementale de l'aide personnalisée. (art. R351-48 à R351-52)](#448)
-          - [Dispositions particulières aux logements-foyers (art. R351-61 à R351-64)](#449)
-            - [Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-61 à R351-64)](#450)
+          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R*351-48)](#441)
+      - [Titre V : Aide personnalisée au logement. (art. R351-1 à R351-62-1)](#442)
+        - [Chapitre Ier : Dispositions générales. (art. R351-1 à R351-62-1)](#443)
+          - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1)](#444)
+          - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-5 à R351-7-1)](#445)
+          - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-14)](#446)
+          - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-19 à R351-21-1)](#447)
+          - [Sous-section 5 : Prime de déménagement. (art. R351-23)](#448)
+          - [Dispositions particulières aux logements-foyers (art. R351-61 à R351-62-1)](#449)
+            - [Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-61 à R351-62-1)](#450)
       - [Titre VI : Organismes consultatifs. (art. R*361-1 à R362-19)](#451)
         - [Chapitre Ier : Conseil national de l'habitat. (art. R*361-1 à R*361-20)](#452)
         - [Chapitre II : Conseil départemental de l'habitat. (art. R362-1 à R362-19)](#453)
@@ -41104,11 +41104,125 @@ _Cite_:
   - Code de la construction et de l'habitation R351-2 AL. 2 A
 
 
+###### Article R351-21
+
+Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
+supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
+
+Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
+du budget, de l'agriculture et du logement en distinguant :
+
+- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
+occupés par leur propriétaire ou par l'accédant titulaire d'un contrat de location-accession;
+
+- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
+
+Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
+arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
+prévu à l'article R. 351-19.
+
+Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
+
+Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-784 1977-07-13 art. 17
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cité par_:
+
+  - Arrêté du 3 juillet 1978 - art. 10 (Ab)
+  - Arrêté du 30 juin 1979 - art. 4 (M)
+  - Code de la construction et de l'habitation. - art. R351-18 (V)
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
+  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 4 JORF 26 août 1986
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R351-19 (M)
+
+
 ##### Sous-section 7 : Dispositions diverses.<a id=389></a>
 
-##### SECTION IV : Dispositions particulières aux logements-foyers<a id=390></a>
+##### SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=390></a>
 
-##### SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif.<a id=391></a>
+###### Article R351-49
+
+Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
+intéressée.
+
+Cette notification comporte la mention du délai dans lequel elles peuvent faire l'objet d'un recours administratif ainsi que
+la désignation et l'adresse du secrétariat de la section des aides publiques au logement du conseil départemental de
+l'habitat compétente. Elle précise en outre la forme que doit revêtir ce recours et le délai au terme duquel celui-ci est
+rejeté tacitement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-813 1977-07-18 art. 3
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 9 JORF 26 août 1986
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-47 (VT)
+  - Code de la construction et de l'habitation. - art. R351-50 (M)
+  - Code de la construction et de l'habitation. - art. R351-52 (M)
+  - Code de la construction et de l'habitation. - art. R362-19 (M)
+  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
+###### Article R351-52
+
+La section des aides publiques au logement du conseil départemental de l'habitat ne délibère valablement, en matière de
+recours administratif, que si quatre membres, dont le président, sont présents.
+
+La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-813 1977-07-18 art. 6
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-49 (VT)
+  - Code de la construction et de l'habitation. - art. R362-19 (M)
+  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+_Modifié par_:
+
+  - Décret n°86-982 1982-08-22 art. 9 JORF 26 août 1986
+
+
+##### SECTION IV : Dispositions particulières aux logements-foyers<a id=391></a>
+
+##### SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif.<a id=392></a>
 
 ###### Article R351-55
 
@@ -41148,7 +41262,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R445-24 (V)
 
 
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=392></a>
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=393></a>
 
 ###### Article R351-59
 
@@ -41163,7 +41277,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=393></a>
+##### Sous-section 7 : Dispositions diverses.<a id=394></a>
 
 ###### Article R351-29
 
@@ -41207,9 +41321,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
-##### Section 1 : Aide personnalisée<a id=394></a>
+##### Section 1 : Aide personnalisée<a id=395></a>
 
-##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=395></a>
+##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=396></a>
 
 ###### Article R351-1-1
 
@@ -41241,7 +41355,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R821-2 (V)
 
 
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=396></a>
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=397></a>
 
 ###### Article R351-4
 
@@ -41274,7 +41388,49 @@ _Cite_:
   - Code de la construction et de l'habitation R351-10 à R351-16
 
 
-##### Sous-section 3 : Conditions particulières.<a id=397></a>
+###### Article R351-9
+
+L'aide personnalisée est attribuée sur demande de l'intéressé, conforme à un modèle type, introduite auprès de l'organisme
+payeur défini à l'article R. 351-26.
+
+La demande doit être assortie de justifications définies par arrêté conjoint des ministres chargés des finances, de la
+construction et de l'habitation, de l'agriculture et de la sécurité sociale.
+
+Le même arrêté précise celles de ces justifications qui doivent être produites chaque année et, parmi celles-ci, celles dont
+la non-présentation avant la date fixée par ledit arrêté entraine la suspension du paiement de l'aide personnalisée.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-784 1977-07-13 art. 9
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 3 JORF 26 août 1986
+
+**Liens**:
+
+  - TXT_SOURCE: Arrêté du 22 août 1986
+  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 1 (V)
+  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 2 (V)
+  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 3 (V)
+  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 4 (V)
+
+_Cité par_:
+
+  - Arrêté du 22 août 1986 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R351-26 (M)
+
+
+##### Sous-section 3 : Conditions particulières.<a id=398></a>
 
 ###### Article R351-15
 
@@ -41358,7 +41514,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=398></a>
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=399></a>
 
 ###### Article R351-20
 
@@ -41425,7 +41581,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Sous-section 5 : Prime de déménagement.<a id=399></a>
+##### Sous-section 5 : Prime de déménagement.<a id=400></a>
 
 ###### Article R351-24
 
@@ -41447,7 +41603,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 6 : Modalités de liquidation et de versement.<a id=400></a>
+##### Sous-section 6 : Modalités de liquidation et de versement.<a id=401></a>
 
 ###### Article R351-26
 
@@ -41515,7 +41671,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=401></a>
+##### Sous-section 7 : Dispositions diverses.<a id=402></a>
 
 ###### Article R351-32
 
@@ -41537,7 +41693,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Section 2 : Fonds national de l'habitation.<a id=402></a>
+##### Section 2 : Fonds national de l'habitation.<a id=403></a>
 
 ###### Article R351-33
 
@@ -41569,7 +41725,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-36 (V)
 
 
-##### Sous-section 1 : Organisation.<a id=403></a>
+##### Sous-section 1 : Organisation.<a id=404></a>
 
 ###### Article R351-34
 
@@ -41620,7 +41776,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 2 : Attributions.<a id=404></a>
+##### Sous-section 2 : Attributions.<a id=405></a>
 
 ###### Article R351-36
 
@@ -41726,7 +41882,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 3 : Dispositions financières.<a id=405></a>
+##### Sous-section 3 : Dispositions financières.<a id=406></a>
 
 ###### Article R351-40
 
@@ -41949,7 +42105,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R813-6 (V)
 
 
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=406></a>
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=407></a>
 
 ###### Article R351-50
 
@@ -42066,9 +42222,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-19 (M)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers<a id=407></a>
+##### Section 4 : Dispositions particulières aux logements-foyers<a id=408></a>
 
-##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=408></a>
+##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=409></a>
 
 ###### Article R351-56
 
@@ -42159,7 +42315,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-58 (M)
 
 
-##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=409></a>
+##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=410></a>
 
 ###### Article R351-63
 
@@ -42196,9 +42352,9 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R822-9 (V)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers.<a id=410></a>
+##### Section 4 : Dispositions particulières aux logements-foyers.<a id=411></a>
 
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=411></a>
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=412></a>
 
 ###### Article R351-62
 
@@ -42259,9 +42415,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-32 (M)
 
 
-#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=412></a>
+#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=413></a>
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=413></a>
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=414></a>
 
 ###### Article R353-18
 
@@ -42286,7 +42442,7 @@ _Modifié par_:
   - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
 
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=414></a>
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=415></a>
 
 ###### Article R353-1
 
@@ -42961,7 +43117,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-24 (M)
 
 
-##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=415></a>
+##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=416></a>
 
 ###### Article R353-32
 
@@ -43746,7 +43902,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-57, v. 0.1 (VD)
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=416></a>
+##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=417></a>
 
 ###### Article R353-58
 
@@ -44712,7 +44868,7 @@ _Abrogé par_:
   - Décret n°99-865 du 7 octobre 1999 - art. 2 (V) JORF 8 octobre 1999
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=417></a>
+##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=418></a>
 
 ###### Article R353-68
 
@@ -44813,7 +44969,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R353-72 (M)
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=418></a>
+##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=419></a>
 
 ###### Article R353-89
 
@@ -44980,7 +45136,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-94, v. 0.1 (VD)
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=419></a>
+##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=420></a>
 
 ###### Article R353-91
 
@@ -45826,7 +45982,7 @@ _Abrogé par_:
   - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
 
-##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=420></a>
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=421></a>
 
 ###### Article R353-126
 
@@ -46369,7 +46525,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-152, v. 0.1 (VD)
 
 
-##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=421></a>
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=422></a>
 
 ###### Article R353-131
 
@@ -46443,7 +46599,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R353-134 (M)
 
 
-##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°).<a id=422></a>
+##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°).<a id=423></a>
 
 ###### Article R353-154
 
@@ -46777,7 +46933,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R353-164-1 (Ab)
 
 
-##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=423></a>
+##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=424></a>
 
 ###### Article R353-166
 
@@ -47017,7 +47173,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-41 (M)
 
 
-##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=424></a>
+##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physique s bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=425></a>
 
 ###### Article R353-168
 
@@ -47039,7 +47195,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-20 (M)
 
 
-##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.<a id=425></a>
+##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.<a id=426></a>
 
 ###### Article R353-189
 
@@ -47293,7 +47449,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=426></a>
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=427></a>
 
 ###### Article R353-202
 
@@ -47322,7 +47478,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-42 (M)
 
 
-##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=427></a>
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=428></a>
 
 ###### Article R353-200
 
@@ -47605,7 +47761,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-213, v. 0.1 (VD)
 
 
-##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=428></a>
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=429></a>
 
 ###### Article R353-208
 
@@ -47656,13 +47812,13 @@ _Créé par_:
   - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
 
 
-### Titre V : Aide personnalisée au logement.<a id=429></a>
+### Titre V : Aide personnalisée au logement.<a id=430></a>
 
-#### Chapitre Ier : Dispositions générales<a id=430></a>
+#### Chapitre Ier : Dispositions générales<a id=431></a>
 
-##### Section 1 : Aide personnalisée<a id=431></a>
+##### Section 1 : Aide personnalisée<a id=432></a>
 
-##### Sous-section 3 : Conditions particulières.<a id=432></a>
+##### Sous-section 3 : Conditions particulières.<a id=433></a>
 
 ###### Article R351-17
 
@@ -47734,7 +47890,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R821-6 (V)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement.<a id=433></a>
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.<a id=434></a>
 
 ###### Article R351-18
 
@@ -47787,7 +47943,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-21 (M)
 
 
-##### Sous-section 5 : Prime de déménagement.<a id=434></a>
+##### Sous-section 5 : Prime de déménagement.<a id=435></a>
 
 ###### Article R351-25
 
@@ -47807,7 +47963,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 6 : Modalités de liquidation et de versement.<a id=435></a>
+##### Sous-section 6 : Modalités de liquidation et de versement.<a id=436></a>
 
 ###### Article R351-27
 
@@ -47878,17 +48034,38 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*351-31 (V)
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=436></a>
+##### Sous-section 7 : Dispositions diverses.<a id=437></a>
 
-###### Article R351-30
+###### Article R*351-30
 
-Lorsque le bénéficiaire ne règle pas la part de loyer ou de mensualité restant à sa charge, le paiement de l'aide
-personnalisée au bailleur ou à l'établissement habilité percevant cette aide est suspendu, sauf si ces derniers apportent la
-preuve qu'ils ont poursuivi par tous les moyens le recouvrement de leur créance. La validité des preuves produites doit être
-appréciée par la section des aides publiques au logement du conseil départemental de l'habitat.
+" Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section
+des aides publiques au logement du conseil départemental de l'habitat par le bailleur ou l'établissement habilité percevant
+l'aide personnalisée pour son compte.
 
-A défaut de ces justifications, l'organisme payeur est habilité à exiger du bailleur ou de l'établissement habilité le
-reversement de l'aide personnalisée qui lui a été réglée depuis la date de la défaillance du bénéficiaire.
+" En secteur locatif, l'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque
+le locataire est débiteur à l'égard du bailleur d'une somme au moins égale à deux fois le montant mensuel brut du loyer et
+des charges. Dans le secteur de l'accession à la propriété, l'impayé est constitué, en cas de périodicité trimestrielle
+lorsque deux échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à une échéance de prêt brute et en cas de périodicité mensuelle lorsque
+trois échéances de prêt nettes consécutives sont totalement impayées ou lorsque l'emprunteur est débiteur à l'égard de
+l'établissement habilité d'une somme au moins égale à deux échéances de prêt brutes.
+
+" Le bailleur ou l'établissement habilité doit, dans un délai de trois mois après la constitution de l'impayé défini à
+l'alinéa précédent, porter la situation du bénéficiaire défaillant à la connaissance de la section des aides publiques au
+logement du conseil départemental de l'habitat et justifier qu'il poursuit par tous les moyens le recouvrement de sa créance.
+
+" Compte tenu de la situation sociale du bénéficiaire, la section décide soit de suspendre le versement de l'aide
+personnalisée jusqu'à ce que le bénéficiaire défaillant se soit mis à jour de ses obligations, soit de maintenir le versement
+de l'aide personnalisée pendant un délai qu'elle fixe dans la limite d'un maximum prévu par directive du Fonds national de
+l'habitation et à l'issue duquel, à défaut de régularisation, le versement de l'aide personnalisée est suspendu par
+l'organisme payeur.
+
+" Si le bailleur ou l'établissement habilité ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les
+justifications prévues au troisième alinéa, celle-ci est habilitée à décider que le bailleur ou l'établissement habilité
+devra rembourser à l'organisme payeur tout ou partie de l'aide personnalisée versée depuis la défaillance du bénéficiaire.
+
+" Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à
+jour de ses obligations. "
 
 **Liens relatifs à cet article**
 
@@ -47902,7 +48079,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
+  - Décret n°86-982 1986-08-22 art. 5 JORF 26 août 1986
 
 _Cité par_:
 
@@ -47923,26 +48100,61 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
-###### Article R351-31
+###### Article R*351-31
 
-Dans le cas où l'aide personnalisée est versée directement au locataire en application de l'article R. 351-27, à défaut de
-paiement total ou partiel du loyer pendant trois termes mensuels au cours de la période de paiement, le bailleur peut obtenir
-de l'organisme payeur le versement entre ses mains de cette aide aux lieu et place du locataire.
+" I. - Dans le cas où le bénéficiaire perçoit directement l'aide personnalisée en application de l'article R. 351-27 et qu'il
+se trouve en situation d'impayé au sens de l'article R. 351-30, le bailleur peut obtenir de l'organisme payeur le versement
+entre ses mains de cette aide au lieu et place du bénéficiaire.
 
-La demande du bailleur n'est recevable que si elle est formulée auprès de l'organisme payeur deux mois au plus tard après le
-troisième terme non payé. En cas de recevabilité de la demande, l'organisme payeur informe le locataire de la démarche du
-bailleur et l'invite à s'acquitter des sommes dues dans le délai d'un mois, par lettre recommandée avec demande d'avis de
-réception.
+" La demande du bailleur n'est recevable que si elle est formulée auprès de l'organisme payeur trois mois au plus tard après
+la constitution de l'impayé.
 
-Si à l'expiration de ce délai, le locataire n'a pas soldé sa dette, l'organisme payeur sert au bailleur les mensualités
-d'aide personnalisée afférentes aux termes totalement ou partiellement impayés par le bénéficiaire. Chacune de ces
-mensualités est, en priorité, affectée à l'extinction de la dette du bénéficiaire afférente au terme auquel elle correspond.
+" En cas de recevabilité de la demande, l'organisme payeur en informe le bénéficiaire et lui notifie son intention de
+procéder au versement au bailleur des mensualités d'aide personnalisée, sauf si l'intéressé justifie par tous moyens avoir
+soldé sa dette de loyer avant l'expiration d'un délai d'un mois à compter de cette notification.
 
-Les mensualités déjà payées au bénéficiaire afférentes à ces termes sont recouvrées par l'organisme payeur.
+" Le versement de l'aide personnalisée est effectué entre les mains du bailleur à compter de l'expiration du délai d'un mois.
+En outre, il est versé au bailleur la mensualité d'aide personnalisée correspondant à ce délai d'un mois.
 
-Le versement de l'aide personnalisée est effectué entre les mains du bailleur jusqu'à la reprise intégrale des paiements par
-le locataire et l'apurement des créances anciennes, et au plus tard jusqu'à la fin de la période de paiement au cours de
-laquelle ledit bailleur a fait opposition.
+" Sur présentation par le bailleur, dans un délai de trois mois à compter de sa demande, d'un plan d'apurement signé du
+bénéficiaire et prévoyant les conditions de régularisation des échéances impayées et les modalités de versement de loyer,
+l'organisme payeur peut décider de poursuivre le versement de l'aide personnalisée entre les mains du bailleur pendant la
+durée de ce plan et dans la limite de vingt-quatre mois. S'il le demande, sont également versées au bailleur les mensualités
+d'aide personnalisée correspondant aux échéances impayées antérieures à la suspension du versement au bénéficiaire dans la
+limite de deux mensualités. La récupération de ces mensualités est effectuée par retenue sur les mensualités d'aide
+personnalisée versées au bailleur pendant la durée du plan d'apurement.
+
+" A défaut de la production du plan d'apurement dans le délai de trois mois à compter de la demande, le versement de l'aide
+personnalisée au bailleur est suspendu.
+
+" L'exécution régulière du plan d'apurement est vérifiée tous les douze mois par l'organisme payeur. Si ce plan n'est pas
+respecté, l'organisme peut décider, le cas échéant après enquête sociale, de suspendre le versement de l'aide personnalisée
+au bailleur ou d'y mettre fin.
+
+" II. - Au terme de la durée de versement de l'aide personnalisée au bailleur, le versement de l'aide au bénéficiaire est
+repris si celui-ci est à jour vis-à-vis de son bailleur. Toutefois, le conseil d'administration de l'organisme payeur peut
+décider, sur demande du bailleur et du bénéficiaire, après enquête sociale, de reconduire, pour une période de douze mois, le
+versement de l'aide personnalisée entre les mains du bailleur.
+
+" Lorsque la dette initiale ayant justifié la demande du bailleur prévue au I ci-dessus a été apurée mais qu'une nouvelle
+dette est apparue, le conseil d'administration peut décider, sur demande du bailleur, de reconduire pour une période de douze
+mois le versement de l'aide personnalisée entre les mains du bailleur, sous réserve de la production d'un plan d'apurement
+répondant aux conditions fixées au I ci-dessus (5e alinéa).
+
+" Lorsque la dette de loyer initiale n'a pas été apurée, il est mis fin au versement de l'aide personnalisée.
+
+" III. - Lorsque le bailleur n'a pas respecté le délai prévu au I (2e alinéa) ci-dessus, le conseil d'administration de
+l'organisme payeur peut, à titre exceptionnel, décider le versement entre les mains du bailleur des mensualités d'aide
+personnalisée à échoir.
+
+" Il notifie au bénéficiaire son intention de procéder à ce versement, sauf si l'intéressé justifie par tous moyens avoir
+soldé sa dette de loyer avant l'expiration d'un délai d'un mois à compter de cette notification.
+
+" Pour que l'aide personnalisée puisse être versée au bailleur, un plan d'apurement de la dette doit être présenté à
+l'organisme payeur dans les conditions prévues au I ci-dessus (5e alinéa).
+
+" Le versement de l'aide personnalisée est effectué entre les mains du bailleur et dans la limite de vingt-quatre mois à
+compter du premier jour du mois civil suivant l'expiration du délai prévu au III (2e alinéa). "
 
 **Liens relatifs à cet article**
 
@@ -47953,6 +48165,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 6 JORF 26 août 1986
 
 _Cité par_:
 
@@ -47966,8 +48182,6 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. R351-27 (M)
 
-
-##### Sous-section 7 : Dispositions diverses.<a id=437></a>
 
 ##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=438></a>
 
@@ -48029,6 +48243,51 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-62 (M)
 
 
+###### Article R351-64
+
+Lorsque le bénéficiaire ne règle pas la part de dépense de logement restant à sa charge, son cas est soumis à la section des
+aides publiques au logement du conseil départemental de l'habitat par le gestionnaire percevant l'aide personnalisée pour son
+compte.
+
+L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit lorsque le résident est
+débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de la redevance.
+
+Le gestionnaire doit, dans un délai de trois mois aprés la constitution de l'impayé défini à l'alinéa précédent, porter la
+situation du bénéficiaire défaillant à la connaissance de la section des aides publiques publiques au logement du conseil
+départemental de l'habitat et justifier qu'il poursuit par tous les moyens de recouvrement de sa créance.
+
+Compte tenu de la situation sociale du bénéficiaire, la section décide soit de suspendre le versement de l'aide personnalisée
+jusqu'à ce que le bénéficiaire défaillant se soit mis à jour de ses obligations, soit de maintenir le versement de l'aide
+personnalisée pendant un délai qu'elle fixe dans la limite d'un maximum prévu par directive du fonds national de l'habitation
+et à l'issue duquel, à défaut de régularisation, le versement de l'aide personnalisée est suspendu par l'organisme payeur.
+
+Si le gestionnaire ne saisit pas la section dans les délais susmentionnés ou n'apporte pas les justifications prévues au
+troisième alinéa, celle-ci est habilitée à décider que le gestionnair devra rembourser à l'organisme payeur tout ou partie de
+l'aide personnalisée versée depuis la défaillance du bénéficiaire.
+
+Les organismes payeurs saisissent la section des cas dont ils ont connaissance dans lesquels le bénéficiaire n'est pas à jour
+de ses obligations.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 10 JORF 26 août 1986
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
+  - Code de la construction et de l'habitation. - art. Annexe 2 au III art R353-159 (V)
+
+
 ##### Section 2 : Fonds national de l'habitation<a id=439></a>
 
 ##### Sous-section 4 : Dispositions transitoires.<a id=440></a>
@@ -48059,11 +48318,47 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-### Titre V : Aide personnalisée au logement.<a id=441></a>
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=441></a>
 
-#### Chapitre Ier : Dispositions générales.<a id=442></a>
+###### Article R*351-48
 
-##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=443></a>
+" La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le commissaire de la
+République.
+
+" Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du chef du service régional du
+travail, de l'emploi et de la politique sociale agricoles compétent, du directeur régional des affaires sanitaires et
+sociales compétent, du directeur départemental des affaires sanitaires et sociales, du président du conseil d'administration
+de la caisse d'allocations familiales concernée, du président du conseil d'administration de la caisse de mutualité sociale
+agricole compétente ou de leurs représentants respectifs et de deux représentants des usagers désignés par le commissaire de
+la République sur proposition des organisations les plus représentatives au niveau du département. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-813 1977-07-18 art. 2
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 8 JORF 26 août 1986
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-37 (M)
+  - Code de la construction et de l'habitation. - art. R362-10 (M)
+  - Code de la construction et de l'habitation. - art. R362-19 (M)
+  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
+
+
+### Titre V : Aide personnalisée au logement.<a id=442></a>
+
+#### Chapitre Ier : Dispositions générales.<a id=443></a>
+
+##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=444></a>
 
 ###### Article R351-1
 
@@ -48122,15 +48417,16 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R822-1 (V)
 
 
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=444></a>
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=445></a>
 
 ###### Article R351-5
 
-Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coefficient de prise
-en charge, tels que définis à l'article R. 351-19, sont celles perçues pendant l'année civile précédent la période prévue par
-l'article R. 351-4 par le bénéficiaire, son conjoint et les personnes vivant habituellement au foyer. Sont considérées comme
-vivant habituellement au foyer les personnes y ayant résidé plus de six mois au cours de ladite année civile et qui y
-résident encore au moment de la demande ou au début de la période de paiement.
+Les ressources servant à déterminer le loyer minimum qui doit rester à la charge du bénéficiaire et le coéfficient de prise
+en charge, tels que définis à l'article R. 351-19, sont celles percues pendant l'année civile précédant la période prévue par
+l'article R.351-4 par le bénéficiaire son conjoint et les personnes vivant habituellement au foyer, sauf dans les cas
+mentionnés à l'article R. 351-7-2. Sont considérées comme vivant habituellement au foyer les personnes y ayant résidé plus de
+six mois au cours de ladite année civile et qui y résident encore au moment de la demande ou au début de la période de
+paiement.
 
 Ces ressources s'entendent du revenu net imposable de l'année civile de référence susmentionnée, abstraction faite des
 déductions opérées en vertu de l'article 156-I du code général des impôts au titre des reports des déficits constatés au
@@ -48200,16 +48496,16 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 11 septies (Ab)
   - TXT_SOURCE: Arrêté du 14 août 1987 - art. 8 (Ab)
 
-_Modifié par_:
-
-  - Décret n°85-932 1985-08-30 art. 6 JORF 3 septembre 1985
-
 _Cite_:
 
-  - CGI 156-1
+  - CGI 156-I
   - Code de la famille et de l'aide sociale. - art. 169 (M)
   - Code de la sécurité sociale L688
-  - Code de la construction et de l'habitation. - art. R351-4 (M)
+  - Code de la construction et de l'habitation R351-19, R351-7-2
+
+_Modifié par_:
+
+  - Décret n°86-982 1986-08-22 art. 1 JORF 26 août 1986
 
 _Nouveaux textes_:
 
@@ -48374,49 +48670,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-7 (M)
 
 
-###### Article R351-9
-
-L'aide personnalisée est attribuée sur demande de l'intéressé, conforme à un modèle type, introduite auprès de l'organisme
-payeur défini à l'article R. 351-26.
-
-La demande doit être assortie de justifications définies par arrêté conjoint des ministres chargés des finances, de la
-construction et de l'habitation, de l'agriculture et de la sécurité sociale.
-
-Le même arrêté précise celles de ces justifications qui doivent être produites chaque année. En cas de non-présentation des
-justifications avant la date fixée par ledit arrêté, le paiement de l'aide personnalisée est suspendu.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-784 1977-07-13 art. 9
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Créé par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 22 août 1986
-  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 22 août 1986 - art. 4 (V)
-
-_Cité par_:
-
-  - Arrêté du 22 août 1986 - art. 2 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R351-26 (M)
-
-
-##### Sous-section 3 : Conditions particulières.<a id=445></a>
+##### Sous-section 3 : Conditions particulières.<a id=446></a>
 
 ###### Article R351-10
 
@@ -48602,7 +48856,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R822-15 (V)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement.<a id=446></a>
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement.<a id=447></a>
 
 ###### Article R351-19
 
@@ -48668,57 +48922,6 @@ _Modifié par_:
   - Décret n°85-932 1985-08-30 art. 10 JORF 3 septembre 1985
 
 
-###### Article R351-21
-
-Le loyer minimum Lo est obtenu par l'application de pourcentages à des tranches de ressources dont les limites inférieures et
-supérieures sont affectées du coefficient N prévu à l'article R. 351-19.
-
-Les pourcentages et les tranches de ressources sont fixés par arrêté conjoint des ministres chargés de la sécurité sociale,
-du budget, de l'agriculture et du logement en distinguant :
-
-- les logements construits, ou agrandis, ou aménagés à partir de locaux non destinés à l'habitation, ou acquis et améliorés,
-occupés par leur propriétaire ;
-
-- les logements existants améliorés et occupés par leur propriétaire et les logements locatifs.
-
-Dans le second cas, le loyer minimum ainsi obtenu est majoré d'un montant égal au produit d'une valeur numérique fixée par
-arrêté conjoint des ministres chargés de la sécurité sociale, du budget, de l'agriculture et du logement et du coefficient N
-prévu à l'article R. 351-19.
-
-Le résultat est divisé par douze et arrondi au franc immédiatement inférieur.
-
-Pour l'application du présent article, les ressources sont arrondies dans les conditions prévues à l'article R. 351-19.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-784 1977-07-13 art. 17
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cité par_:
-
-  - Arrêté du 3 juillet 1978 - art. 10 (Ab)
-  - Arrêté du 30 juin 1979 - art. 4 (M)
-  - Code de la construction et de l'habitation. - art. R351-18 (V)
-
-**Liens**:
-
-  - TXT_SOURCE: Arrêté du 3 juillet 1978 - art. 10 (M)
-  - TXT_SOURCE: Arrêté du 30 juin 1979 - art. 4 (M)
-
-_Modifié par_:
-
-  - Décret n°85-932 1985-08-30 art. 11 JORF 3 septembre 1985
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R351-19 (M)
-
-
 ###### Article R351-21-1
 
 A compter du 1er octobre 1982, la dépense nette de logement, obtenue en déduisant de la somme du loyer principal pris en
@@ -48752,7 +48955,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-19 (M)
 
 
-##### Sous-section 5 : Prime de déménagement.<a id=447></a>
+##### Sous-section 5 : Prime de déménagement.<a id=448></a>
 
 ###### Article R351-23
 
@@ -48779,93 +48982,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R351-22 (M)
-
-
-##### Section 3 : Commission départementale de l'aide personnalisée.<a id=448></a>
-
-###### Article R351-48
-
-La section des aides publiques au logement du conseil départemental de l'habitat est présidée par le préfet.
-
-Elle est composée du trésorier-payeur général, du directeur départemental de l'équipement, du directeur régional du travail
-et de la protection sociale agricoles compétent, du directeur régional de la sécurité sociale compétent, du président du
-conseil d'administration de la caisse d'allocations familiales concernée, du président du conseil d'administration de la
-caisse de mutualité sociale agricole compétente ou de leurs représentants respectifs et de deux représentants des usagers
-désignés par le préfet sur proposition des organisations les plus représentatives au niveau du département.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-813 1977-07-18 art. 2
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R351-37 (M)
-  - Code de la construction et de l'habitation. - art. R362-10 (M)
-  - Code de la construction et de l'habitation. - art. R362-19 (M)
-  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-49
-
-Les décisions prises en matière d'aide personnalisée au logement par les organismes payeurs sont notifiées à la personne
-intéressée.
-
-Cette notification comporte la mention du délai dans lequel elles peuvent faire l'objet d'un recours gracieux ainsi que la
-désignation et l'adresse du secrétariat de la section des aides publiques au logement du conseil départemental de l'habitat
-compétente. Elle précise en outre la forme que doit revêtir ce recours et le délai au terme duquel celui-ci est rejeté
-tacitement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-813 1977-07-18 art. 3
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R351-47 (VT)
-  - Code de la construction et de l'habitation. - art. R351-50 (M)
-  - Code de la construction et de l'habitation. - art. R351-52 (M)
-  - Code de la construction et de l'habitation. - art. R362-19 (M)
-  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-
-
-###### Article R351-52
-
-La section des aides publiques au logement du conseil départemental de l'habitat ne délibère valablement, en matière de
-recours gracieux, que si quatre membres, dont le président, sont présents.
-
-La décision est prise à la majorité des voix ; en cas de partage des voix, celle du président est prépondérante.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-813 1977-07-18 art. 6
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R351-49 (VT)
-  - Code de la construction et de l'habitation. - art. R362-19 (M)
-  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
 ##### Dispositions particulières aux logements-foyers<a id=449></a>
@@ -48966,36 +49082,6 @@ _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. R351-62-2 (M)
   - Code de la construction et de l'habitation. - art. R351-62-2 (V)
-
-
-###### Article R351-64
-
-Lorsque le bénéficiaire ne règle pas la part de la redevance mensuelle restant à sa charge pendant deux mois consécutifs, le
-gestionnaire est tenu d'en informer l'organisme payeur dans les quinze jours qui suivent la seconde échéance impayée, en
-apportant la preuve des moyens mis en oeuvre pour le recouvrement de la créance. La validité des preuves produites doit être
-appréciée par la section des aides publiques au logement du conseil départemental de l'habitat.
-
-Si cette commission n'admet pas la validité des preuves produites par le gestionnaire, le paiement de l'aide personnalisée
-est suspendu à compter du premier jour du mois suivant l'émission de l'avis.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°84-702 1984-06-30 ART. 4 JORF 24 JUILLET 1984
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°84-702 1984-06-30 ART. 6 : *les dispositions du présent décret ne sont pas applicables dans les départements d'outre-mer*
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (V)
-  - Code de la construction et de l'habitation. - art. Annexe 2 au III art R353-159 (V)
 
 
 ### Titre VI : Organismes consultatifs.<a id=451></a>
