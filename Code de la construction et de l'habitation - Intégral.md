@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-02-09
+Version Consolidée au 2000-05-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -441,7 +441,7 @@ Version Consolidée au 2000-02-09
         - [Chapitre Ier : Dispositions générales (art. R351-1 à R351-66)](#438)
           - [Section 1 : Aide personnalisée. (art. R351-1 à R351-29)](#439)
             - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1)](#440)
-            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R*351-7-2 à R351-8)](#441)
+            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R*351-7-2 à R351-7-1)](#441)
             - [Sous-section 3 : Conditions particulières. (art. R351-11 à R351-16)](#442)
             - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-17-4 à R351-22-2)](#443)
               - [PARAGRAPHE I : Dispositions relatives aux locataires. (art. R351-17-4 à R351-17-5)](#444)
@@ -53244,56 +53244,6 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-18 (M)
 
 
-###### Article R351-8
-
-Sont considérés comme personnes à charge au sens des titres III à V du présent livre, sous réserve qu'ils vivent
-habituellement au foyer :
-
-1° Les enfants ouvrant droit aux prestations familiales et ceux qui, bien que n'ouvrant pas droit à ces prestations, doivent
-être considérés comme étant à charge au sens des articles L. 512-3 et L. 513-1 du code de la sécurité sociale ;
-
-2° a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins soixante-cinq ans ou de soixante ans en cas
-d'inaptitude au travail et dont les ressources déterminées dans les conditions prévues à l'article R. 351-5 n'excèdent pas le
-plafond individuel prévu à l'article L. 815-8 du code de la sécurité sociale en vigueur au 31 décembre de l'année de
-référence ;
-
-b) Les ascendants, descendants ou collatéraux au deuxième ou au troisième degré du bénéficiaire ou de son conjoint qui sont
-atteints d'une infirmité entraînant une incapacité permanente au moins égale à un pourcentage fixé par décret ou qui sont,
-compte tenu de leur handicap, dans l'impossibilité reconnue par la commission technique d'orientation et de reclassement
-professionnel, prévue par l'article L. 323-11 du code du travail, de se procurer un emploi et dont les ressources déterminées
-dans les conditions prévues à l'article R. 351-5 n'excèdent pas le plafond individuel prévu à l'article L. 815-8 du code de
-la sécurité sociale en vigueur au 31 décembre de l'année de référence.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°91-1178 du 18 novembre 1991 - art. 3 () JORF 20 novembre 1991
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000
-  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000 - art. 2 (V)
-
-_Cite_:
-
-  - Code du travail - art. L323-11 (M)
-  - Code de la sécurité sociale. - art. L512-3 (M)
-  - Code de la sécurité sociale. - art. L513-1 (V)
-  - Code de la sécurité sociale. - art. L815-8 (M)
-  - Code de la construction et de l'habitation. - art. R351-5 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R351-1 (M)
-  - Code de la construction et de l'habitation. - art. R351-16 (V)
-  - Code de la construction et de l'habitation. - art. R351-29 (V)
-
-
 ##### Sous-section 3 : Conditions particulières.<a id=442></a>
 
 ###### Article R351-11
@@ -54084,6 +54034,64 @@ _Cité par_:
 _Modifié par_:
 
   - Décret n°88-516 1988-05-03 art. 2 1. JORF 6 mai 1988 en vigueur le 1er juillet 1988
+
+
+###### Article R351-8
+
+Sont considérés comme personnes à charge au sens des titres III à V du présent livre, sous réserve qu'ils vivent
+habituellement au foyer :
+
+1° Les enfants ouvrant droit aux prestations familiales et ceux qui, bien que n'ouvrant pas droit à ces prestations, doivent
+être considérés comme à charge au sens des 1° et 2° de l'article L. 512-3 et de l'article L. 513-1 du code de la sécurité
+sociale et ont un âge inférieur à l'âge limite fixé au premier alinéa de l'article D. 542-4 du code de la sécurité sociale en
+application du dernier alinéa de l'article L. 512-3 du même code ;
+
+2° a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins soixante-cinq ans ou de soixante ans en cas
+d'inaptitude au travail et dont les ressources déterminées dans les conditions prévues à l'article R. 351-5 n'excèdent pas le
+plafond individuel prévu à l'article L. 815-8 du code de la sécurité sociale en vigueur au 31 décembre de l'année de
+référence ;
+
+b) Les ascendants, descendants ou collatéraux au deuxième ou au troisième degré du bénéficiaire ou de son conjoint qui sont
+atteints d'une infirmité entraînant une incapacité permanente au moins égale à un pourcentage fixé par décret ou qui sont,
+compte tenu de leur handicap, dans l'impossibilité reconnue par la commission technique d'orientation et de reclassement
+professionnel, prévue par l'article L. 323-11 du code du travail, de se procurer un emploi et dont les ressources déterminées
+dans les conditions prévues à l'article R. 351-5 n'excèdent pas le plafond individuel prévu à l'article L. 815-8 du code de
+la sécurité sociale en vigueur au 31 décembre de l'année de référence.
+
+**Nota:**
+
+[*NOTA : Décret 2000-395 2000-05-09 art. 2 : les dispositions de l'article 1er sont applicables à compter du 1er janvier
+2000, pour les enfants nés à compter du 1er janvier 1980.*]
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°2000-395 du 9 mai 2000 - art. 1 () JORF 11 mai 2000
+
+**Liens**:
+
+  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000
+  - TXT_SOURCE: Décret n°2000-395 du 9 mai 2000 - art. 2 (V)
+
+_Cite_:
+
+  - Code du travail - art. L323-11 (M)
+  - Code de la sécurité sociale. - art. D542-4 (M)
+  - Code de la sécurité sociale. - art. L512-3 (M)
+  - Code de la sécurité sociale. - art. L513-1 (V)
+  - Code de la sécurité sociale. - art. L815-8 (M)
+  - Code de la construction et de l'habitation
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-1 (M)
+  - Code de la construction et de l'habitation. - art. R351-16 (V)
+  - Code de la construction et de l'habitation. - art. R351-29 (V)
 
 
 ###### Article R351-9
