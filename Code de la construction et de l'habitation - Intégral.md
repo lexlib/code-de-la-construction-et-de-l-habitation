@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-10-26
+Version Consolidée au 1991-11-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -37934,7 +37934,7 @@ _Nouveaux textes_:
 
 ###### Article R323-6
 
-Pour déterminer le montant de la subvention, le montant des travaux pris en considération ne peut excéder 70 000 F par
+Pour déterminer le montant de la subvention, le montant des travaux pris en considération ne peut excéder 85 000 F par
 logement. Toutefois, le représentant de l'Etat dans le département peut accorder des dérogations à ce montant de travaux pour
 des opérations réalisées sur des immeubles dégradés et pour des opérations de restructuration interne des immeubles ou de
 reprise de l'architecture extérieure.
@@ -37955,20 +37955,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
+  - Décret n°91-1136 du 30 octobre 1991 - art. 1 () JORF 1 novembre 1991
 
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. D323-6, v. 0.1 (VD)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. R323-2 (M)
 
 _Cité par_:
 
