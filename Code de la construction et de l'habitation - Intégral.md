@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-15
+Version Consolidée au 1983-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -37514,9 +37514,12 @@ _Cite_:
 
 ###### Article R331-65
 
-Les banques ou établissements qui ont passé avec l'Etat ou avec le Crédit foncier de France agissant pour le compte de
+Les banques ou établissements qui ont passé avec l'Etat ou avec le Crédit Foncier de France agissant pour le compte de
 l'Etat, une convention conforme à une convention-type, approuvée par arrêté du ministre chargé des finances et reproduite en
 annexe au présent code, sont habilités à consentir des prêts conventionnés.
+
+La Caisse nationale d'épargne est également habilitée à consentir des prêts conventionnés dans des conditions conformes à
+celles fixées par la convention type mentionnée à l'alinéa précédent.
 
 **Liens relatifs à cet article**
 
@@ -37538,7 +37541,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 **Liens**:
 
