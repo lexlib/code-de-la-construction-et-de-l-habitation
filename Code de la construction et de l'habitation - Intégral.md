@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-05-23
+Version Consolidée au 1985-06-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -33310,8 +33310,18 @@ Dans des logements ayant donné lieu depuis moins de dix ans à l'attribution de
 février 1972, par la présente section et par la section I du chapitre IV du titre II du livre III du code de la construction
 et de l'habitation, seuls les travaux qui n'ont pas fait l'objet des aides susvisées peuvent bénéficier de la prime.
 
-Le montant cumulé des aides ne doit pas excéder le plafond mentionné à l'article R. 322-8 et en vigueur au moment de la
-dernière demande.
+Le montant cumulé des aides ne doit pas excéder le plafond spécifique à chacune d'elles mentionné à l'article R. 322-8 et en
+vigueur au moment de la dernière demande. Toutefois cette disposition n'est pas applicable aux travaux réalisés dans des
+logements occupés par des personnes handicapées physiques et tendant à adopter ces logements à leurs besoins.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -33329,9 +33339,17 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+  - Décret n°85-592 1985-06-05 art. 1 JORF 12 juin 1985
+
+_Abrogé par_:
+
+  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
 ###### Article R322-8
@@ -33547,7 +33565,7 @@ Sous peine d'annulation de la décision d'octroi de prime et de remboursement de
 
 Le logement pour lequel la prime est accordée doit être occupé dans les conditions fixées aux articles R. 322-1 et R. 322-2,
 dans le délai maximum d'un an qui suit la date de versement du solde de la prime et pendant une durée de dix ans à compter de
-la date de notification de la décision d'octroi de prime ;
+la date de notification de la décision d'octroi de prime.
 
 Le bénéficiaire de la prime doit pouvoir justifier, à toute réquisition, que le logement ayant fait l'objet de la prime est
 régulièrement occupé.
@@ -33555,8 +33573,17 @@ régulièrement occupé.
 Le délai de un an est porté à trois ans lorsque le logement est destiné à être occupé personnellement par le bénéficiaire de
 la prime dès son retour d'un département ou territoire d'outre-mer ou de l'étranger.
 
-Le délai de un an est porté à cinq ans lorsque le logement est destiné à être occupé personnellement par le bénéficiaire de
-la prime dès sa mise à la retraite.
+Le délai d'un an est porté à six ans lorsque le logement est destiné à être occupé personnellement par le bénéficiaire de la
+prime dès sa mise à la retraite par limite d'âge ou pour des motifs économiques.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -33570,7 +33597,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+  - Décret n°85-592 1985-06-05 art. 2 JORF 18 juin 1985
+
+_Abrogé par_:
+
+  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 _Cite_:
 
@@ -33678,14 +33713,23 @@ _Cité par_:
 Par dérogation à l'article R. 322-15 (b), l'autorisation de louer avec maintien du bénéfice de la prime peut être donnée par
 l'autorité qui l'a délivrée :
 
-Soit au maximum pour la période de trois ou cinq années qui s'écoule entre la date du versement du solde de la prime et celle
-de l'occupation régulière par le bénéficiaire après sa mise à la retraite ou son retour d'un département d'outre-mer ou de
-l'étranger ;
+- soit lorsque la cessation d'occupation du logement, dûment motivée par des raisons professionnelles ou familiales, est
+limitée à une durée de trois ans. Cette durée peut être prolongée de trois ans ;
 
-Soit lorsque la cessation d'occupation du logement, dûment motivée par des raisons professionnelles, est limitée à une durée
-de trois ans. Cette durée peut être prolongée de trois ans.
+- soit au maximum pour la période de trois ou six années qui s'écoule entre la date du versement du solde de la prime et
+celle de l'occupation régulière par le bénéficiaire après sa mise à la retraite par limite d'âge ou pour des motifs
+économiques ou son retour d'un département d'outre-mer ou de l'étranger ;
 
-Les logements doivent alors être loués dans les conditions fixées par l'article R. 331-41 (2.), alinéa 2, du présent code.
+Les logements doivent être loués dans les conditions fixées par l'article R. 331-41 (1° et 2°) du présent code.
+
+**Nota:**
+
+NOTA : Décret 2001-351 2001-04-20 art. 3 : La section I du chapitre II du titre II du livre III du code de la construction et
+de l'habitation (partie Réglementaire) sont abrogés. Cette abrogation prend effet à compter de la date de publication de
+l'arrêté interministériel approuvant le règlement général de l'Agence nationale pour l'amélioration de l'habitat.
+
+Toutefois, les décisions d'octroi de prime ou de subvention intervenues en application de ces dispositions avant la prise
+d'effet de leur abrogation restent régies par les dispositions alors en vigueur.
 
 **Liens relatifs à cet article**
 
@@ -33699,12 +33743,19 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°79-977 1979-11-20 ART. 1 JORF 22 NOVEMBRE 1979
+  - Décret n°85-592 1985-06-05 art. 3 JORF 12 juin 1985
+
+_Abrogé par_:
+
+  - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R322-15 (M)
-  - Code de la construction et de l'habitation. - art. R331-41 (M)
+  - Code de la construction et de l'habitation R322-15 b, R331-41 (1 et 2)
 
 
 ###### Article R322-17
@@ -36647,7 +36698,7 @@ anonymes d'habitations à loyer modéré ;
 rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités
 publiques ;
 
-3. D'autres personnes morales ou physiques, lorsqu'elles contribuent au financement de l'opération par un apport en capital
+3. Des personnes morales ou physiques, lorsqu'elles contribuent au financement de l'opération par un financement propre
 minimum fixé par arrêté des ministres chargés de la construction et de l'habitation et des finances, et qu'elles s'engagent à
 assurer elles-mêmes la gestion de ces logements ou à la confier à des personnes ou organismes agréés par arrêté du ministre
 chargé de la construction et de l'habitation.
@@ -36656,14 +36707,6 @@ L'octroi de ces prêts est subordonné à la passation par le demandeur d'une co
 353-13 et portant sur l'ensemble des logements financés par les prêts prévus à l'article R. 331-1.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-934 1977-07-27 art. 8
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 _Cité par_:
 
@@ -36681,14 +36724,31 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R391-1 (T)
   - Code de la construction et de l'habitation. - art. R391-5 (T)
 
-_Cite_:
+**Liens**:
 
-  - Code de la construction et de l'habitation R331-1, L353-1 à L353-13
-  - Code de la construction et de l'habitation. - art. R331-1 (M)
+  - TXT_ASSOCIE: Code de la construction R331-26
+
+_Anciens textes_:
+
+  - Décret n°77-934 1977-07-27 art. 8
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°85-593 1985-06-05 art. 1 JORF 12 juin 1985
 
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. D331-8, v. 0.2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L353-1 (V)
+  - Code de la construction et de l'habitation. - art. L353-13 (V)
+  - Code de la construction et de l'habitation. - art. R331-1 (M)
 
 
 ###### Article R331-9
@@ -37293,19 +37353,15 @@ _Cite_:
 
 ###### Article R331-21
 
-1. Le montant des prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte ne peut, dans
-la limite du prix de revient réel, dépasser 95 p. 100 du prix de référence de l'opération défini à l'article R. 331-18 majoré
-du dépassement éventuel pour opération expérimentale, dans la limite d'un plafond, et des révisions de prix correspondant à
-une durée forfaitaire d'exécution des travaux définie à compter de la décision favorable. Les autres dépassements autorisés
-ne sont pas financés par les prêts prévus à l'article R. 331-1 ;
+1. Le montant des prêts accordés par la caisse de prêts aux organismes d'habitations à loyer modéré et aux sociétés
+d'économie mixte ne peut, dans la limite du prix de revient réel, dépasser 95 p. 100 du prix de référence de l'opération
+défini à l'article R. 331-18 majoré du dépassement éventuel pour opération expérimentale, dans la limite d'un plafond, et des
+révisions de prix correspondant à une durée forfaitaire d'exécution des travaux définie à compter de la décision favorable.
+Les autres dépassements autorisés ne sont pas financés par les prêts prévus à l'article R. 331-1 ;
 
-2. Le montant des prêts accordés aux sociétés filiales d'organismes collecteurs de la participation des employeurs à l'effort
-de construction ne peut, dans la limite du prix de revient réel, dépasser 65 p. 100 du prix de référence de l'opération
-défini à l'article R. 331-18 majoré, le cas échéant, conformément aux dispositions du 1. du présent article ;
-
-3. Le montant des prêts accordés aux autres bénéficiaires mentionnés à l'article R. 331-8 ne peut, dans la limite du prix de
-revient réel, dépasser 55 p. 100 du prix de référence de l'opération défini à l'article R. 331-18, majoré, le cas échéant,
-conformément aux dispositions du 1° du présent article.
+2. Le montant des prêts accordés par le Crédit foncier de France aux bénéficiaires mentionnés à l'article R. 331-8 ne peut,
+dans la limite du prix de revient réel, dépasser 65 p. 100 du prix de référence de l'opération défini à l'article R. 331-18
+majoré, le cas échéant, conformément aux dispositions du 1. du présent article.
 
 Un arrêté des ministres chargés de la construction et de l'habitation et des finances fixe les modalités d'application du
 présent article.
@@ -37318,7 +37374,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°85-593 1985-06-05 art. 2 JORF 12 juin 1985
 
 _Cité par_:
 
@@ -37367,11 +37427,9 @@ _Cite_:
 
 ###### Article R331-22
 
-Les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte sont accordés pour une durée
-de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise d'intérêts de deux ans. Les prêts
-accordés aux sociétés filiales d'organismes collecteurs de la participation des employeurs à l'effort de construction et aux
-autres bénéficiaires mentionnés à l'article R. 331-8 sont accordés pour une durée de vingt-cinq ans avec deux ans de différé
-d'amortissement sans remise d'intérêts. Les délais sont calculés à partir de la date de la signature du contrat.
+1° Les prêts accordés par la caisse de prêts aux aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte
+sont accordés pour une durée de trente-quatre ans avec deux ans de différé d'amortissement et sont assortis d'une remise
+d'intérêts de deux ans. Les délais sont calculés à partir de la date de la signature du contrat.
 
 A compter du 25 octobre 1984,les prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie mixte
 sont à taux révisables.
@@ -37380,6 +37438,20 @@ A compter du 25 octobre 1984, le nombre et la durée des périodes successives d
 périodes et, le cas échéant, les conditions de leur révisabilité, ainsi que le rythme de la progressivité des annuités en
 cours d'amortissement sont, nonobstant les dispositions de l'article R. 331-22-1, fixés par arrêté des ministres chargés de
 la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à leur financement et
+du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
+
+2° Les prêts accordés par le Crédit foncier de France aux bénéficiaires désignés à l'article R. 331-8 sont :
+
+- soit à taux fixe pour une durée de vingt-cinq ans ;
+
+- soit à taux variable pour une durée de trente ans ;
+
+Avec deux ans de différé d'amortissement sans remise d'intérêt.
+
+A compter du 7 juin 1985, le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces
+périodes et, le cas échéant, les conditions de leur révisabilité, ainsi que le rythme de la progressivité des annuités en
+cours d'amortissement sont, nonobstant les dispositions de l'article R. 331-22.1, fixés par arrêté des ministres chargés de
+la construction et de l'habitation et des finances en tenant compte du coût des ressources concourant à leur financement et
 du niveau de l'aide de l'Etat prévue à l'article R. 331-25.
 
 **Liens relatifs à cet article**
@@ -37394,7 +37466,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-952 1984-10-25 ART. 1 JORF 26 OCTOBRE 1984
+  - Décret n°85-593 1985-06-05 art. 3 JORF 12 juin 1985
 
 _Cité par_:
 
@@ -37411,9 +37483,9 @@ _Cite_:
 
 ###### Article R331-22-1
 
-A la suite de la révision des taux de prêts accordés aux organismes d'habitations à loyer modéré et aux sociétés d'économie
-mixte, aucune annuité, à partir de la quatrième, et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p.
-100, ni inférieure à l'annuité précédente.
+A la suite de la révision du taux des prêts à taux révisable définie à l'article R. 331-22, aucune annuité, à partir de la
+quatrième, et à l'exclusion de la dernière, ne peut être supérieure de plus de 8 p. 100, ni inférieure à l'annuité
+précédente.
 
 Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les conditions d'application du
 présent article.
@@ -37424,9 +37496,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°84-952 1984-10-25 ART. 2 JORF 26 OCTOBRE 1984
+  - Décret n°85-593 1985-06-05 art. 4 JORF 12 juin 1985
 
 _Cité par_:
 
