@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-03-09
+Version Consolidée au 1984-04-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -199,7 +199,7 @@ Version Consolidée au 1984-03-09
         - [Chapitre Ier : Protection contre l'incendie - Classification des matériaux. (art. R121-1 à R121-13)](#196)
         - [Chapitre II : Dispositions de sécurité relatives aux immeubles de grande hauteur. (art. R122-1 à R122-29)](#197)
           - [Section 1 : Définitions et classifications. (art. R122-2 à R122-5)](#198)
-          - [Section 2 : Emplacement - Conditions d'utilisation - Principes de sécurité. (art. R122-6 à R122-11)](#199)
+          - [Section 2 : Emplacement - Conditions d'utilisation - Principes de sécurité. (art. R*122-11-1 à R122-11)](#199)
           - [Section 3 : Commission technique interministérielle. (art. R122-12 à R122-13)](#200)
           - [Section 4 : Obligations relatives à l'occupation des locaux. (art. R122-14 à R122-18)](#201)
           - [Section 5 : Mesures de contrôle. (art. R122-19 à R122-29)](#202)
@@ -18376,6 +18376,36 @@ _Cite_:
 
 
 ##### Section 2 : Emplacement - Conditions d'utilisation - Principes de sécurité.<a id=199></a>
+
+###### Article R*122-11-1
+
+L'exécution dans les immeubles visés par le chapitre Ier du décret n° 67-1063 du 15 novembre 1967 de travaux définis par le
+règlement de sécurité et non soumis au permis de construire ne pourra avoir lieu qu'après autorisation du préfet, donnée sur
+avis de la commission consultative départementale de la protection civile.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°67-1063 1967-11-15
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°83-1261 1983-12-30 art. 42 JORF 7 janvier 1984 en vigueur le 1er avril 1984
+
+_Cité par_:
+
+  - Arrêté du 30 décembre 2011 - art. GH 65 (VD)
+  - Décret n°2014-1300 du 23 octobre 2014 - art. (VD)
+
+_Anciens textes_:
+
+  - Code de l'urbanisme - art. R421-51 (MMN)
+
 
 ###### Article R122-6
 
