@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-07-16
+Version Consolidée au 2002-09-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -41458,10 +41458,12 @@ _Cité par_:
 
 ###### Article R*313-3
 
-Les employeurs sont tenus de produire chaque année, au plus tard le 30 avril [*date limite*], une déclaration mentionnant
-notamment, pou l'année écoulée, le montant des sommes à consacrer à la participation, le montant des sommes employées à ce
-titre et les modalités suivant lesquelles cet emploi a été réalisé. Cette déclaration est remise, en double exemplaire, au
-service des impôts chargé de l'établissement éventuel de la cotisation prévue à l'article L. 313-4.
+Les employeurs sont tenus de produire chaque année, au plus tard le 30 avril, une déclaration mentionnant notamment, pour
+l'année écoulée, le montant des sommes à consacrer à la participation, le montant des sommes employées à ce titre et les
+modalités suivant lesquelles cet emploi a été réalisé. Cette déclaration est remise, en double exemplaire, au service des
+impôts du siège de la direction de l'entreprise ou, à défaut, du lieu du principal établissement. Toutefois, s'il s'agit d'un
+employeur passible de l'impôt sur les sociétés, la déclaration est remise au service des impôts du lieu du principal
+établissement.
 
 A la déclaration est annexé un état faisant apparaître la répartition de la participation des employeurs à l'effort de
 construction entre les différents établissements des entreprises.
@@ -41474,7 +41476,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-1022 du 10 novembre 1998 - art. 3 () JORF 13 novembre 1998
+  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
 
 _Cité par_:
 
@@ -41483,94 +41485,95 @@ _Cité par_:
   - Code général des impôts, annexe 2, CGIAN2. - art. 162 (VD)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 (V)
 
-_Cite_:
-
-  - Code de la construction et de l'habitation L313-4, annexe
-  - Code de la construction et de l'habitation. - art. L313-4 (M)
-
 
 ###### Article R*313-5
 
-La cotisation prévue à l'article L. 313-4 est établie et recouvrée dans les conditions et sous les sanctions prévues pour
-l'assiette et le recouvrement de l'impôt sur le revenu frappant les bénéfices industriels et commerciaux d'après le régime du
-bénéfice réel.
+La cotisation prévue à l'article L. 313-4 est recouvrée selon les modalités et sous les sûretés, garanties et sanctions
+applicables aux taxes sur le chiffre d'affaires.
 
 Toutefois, la commission départementale des impôts directs et des taxes sur le chiffre d'affaires prévue à l'article 1651 du
 code général des impôts n'est pas appelée à intervenir dans la procédure de rectification de la déclaration mentionnée à
 l'article R. 313-3.
 
-Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le délai d'un an prévu à l'article L. 313-4. Elle
-est établie sous une cote unique au nom de chaque redevable au siège de la direction des entreprises ou, à défaut, au lieu du
-principal établissement. Toutefois, s'il s'agit d'un employeur passible de l'impôt sur les sociétés, la cotisation est
-établie au siège du principal établissement.
+Cette cotisation est due au titre de l'année à la fin de laquelle a expiré le délai d'un an prévu à l'article L. 313-4. Le
+versement de la cotisation doit accompagner le dépôt de la déclaration prévue à l'article R. 313-3.
 
-Les dispositions de l'article 1966 du code général des impôts sont applicables pour l'établissement de cette cotisation. La
-cotisation est immédiatement exigible.
-
-Les réclamations sont présentées, instruites et jugées comme en matière d'impôts directs et de taxes assimilées après avis du
+Les réclamations sont présentées, instruites et jugées comme en matière de taxes sur le chiffre d'affaires après avis du
 directeur départemental de l'équipement.
 
-La procédure pour la présentation, l'instruction et le jugement des réclamations concernant une cotisation est celle relative
-à l'impôt sur le revenu.
-
-Les agents chargés des vérifications prévues à l'article L. 313-6 doivent avoir au moins le grade d'inspecteur-adjoint ou de
-contrôleur pour ceux du ministère chargé des finances et être de grade équivalent pour ceux du ministère chargé de la
-construction et de l'habitation.
+Les agents chargés des vérifications prévues à l'article L. 313-6 doivent avoir au moins le grade de contrôleur pour ceux du
+ministère chargé des finances et être de grade équivalent pour ceux du ministère chargé de la construction et de
+l'habitation.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 1651, 1966
+  - CGI 1651
   - Code de la construction et de l'habitation L313-4, R313-3, L313-6
   - Code de la construction et de l'habitation. - art. L313-4 (M)
   - Code de la construction et de l'habitation. - art. L313-6 (M)
 
 _Anciens textes_:
 
-  - Décret n°75-1269 1975-12-27 art. 4 al. 1 à al. 5
-  - Code de l'urbanisme 275 al. 1, al. 2
+  - Décret n°75-1269 1975-12-27 art. 4 al. 1 à 5
+  - Code de l'urbanisme 275 al. 1 et 2 (pour partie)
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-721 du 9 mai 2012 - art. 1
 
 _Cité par_:
 
   - CODE GENERAL DES IMPOTS ANNEXE 2, CGIAN2. - art. 162 (V)
 
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. R313-3 (V)
+
 
 ###### Article R*313-6
 
-En cas de cession ou de cessation d'entreprise, la cotisation due à raison de la fraction des sommes non encore employées
-afférentes aux salaires versés au cours de l'année de cession ou de cessation et de l'année précédente est immédiatement
-établie au taux prévu à l'article L. 313-4 du présent code.
-
-Dans ce cas, la déclaration prévue à l'article R. 313-3 est annexée à la déclaration souscrite en application des articles
-201, 202 ou 221-2 du code général des impôts.
+En cas de cession, de cessation, de redressement ou de liquidation judiciaire de l'entreprise, les déclarations afférentes à
+l'année en cours et à l'année précédente doivent être souscrites dans les soixante jours de la cession, de la cessation ou du
+jugement.
 
 Toutefois, le nouvel exploitant peut prendre à sa charge l'obligation incombant à l'ancien exploitant. L'engagement est
 annexé à la déclaration prévue à l'article R. 313-3.
 
 Les dispositions ci-dessus sont également applicables en cas de décès de l'employeur. Dans ce cas, la déclaration est
-souscrite par les ayants droit du défunt dans le délai prévu à l'article 201-4 du code général des impôts. Elle est
-accompagnée, s'il y a lieu, de l'engagement du nouvel exploitant.
+souscrite par les ayants droit du défunt dans les six mois du décès. Elle est accompagnée, s'il y a lieu, de l'engagement du
+nouvel exploitant.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - CGI 201, 202, 221-2, 201-4
-  - Code de la construction et de l'habitation L313-4, R313-3
-  - Code de la construction et de l'habitation. - art. L313-4 (M)
-
 _Anciens textes_:
 
-  - Décret n°75-1269 1975-12-27 art. 5
+  - Décret n°75-1269 1975-12-27 ART. 5
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°2002-1120 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2012-721 du 9 mai 2012 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R313-3
 
 _Cité par_:
 
@@ -41578,6 +41581,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R313-7 (V)
   - Code de la construction et de l'habitation. - art. R313-9 (V)
   - Code général des impôts, annexe 2, CGIAN2. - art. 163 (V)
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. R313-4 (Ab)
 
 
 ###### Article R*313-7
@@ -41612,26 +41619,28 @@ _Cité par_:
 La déclaration prévue à l'article R. 313-3, qui est établie en double exemplaire sur des imprimés fournis par
 l'administration, doit indiquer :
 
-- l'année au cours de laquelle devaient être réalisés les investissements ;
+a) l'année au cours de laquelle devaient être réalisés les investissements ;
 
-- le montant des salariés, traitements, indemnités et émoluments à prendre en considération pour l'assiette des
+b) le montant des salaires, traitements, indemnités et émoluments à prendre en considération pour l'assiette des
 investissements dans la construction de logements à réaliser au cours de cette même année ;
 
-- la somme totale à investir, compte tenu, le cas échéant, des remboursements et aliénations d'investissements antérieurs ;
+c) la somme totale à investir, compte tenu, le cas échéant, des remboursements et aliénations d'investissements antérieurs ;
 
-- le montant de l'investissement à réaliser en faveur des immigrés, d'une part, des autres salariés, d'autre part ;
+d) le montant de l'investissement à réaliser en faveur des immigrés, d'une part, des autres salariés, d'autre part ;
 
-- le montant des investissements réalisés au cours de l'année considérée, les modalités selon lesquelles ces investissements
+e) le montant des investissements réalisés au cours de l'année considérée, les modalités selon lesquelles ces investissements
 ont été effectués et la date à laquelle les sommes investies ont été effectivement versées ;
 
-- le montant des investissements excédentaires antérieurs qui ont été reportés conformément à l'article L. 313-1 et, lorsque
+f) le montant des investissements excédentaires antérieurs qui ont été reportés conformément à l'article L. 313-1 et, lorsque
 ces renseignements n'ont pas déjà été fournis, les modalités suivant lesquelles ces investissements ont été effectués et les
 dates auxquelles les sommes ainsi investies ont été effectivement versées.
 
-- le montant total des investissements dont il y a lieu de faire état ;
+g) le montant total des investissements dont il y a lieu de faire état ;
 
-- selon le cas, le montant des investissements à reporter sur les périodes ultérieures ou le montant de l'insuffisance
-d'investissement ainsi que la base de la cotisation de 2 p. 100 prévue à l'article 235 bis du code général des impôts.
+h) selon le cas, le montant des investissements à reporter sur les périodes ultérieures ou le montant de l'insuffisance
+d'investissement ainsi que la base de la cotisation de 2 p. 100 prévue à l'article 235 bis du code général des impôts ;
+
+i) Le montant de la cotisation de 2 % à verser, le cas échéant, à la caisse du comptable de la direction générale des impôts.
 
 **Liens relatifs à cet article**
 
@@ -41643,11 +41652,15 @@ _Cite_:
 
 _Anciens textes_:
 
-  - Décret n°77-329 1977-03-28 art. 1 al. 2
+  - Décret n°77-329 1977-03-28 ART. 1 et 2
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°2002-1121 du 2 septembre 2002 - art. 1 () JORF 4 septembre 2002
 
 **Liens**:
 
