@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-08-02
+Version Consolidée au 2003-08-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -13081,8 +13081,11 @@ un compte d'épargne-logement et qui affectent cette épargne au financement de 
 
 Les titulaires d'un compte d'épargne-logement qui n'affectent  pas cette épargne au financement de logements destinés à
 l'habitation principale dans les conditions du premier alinéa peuvent l'affecter au financement de logements ayant une autre
-destination dans les conditions fixées par un décret en conseil d'état qui détermine notamment les destinations autorisées.
+destination dans les conditions fixées par un décret en Conseil d'Etat qui détermine notamment les destinations autorisées.
 Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel.
+
+Les dispositions précédentes ne font pas obstacle à l'affectation de l'épargne-logement au financement d'un local destiné à
+un usage commercial ou professionnel, dès lors qu'il comporte également l'habitation principale du bénéficiaire.
 
 **Liens relatifs à cet article**
 
@@ -13094,10 +13097,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Loi n°85-536 1985-05-21 art. 2 JORF 23 mai 1985
 
 _Cité par_:
 
@@ -13124,16 +13123,20 @@ _Cité par_:
   - Code monétaire et financier - art. L745-7-1 (V)
   - Code monétaire et financier - art. L755-7-1 (V)
 
+_Modifié par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 31 () JORF 5 août 2003
+
 **Liens**:
 
-  - SPEC_APPLI: Ordonnance n°98-521 du 24 juin 1998 - art. 3 (V)
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
 
 
 ###### Article L315-2
 
-Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale  sont accordés pour le financement
-des dépenses de construction, d'acquisition, d'extension ou de certaines dépenses de réparation et d'amélioration .
+Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale, et les locaux visés au troisième
+alinéa de l'article L. 315-1 sont accordés pour le financement des dépenses de construction, d'acquisition, d'extension ou de
+certaines dépenses de réparation et d'amélioration.
 
 Les prêts d'épargne-logement concernant les logements ayant une autre destination sont accordés pour le financement des
 dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration.
@@ -13153,21 +13156,24 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Loi n°96-314 du 12 avril 1996 - art. 25 () JORF 13 avril 1996
-
-**Liens**:
-
-  - SPEC_APPLI: Ordonnance n°98-521 du 24 juin 1998 - art. 3 (V)
-  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
-
 _Cité par_:
 
   - Ordonnance n°98-521 du 24 juin 1998 - art. 3 (Ab)
   - Ordonnance n°2011-592 du 27 mai 2011 - art. 2 (V)
   - Code de la construction et de l'habitation. - art. R*315-8 (V)
   - Code de la construction et de l'habitation. - art. R331-72 (V)
+
+_Modifié par_:
+
+  - Loi n°2003-721 du 1 août 2003 - art. 31 () JORF 5 août 2003
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L315-1 (M)
+
+**Liens**:
+
+  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
 
 
 ###### Article L315-3
@@ -26486,6 +26492,8 @@ Par dérogation aux dispositions de l'article L. 631-7, l'exercice d'une activit
 autorisé dans une partie d'un local à usage d'habitation, dès lors que l'activité considérée n'est exercée que par le ou les
 occupants ayant leur résidence principale dans ce local et ne conduit à y recevoir ni clientèle ni marchandises.
 
+Les dispositions du présent article sont applicables aux représentants légaux des personnes morales.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -26494,7 +26502,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+  - Loi n°2003-721 du 1 août 2003 - art. 7 () JORF 5 août 2003
 
 _Cite_:
 
