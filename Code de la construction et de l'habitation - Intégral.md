@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-12-31
+Version Consolidée au 1993-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -10,7 +10,7 @@ Version Consolidée au 1992-12-31
             - [Sous-section 1 : Règles générales de construction. (art. L111-4 à L111-6)](#7)
           - [Section 3 : Personnes handicapées ou à mobilité réduite. (art. L111-7 à L111-8-4)](#8)
           - [Section 4 : Caractéristiques thermiques. (art. L111-9 à L111-10)](#9)
-          - [Section 5 : Isolation phonique. (art. L111-11)](#10)
+          - [Section 5 : Caractéristiques acoustiques. (art. L111-11 à L111-11-2)](#10)
           - [Section 6 : Responsabilité des constructeurs d'ouvrage. (art. L111-12 à L111-22)](#11)
           - [Section 7 : Contrôle technique. (art. L111-23 à L111-26)](#12)
           - [Section 8 : Assurance des travaux de bâtiment. (art. L111-27 à L111-39)](#13)
@@ -1064,7 +1064,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L111-9 (M)
 
 
-##### Section 5 : Isolation phonique.<a id=10></a>
+##### Section 5 : Caractéristiques acoustiques.<a id=10></a>
 
 ###### Article L111-11
 
@@ -1075,7 +1075,7 @@ Les travaux de nature à satisfaire à ces exigences relèvent de la garantie de
 code civil reproduit à l'article L. 111-19.
 
 Le vendeur ou le promoteur immobilier est garant, à l'égard du premier occupant de chaque logement, de la conformité à ces
-exigences pendant six mois à compter de sa prise de possession.
+exigences pendant un an à compter de la prise de possession.
 
 **Liens relatifs à cet article**
 
@@ -1086,6 +1086,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Loi n°92-1444 du 31 décembre 1992 - art. 14 () JORF 1er janvier 1993
 
 _Cité par_:
 
@@ -1098,6 +1102,59 @@ _Cite_:
 
   - Code civil - art. 1792-6 (V)
   - Code de la construction et de l'habitation. - art. L111-19 (V)
+
+
+###### Article L111-11-1
+
+Les règles de construction et d'aménagement applicables aux ouvrages et locaux, autres que d'habitation, quant à leurs
+caractéristiques acoustiques et les catégories d'ouvrages et locaux qui sont soumis en tout ou partie aux dispositions du
+présent article sont fixées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Loi n°92-1444 du 31 décembre 1992 - art. 14 () JORF 1er janvier 1993
+
+_Cité par_:
+
+  - Arrêté du 9 janvier 1995 - art. 6 (Ab)
+
+_Abrogé par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art.
+
+
+###### Article L111-11-2
+
+Des prescriptions relatives aux caractéristiques acoustiques peuvent être imposées aux travaux soumis à autorisation ou à
+déclaration préalable, ou réalisés avec l'aide de l'Etat, d'une collectivité publique ou d'un organisme assurant une mission
+de service public, exécutés dans des ouvrages ou locaux existants autres que d'habitation.
+
+Des décrets en Conseil d'Etat fixent, notamment pour ce qui concerne le niveau d'exigences acoustiques, les conditions
+d'application du présent article.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Loi n°78-12 du 4 janvier 1978 - art. 7 (V)
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Loi n°92-1444 du 31 décembre 1992 - art. 14 () JORF 1er janvier 1993
+
+_Abrogé par_:
+
+  - Ordonnance n°2020-71 du 29 janvier 2020 - art.
 
 
 ##### Section 6 : Responsabilité des constructeurs d'ouvrage.<a id=11></a>
@@ -8253,7 +8310,7 @@ _Cite_:
 
 ###### Article L302-6
 
-A compter du 1er janvier 1993, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
+A compter du 1er janvier 1994, les communes visées à l'article L. 302-5 sont tenues de prendre, dans les limites de leurs
 compétences et dans le cadre des dispositions du présent chapitre, les mesures propres à permettre l'acquisition de terrains
 ou de locaux nécessaires à la réalisation de logements à usage locatif au sens du 3° de l'article L. 351-2.
 
@@ -8266,9 +8323,15 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+**Liens**:
 
-  - Loi - art. 13 ()
+  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
+  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
+  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
+
+_Modifié par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 _Cité par_:
 
@@ -8280,11 +8343,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R302-14 (M)
   - Code de la construction et de l'habitation. - art. R302-15 (V)
   - Code de la construction et de l'habitation. - art. R302-28 (T)
-
-**Liens**:
-
-  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001
-  - TXT_SOURCE: Décret n°2001-316 du 12 avril 2001 - art. 1 ()
 
 _Cite_:
 
@@ -8529,8 +8587,8 @@ _Créé par_:
 
 ###### Article L302-4-1
 
-Si dans un délai d'un an à compter de la publication de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville, un
-établissement public de coopération intercommunale n'a pas été constitué ou saisi pour élaborer un programme local de
+Si dans un délai de deux ans à compter de la publication de la loi n° 91-662 du 13 juillet 1991 d'orientation pour la ville,
+un établissement public de coopération intercommunale n'a pas été constitué ou saisi pour élaborer un programme local de
 l'habitat, une commune peut, en coopération avec le représentant de l'Etat, élaborer seule un tel programme dans les
 conditions définies aux articles L. 302-1 à L. 302-3.
 
@@ -8540,14 +8598,23 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
-
-  - Loi - art. 13 ()
-
 _Cite_:
 
   - Loi n°91-662 1991-07-13
   - Code de la construction et de l'habitation L302-1 à L302-3
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
+  - SPEC_APPLI: Loi n°2004-809 2004-08-13 art. 199 : champ d'application
+
+_Modifié par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
+
+_Abrogé par_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 61 (V) JORF 17 août 2004 en vigueur le 1er janvier 2005
 
 _Cité par_:
 
@@ -8560,7 +8627,7 @@ _Cité par_:
 
 ###### Article L302-5-1
 
-Si, dans un délai de dix-huit mois à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
+Si, dans un délai de trente mois à compter de la publication de la loi n° 91-662 du 13 juillet 1991 précitée, une commune,
 visée à l'article L. 302-5, n'est pas couverte par un programme local de l'habitat, le représentant de l'Etat peut, pour
 répondre aux fins poursuivies par cette loi, selon les conditions fixées par décret en Conseil d'Etat, exercer par
 substitution, au nom de l'Etat, le droit de préemption urbain prévu par les articles L. 211-1 et suivants du code de
@@ -8573,14 +8640,18 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
-
-  - Loi - art. 13 ()
-
 _Cite_:
 
   - Loi n°91-662 1991-07-13
   - Code de l'urbanisme - art. L211-1 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°92-722 1992-07-29 art. 33
+
+_Modifié par_:
+
+  - Loi n°92-722 du 29 juillet 1992 - art. 23 () JORF 30 juillet 1992 en vigueur le 1er janvier 1993
 
 _Cité par_:
 
