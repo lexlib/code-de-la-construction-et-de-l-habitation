@@ -1,7 +1,7 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-12-06
+Version Consolidée au 1980-01-05
 ## Contenu: 
-  - [Partie législative (art. L111-1 à L661-1)](#1)
+  - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
       - [Titre Ier : Construction des bâtiments. (art. L111-1 à L112-15)](#3)
         - [Chapitre Ier : Règles générales. (art. L111-1 à L111-41)](#4)
@@ -157,7 +157,7 @@ Version Consolidée au 1979-12-06
         - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. L522-1 à L522-2)](#154)
       - [Titre III : Dispositions spéciales aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre et Miquelon. (art. L531-1 à L531-2)](#155)
         - [Chapitre unique. (art. L531-1 à L531-2)](#156)
-    - [Livre VI : Mesures tendant à remédier à des difficultés exceptionnelles de logement. (art. L611-1 à L661-1)](#157)
+    - [Livre VI : Mesures tendant à remédier à des difficultés exceptionnelles de logement. (art. L611-1 à L661-2)](#157)
       - [Titre Ier : Dispositions générales (art. L611-1 à L614-1)](#158)
         - [Chapitre Ier : Principe. (art. L611-1)](#159)
         - [Chapitre II : Occupation du domaine public. (art. L612-1)](#160)
@@ -172,8 +172,8 @@ Version Consolidée au 1979-12-06
         - [Chapitre unique. (art. L641-1 à L641-14)](#169)
       - [Titre V : Sanctions et dispositions diverses. (art. L651-1 à L651-9)](#170)
         - [Chapitre unique. (art. L651-1 à L651-9)](#171)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer. (art. L661-1)](#172)
-        - [Chapitre unique. (art. L661-1)](#173)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer. (art. L661-1 à L661-2)](#172)
+        - [Chapitre unique. (art. L661-1 à L661-2)](#173)
   - [Partie réglementaire (art. R*111-1 à R651-1)](#174)
     - [Livre Ier : Dispositions générales. (art. R*111-1 à R*161-2)](#175)
       - [Titre Ier : Construction des bâtiments. (art. R*111-1 à R*111-41)](#176)
@@ -14314,13 +14314,22 @@ _Cité par_:
 
 ###### Article L613-1
 
-A titre transitoire et jusqu'au 1er janvier 1980 [*date limite*], le juge des référés de la situation de l'immeuble peut, par
-dérogation aux dispositions de l'article 1244 du code civil, accorder des délais renouvelables excédant une année aux
-occupants de locaux d'habitation ou à usage professionnel, dont l'expulsion aura été ordonnée judiciairement, chaque fois que
-le relogement des intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits occupants aient à justifier
-d'un titre à l'origine de l'occupation.
+Le juge des référés de la situation de l'immeuble peut, par dérogation aux dispositions de l'article 1244 du code civil,
+accorder des délais renouvelables excédant une année aux occupants de locaux d'habitation ou à usage professionnel, dont
+l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des intéressés ne pourra avoir lieu dans des
+conditions normales, sans que lesdits occupants aient à justifier d'un titre à l'origine de l'occupation.
+
+Cette disposition n'est pas applicable lorsque le propriétaire exerce son droit de reprise dans les conditions prévues à
+l'article 19 de la loi n. 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
+rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des
+allocations de logement.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°48-1360 du 1 septembre 1948 - art. 19 (M)
+  - Code civil - art. 1244 (M)
 
 _Cité par_:
 
@@ -14330,17 +14339,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L613-2-1 (VT)
   - Code de la construction et de l'habitation. - art. L641-9 (V)
 
-_Anciens textes_:
-
-  - Loi n°51-1372 1951-12-01 art. 1
-
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code civil - art. 1244 (M)
+  - Loi n°80-1 1980-01-04 ART. 1 JORF 5 JANVIER 1980
 
 
 ###### Article L613-2
@@ -15641,6 +15646,31 @@ _Codifié par_:
 _Modifié par_:
 
   - Loi n°80-1 1980-01-04 ART. 4 JORF 5 JANVIER 1980
+
+
+###### Article L661-2
+
+Pour l'application de l'article L. 613-3, l'autorité compétente, après avis conforme du conseil général, fixe le point de
+départ de la période de trois mois et demi prévue pour le sursis à expulsion, et le cas échéant, la divise de manière à tenir
+compte des particularités climatiques propres à chacun de ces départements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°80-1 1980-01-04 Art. 4 JORF 5 JANVIER 1980
+
+_Cité par_:
+
+  - Ordonnance n°2012-576 du 26 avril 2012 - art. 7 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L613-3 (M)
 
 
 # Partie réglementaire<a id=174></a>
