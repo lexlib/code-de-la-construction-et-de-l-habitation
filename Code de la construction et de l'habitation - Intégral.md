@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-03-22
+Version Consolidée au 1996-04-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -87,7 +87,7 @@ Version Consolidée au 1996-03-22
       - [Titre préliminaire : Politique d'aide au logement. (art. L302-4-1)](#84)
         - [Chapitre II : Programme local de l'habitat. (art. L302-4-1)](#85)
           - [Section 1 : Dispositions générales. (art. L302-4-1)](#86)
-      - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. L311-1 à L316-2)](#87)
+      - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. L311-1 à L316-4)](#87)
         - [Chapitre Ier : Primes et prêts à la construction. (art. L311-1 à L311-14)](#88)
           - [Section 1 : Primes. (art. L311-1 à L311-7)](#89)
           - [Section 2 : Prêts. (art. L311-8 à L311-9)](#90)
@@ -104,7 +104,7 @@ Version Consolidée au 1996-03-22
         - [Chapitre V : Epargne-logement-Dispositions transitoires applicables à l'épargne-construction (art. L315-1 à L315-32)](#101)
           - [Section 1 : Epargne-logement. (art. L315-1 à L315-6)](#102)
           - [Section 2 : Dispositions transitoires relatives à l'épargne-construction. (art. L315-19 à L315-32)](#103)
-        - [Chapitre VI : Contrôle. (art. L316-1 à L316-2)](#104)
+        - [Chapitre VI : Contrôle. (art. L316-1 à L316-4)](#104)
       - [Titre II : Amélioration de l'habitat. (art. L321-1 à L324-1)](#105)
         - [Chapitre Ier : Agence nationale de l'habitat - Statut et concours financier. (art. L321-1 à L321-2)](#106)
           - [Section 1 : Dispositions générales. (art. L321-1 à L321-2)](#107)
@@ -9652,10 +9652,12 @@ travailleurs immigrés et de leurs familles.
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou dépassent l'effectif de dix salariés, sont
-dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
-réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
+dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de leur participation est
+réduit de 75 p. 100, 50 p. 100 et 25 p. 100, respectivement chacune des trois années suivant la dernière année de dispense.
+Les employeurs qui sont dispensés en 1996 du paiement de la cotisation relative à la participation en application du présent
+alinéa bénéficient de cette dispense jusqu'au 31 décembre 1999.
 
-Les dispositions de l'alinéa précédent ne sont applicables pas lorsque l'accroissement de l'effectif résulte de la reprise ou
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
 de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
 
 Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
@@ -9766,19 +9768,20 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-116 1995-02-04 art. 106 II
-
-_Modifié par_:
-
-  - Loi n°95-116 du 4 février 1995 - art. 106 (V) JORF 5 février 1995
+  - SPEC_APPLI: Loi n°95-116 du 4 février 1995 - art. 106 (V)
 
 _Cite_:
 
   - CGI 231
+
+_Modifié par_:
+
+  - Loi n°96-314 1996-04-12 art. 11 III, IV JORF 13 avril 1996
+  - Loi n°96-314 du 12 avril 1996 - art. 11 (V) JORF 13 avril 1996
 
 _Anciens textes_:
 
@@ -10759,6 +10762,9 @@ des dépenses de construction, d'acquisition, d'extension ou de certaines dépen
 Les prêts d'épargne-logement concernant les logements ayant une autre destination sont accordés pour le financement des
 dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration.
 
+Les prêts d'épargne-logement accordés entre le 1er janvier 1996 et le 31 décembre 1996 peuvent être affectés au financement
+des dépenses d'acquisition de logements visés à l'alinéa précédent.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -10773,7 +10779,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°85-536 1985-05-21 Art. 2 JORF 23 MAI 1985
+  - Loi n°96-314 du 12 avril 1996 - art. 25 () JORF 13 avril 1996
+
+**Liens**:
+
+  - SPEC_APPLI: Ordonnance n°98-521 du 24 juin 1998 - art. 3 (V)
+  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
 
 _Cité par_:
 
@@ -10781,10 +10792,6 @@ _Cité par_:
   - Ordonnance n°2011-592 du 27 mai 2011 - art. 2 (V)
   - Code de la construction et de l'habitation. - art. R*315-8 (V)
   - Code de la construction et de l'habitation. - art. R331-72 (V)
-
-**Liens**:
-
-  - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
 
 
 ###### Article L315-3
@@ -11393,6 +11400,62 @@ _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R316-2 (V)
   - Livre des procédures fiscales - art. L124 (V)
+
+
+###### Article L316-3
+
+La société de gestion du fonds de garantie à l'accession sociale et les établissements de crédit qui participent à la
+distribution des avances sans intérêt instituées en application des articles L301-1 et L301-2 ou des prêts visés par le
+troisième alinéa de l'article L312-1 sont soumis, à raison de ces activités, au contrôle sur pièces et sur place de
+l'Inspection générale des finances. Les sanctions prévues au III de l'article 43 de la loi n° 96-314 du 12 avril 1996 portant
+diverses dispositions d'ordre économique et financier sont applicables. En outre, lorsqu'il apparaît, à la suite d'un
+contrôle de l'Inspection générale des finances, que les subventions versées aux établissements de crédit en application de
+l'article R317-1 n'ont pas été employées conformément aux prescriptions des articles R. 317-1 et suivants, le ministre chargé
+de l'économie peut en ordonner la répétition à concurrence des sommes qui ont été employées à un objet différent de celui
+prévu. La même sanction est applicable à la société de gestion du fonds de garantie de l'accession sociale à raison des
+activités exercées au titre du troisième alinéa de l'article L312-1 et de l'article R317-14. Cette société et les
+établissements de crédit sont également soumis à un contrôle sur pièces et sur place, à raison des mêmes activités, par des
+agents mandatés à cet effet conjointement par le ministre chargé de l'économie et des finances et le ministre chargé du
+logement, dans des conditions définies par décret.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 41 () JORF 13 avril 1996
+
+_Cite_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 43 (M)
+  - Code de la construction et de l'habitation. - art. L301-1 (M)
+  - Code de la construction et de l'habitation. - art. L301-2 (M)
+  - Code de la construction et de l'habitation. - art. L312-1 (M)
+  - Code de la construction et de l'habitation. - art. R317-1 (M)
+  - Code de la construction et de l'habitation. - art. R317-14 (V)
+
+
+###### Article L316-4
+
+Les opérations relatives au régime de l'épargne-logement mentionné à l'article L. 315-1 sont soumises aux vérifications de
+l'inspection générale des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°96-314 du 12 avril 1996 - art. 42 () JORF 13 avril 1996
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L315-1 (M)
 
 
 ### Titre II : Amélioration de l'habitat.<a id=105></a>
