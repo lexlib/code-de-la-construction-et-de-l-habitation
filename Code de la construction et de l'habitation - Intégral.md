@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-03-05
+Version Consolidée au 1996-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -68365,8 +68365,10 @@ _Cité par_:
 
 ###### Article R451-7
 
-La décision administrative prévue à l'article L. 451-5 est prise conjointement par le ministre chargé des finances et le
-ministre chargé de la construction et de l'habitation [*autorité compétente*].
+L'avis du service des domaines prévu à l'article L. 451-5 porte sur la valeur vénale du bien immobilier.
+
+Cet avis doit être formulé dans le délai d'un mois à compter de la date de la réception d'une demande d'avis en état, à
+défaut de quoi, il peut être procédé à la réalisation de l'opération.
 
 **Liens relatifs à cet article**
 
@@ -68374,13 +68376,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+_Modifié par_:
+
+  - Décret n°96-221 du 15 mars 1996 - art. 1 () JORF 22 mars 1996
+
 _Cité par_:
 
   - Arrêté du 19 décembre 2007 - art. 3 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme 237
 
 _Cite_:
 
