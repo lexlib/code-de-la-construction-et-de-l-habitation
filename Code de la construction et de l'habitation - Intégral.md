@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-06-01
+Version Consolidée au 1997-10-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -367,8 +367,8 @@ Version Consolidée au 1997-06-01
             - [Sous-section 2 : Epargne-construction. (art. R315-69 à R315-82)](#364)
         - [Chapitre VI : Contrôle. (art. R316-1 à R316-3)](#365)
         - [Chapitre VII : Avances aidées par l'Etat pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété. (art. R317-1 à R317-24)](#366)
-          - [Section 1 : Conditions d'attribution de l'avance. (art. R317-4)](#367)
-          - [Section 1 : Conditions d'attribution de l'avance. (art. R317-3 à R317-7)](#368)
+          - [Section 1 : Conditions d'attribution de l'avance. (art. R317-3 à R317-6)](#367)
+          - [Section 1 : Conditions d'attribution de l'avance. (art. R317-5 à R317-7)](#368)
           - [Section 2 : Caractéristiques financières de l'avance. (art. R317-9 à R317-12)](#369)
           - [Section 2 : Caractéristiques financières de l'avance. (art. R317-8)](#370)
           - [Section 3 : Conventions avec les établissements de crédit. (art. R317-13 à R317-14)](#371)
@@ -41526,7 +41526,8 @@ _Codifié par_:
 ###### Article R317-1
 
 Il est créé une aide pour l'accession à la propriété destinée aux personnes physiques qui acquièrent un logement en vue de
-l'occuper à titre de résidence principale. Cette aide est mise en place par les établissements de crédit conventionnés à cet
+l'occuper à titre de résidence principale et qui n'ont pas été propriétaires de leur résidence principale au cours des deux
+dernières années précédant l'offre de prêt. Cette aide est mise en place par les établissements de crédit conventionnés à cet
 effet sous forme d'avance remboursable ne portant pas intérêt. L'Etat verse une subvention aux établissements de crédit
 destinée à compenser l'absence d'intérêt.
 
@@ -41534,7 +41535,7 @@ destinée à compenser l'absence d'intérêt.
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 _Cité par_:
 
@@ -41573,11 +41574,10 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+  - Décret n°97-1000 du 30 octobre 1997 - art. 1 () JORF 31 octobre 1997
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
   - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001
   - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 1 (V)
   - SPEC_APPLI: Décret n°2001-972 du 25 octobre 2001 - art. 2 (V)
@@ -41632,6 +41632,44 @@ _Modifié par_:
 
 ##### Section 1 : Conditions d'attribution de l'avance.<a id=367></a>
 
+###### Article R317-3
+
+Pour les opérations visées à l'article R. 317-2, les bénéficiaires de l'avance sont les personnes physiques mentionnées à
+l'article R. 317-1 et dont l'ensemble des ressources est au plus égal à un montant déterminé, en fonction de la composition
+familiale et de la localisation du logement, par arrêté conjoint du ministre chargé de l'économie et des finances, du
+ministre chargé du budget et du ministre chargé du logement. Cet arrêté fixe également les modalités générales de contrôle de
+ces ressources. 
+
+Chacune des personnes physiques composant le ménage accédant à la propriété doit fournir les pièces justificatives attestant
+de son lieu de résidence principale et apporter la preuve qu'elle n'en a pas été propriétaire au cours des deux dernières
+années précédant l'offre de prêt.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cité par_:
+
+  - Arrêté du 16 mars 1992 - art. 7 (M)
+  - Arrêté du 2 octobre 1995 - art. 17 (V)
+  - Code de la construction et de l'habitation. - art. R317-5 (V)
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°97-1000 1997-10-30 art. 5 et 6
+
+_Modifié par_:
+
+  - Décret n°97-1000 du 30 octobre 1997 - art. 2 () JORF 31 octobre 1997
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R317-1 (V)
+  - Code de la construction et de l'habitation. - art. R317-2 (V)
+
+
 ###### Article R317-4
 
 Il ne peut être accordé qu'une avance par opération et par ménage.
@@ -41657,39 +41695,39 @@ _Cité par_:
   - Arrêté du 29 avril 1997 - art. ANNEXE III (V)
 
 
-##### Section 1 : Conditions d'attribution de l'avance.<a id=368></a>
+###### Article R317-6
 
-###### Article R317-3
+Toute mutation entre vifs des logements financés avec l'aide de l'avance prévue à l'article R. 317-1 du présent code entraîne
+le remboursement intégral du capital restant dû de l'avance, au plus tard au moment de l'accomplissement des formalités de
+publicité foncière. 
 
-Pour les opérations mentionnées à l'article R. 317-2, les bénéficiaires de l'avance sont les personnes physiques dont
-l'ensemble des ressources est au plus égal à un montant déterminé, en fonction de la composition familiale et de la
-localisation du logement, par arrêté conjoint du ministre chargé de l'économie et des finances, du ministre chargé du budget
-et du ministre chargé du logement. Cet arrêté fixe également les modalités générales de contrôle de ces ressources.
+Chaque mutation doit être signalée à l'établissement prêteur dans le même délai. 
+
+Par dérogation aux dispositions du premier alinéa, les bénéficiaires de l'avance prévue à l'article R. 317-1 du présent code
+peuvent en conserver le bénéfice lorsqu'ils acquièrent, conformément aux dispositions de l'article R. 317-2, un autre
+logement en vue de l'occuper à titre de résidence principale.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cité par_:
-
-  - Arrêté du 16 mars 1992 - art. 7 (M)
-  - Arrêté du 2 octobre 1995 - art. 17 (V)
-  - Code de la construction et de l'habitation. - art. R317-5 (V)
-
-_Modifié par_:
-
-  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+  - SPEC_APPLI: Décret n°97-1000 1997-10-30 art. 5 et 6
+
+_Modifié par_:
+
+  - Décret n°97-1000 du 30 octobre 1997 - art. 4 () JORF 31 octobre 1997
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R317-2 (M)
+  - Code de la construction et de l'habitation. - art. R317-1 (V)
+  - Code de la construction et de l'habitation. - art. R317-2 (V)
 
+
+##### Section 1 : Conditions d'attribution de l'avance.<a id=368></a>
 
 ###### Article R317-5
 
@@ -41708,33 +41746,15 @@ lorsque les bénéficiaires de l'avance définie à l'article R. 317-1 du prése
 professionnelles ou familiales, destiner leur logement à leur résidence principale, ils peuvent le donner en location, dans
 des conditions fixées par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du logement.
 
-**Liens relatifs à cet article**
+Par dérogation aux dispositions du premier alinéa du présent article et de l'article R. 317-1, les bénéficiaires de l'avance
+qui ne peuvent plus, pour des raisons professionnelles, destiner leur logement à leur résidence principale peuvent solliciter
+l'octroi d'une avance pour l'acquisition d'une nouvelle résidence principale, sous réserve du remboursement préalable du
+capital restant dû de l'avance initiale. La nouvelle avance est octroyée dans les conditions du présent chapitre appréciées à
+la date de la nouvelle demande.
 
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R317-1 (M)
-  - Code de la construction et de l'habitation. - art. R317-3 (M)
-
-
-###### Article R317-6
-
-Toute mutation entre vifs des logements financés avec l'aide de l'avance prévue à l'article R. 317-1 du présent code entraîne
-le remboursement intégral du capital restant dû de l'avance, au plus tard au moment de l'accomplissement des formalités de
-publicité foncière.
-
-Chaque mutation doit être signalée à l'établissement prêteur dans le même délai.
+L'établissement de crédit qui a octroyé la première avance reverse à l'organisme visé à l'article R. 312-3-1 du présent code,
+pour le compte de l'Etat, une fraction de la subvention destinée à compenser l'absence d'intérêt, déterminée en fonction de
+la durée résiduelle de l'avance au moment de son remboursement anticipé.
 
 **Liens relatifs à cet article**
 
@@ -41742,17 +41762,19 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Modifié par_:
-
-  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
-
 **Liens**:
 
-  - SPEC_APPLI: Décret n°95-1064 du 29 septembre 1995 - art. 4 (V)
+  - SPEC_APPLI: Décret n°97-1000 1997-10-30 art. 5 et 6
+
+_Modifié par_:
+
+  - Décret n°97-1000 du 30 octobre 1997 - art. 3 () JORF 31 octobre 1997
 
 _Cite_:
 
+  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
   - Code de la construction et de l'habitation. - art. R317-1 (M)
+  - Code de la construction et de l'habitation. - art. R317-3 (M)
 
 
 ###### Article R317-7
