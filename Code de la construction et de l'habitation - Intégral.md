@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-06-01
+Version Consolidée au 1994-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -42317,39 +42317,38 @@ _Nouveaux textes_:
 Dans les limites et conditions fixées par la présente section, des subventions et des prêts définis par les sous-sections 2
 et 3 ci-après peuvent être accordés pour financer :
 
-" 1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
+1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
 construction de ces logements ;
 
-" 2° La construction de logements à usage locatif ;
+2° La construction de logements à usage locatif ;
 
-" 3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
+3° L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
 d'amélioration correspondants ;
 
-" 4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
+4° L'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en logements ;
 
-" 5° Les terrains, droits immobiliers, logements ou immeubles acquis par des organismes d'habitations à loyer modéré, des
+5° Les terrains, droits immobiliers, logements ou immeubles acquis par des organismes d'habitations à loyer modéré, des
 sociétés d'économie mixte ou des collectivités locales ou leurs groupements ainsi que les travaux de construction, de
 transformation ou d'amélioration à réaliser sur ces terrains, logements ou immeubles, à condition que les biens concernés
 aient été acquis depuis moins de dix ans à la date de la demande du prêt et qu'ils n'aient pas précédemment bénéficié de
 financement au titre du chapitre Ier du titre Ier du livre III ou du livre IV (première partie) ;
 
-" 6° Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
+6° Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
 collectivités locales ou leurs groupements ;
 
-" 7° Les travaux de transformation ou d'aménagement en logements de locaux ou d'immeubles non affectés à cet usage ;
+7° Les travaux de transformation ou d'aménagement en logements de locaux ou d'immeubles non affectés à cet usage ;
 
-" 8° La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux
-collectifs à usage commun, annexes dans des limites fixées par arrêté du ministre chargé de la construction et de
-l'habitation ;
+8° La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux collectifs
+à usage commun, annexes dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation ;
 
-" 9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
+9° La réalisation d'opérations de logements-foyers à usage locatif tels que définis aux articles R. 351-55 et R. 351-56.
 
-" Dans les limites et conditions fixées par la présente section, des subventions définies par la sous-section 2 peuvent être
-accordées pour financer l'acquisition de logements locatifs et, le cas échéant, les travaux d'amélioration. Les dispositions
-des articles R. 331-9 à R. 331-11 et R. 331-24 relatives aux opérations d'acquisition-amélioration sont applicables à ces
-logements, y compris en l'absence de travaux. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage du
-prix témoin des opérations d'acquisition-amélioration fixé par arrêté des ministres chargés de la construction et de
-l'habitation et des finances pour des zones géographiques déterminées. "
+Dans les limites et conditions fixées par la présente section, et notamment par les articles R. 331-12, R. 331-14, R. 331-15,
+des subventions définies par la sous-section 2 peuvent être accordées pour financer l'acquisition de logements locatifs et le
+cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de
+l'alinéa précédent. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage du prix témoin des opérations
+d'acquisition-amélioration fixé par arrêté des ministres chargés de la construction et de l'habitation et des finances pour
+des zones géographiques déterminées.
 
 **Liens relatifs à cet article**
 
@@ -42421,6 +42420,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-21 (M)
   - Code de la construction et de l'habitation. - art. R331-22 (M)
   - Code de la construction et de l'habitation. - art. R331-23 (Ab)
+  - Code de la construction et de l'habitation. - art. R331-24 (M)
   - Code de la construction et de l'habitation. - art. R331-25 (T)
   - Code de la construction et de l'habitation. - art. R331-25-1 (T)
   - Code de la construction et de l'habitation. - art. R331-26 (Ab)
@@ -42431,6 +42431,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-5 (T)
   - Code de la construction et de l'habitation. - art. R331-6 (M)
   - Code de la construction et de l'habitation. - art. R331-8 (T)
+  - Code de la construction et de l'habitation. - art. R331-9 (M)
   - Code de la construction et de l'habitation. - art. R351-61-1 (V)
   - Code de la construction et de l'habitation. - art. R351-62-1 (V)
   - Code de la construction et de l'habitation. - art. R353-190 (T)
@@ -42465,7 +42466,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-151 du 16 février 1990 - art. 1 () JORF 17 février 1990
+  - Décret n°94-549 du 30 juin 1994 - art. 1 () JORF 2 juillet 1994
 
 _Nouveaux textes_:
 
@@ -42473,9 +42474,6 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R331-11 (M)
-  - Code de la construction et de l'habitation. - art. R331-24 (M)
-  - Code de la construction et de l'habitation. - art. R331-9 (M)
   - Code de la construction et de l'habitation. - art. R351-55 (M)
   - Code de la construction et de l'habitation. - art. R351-56 (M)
 
@@ -42980,29 +42978,29 @@ _Cite_:
 
 ###### Article R331-15
 
-"Le montant de la subvention de l'Etat est déterminé selon les modalités suivantes :
+Le montant de la subvention de l'Etat est déterminé selon les modalités suivantes :
 
-" 1° L'assiette de la subvention est :
+1° L'assiette de la subvention est :
 
-" - à la date de la décision d'octroi, le prix de revient prévisionnel de l'opération pris en compte dans la limite de 90 p.
+- à la date de la décision d'octroi, le prix de revient prévisionnel de l'opération pris en compte dans la limite de 90 p.
 100 du prix de référence majoré des révisions de prix correspondant à une durée forfaitaire d'exécution des travaux ;
 
-" - à la date d'achèvement des travaux, le prix de revient réel de l'opération pris en compte dans la limite de 90 p. 100 du
+- à la date d'achèvement des travaux, le prix de revient réel de l'opération pris en compte dans la limite de 90 p. 100 du
 prix de référence recalculé à cette date et majoré des révisions de prix correspondant à une durée forfaitaire d'exécution
 des travaux.
 
-" 2° Le taux de la subvention est au plus égal à 12,7 p. 100 de cette assiette.
+2° Le taux de la subvention est au plus égal à 12,7 p. 100 de cette assiette.
 
-" Il peut être porté :
+Il peut être porté :
 
-" - au plus à 20 p. 100 de l'assiette telle que définie ci-dessus pour des opérations d'habitat adapté aux besoins de
-populations rencontrant des difficultés particulières ;
+- au plus à 20 p. 100 de l'assiette telle que définie ci-dessus pour des opérations d'habitat adapté aux besoins de
+populations rencontrant des difficultés particulières. A titre exceptionnel, le préfet peut par dérogation porter ce ce taux
+à 25 p. 100 au plus.    - au plus à 15 p. 100 de l'assiette telle que définie ci-dessus pour des opérations à caractère
+expérimental.
 
-" - au plus à 15 p. 100 de l'assiette telle que définie ci-dessus pour des opérations à caractère expérimental.
+La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
 
-" La subvention de l'Etat ne peut donner lieu à l'attribution d'une subvention complémentaire.
-
-" Un arrêté conjoint des ministres chargés de la construction, de l'habitation et des finances fixe les conditions
+Un arrêté conjoint des ministres chargés de la construction, de l'habitation et des finances fixe les conditions
 d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -43013,7 +43011,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 _Cité par_:
 
@@ -43043,14 +43041,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-90 (T)
   - Code de la construction et de l'habitation. - art. R381-4 (T)
 
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-  - Décret n°87-1112 du 24 décembre 1987 - art. 2 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
+
+_Modifié par_:
+
+  - Décret n°94-549 du 30 juin 1994 - art. 2 () JORF 2 juillet 1994
 
 
 ###### Article R331-16
