@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-04-27 00:00:01 +0200
+Version Consolidée au 1996-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -445,8 +445,8 @@ Version Consolidée au 1996-04-27 00:00:01 +0200
             - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-65)](#442)
           - [Section 4 : Dispositions particulières aux logements-foyers. (art. R351-60 à R351-66)](#443)
             - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-60 à R351-66)](#444)
-        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-18 à R353-209)](#445)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-18)](#446)
+        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-17 à R353-209)](#445)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-17 à R353-19)](#446)
           - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-25)](#447)
           - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#448)
           - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-88)](#449)
@@ -44869,8 +44869,9 @@ la réalisation de travaux de construction, de transformation et d'aménagement,
 prévues aux articles R. 331-8 et R. 331-9.
 
 2° Aux bénéficiaires visés à l'article R. 331-14 lorsqu'ils acquièrent ou ont acquis depuis moins de trois ans à la date de
-la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à réaliser des travaux
-de construction ou d'amélioration répondant aux conditions prévues aux articles R. 331-8 et R. 331-9.
+la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble, et s'engagent à réaliser des travaux
+de construction, de transformation et d'aménagement ou d'amélioration répondant aux conditions prévues aux articles R. 331-8
+et R. 331-9. 
 
 II. - Des opérations peuvent bénéficier d'une subvention foncière lorsque la charge foncière en construction neuve ou le coût
 global de l'opération en acquisition-amélioration dépasse la valeur foncière de référence multipliée par la surface utile de
@@ -44947,7 +44948,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°95-637 du 5 mai 1995 - art. 8 () JORF 7 mai 1995 en vigueur le 1er janvier 1996
+  - Décret n°96-55 du 24 janvier 1996 - art. 1 () JORF 26 janvier 1996 en vigueur le 1er juillet 1996
 
 
 ##### Sous-section 5 : Sanctions.<a id=395></a>
@@ -51138,6 +51139,23 @@ _Cite_:
 
 ##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=446></a>
 
+###### Article R353-17
+
+Le loyer pratiqué est fixé au mètre carré de surface corrigée ou de surface utile, selon les mêmes modalités que le loyer
+maximum fixé par la convention. Il peut être modifié le 1er janvier et le 1er juillet de chaque année selon les modalités
+fixées par la convention. Le nouveau loyer doit être notifié au locataire dans les conditions fixées par la convention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°95-708 du 9 mai 1995 - art. 2 () JORF 11 mai 1995 en vigueur le 1er juillet 1996
+
+
 ###### Article R353-18
 
 Le loyer est payable par fraction mensuelle à terme échu, sauf disposition transitoire prévue par la convention.
@@ -51151,6 +51169,34 @@ _Codifié par_:
 _Modifié par_:
 
   - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
+
+
+###### Article R353-19
+
+A compter de la signature de la convention ou de la date d'achèvement des travaux d'amélioration, le bailleur est tenu, dans
+les conditions définies par la convention, de notifier aux locataires dans les lieux ou réintégrés à la suite d'un relogement
+temporaire, un loyer applicable de plein droit dès sa notification.
+
+Un décompte détaillé de surface corrigée, conforme à l'annexe au présent article, est joint à cette notification. Il doit
+être également remis à tout nouveau locataire.
+
+Pour les logements soumis au régime de la surface utile, un décompte de la surface utile du logement et des annexes donnant
+lieu à perception d'un loyer accessoire, conforme à une annexe au décret pris en application du présent article, est joint à
+la notification du loyer. Ce décompte doit être également remis à tout nouveau locataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cité par_:
+
+  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
+
+_Modifié par_:
+
+  - Décret n°95-708 du 9 mai 1995 - art. 3 () JORF 11 mai 1995 en vigueur le 1er juillet 1996
 
 
 ##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=447></a>
@@ -51510,24 +51556,50 @@ _Abrogé par_:
 
 ###### Article R353-16
 
-Le loyer maximum applicable aux logements conventionnés dont la valeur est fixée au mètre carré de surface corrigée, telle
-que résultant des dispositions de l'article R. 422-1 et de l'article 4 du décret n. 60-1063 du 1er octobre 1960, ainsi que
-les conditions de son évolution, sont fixés par les conventions.
+1° Le loyer maximum applicable aux logements conventionnés, ainsi que les conditions de son évolution sont fixées par les
+conventions.
+
+2° Pour les conventions conclues à partir du 1er juillet 1996, le loyer maximum de chaque logement est le produit des trois
+éléments suivants :
+
+a) La surface utile du logement ;
+
+b) Le prix au mètre carré applicable à l'ensemble des logements de l'immeuble ou de l'ensemble immobilier qui fait l'objet de
+la convention, établi en tenant compte des caractéristiques de ce dernier, notamment de sa localisation, de la qualité de sa
+construction et de la taille moyenne des logements ;
+
+c) Le coefficient propre au logement, établi en tenant compte notamment de sa taille et de sa situation dans l'immeuble ou
+l'ensemble immobilier.
+
+La surface utile est égale à la surface habitable du logement, telle qu'elle est définie à l'article R. 111-2, augmentée de
+la moitié de la surface des annexes définies par un arrêté du ministre chargé du logement.
+
+La somme des résultats du produit, pour chaque logement, du coefficient par la surface utile ne doit pas excéder la surface
+util totale de l'immeuble ou de l'ensemble immobilier qui fait l'objet de la convention.
+
+La convention mentionne la surface utile totale de l'immeuble ou de l'ensemble immobilier et le coefficient applicable à
+chaque logement.
+
+Les annexes qui n'entrent pas dans le calcul de la surface utile peuvent donner lieu à la perception d'un loyer accessoire,
+dans les limites et conditions fixées par la convention.
+
+3° Par dérogation au 2° du présent article, le loyer maximum des logements conventionnés à l'occasion de la réalisation de
+travaux d'amélioration, ou conventionnés sans travaux, est fixé au mètre carré de surface corrigée, telle qu'elle résulte des
+dispositions de l'article R. 442-1 et du décret n° 48-1766 du 22 novembre 1948, modifié notamment par le décret n° 60-1063 du
+1er octobre 1960.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Décret n°60-1063 1960-10-01 art. 4
-  - Code de la construction et de l'habitation R422-1
+  - Décret n°48-1766 1948-11-22
+  - Décret n°60-1063 1960-10-01
+  - Code de la construction et de l'habitation R111-2, R442-1
+  - Code de la construction et de l'habitation. - art. R442-1 (V)
 
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
 
 _Cité par_:
 
@@ -51550,54 +51622,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-99 (M)
   - Code général des impôts, annexe 3, CGIAN3. - art. 2 duodecies (V)
 
+_Modifié par_:
+
+  - Décret n°95-708 du 9 mai 1995 - art. 1 () JORF 11 mai 1995 en vigueur le 1er juillet 1996 rectificatif JORF 27 mai 1995
+
 _Anciens textes_:
 
   - Décret n°77-948 1977-07-28 art. 16
-
-
-###### Article R353-17
-
-Les loyers pratiqués, dont la valeur est fixée au mètre carré de surface corrigée dans les conditions définies à l'article R.
-353-16, peuvent être modifiés le 1er janvier et le 1er juillet de chaque année selon les modalités fixées par les
-conventions. Le nouveau loyer doit être notifié au locataire dans les conditions fixées par les conventions [*révision*].
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R353-16 (M)
-
-
-###### Article R353-19
-
-A compter de la signature de la convention ou de la date d'achèvement des travaux d'amélioration, le bailleur est tenu
-[*obligation*], dans les conditions définies par la convention, de notifier aux locataires dans les lieux ou réintégrés à la
-suite d'un relogement temporaire, un loyer applicable de plein droit dès sa notification.
-
-Un décompte détaillé de surface corrigée, conforme à l'annexe au présent article, est joint à cette notification. Il doit
-être également remis à tout nouveau locataire.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
-
-_Cité par_:
-
-  - Décret n°85-1231 du 5 novembre 1985 - art. 11 (V)
 
 
 ###### Article R353-21
