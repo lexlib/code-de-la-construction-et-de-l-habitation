@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-04-29
+Version Consolidée au 1984-07-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -8898,6 +8898,11 @@ par le chapitre III du présent titre ; celles-ci doivent être conformes à des
 5. Les logements-foyers qui peuvent être assimilés, dans des conditions fixées par décret en Conseil d'Etat, aux logements
 mentionnés aux 2 et 3 ci-dessus.
 
+6. Les logements occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi
+n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, lorsque ces logements ont été
+construits, améliorés ou acquis et améliorés au moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les
+caractéristiques et les conditions d'octroi sont fixées par décret.
+
 **Liens relatifs à cet article**
 
 _Cité par_:
@@ -9195,7 +9200,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°84-595 1984-07-12
+
+_Modifié par_:
+
+  - Loi n°84-595 du 12 juillet 1984 - art. 39 () JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
 
 **Liens**:
 
@@ -9215,6 +9228,7 @@ _Codifié par_:
   - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe I, art. 7 (V)
   - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe II (V)
   - TXT_SOURCE: Décret n°85-1232 du 5 novembre 1985 - art. Annexe III (V)
+  - TXT_ASSOCIE: Code de la construction R353-89
 
 
 ###### Article L351-3
@@ -9230,8 +9244,9 @@ habituellement au foyer ;
 toutefois un abattement est opéré sur le montant des ressources, lorsque le conjoint perçoit des revenus résultant de
 l'exercice d'une activité professionnelle ;
 
-3. Le montant du loyer ou des charges de remboursement des prêts contractés pour l'acquisition du logement ou son
-amélioration, pris en compte dans la limite d'un plafond, ainsi que les dépenses accessoires retenues forfaitairement.
+3. Le montant du loyer ou de la redevance définie par la loi n° 84-595 du 12 juillet 1984 précitée ou des charges de
+remboursement des prêts contractés pour l'acquisition du logement ou son amélioration, pris en compte dans la limite d'un
+plafond, ainsi que les dépenses accessoires retenues forfaitairement.
 
 Le barême, révisé le 1er juillet de chaque année, tient compte de l'évolution constatée des prix de détail et du coût de la
 construction. Cette révision assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
@@ -9245,7 +9260,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°84-595 1984-07-12
 
 _Cité par_:
 
@@ -9261,6 +9280,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
   - Code de la construction et de l'habitation. - art. R351-22 (V)
   - Code de la construction et de l'habitation. - art. R351-5-1 (V)
+
+_Modifié par_:
+
+  - Décret n°84-595 1984-07-12 ART. 40 JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
 
 
 ###### Article L351-4
