@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-06-09
+Version Consolidée au 1999-06-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -97,7 +97,7 @@ Version Consolidée au 1999-06-09
       - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. L311-1 à L316-4)](#94)
         - [Chapitre Ier : Primes et prêts à la construction. (art. L311-1 à L311-14)](#95)
           - [Section 1 : Primes. (art. L311-1 à L311-7)](#96)
-          - [Section 2 : Prêts. (art. L311-8 à L311-9)](#97)
+          - [Section 2 : Prêts. (art. L311-8)](#97)
           - [Section 3 : Dispositions communes aux primes et prêts. (art. L311-10 à L311-13)](#98)
           - [Section 4 : Honoraires des architectes et autres techniciens. (art. L311-14)](#99)
         - [Chapitre II : Garantie de l'Etat - Action des collectivités territoriales et des chambres de commerce et d'industrie. (art. L312-1 à L312-6)](#100)
@@ -9646,37 +9646,6 @@ _Cite_:
 
   - Code de la construction et de l'habitation 4
   - Loi n°1853-06-10
-
-
-###### Article L311-9
-
-Les prêts consentis par les sociétés de crédit foncier peuvent excéder [*montant*] la moitié de la valeur de la propriété
-lorsque, indépendamment de l'hypothèque, le prêt est, pour sa totalité ou pour la partie excédant la quotité ci-dessus
-définie, assorti soit de la garantie de l'Etat français ou d'un territoire d'outre-mer, soit d'un nantissement sur des titres
-émis ou garantis par l'Etat français.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Abrogé par_:
-
-  - Loi n°99-532 du 25 juin 1999 - art. 111 (V) JORF 29 juin 1999
-
-_Cité par_:
-
-  - Loi n°99-532 du 25 juin 1999 - art. 111 (V)
-  - Code de la construction et de l'habitation. - art. R*311-29 (V)
-  - Code de la construction et de l'habitation. - art. R*315-34 (V)
-  - Code de la construction et de l'habitation. - art. R*315-52 (Ab)
-  - Code de la construction et de l'habitation. - art. R*315-57 (Ab)
-  - Code de la construction et de l'habitation. - art. R*315-63 (Ab)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme 265
 
 
 ##### Section 3 : Dispositions communes aux primes et prêts.<a id=98></a>
@@ -53144,7 +53113,8 @@ Lors de l'ouverture du droit ou en début de période de paiement, lorsque le de
 qu'il poursuit des études ainsi que, le cas échéant, son conjoint, et que les ressources du ménage, appréciées au sens des
 articles R. 351-5 à R. 351-7, sont inférieures à un montant fixé par arrêté conjoint des ministres chargés du logement, du
 budget, de la sécurité sociale et de l'agriculture, les ressources du bénéficiaire ou du ménage sont réputées égales à ce
-montant.
+montant. Ce montant subit une minoration fixée par ledit arrêté lorsque le demandeur est titulaire d'une bourse de
+l'enseignement supérieur qui n'est pas assujettie à l'impôt sur le revenu.
 
 **Liens relatifs à cet article**
 
@@ -53159,9 +53129,13 @@ _Cité par_:
   - Décret n°2018-1315 du 27 décembre 2018 - art. 1 (V)
   - Code de la construction et de l'habitation. - art. R351-5 (V)
 
+**Liens**:
+
+  - SPEC_APPLI: Décret n°99-541 1999-06-28 art. 4 *champ d'application*
+
 _Modifié par_:
 
-  - Décret n°97-79 du 30 janvier 1997 - art. 3 () JORF 31 janvier 1997 en vigueur le 1er février 1997
+  - Décret n°99-541 du 28 juin 1999 - art. 2 () JORF 29 juin 1999
 
 _Cite_:
 
