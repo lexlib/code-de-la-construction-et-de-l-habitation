@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-10-04
+Version Consolidée au 1979-10-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-1)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -26408,19 +26408,28 @@ Le montant des salaires, traitements, indemnités et émoluments pris en consid�
 obligatoire est déterminé dans les conditions fixées par l'article 231 du code général des impôts et par les textes
 réglementaires pris pour l'application de cet article.
 
+Ce montant est diminué pour les employeurs qui occupaient moins de dix salariés en 1978 ou en 1979 et qui portent leur
+effectif à dix ou plus en 1979 ou en 1980 d'un abattement calculé comme suit :
+
+360 000 F pour la première année pendant laquelle cet effectif est atteint ou dépassé ;
+
+240 000 F pour la deuxième année ;
+
+120 000 F pour la troisième année.
+
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - CGI 231
 
-_Anciens textes_:
-
-  - Décret n°75-1269 1975-12-27 art. 2
-
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°79-881 du 11 octobre 1979 - art. 2 (V) JORF 12 OCTOBRE 1979
 
 _Cité par_:
 
