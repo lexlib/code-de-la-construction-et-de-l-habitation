@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-05-02
+Version Consolidée au 1997-05-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -46468,40 +46468,6 @@ _Cite_:
   - Code de la construction et de l'habitation R324-1, R324-2, R324-5
 
 
-###### Article R*324-15
-
-Sous peine d'annulation de la décision d'octroi de prime et, le cas échéant, de remboursement de la prime :
-
-- tout changement dans les conditions d'occupation prévues aux articles R. 324-1, R. 324-2, R. 324-16 intervenant pendant la
-période de dix ans définie à l 'article R. 324-14, doit être déclaré dans un délai de deux mois ;
-
-- il doit être justifié dans un délai de quatre mois à compter de la date de la déclaration que le nouvel occupant satisfait
-à l'ensemble des exigences réglementaires.
-
-En cas de décès, le délai de justification est porté à trois ans.
-
-La déclaration et la justification prévues au présent article sont adressées par lettre recommandée avec demande d'avis de
-réception à l'autorité ayant délivré la prime.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-94 1978-01-26 art. 15
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°97-503 du 21 mai 1997 - art. 33 () JORF 22 mai 1997
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R324-1, R324-2, R324-16, R324-14
-
-
 ###### Article R*324-16
 
 Sans préjudice des sanctions prévues à l'article L. 311-3 la prime est remboursée lorsque le logement pour lequel la prime a
@@ -46532,37 +46498,6 @@ _Cite_:
 
   - Code de la construction et de l'habitation L311-3, R324-14
   - Code de la construction et de l'habitation. - art. L311-3 (M)
-
-
-###### Article R*324-17
-
-Par dérogation à l'article R. 324-16 (b), l'autorisation de louer avec maintien du bénéfice de la prime peut être donnée par
-l'autorité qui l'a délivrée :
-
-- soit au maximum pour la période de trois ou cinq années qui s'écoule entre la date du versement du solde de la prime et
-celle de l'occupation régulière par le bénéficiaire après sa mise à la retraite ou son retour d'un département d'outre-mer ou
-de l'étranger ;
-
-- soit lorsque la cessation d'occupation du logement, dûment motivée par des raisons professionnelles, est limitée à une
-durée de trois ans. Cette durée peut être prolongée de trois ans.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-94 1978-01-26 art. 17
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°97-503 du 21 mai 1997 - art. 34 () JORF 22 mai 1997
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R324-16
 
 
 ###### Article R*324-18
