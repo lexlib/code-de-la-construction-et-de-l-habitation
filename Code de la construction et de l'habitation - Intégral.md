@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-04-25
+Version Consolidée au 2003-05-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -80437,8 +80437,7 @@ logement, du ministre chargé de l'économie et du ministre chargé du budget :
 
 - un représentant du ministre chargé du budget ;
 
-- le président de l'Union nationale des fédérations d'organismes d'habitations à loyer modéré et deux autres représentants de
-cette union désignés par elle ;
+- trois représentants de l'union mentionnée à l'article L. 452-2, désignés par elle ;
 
 - un représentant de la Fédération nationale des sociétés d'économie mixte, désigné par cette fédération ;
 
@@ -80460,13 +80459,17 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-655 du 20 juillet 2001 - art. 1 () JORF 22 juillet 2001
+  - Décret n°2003-424 du 7 mai 2003 - art. 1 () JORF 11 mai 2003
 
 _Cité par_:
 
   - Décret n°2003-424 du 7 mai 2003 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L452-2 (M)
 
 
 ###### Article R452-6
