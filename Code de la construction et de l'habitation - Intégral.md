@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-05-11
+Version Consolidée au 2000-06-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -256,7 +256,7 @@ Version Consolidée au 2000-05-11
         - [Chapitre IV : Adaptation des constructions pour le temps de guerre. (art. R124-1)](#253)
         - [Chapitre V : Sécurité de certains équipements d'immeubles par destination. (art. R125-3-1 à R125-5)](#254)
           - [Section 2 : Sécurité des portes automatiques de garage. (art. R125-3-1 à R125-5)](#255)
-        - [Chapitre VI : Protection contre les risques naturels. (art. R126-1)](#256)
+        - [Chapitre VI : Protection contre les risques naturels ou miniers. (art. R126-1)](#256)
       - [Titre III : Chauffage et ravalement des immeubles (art. R*131-1 à R*132-1)](#257)
         - [Chapitre Ier : Chauffage des immeubles (art. R*131-1 à R*131-20)](#258)
           - [Section 1 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-1)](#259)
@@ -30353,14 +30353,15 @@ _Cité par_:
   - Arrêté du 12 novembre 1990 - art. 1 (V)
 
 
-#### Chapitre VI : Protection contre les risques naturels.<a id=256></a>
+#### Chapitre VI : Protection contre les risques naturels ou miniers.<a id=256></a>
 
 ###### Article R126-1
 
 Les plans de prévention des risques naturels prévisibles établis en application des articles 40-1 à 40-7 de la loi n° 87-565
 du 22 juillet 1987 relative à l'organisation de la sécurité civile, à la protection de la forêt contre l'incendie et à la
-prévention des risques majeurs peuvent fixer des règles particulières de construction, d'aménagement et d'exploitation en ce
-qui concerne la nature et les caractéristiques des bâtiments ainsi que leurs équipements et installations.
+prévention des risques majeurs, ou les plans de prévention des risques miniers établis en application de l'article 94 du code
+minier, peuvent fixer des règles particulières de construction, d'aménagement et d'exploitation en ce qui concerne la nature
+et les caractéristiques des bâtiments ainsi que leurs équipements et installations.
 
 **Liens relatifs à cet article**
 
@@ -30371,10 +30372,11 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°87-565 1987-07-22 art. 40-1 à 40-7
+  - Code minier 94
 
 _Modifié par_:
 
-  - Décret n°95-1089 du 5 octobre 1995 - art. 11 () JORF 11 octobre 1995
+  - Décret n°2000-547 du 16 juin 2000 - art. 4 () JORF 22 juin 2000
 
 
 ### Titre III : Chauffage et ravalement des immeubles<a id=257></a>
