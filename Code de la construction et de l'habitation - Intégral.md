@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-06-27
+Version Consolidée au 1985-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -30796,6 +30796,12 @@ Les bénéficiaires des prêts concernés par la sous-section 2 reçoivent de l'
 réalisation du prêt et égale au montant des intérêts acquis à la date de la demande de prêt et pris en compte pour le calcul
 du montant du prêt.
 
+La prime d'épargne versée au souscripteur d'un compte d'épargne logement ouvert à compter du 1er juillet 1985 est égale à une
+fraction des intérêts acquis à la date de la demande du prêt.
+
+La valeur de la fraction est fixée par arrêté du ministre chargé des finances, du ministre chargé de la construction et de
+l'habitation et du ministre chargé des PTT.
+
 Toutefois la prime d'épargne ne peut pas dépasser par opération de prêt un montant fixé par arrêté du ministre chargé des
 finances, du ministre chargé de la construction et de l'habitation et du ministre chargé des postes et télécommunications.
 
@@ -30805,13 +30811,21 @@ au moment où la prime a été payée à son bénéficiaire.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la construction R315-17
+
 _Anciens textes_:
 
   - Décret n°65-1044 1965-12-02 art. 16 al. 1
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°85-647 1985-06-28 art. 1 JORF 30 juin 1985
 
 _Cité par_:
 
