@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-12-30
+Version Consolidée au 1987-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -9398,6 +9398,14 @@ Le barême, révisé le 1er juillet de chaque année, tient compte de l'évoluti
 construction. Cette révision assure, par toutes mesures appropriées, le maintien de l'efficacité sociale de l'aide
 personnalisée au logement.
 
+Le barème applicable aux personnes occupant des logements à usage locatifs, conventionnés aprés le 31 décembre 1987, en
+application du 2° et, en ce qui concerne les logements améliorés, en application des 3° et 4° de l'article L. 351-2 du
+présent code, est celui prévu aux articles L. 542-5 et L. 831-4 du code de la sécurité sociale.
+
+Toutefois, le plafond mensuel du loyer pris en compte pour le calcul de l'aide accordée aux occupants de logements à usage
+locatif conventionnés aprés le 31 décembre 1987 et améliorés en application des 3° et 4° de l'article L. 351-2 du présent
+code, peut être fixé de manière spécifique par décret.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -9411,6 +9419,13 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°84-595 1984-07-12
+  - Code de la sécurité sociale. - art. L542-5 (M)
+  - Code de la sécurité sociale. - art. L831-4 (M)
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+
+_Modifié par_:
+
+  - Loi n°87-1060 du 30 décembre 1987 - art. 107 () JORF 31 décembre 1987
 
 _Cité par_:
 
@@ -9426,10 +9441,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-19-1 (Ab)
   - Code de la construction et de l'habitation. - art. R351-22 (V)
   - Code de la construction et de l'habitation. - art. R351-5-1 (V)
-
-_Modifié par_:
-
-  - Décret n°84-595 1984-07-12 ART. 40 JORF 13 JUILLET 1984 rectificatif JORF 21 JUILLET 1984
 
 _Nouveaux textes_:
 
