@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-06-23
+Version Consolidée au 1982-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -36364,15 +36364,18 @@ Les établissements prêteurs ont la faculté de consentir également ces prêts
 un ou des logements à la location et qui passent au préalable une convention régie par le titre V, chapitre III, du présent
 livre (première partie) portant sur l'ensemble des immeubles ainsi financés [*bénéficiaires*].
 
+Toutefois l'octroi des prêts destinés au financement des travaux mentionnés aux 4° et 5° de l'article R. 331-63 n'est pas
+subordonné à la passation de la convention prévue à l'alinéa précédent.
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1287 1977-11-22 art. 5
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°82-696 1982-08-04 ART. 1 JORF 6 AOUT 1982
 
 _Cité par_:
 
@@ -36387,6 +36390,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-70 (V)
   - Code de la construction et de l'habitation. - art. R331-77 (V)
   - Code de la construction et de l'habitation. - art. R353-126 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 
 ###### Article R331-68
