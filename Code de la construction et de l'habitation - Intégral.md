@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1986-06-01
+Version Consolidée au 1986-07-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -56272,15 +56272,22 @@ cas, les marchés de gré à gré doivent être passés avec les lauréats du co
 La possibilité de recours à cette procédure et les limites et conditions de son utilisation doivent être indiqués dans le
 programme du concours.
 
+Peuvent être traités de gré à gré les travaux dont la valeur n'exèdent pas, pour le montant total de l'opération, des seuils
+fixés par arrêté conjoint du ministre chargé des finances et du ministre chargé de la construction et de l'habitation
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°61-552 1961-05-23 art. 29
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°86-802 1986-07-01 art. 1 JORF 5 juillet 1986
+
+_Abrogé par_:
+
+  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 _Cité par_:
 
@@ -56290,17 +56297,22 @@ _Cité par_:
 ###### Article R433-34
 
 Peuvent être traités sur ordre de service et réglés sur mémoire ou facture, sans qu'il soit passé de marchés écrits, les
-travaux d'une valeur au plus égale à 20000 F [*montant*].
+travaux dont le montant présumé toutes taxes comprises n'exède n' excède pas un seuil fixé par arrêté conjoint du ministre
+chargé des finances et du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°61-552 1961-05-23 art. 30
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°86-802 1986-07-01 art. 1 JORF 5 juillet 1986
+
+_Abrogé par_:
+
+  - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
 ###### Article R433-35
