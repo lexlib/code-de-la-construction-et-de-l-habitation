@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-01-06 00:00:01 +0100
+Version Consolidée au 2002-01-18
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -76,9 +76,9 @@ Version Consolidée au 2002-01-06 00:00:01 +0100
         - [Chapitre Ier : Ventes d'immeubles à construire. (art. L261-1 à L261-22)](#73)
       - [Titre VI : Ventes d'immeubles à construire (art. L261-17 à L261-21)](#74)
         - [Chapitre unique. (art. L261-17 à L261-21)](#75)
-      - [Titre VII : Protection de l'acquéreur immobilier. (art. L271-1 à L271-2)](#76)
-        - [Chapitre unique. (art. L271-1 à L271-2)](#77)
-          - [Section 1 : Dispositions générales. (art. L271-1 à L271-2)](#78)
+      - [Titre VII : Protection de l'acquéreur immobilier. (art. L271-1 à L271-3)](#76)
+        - [Chapitre unique. (art. L271-1 à L271-3)](#77)
+          - [Section 1 : Dispositions générales. (art. L271-1 à L271-3)](#78)
       - [Titre VIII : Dispositions particulières aux départements d'outre-mer. (art. L281-1)](#79)
         - [Chapitre unique. (art. L281-1)](#80)
     - [Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement (art. L301-1 à L371-3)](#81)
@@ -8551,6 +8551,26 @@ _Cite_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
+###### Article L271-3
+
+Les dispositions du présent chapitre ne sont pas applicables aux ventes par adjudication réalisées en la forme authentique.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 167 () JORF 18 janvier 2002
+
+**Liens**:
+
+  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
+  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
+
+
 ### Titre VIII : Dispositions particulières aux départements d'outre-mer.<a id=79></a>
 
 #### Chapitre unique.<a id=80></a>
@@ -15247,6 +15267,9 @@ L. 351-1.
 Les dispositions de la loi n° 89-462 du 6 juillet 1989 précitée sont applicables au contrat de sous-location dans les
 conditions prévues au III de l'article 40 de cette loi.
 
+En cas de sous-location meublée, le loyer peut être majoré du prix de location des meubles. Ce prix est fixé et peut être
+révisé dans les conditions de l'article L. 442-8-3-1.
+
 Les dispositions des conventions mentionnées à l'article L. 351-2 prévues aux huitième, neuvième, dixième et onzième alinéas
 de l'article L. 353-2 s'appliquent aux contrats de sous-location.
 
@@ -15262,10 +15285,6 @@ Les sous-locations peuvent être effectuées meublées ou non meublées.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
-
 _Cite_:
 
   - Loi n°89-462 1989-07-06 art. 40
@@ -15274,11 +15293,12 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L353-14 (M)
   - Code de la construction et de l'habitation. - art. L353-2 (M)
   - Code de la construction et de l'habitation. - art. L442-8-1 (M)
+  - Code de la construction et de l'habitation. - art. L442-8-3-1 (V)
   - Code de la construction et de l'habitation. - art. L442-8-4 (V)
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 125 () JORF 31 juillet 1998
+  - Loi n°2002-73 du 17 janvier 2002 - art. 159 () JORF 18 janvier 2002
 
 _Cité par_:
 
@@ -15288,6 +15308,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-66 (V)
   - Code de la construction et de l'habitation. - art. R353-94 (V)
   - Code de la construction et de l'habitation. - art. R365-1 (V)
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.<a id=123></a>
@@ -16021,8 +16045,8 @@ alinéas de l'article L. 443-11 ;
 - aux logements construits par les organismes d'habitations à loyer modéré dans le cadre d'un bail à construction ou d'un
 bail emphytéotique et devenus propriété du bailleur à l'expiration du bail ;
 
-- aux logements faisant l'objet d'un portage provisoire par les organismes d'habitations à loyer modéré en application des
-douzième alinéa de l'article L. 421-1, huitième alinéa de l'article L. 422-2 et septième alinéa de l'article L. 422-3.
+- aux lots acquis en vue de leur revente et situés dans les copropriétés qui font l'objet d'un plan de sauvegarde en
+application de l'article L. 615-1, tels que précisés aux articles L. 421-1, L. 422-2 et L. 422-3.
 
 En cas de transfert de propriété, y compris en cas de cession non volontaire, ces logements restent soumis à des règles
 d'attribution sous condition de ressources et de fixation de loyer par l'autorité administrative dans des conditions fixées
@@ -16042,9 +16066,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 145
+  - Loi n°2002-73 du 17 janvier 2002 - art. 166 () JORF 18 janvier 2002
 
 **Liens**:
 
@@ -16061,6 +16085,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L442-6 (M)
   - Code de la construction et de l'habitation. - art. L442-6-1 (M)
   - Code de la construction et de l'habitation. - art. L443-11 (M)
+  - Code de la construction et de l'habitation. - art. L615-1 (M)
 
 _Cité par_:
 
@@ -20381,12 +20406,20 @@ rapport sur l'occupation des logements d'habitations à loyer modéré et son é
 A cette fin, les organismes d'habitations à loyer modéré communiquent les renseignements statistiques nécessaires au
 représentant de l'Etat dans le département du lieu de situation des logements après avoir procédé à une enquête auprès de
 leurs locataires. Les locataires sont tenus de répondre dans le délai d'un mois. A défaut, le locataire défaillant est
-redevable à l'organisme d'habitations à loyer modéré d'une pénalité de 50 F, majorée de 50 F par mois entier de retard.
+redevable à l'organisme d'habitations à loyer modéré d'une pénalité de 7,62 Euros, majorée de 7,62 Euros par mois entier de
+retard, sauf s'il est établi que des difficultés particulières n'ont pas permis au locataire de répondre. Dans ce cas,
+l'organisme d'habitations à loyer modéré met en oeuvre les moyens adaptés pour que le locataire puisse s'acquitter de cette
+obligation.
 
 L'enquête mentionnée à l'alinéa précédent vaut enquête au sens de l'article L. 441-9.
 
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article, notamment le contenu de l'enquête et la
 liste des renseignements statistiques.
+
+Les dispositions du présent article s'appliquent aux logements conventionnés appartenant aux organismes mentionnés à
+l'article L. 365-1 et, en application de l'article L. 351-2, à ceux qui sont détenus par les bailleurs mentionnés aux
+quatrième et cinquième alinéas de l'article 41 ter de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser
+l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière.
 
 **Liens relatifs à cet article**
 
@@ -20415,13 +20448,16 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-93-1 (V)
   - Code général des collectivités territoriales - art. L5219-5 (V)
 
-_Créé par_:
-
-  - Loi n°96-162 du 4 mars 1996 - art. 6 () JORF 5 mars 1996
-
 _Cite_:
 
+  - Loi n°86-1290 1986-12-23 art. 41 ter
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L365-1 (M)
   - Code de la construction et de l'habitation. - art. L441-9 (M)
+
+_Modifié par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 165 () JORF 18 janvier 2002
 
 
 ###### Article L442-6
@@ -20614,10 +20650,6 @@ d'étudiants et les foyers de travailleurs, dès lors qu'elles ne poursuivent au
 non plus applicables aux logements pour étudiants et aux logements-foyers gérés directement par un organisme d'habitations à
 loyer modéré et qui répondent à des conditions fixées par décret en Conseil d'Etat.
 
-Le loyer des maisons destinées à l'habitation collective qui sont affectées à des locations meublées peut être majoré du prix
-de location des meubles. Ce dernier prix ne doit pas lui-même dépasser le montant du loyer principal calculé suivant les
-dispositions en vigueur en matière d'habitations à loyer modéré.
-
 Peuvent être exigés en sus le montant des prestations, taxes et fournitures individuelles et tous impôts et taxes perçus à
 l'occasion des locations en meublé.
 
@@ -20629,7 +20661,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2002-73 du 17 janvier 2002 - art. 159 () JORF 18 janvier 2002
 
 _Cité par_:
 
@@ -20797,6 +20829,32 @@ _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L441-2-3 (VT)
   - Code de la construction et de l'habitation. - art. R. 442-4-1 (V)
+
+
+###### Article L442-8-3-1
+
+En cas de location ou de sous-location meublée, le loyer peut être majoré du prix de location des meubles.
+
+Le prix de location des meubles est fixé par arrêté du ministre chargé du logement, en tenant compte du prix des meubles et
+de la durée de leur amortissement et ne peut dépasser le montant du loyer.
+
+Le prix de location des meubles peut être révisé dans les conditions fixées par arrêté du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°2002-73 du 17 janvier 2002 - art. 159 () JORF 18 janvier 2002
+
+_Cité par_:
+
+  - Arrêté du 7 décembre 2009 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. L353-19-2 (V)
+  - Code de la construction et de l'habitation. - art. L353-20 (V)
 
 
 ###### Article L442-8-4
