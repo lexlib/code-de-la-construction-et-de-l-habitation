@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-01-04
+Version Consolidée au 2003-01-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -48452,7 +48452,8 @@ gestion immobilière de Nord - Pas-de-Calais institué par l'article 191 de la l
 la solidarité et au renouvellement urbains, les collectivités publiques et leurs établissements publics ne peuvent bénéficier
 de l'aide de l'agence.
 
-Les personnes morales mentionnées à l'article L. 411-2 et les sociétés d'économie mixte ayant pour objet statutaire la
+Les établissements publics d'aménagement prévus à l'article L. 321-1 du code de l'urbanisme, les organismes d'habitations à
+loyer modéré mentionnés à l'article L. 411-2 du présent code et les sociétés d'économie mixte ayant pour objet statutaire la
 construction ou la gestion de logements ou la restructuration urbaine ne peuvent bénéficier de l'aide de l'agence que pour
 les opérations de réhabilitation, en vue de leur revente, des logements acquis dans les copropriétés faisant l'objet du plan
 de sauvegarde prévu à l'article L. 615-1. La commission d'amélioration de l'habitat peut, selon des critères définis par le
@@ -48468,6 +48469,7 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°2000-1208 du 13 décembre 2000 - art. 191 (M)
+  - Code de l'urbanisme - art. L321-1 (M)
   - Code de la construction et de l'habitation R321-12, L411-2, L615-1, R321-20
   - Code de la construction et de l'habitation. - art. L411-2 (M)
   - Code de la construction et de l'habitation. - art. L615-1 (M)
@@ -48475,7 +48477,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2001-351 du 20 avril 2001 - art. 1 () JORF 22 avril 2001
+  - Décret n°2003-75 du 28 janvier 2003 - art. 1 () JORF 29 janvier 2003
 
 
 ###### Article R*321-14
