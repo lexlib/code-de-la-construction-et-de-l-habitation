@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-01-18
+Version Consolidée au 2002-02-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -29340,7 +29340,7 @@ _Cite_:
 Sont soumises obligatoirement au contrôle technique prévu à l'article L. 111-23 les opérations de construction ayant pour
 objet la réalisation:
 
-1. D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1re, 2e et 3e catégories visées à
+1. D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1re, 2e, 3e et 4e catégories visées à
 l'article R. 123-19 ;
 
 2. D'immeubles dont le plancher bas du dernier niveau est situé à plus de 28 mètres par rapport au niveau du sol le plus haut
@@ -29365,7 +29365,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
+  - Décret n°2002-244 du 20 février 2002 - art. 1 () JORF 23 février 2002
 
 _Cité par_:
 
