@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-01-04
+Version Consolidée au 1994-01-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -198,8 +198,8 @@ Version Consolidée au 1994-01-04
       - [Titre Ier : Construction des bâtiments. (art. R*111-1 à R*111-42)](#195)
         - [Chapitre Ier : Règles générales. (art. R*111-1 à R*111-42)](#196)
           - [Section 2 : Dispositions générales applicables aux bâtiments d'habitation. (art. R*111-1 à R*111-17)](#197)
-          - [Section 3 : Personnes handicapées. (art. R*111-18 à R*111-18-3)](#198)
-            - [Sous-section 1 : Dispositions applicables aux bâtiments d'habitations collectifs neufs. (art. R*111-18 à R*111-18-3)](#199)
+          - [Section 3 : Personnes handicapées. (art. R*111-18 à R*111-18-4)](#198)
+            - [Sous-section 1 : Dispositions applicables aux bâtiments d'habitations collectifs neufs. (art. R*111-18 à R*111-18-4)](#199)
           - [Section 3 : Personnes handicapées. (art. R*111-19)](#200)
           - [Section 4 : Caractéristiques thermiques et performances énergétiques. (art. R*111-20 à R*111-22)](#201)
             - [Sous-section 1 : Caractéristiques thermiques. (art. R*111-20)](#202)
@@ -21407,6 +21407,52 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation R111-18 à R111-18-2
+
+
+###### Article R*111-18-4
+
+Un arrêté conjoint des ministres chargés de la construction et de l'habitation, de la santé et du ministre de l'intérieur
+peut, par dérogation aux dispositions de la présente section, fixer des règles spéciales à certaines catégories de logements
+destinés à l'occupation temporaire ou saisonnière dont la gestion et l'entretien sont organisés et assurés de façon
+permanente.
+
+Le ministre chargé de la construction et de l'habitation et le ministre chargé de la santé peuvent accorder conjointement, en
+tant que de besoin, des dérogations aux dispositions de la présente section pour la réalisation d'habitations ayant un
+caractère expérimental.
+
+Le ministre chargé de la construction et de l'habitation peut accorder des dérogations aux dispositions de la présente
+section pour la réalisation de bâtiments d'habitation collectifs nouveaux ayant un caractère expérimental rendant
+momentanément impossible leur application.
+
+Le préfet peut accorder des dérogations aux dispositions de la présente section lorsque les caractéristiques du terrain ou la
+présence de constructions existantes fait obstacle à leur application. Le préfet se prononce par arrêté après consultation de
+la commission départementale prévue à l'article 6 du décret n° 78-109 du 1er février 1978.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Décret n°78-109 du 1 février 1978 - art. 6, v. init.
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 6 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-86 du 26 janvier 1994 - art. 1 () JORF 28 février 1994
+  - Décret n°94-86 du 26 janvier 1994 - art. 2 () JORF 28 février 1994
+
+_Cité par_:
+
+  - Arrêté du 1 août 2006 - art. 17 (VT)
+  - Arrêté du 22 mars 2007 - art. 4 (V)
+  - Arrêté du 24 décembre 2015 - art. 1 (VD)
+  - Code de la construction et de l'habitation. - art. R161-5 (V)
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation R111-19
 
 
 ##### Section 3 : Personnes handicapées.<a id=200></a>
