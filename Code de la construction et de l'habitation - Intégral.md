@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-08-01
+Version Consolidée au 2004-08-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -16790,6 +16790,9 @@ administrative ;
 par décret en Conseil d'Etat ou lorsqu'elles sont destinées à des personnes dont les revenus sont inférieurs à des plafonds
 fixés par l'autorité administrative ;
 
+- les aliénations des éléments de patrimoine immobilier réalisées en application des articles L. 443-7 à L. 443-14 ainsi que
+la gestion des copropriétés issues de ces aliénations ;
+
 - les services accessoires aux opérations susmentionnées.
 
 Au titre de la mission d'intérêt général que constitue la recherche de la mixité sociale et de la diversité de l'habitat, les
@@ -17004,11 +17007,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2003-1311 2003-12-30 art. 96 II 1° Finances pour 2004 JORF 31 décembre 2003
+  - Loi n°2004-804 du 9 août 2004 - art. 21 () JORF 11 août 2004
 
 _Anciens textes_:
 
   - Code de l'urbanisme 159
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L443-7 à L443-14
 
 
 ###### Article L411-3
