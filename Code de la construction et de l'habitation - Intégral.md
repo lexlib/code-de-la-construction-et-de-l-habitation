@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-12-21
+Version Consolidée au 1981-02-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -32124,23 +32124,21 @@ _Cite_:
 
 ###### Article R323-1
 
-Peuvent bénéficier d'une subvention de l'Etat, en application de l'article L. 351-2 (3), lorsqu'ils exécutent des travaux
-d'amélioration dans les logements à usage locatif dont ils sont propriétaires ou gestionnaires :
+Peuvent bénéficier d'une subvention de l'Etat, en application de l'article L. 351-2 (3°), lorsqu'ils exécutent des travaux
+d'amélioration dans les logements à usage locatif dont ils sont propriétaires ou gestionnaires [*condition*] :
 
 1. Les organismes d'habitations à loyer modéré ;
 
 2. Les établissements publics à caractère administratif sous tutelle des collectivités locales et gestionnaires de
 logements ;
 
-3. Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires de
-logements, sur avis conforme du groupe administratif départemental Habitat et vie sociale ;
+3. DECR. 87 : Les communes ne disposant pas d'établissements publics administratifs placés sous leur tutelle et gestionnaires
+de logements, sur avis conforme du groupe administratif départemental du fonds d'aménagement urbain ;
 
 4. Les houillères de bassin ;
 
 5. Les sociétés d'économie mixte de construction et les sociétés d'économie mixte ayant pour objet statutaire la rénovation
 urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités publiques.
-
-//DECR.0975 :
 
 6. Les sociétés immobilières à participation majoritaire de la caisse des dépôts et consignations ;
 
@@ -32148,22 +32146,18 @@ urbaine et la restauration immobilière dans le cadre des opérations qui leur s
 
 8. Les sociétés minières et immobilières gérant le patrimoine immobilier des mines de fer ;
 
-9. Les personnes morales propriétaires de cités familiales, sur avis conforme du comité directeur du groupe interministériel
-"Habitat et vie sociale".//
+9. DECR. 87 : Les personnes morales propriétaires de cités familiales, sur avis conforme du comité directeur du fonds
+d'aménagement urbain.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-1019 1977-08-29 art. 1
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Modifié par_:
 
-  - Décret n°79-975 1979-11-20 art. 1 JORF 22 novembre 1979
+  - Décret n°81-87 1981-01-30 ART. 1 JORF 3 FEVRIER 1981
 
 _Cité par_:
 
@@ -32183,7 +32177,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation L351-2 3
 
 
 ###### Article R323-2
@@ -32285,19 +32279,23 @@ _Cité par_:
 
 ###### Article R323-6
 
-La subvention est accordée au vu d'un programme de travaux fixé par référence à la convention prévue à l'article R. 323-2. Le
-montant des travaux pris en considération pour l'octroi de la subvention ne peut excéder /M/40000 F/M/DECR.0975 : 60000 F//
-par logement.
+La subvention [*condition*] est accordée au vu d'un programme de travaux mentionné dans la convention prévue par l'article R.
+323-2.
+
+Le montant des travaux pris en considération pour l'octroi de la subvention ne peut excéder 70000 F par logement.
+
+Des dérogations au montant des travaux fixé à l'alinéa précédent peuvent être accordées conjointement par le ministre chargé
+de la construction et de l'habitation et le ministre du budget.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-1019 1977-08-29 art. 6
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°81-87 1981-01-30 ART. 2 JORF 3 FEVRIER 1981
 
 _Cite_:
 
@@ -32311,27 +32309,35 @@ _Cité par_:
 
 ###### Article R323-7
 
-Le taux de la subvention est au plus égal à 20 p. 100 du coût prévisionnel des travaux dans la limite de 12000 F par
-logement. Toutefois, le taux de la subvention peut atteindre 30 p. 100 du coût prévisionnel des travaux.
+Le taux de la subvention est au plus égal à 20 p. 100 du coût prévisionnel des travaux.
 
-- dans la limite de 12000 F par logement pour les travaux ou parties de travaux visant à améliorer la qualité acoustique des
-logements, sur production d'un rapport établi par un organisme de contrôle agréé, dans des conditions fixées par un arrêté du
-ministre chargé de la construction et de l'habitation ;
+Toutefois, le taux de la subvention peut être majoré dans les conditions suivantes :
 
-- dans la limite de 18000 F par logement :
+1. Il peut atteindre 30 p. 100 :
 
-1. Pour les travaux ou parties de travaux visant à améliorer la qualité thermique des logements et définis par un arrêté du
-ministre chargé de la construction et de l'habitation, sur production d'un rapport établi par un organisme d'étude faisant
-apparaître que la rentabilité de l'investissement consenti est satisfaisante.
+a) Pour les travaux ou parties de travaux visant à améliorer la qualité acoustique des logements, sur production d'un rapport
+établi par un organisme agréé et dans des conditions fixées par un arrêté du ministre chargé de la construction et de
+l'habitation ; la subvention ne peut dans ce cas dépasser 14000 F par logement.
 
-2. Pour les travaux portant sur des logements appartenant à des communes de moins de 7500 habitants et pour les logements
-mentionnés à l'article R. 323-11-I ci-après, sous réserve, lorsqu'il s'agit de travaux visant à améliorer la qualité
-thermique ou acoustique des logements, du respect des conditions prévues ci-dessus [*personnes agées, handicapés*].
+b) Pour les travaux ou parties de travaux visant à améliorer la qualité thermique des logements et définis par un arrêté du
+ministre chargé de la construction et de l'habitation.
 
-Des dérogations aux taux et plafonds de la subvention peuvent être accordées par le ministre chargé de la construction et de
-l'habitation pour des opérations à caractère expérimental et sur avis du comité directeur du groupe interministériel "Habitat
-et vie sociale" pour des opérations relevant du programme d'action prioritaire n. 21 du VIIe Plan de développement économique
-et social ou pour d'autres opérations, lorsqu'elles présentent un caractère social marqué.
+L'octroi de la subvention est subordonné à la production d'un rapport établi par un organisme d'étude faisant apparaître que
+la rentabilité de l'investissement consenti est satisfaisante.
+
+c) Pour les travaux portant sur des logements appartenant à des communes de moins de 7500 habitants et pour les logements
+mentionnés à l'article R. 323-11-I ci-après.
+
+2. Il peut atteindre 40 p. 100 du coût prévisionnel des travaux, lorsque ceux-ci visent l'amélioration de la qualité
+thermique ou de la qualité acoustique des logements et qu'ils répondent à des conditions définies par un arrêté du ministre
+chargé de la construction et de l'habitation.
+
+L'octroi de la subvention est, dans ce cas, subordonné à la production des rapports mentionnés au 1. a ou b ci-dessus.
+
+Des dérogations aux taux de la subvention peuvent être accordées par le ministre chargé de la construction et de
+l'habitation, pour des opérations à caractère expérimental et, après avis du comité directeur du fonds d'aménagement urbain,
+pour des opérations "Habitat et vie sociale" ainsi que pour d'autres opérations lorsqu'elles présentent un caractère social
+marqué.
 
 La décision d'octroi de subvention est prise par le préfet [*autorité compétente*].
 
@@ -32341,6 +32347,10 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Créé par_:
+
+  - Décret n°81-87 1981-01-30 ART. 2 JORF 3 FEVRIER 1981
+
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 1 (Ab)
@@ -32349,7 +32359,8 @@ _Codifié par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L351-2 (3), R323-11-I
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. R323-11 (M)
 
 _Cité par_:
 
@@ -32406,18 +32417,18 @@ _Cité par_:
 
 ###### Article R323-10
 
-Les travaux doivent être commencés dans un délai d'un an à compter de la date de la décision d'octroi de subvention et
-doivent être achevés dans un délai de deux ans à compter de cette même date.
+Les travaux doivent être commencés dans un délai de deux ans à compter de la décision d'octroi de subvention et doivent être
+achevés dans un délai de trois ans à compter de cette même date [*condition*].
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-1019 1977-08-29 art. 10
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°81-87 1981-01-30 ART. 3 JORF 3 FEVRIER 1981
 
 _Cité par_:
 
@@ -32426,6 +32437,10 @@ _Cité par_:
   - Arrêté du 27 décembre 2001 - art. 3 (V)
   - Arrêté du 18 mars 2002 - art. 2 (V)
   - Arrêté du 4 septembre 1986 - art. 1 (Ab)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L351-2 3
 
 
 ###### Article R323-11
