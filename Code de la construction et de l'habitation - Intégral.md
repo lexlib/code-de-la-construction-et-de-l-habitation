@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-02-23
+Version Consolidée au 2002-02-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -25234,21 +25234,22 @@ _Anciens textes_:
 
 ###### Article L631-7
 
-Dans les communes définies à l'article 10-7 de la loi n. 48-1360 du 1er septembre 1948 modifiée :
+Dans les communes définies à l'article 10-7 de la loi n° 48-1360 du 1er septembre 1948 modifiée :
 
 1° Les locaux à usage d'habitation ne peuvent être, ni affectés à un autre usage, ni transformés en meublés, hôtels, pensions
 de famille ou autres établissements similaires dont l'exploitant exerce la profession de loueur en meublé au sens du premier
-alinéa de l'article 2 de la loi n. 49-458 du 2 avril 1949 modifiée, accordant le bénéfice du maintien dans les lieux à
+alinéa de l'article 2 de la loi n° 49-458 du 2 avril 1949 modifiée, accordant le bénéfice du maintien dans les lieux à
 certains clients des hôtels, pensions de famille et meublés ; les présentes dispositions n'étant pas applicables aux
 locations en meublé mentionnées au deuxième alinéa dudit article 2 ;
 
 2° Les locaux à usage professionnel ou administratif ainsi que les meublés, hôtels, pensions de famille ou établissements
 similaires ne peuvent, s'ils ne conservent pas leur destination primitive, être affectés à un usage autre que l'habitation ;
 
-3° Les garages et remises mentionnés à l'article 2 de la loi n. 48-1360 du 1er septembre 1948 précitée ne peuvent être
+3° Les garages et remises mentionnés à l'article 2 de la loi n° 48-1360 du 1er septembre 1948 précitée ne peuvent être
 affectés à un usage commercial, industriel ou artisanal.
 
-Il ne peut être dérogé à ces interdictions que par autorisation administrative préalable et motivée, après avis du maire.
+Il ne peut être dérogé à ces interdictions que par autorisation administrative préalable et motivée, après avis du maire et,
+à Paris, Marseille et Lyon, aprés avis du maire d'arrondissement.
 
 Le représentant de l'Etat dans le département peut autoriser l'exercice, sous certaines conditions, dans une partie d'un
 local d'habitation, d'une profession qui ne puisse à aucun moment revêtir un caractère commercial si ce local constitue en
@@ -25266,6 +25267,10 @@ occupant d'un local d'habitation irrégulièrement transformé en meublé et ré
 droit, quelle que soit la date de son entrée dans les lieux, du maintien dans les lieux dans les conditions prévues aux
 chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
 
+**Nota:**
+
+Nota : Voir l'article 81 I et II de la loi 2003-1312 du 30 décembre 2003 finances rectificative pour 2003.
+
 **Liens relatifs à cet article**
 
 **Liens**:
@@ -25274,10 +25279,12 @@ chapitres Ier et II du titre Ier de la loi précitée du 1er septembre 1948.
   - TXT_ASSOCIE: Code de la construction L631-9
   - TXT_ASSOCIE: Code de la construction L651-2
   - TXT_ASSOCIE: Code de la construction R631-4
+  - SPEC_APPLI: Loi n°2003-1312 2003-12-30 art. 81 Finances rectificative pour 2003 :
 
 _Cite_:
 
-  - Loi n°48-1360 1948-09-01 ART. 10-7 ET 2
+  - Loi n°48-1360 1948-09-01 art. 10-7, art. 2
+  - Loi n°48-1360 du 1 septembre 1948 - art. 2 (V)
   - Loi n°49-458 du 2 avril 1949 - art. 2 (V)
 
 _Codifié par_:
@@ -25314,7 +25321,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+  - Loi n°2002-276 du 27 février 2002 - art. 24 () JORF 28 février 2002
 
 _Anciens textes_:
 
@@ -25440,6 +25447,9 @@ _Cite_:
 Les dispositions de l'article L. 631-7 peuvent être rendues applicables à d'autres communes par décision de l'autorité
 administrative prise après avis du maire.
 
+Ces dispositions peuvent également, dans les mêmes conditions, être rendues applicables sur une partie seulement de la
+commune.
+
 **Liens relatifs à cet article**
 
 **Liens**:
@@ -25452,7 +25462,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°98-657 du 29 juillet 1998 - art. 126 () JORF 31 juillet 1998
+  - Loi n°2002-276 du 27 février 2002 - art. 39 () JORF 28 février 2002
 
 _Cité par_:
 
@@ -25463,10 +25473,6 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de l'urbanisme 341
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
 
 ###### Article L631-10
