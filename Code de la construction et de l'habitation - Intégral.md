@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-06-08
+Version Consolidée au 2004-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -72864,45 +72864,12 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R423-17-1 (V)
 
 
-###### Article R*423-14
-
-Les fonds appartenant à l'office peuvent être déposés au Trésor, à un compte de chèques postaux, à la caisse de dépôts et
-consignations, en caisse d'épargne, à la Banque de France, et, sur autorisation donnée par le ministre chargé des finances et
-le ministre chargé de la construction et de l'habitation, dans des établissements bancaires.
-
-Les fonds encaissés par l'office en qualité de syndic peuvent être déposés dans un compte ouvert spécialement à cet effet ou
-versés à l'un des comptes ouverts au nom de l'office et énumérés à l'alinéa précédent.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°76-525 1976-06-15 art. 13
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-
-_Abrogé par_:
-
-  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R452-25 (M)
-
-
 ###### Article R*423-15
 
-En dehors des opérations prévues par la législation en vigueur, les offices peuvent effectuer des achats de bons du Trésor ou
-valeurs assimilées et de rentes sur l'Etat ou de valeurs garanties par l'Etat. Ils peuvent également souscrire ou acquérir
-des parts ou actions émises par des sociétés d'habitations à loyer modéré, des sociétés d'économie mixte, et des sociétés
-civiles immobilières dans les conditions prévues à l'article R. 421-5. Un arrêté conjoint du ministre chargé des finances et
-du ministre chargé de la construction et de l'habitation peut étendre ces participations à d'autres organismes.
+Les offices peuvent souscrire ou acquérir des parts ou actions émises par des sociétés d'habitations à loyer modéré, des
+sociétés d'économie mixte, et des sociétés civiles immobilières dans les conditions prévues à l'article R. 421-5. Un arrêté
+conjoint du ministre chargé des finances et du ministre chargé du logement peut étendre ces participations à d'autres
+organismes.
 
 Les souscriptions, acquisitions et cessions d'actions doivent être autorisées par le conseil d'administration.
 
@@ -72924,7 +72891,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-661 du 12 juillet 1991 - art. 1 ()
+  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
 
 
 ###### Article R*423-16
@@ -73397,10 +73364,7 @@ _Cité par_:
 
 ###### Article R423-32-4
 
-Le directeur général détermine l'emploi des fonds qui excèdent les besoins courants de trésorerie dans les conditions prévues
-aux articles R. 423-14 et R. 423-15.
-
-Le comptable le renseigne de façon permanente sur la situation comptable et financière.
+Le comptable renseigne le directeur général de façon permanente sur la situation comptable et financière.
 
 Le comptable a seul qualité pour effectuer les emplois de fonds et valeurs.
 
@@ -73410,14 +73374,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°88-921 du 9 septembre 1988 - art. 1 () JORF 15 septembre 1988
-  - Décret n°88-921 du 9 septembre 1988 - art. 10 () JORF 15 septembre 1988
+  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
 
-_Cite_:
+_Abrogé par_:
 
-  - Code de la construction et de l'habitation R423-14, R423-15
+  - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
 ###### Article R423-32-5
@@ -74293,31 +74256,6 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R423-40 (Ab)
 
 
-###### Article R423-60
-
-Les fonds libres appartenant à l'office doivent être déposés au Trésor, à un compte de chèques postaux, à la Caisse des
-dépôts et consignations, à une caisse d'épargne, ou, sur autorisation spéciale du ministre chargé des finances, à la Banque
-de France.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-297 1951-03-03 art. 29
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°90-213 du 9 mars 1990 - art. 2 () JORF 10 mars 1990 en vigueur le 15 mars 1990
-
-_Abrogé par_:
-
-  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
-
-
 ###### Article R423-62
 
 En fin d'année, le président du conseil d'administration arrête les livres du comptable, dont il peut prendre à tout moment
@@ -74894,9 +74832,6 @@ _Cite_:
 
 ###### Article R423-61
 
-En dehors des opérations prévues par la législation en vigueur l'office ne peut effectuer que des placements en valeurs
-émises ou garanties par l'Etat.
-
 Les offices publics d'habitations à loyer modéré peuvent également, après accord de leur collectivité locale de rattachement,
 souscrire ou acquérir des actions émises par des sociétés d'habitations à loyer modéré ou des sociétés d'économie mixte.
 
@@ -74921,7 +74856,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°91-661 du 12 juillet 1991 - art. 2 ()
+  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
 
 _Cite_:
 
