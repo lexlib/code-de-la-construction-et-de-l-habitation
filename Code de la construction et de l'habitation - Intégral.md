@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-07-01
+Version Consolidée au 1993-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -7118,7 +7118,7 @@ _Cite_:
 
 ###### Article L261-11
 
-Le contrat doit être conclu par acte authentique et préciser [*contenu*] :
+Le contrat doit être conclu par acte authentique et préciser :
 
 a) La description de l'immeuble ou de la partie d'immeuble vendu ;
 
@@ -7149,7 +7149,7 @@ décision de prêt. L'inobservation des dispositions du présent article entraî
 être invoquée que par l'acquéreur et avant l'achèvement des travaux.
 
 Lorsque la vente a été précédée d'un contrat préliminaire prévu à l'article L. 261-15, seul le contrat de vente est soumis
-aux dispositions des articles 16 à 18 de la loi n° 79-596 du 13 juillet 1979.
+aux dispositions des articles L. 312-15 à L. 312-17 du code de la consommation.
 
 **Liens relatifs à cet article**
 
@@ -7160,17 +7160,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Cite_:
-
-  - Loi n°79-596 1979-07-13 art. 16 à 18
-  - Code civil - art. 1601-3 (V)
-  - Code de la construction et de l'habitation. - art. L261-15 (M)
-  - Code de la construction et de l'habitation. - art. L261-3 (M)
-
-_Modifié par_:
-
-  - Loi n°79-596 du 13 juillet 1979 - art. 39 () JORF 14 juillet 1979
 
 _Cité par_:
 
@@ -7188,6 +7177,17 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*261-13 (V)
   - Code des assurances - art. R421-24-3 (Ab)
   - Code monétaire et financier - art. D313-26 (VD)
+
+_Modifié par_:
+
+  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
+
+_Cite_:
+
+  - Code de la consommation L312-15 à L312-17
+  - Code civil - art. 1601-3 (V)
+  - Code de la construction et de l'habitation. - art. L261-15 (M)
+  - Code de la construction et de l'habitation. - art. L261-3 (M)
 
 
 ###### Article L261-11-1
@@ -7317,14 +7317,14 @@ _Codifié par_:
 La vente prévue à l'article L. 261-10 peut être précédée d'un contrat préliminaire par lequel, en contrepartie d'un dépôt de
 garantie effectué à un compte spécial, le vendeur s'engage à réserver à un acheteur un immeuble ou une partie d'immeuble.
 
-Ce contrat [*contenu*] doit comporter les indications essentielles relatives à la consistance de l'immeuble, à la qualité de
-la construction et aux délais d'exécution des travaux ainsi qu'à la consistance, à la situation et au prix du local réservé.
+Ce contrat doit comporter les indications essentielles relatives à la consistance de l'immeuble, à la qualité de la
+construction et aux délais d'exécution des travaux ainsi qu'à la consistance, à la situation et au prix du local réservé.
 
 Les fonds déposés en garantie sont indisponibles, incessibles et insaisissables jusqu'à la conclusion du contrat de vente.
 
 Ils sont restitués, dans le délai de trois mois, au déposant si le contrat n'est pas conclu du fait du vendeur, si la
-condition suspensive prévue à l'article 17 de la loi n° 79-596 du 13 juillet 1979 n'est pas réalisée ou si le contrat proposé
-fait apparaître une différence anormale par rapport aux prévisions du contrat préliminaire.
+condition suspensive prévue à l'article L. 312-16 du code de la consommation n'est pas réalisée ou si le contrat proposé fait
+apparaître une différence anormale par rapport aux prévisions du contrat préliminaire.
 
 Est nulle toute autre promesse d'achat ou de vente.
 
@@ -7338,19 +7338,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°79-596 1979-07-13 ART. 37
-  - SPEC_APPLI: Ordonnance n°98-774 du 2 septembre 1998 - art. 5 ()
-
-_Cite_:
-
-  - Loi n°79-596 du 13 juillet 1979 - art. 17 (M)
-  - Code de la construction et de l'habitation. - art. L261-10 (M)
-
 _Modifié par_:
 
-  - Loi n°79-596 du 13 juillet 1979 - art. 39 () JORF 14 JUILLET 1979
+  - Loi n°93-949 du 26 juillet 1993 - art. 2 (V) JORF 27 juillet 1993
 
 _Cité par_:
 
@@ -7368,6 +7358,11 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L263-1 (V)
   - Code de la construction et de l'habitation. - art. L291-3 (V)
   - Code général des impôts, CGI. - art. 155 (VD)
+
+_Cite_:
+
+  - Code de la consommation - art. L312-16 (V)
+  - Code de la construction et de l'habitation. - art. L261-10 (M)
 
 
 ###### Article L261-16
