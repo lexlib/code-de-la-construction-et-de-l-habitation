@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-12-31
+Version Consolidée au 1986-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -12637,17 +12637,22 @@ constructions édifiées à l'aide des prêts et aux terrains sur lesquels elles
 La radiation de l'hypothèque est effectuée sur mainlevée selon le cas, de l'autorité administrative, ou du représentant légal
 de l'établissement prêteur.
 
-La caisse de prêts aux organismes d'habitations à loyer modéré est subrogée dans l'hypothèque prise par les sociétés de
-crédit immobilier comme garantie des prêts qu'elles consentent au moyen des avances qui leur sont accordées par cette caisse.
-
-Cette subrogation peut se substituer en partie à la garantie prévue au premier alinéa du présent article dans des conditions
-fixées par décision de l'autorité administrative.
+La caisse de garantie du logement social est subrogée, à compter du 1er janvier 1986, dans l'hypothèque prise par les
+sociétés de crédit immobilier comme garantie des prêts qu'elles consentent au moyen des avances accordées jusqu'à cette date
+par la caisse de prêts aux organismes d'habitations à loyer modéré. La caisse des dépots et consignations est subrogée dans
+l'hypothèque prise par ces sociétés comme garantie des prêts qu'elles consentent au moyen des avances accordées par cette
+caisse. Ces subrogations peuvent se substituer en partie à la garantie prévue au premier alinéa du présent article dans des
+conditions fixées par décision de l'autorité administrative.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°85-695 1985-07-11 art. 21 I JORF 12 Juillet Rectificatif JORF 13 juillet 1985 en vigueur le 1er janvier 1986
 
 _Cité par_:
 
@@ -12670,6 +12675,10 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de l'urbanisme 204
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la construction R431-62
 
 
 ###### Article L431-2
