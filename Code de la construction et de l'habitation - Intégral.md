@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-10-05
+Version Consolidée au 1991-10-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -33041,22 +33041,65 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R314-1 (V)
 
 
+###### Article R314-4-1
+
+Des conventions peuvent également être conclues par le ministre chargé de la construction, le ministre chargé de la défense
+ou le représentant de l'Etat dans le département, avec des organismes gestionnaires de logements sociaux ou des organismes
+collecteurs de la participation des employeurs à l'effort de construction et qui s'engagent à réserver, en contrepartie de la
+contribution de l'Etat, des logements destinés à être loués aux fonctionnaires civils et militaires de l'Etat et aux agents
+de l'Etat.
+
+La contribution de l'Etat prend la forme soit de prêts remboursables dans les conditions stipulées dans la convention, soit
+de subventions.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°91-1053 du 9 octobre 1991 - art. 2 () JORF 15 octobre 1991
+
+_Abrogé par_:
+
+  - Décret n°2004-246 du 19 mars 2004 - art. 1 () JORF 20 mars 2004
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. R314-4 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R314-5 (M)
+
+
 ###### Article R314-5
 
-L'octroi de la contribution prévue à l'article précédent ne fait pas obstacle à l'attribution des primes à la construction.
+L'octroi de la contribution prévue aux articles R. 314-4 et R. 314-4-1 ne fait pas obstacle à l'attribution des primes à la
+construction.
 
 L'Etat et les établissements publics intéressés peuvent garantir par ces conventions et pendant un délai limité l'occupation
 permanente des logements réservés.
 
 **Liens relatifs à cet article**
 
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la construction R314-16, R314-5
+
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°91-1053 du 9 octobre 1991 - art. 2 () JORF 15 octobre 1991
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 278-3 al. 2, al. 3
+  - Code de l'urbanisme 278-3 AL. 2 et 3
 
 _Cité par_:
 
@@ -33066,6 +33109,11 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R314-6 (Ab)
   - Code de la construction et de l'habitation. - art. R441-19 (Ab)
   - Code de la construction et de l'habitation. - art. R443-13 (M)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R314-4 (M)
+  - Code de la construction et de l'habitation. - art. R314-4-1 (Ab)
 
 
 ###### Article R314-6
