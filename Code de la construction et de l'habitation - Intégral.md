@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-12-15
+Version Consolidée au 1988-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -23262,7 +23262,8 @@ chargé de la construction et de l'habitation et des autres départements minist
 technique ou l'économie de la construction.
 
 Il participe, en liaison avec les services intéressés et sous le contrôle du ministre chargé de la construction et de
-l'habitation, aux activités de coopération technique internationale concernant l'habitation et la construction.
+l'habitation, aux activités de coopération technique internationale concernant l'habitation et la construction. Il peut se
+voir confier toutes missions ayant trait à ces mêmes matières dans le domaine international.
 
 Il contribue à la diffusion des connaissances scientifiques et techniques en matière d'habitation et de construction par des
 publications et par toutes autres mesures appropriées.
@@ -23270,7 +23271,21 @@ publications et par toutes autres mesures appropriées.
 Il peut apporter son concours aux organismes, groupements, collectivités et personnes physiques ou morales qui le sollicitent
 pour des missions se rattachant à l'objet de ses activités.
 
+**Nota:**
+
+Décret n° 2006-672 du 8 juin 2006 art. 17 : Les dispositions réglementaires instituant des commissions administratives
+définies à l'article 1er créées avant la date de publication du présent décret sont abrogées au terme d'un délai de trois ans
+à compter de cette date (Commission d'avis technique sur les procédés, matériaux, éléments ou équipements utilisés dans la
+construction).
+
+art. 18 : L'abrogation ou la caducité des dispositions créant une commission dont l'avis est requis préalablement à une
+décision prise par l'autorité administrative entraîne celle des dispositions réglementaires prévoyant sa consultation.
+
 **Liens relatifs à cet article**
+
+**Liens**:
+
+  - TXT_ASSOCIE: Code de la construction R142-13
 
 _Anciens textes_:
 
@@ -23278,7 +23293,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°88-1146 1988-12-21 art. 1 jorf 27 décembre 1988
 
 _Cite_:
 
@@ -23353,7 +23372,7 @@ consécutifs.
 Le nombre des membres du conseil d'administration âgés de plus de soixante-cinq ans ne peut être supérieur à trois. Si ce
 nombre vient à être dépassé, le membre le plus âgé est réputé démissionnaire d'office.
 
-Les vacances par décès, démission, et pour toute autre cause sont portées par le président du conseil d'administration à la
+Les vacances par décès, démission et pour toute autre cause sont portées par le président du conseil d'administration à la
 connaissance du ministre chargé de la construction et de l'habitation. Celui-ci prend les mesures nécessaires pour assurer le
 remplacement des membres qui ont cessé de faire partie du conseil pour le temps qui reste à courir jusqu'au renouvellement de
 la totalité du conseil.
@@ -23367,9 +23386,9 @@ politiques.
 
 Chaque représentant des salariés dispose d'un crédit d'heures égal à quinze heures par mois pour exercer son mandat.
 
-Le mandat des membres du conseil d'administration est gratuit, sans préjudice du remboursement par l'entreprise des frais
-exposés pour l'exercice dudit mandat, suivant les modalités fixées par arrêté du ministre chargé du budget et du ministre
-chargé de la construction et de l'habitation.
+Les membres du conseil d'administration, à l'exception du président, exercent leurs fonctions à titre gratuit. Les frais
+exposés dans l'exercice de leurs fonctions leur sont remboursés par l'établissement suivant les modalités fixées par arrêté
+du ministre chargé du budget et du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -23388,7 +23407,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°84-843 1984-09-12 ART. 2 JORF 19 SEPTEMBRE 1984
+  - Décret n°88-1146 1988-12-21 art. 2 jorf 27 décembre 1988
 
 _Cité par_:
 
@@ -23397,13 +23416,16 @@ _Cité par_:
 
 ###### Article R*142-4
 
-Le président du conseil d'administration est nommé par décret parmi les membres du conseil et sur proposition de celui-ci.
+Le président du conseil d'administration est nommé par décret parmi les membres du conseil et après consultation de celui-ci.
 
-Le conseil d'administration choisit parmi ses membres un ou deux vice-présidents et un secrétaire élus pour la durée de leur
-mandat d'administrateur.
+Responsable de la politique du centre scientifique et technique du bâtiment, le président du conseil d'administration assure
+la gestion de l'établissement.
 
-Les fonctions du président et du ou des vice-présidents prennent fin à la date à laquelle leurs titulaires atteignent l'âge
-de soixante-cinq ans.
+A ce titre il engage, liquide et ordonnance les dépenses et les recettes. Il représente le centre dans tous les actes de la
+vie civile. Il assure les relations de l'établissement avec les administrations et les organismes français, étrangers et
+internationaux associés à ses activités et, plus généralement, prend toutes mesures utiles au fonctionnement du centre.
+
+Il est assisté par un directeur. Il peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
@@ -23417,7 +23439,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-843 1984-09-12 ART. 3 JORF 19 SEPTEMBRE 1984
+  - Décret n°88-1146 1988-12-21 art. 3 jorf 27 décembre 1988
 
 _Cité par_:
 
@@ -23466,7 +23488,7 @@ La présence de la majorité absolue des membres en exercice est nécessaire pou
 partage, la voix du président est prépondérante.
 
 Le procès-verbal de la séance est notifié au commissaire du Gouvernement qui dispose d'un délai de dix jours pour informer
-éventuellement le directeur de son opposition à la délibération du conseil d'administration et transmettre cette dernière au
+éventuellement le président de son opposition à la délibération du conseil d'administration et transmettre cette dernière au
 ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
@@ -23477,23 +23499,17 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Modifié par_:
 
-  - Décret n°79-675 1979-08-03 art. 4 JORF 12 août 1979
+  - Décret n°88-1146 1988-12-21 art. 6 JORF 27 décembre 1988
 
 
 ###### Article R*142-7
 
-Le directeur est nommé par décret pris sur le rapport du ministre chargé de la construction et de l'habitation, après avis du
-conseil d'administration. Il peut être mis fin à ses fonctions dans la même forme. Les fonctions de directeur prennent fin si
-leur titulaire atteint l'âge de soixante-cinq ans.
-
-Les conditions de sa rémunération sont fixées par décision conjointe du ministre chargé de la construction et de l'habitation
-et du ministre chargé des finances, après consultation du conseil d'administration.
-
-Le directeur assiste aux séances du conseil d'administration.
+Le directeur est nommé par arrêté du ministre chargé de la construction et de l'habitation sur proposition du président. Le
+ministre met fin à ses fonctions après avoir pris l'avis du président.
 
 **Liens relatifs à cet article**
 
@@ -23504,7 +23520,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°88-1146 1988-12-21 art. 4 jorf 27 décembre 1988
 
 _Cité par_:
 
@@ -23513,11 +23533,14 @@ _Cité par_:
 
 ###### Article R*142-8
 
-Le directeur est chargé, sous l'autorité du conseil d'administration, d'assurer la gestion du centre, de représenter celui-ci
-en justice et dans tous les actes de la vie civile, de procéder à l'engagement et au licenciement du personnel, de prendre
-toutes mesures nécessaires à la préparation et à l'exécution des programmes d'activité soumis à la délibération du conseil,
-d'établir les ordres de recettes, d'engager et d'ordonnancer les dépenses, de faire généralement tous actes utiles au
-fonctionnement du centre.
+Sous l'autorité du président, le directeur est chargé de la direction du centre.
+
+A ce titre, il assiste le président dans la préparation du budget et des délibérations du conseil d'administration et prend
+toutes mesures nécessaires à l'exécution des délibérations du conseil. Il gère le personnel.
+
+Il assiste aux séances du conseil d'administration avec voix consultative.
+
+Il peut déléguer sa signature.
 
 **Liens relatifs à cet article**
 
@@ -23527,24 +23550,30 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°88-1146 1988-12-21 art. 5 jorf 27 décembre 1988
 
 
 ###### Article R*142-9
 
-Le directeur soumet à la délibération du conseil d'administration :
+Le Président soumet à la délibération du conseil d'administration :
 
-1. Le programme général d'études et de recherches ;
+1° Le programme général d'études et de recherches ;
 
-2. Les programmes annuels de travaux neufs et d'équipement ;
+2° Les programmes annuels de travaux neufs et d'équipement ;
 
-3. L'état des prévisions de recettes et de dépenses établi pour chaque période de douze mois commençant le 1er janvier ;
+3° L'état des prévisions de recettes et de dépenses établi pour chaque période de douze mois commençant le 1er janvier ;
 
-4. Les comptes et bilans ;
+4° Les comptes et bilans ;
 
-5. Les effectifs des différentes catégories de personnel, dans les limites fixées en application de l'article R. 142-14 ;
+5° Les effectifs des différentes catégories de personnel, dans les limites fixées en application de l'article R. 142-14 ;
 
-6. Les projets d'achat et vente d'immeubles, de nantissement, d'hypothèques ou d'emprunts, les acceptations de dons et legs.
+6° Les projets d'achat et vente d'immeubles, de nantissement, d'hypothèques ou d'emprunts, les acceptations de dons et legs.
+
+7° Les actions en justice.
 
 Le programme général des études et des recherches entreprises pour le compte de l'Etat et des programmes annuels des travaux
 neufs et d'équipement sont soumis à l'approbation du ministre chargé de la construction et de l'habitation.
@@ -23558,7 +23587,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°88-1146 1988-12-21 art. 6 jorf 27 décembre 1988
 
 _Cite_:
 
@@ -23642,7 +23675,7 @@ _Nouveaux textes_:
 
 ###### Article R*142-12
 
-L'agent comptable du centre scientifique et technique du bâtiment, placé sous l'autorité du directeur, est nommé par arrêté
+L'agent comptable du centre scientifique et technique du bâtiment, placé sous l'autorité du président, est nommé par arrêté
 du ministre chargé de la construction et de l'habitation et du ministre chargé des finances. Sa rémunération est fixée dans
 les mêmes formes.
 
@@ -23654,7 +23687,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°88-1146 1988-12-21 art. 6 jorf 27 décembre 1988
 
 
 ###### Article R*142-13
