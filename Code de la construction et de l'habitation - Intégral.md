@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-07-01
+Version Consolidée au 1987-07-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -535,64 +535,68 @@ Version Consolidée au 1987-07-01
         - [Chapitre II : Loyers et divers. (art. *R442-3 à R442-12)](#532)
           - [Section 1 : Dispositions générales. (art. *R442-3 à R442-5)](#533)
           - [Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires. (art. R442-6 à R442-12)](#534)
-        - [Chapitre III : Accession à la propriété et autres cessions. (art. R*443-4 à R443-33)](#535)
+        - [Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions. (art. R*443-4 à R443-33)](#535)
           - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art. R*443-4 à R443-9)](#536)
-          - [Section 2 : Dispositions applicables aux cessions d'éléments du patrimoine immobilier. (art. R443-10 à R443-22)](#537)
+          - [Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier. (art. R443-10 à R443-17)](#537)
           - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R443-23 à R443-33)](#538)
-      - [Titre V : Contrôle (art. R451-1 à R451-7)](#539)
-        - [Chapitre unique. (art. R451-1 à R451-7)](#540)
-      - [Titre VI : Organismes consultatifs. (art. R461-1 à R461-15)](#541)
-        - [Chapitre unique. (art. R461-1 à R461-15)](#542)
-          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R461-1 à R461-7)](#543)
-          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#544)
-    - [Livre IV : Habitations à loyer modéré. (art. R*421-10 à R423-67)](#545)
-      - [Titre II : Organismes d'habitations à loyer modéré. (art. R*421-10 à R423-67)](#546)
-        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré. (art. R*421-10 à R421-66)](#547)
-          - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-10 à R*421-30)](#548)
-          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-61 à R421-66)](#549)
-            - [Sous-section 1 : Création et gestion. (art. R*421-61 à R421-66)](#550)
-        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#551)
-          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#552)
-            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#553)
-    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#554)
-      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#555)
-        - [Chapitre unique. (art. R511-1)](#556)
-      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#557)
-        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#558)
-        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#559)
-        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#560)
-      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#561)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#562)
-      - [Titre Ier : Dispositions générales. (art. R612-1)](#563)
-        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#564)
-      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#565)
-        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#566)
-      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#567)
-        - [Chapitre unique (art. R631-1 à R631-5)](#568)
-          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#569)
-          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#570)
-      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#571)
-        - [Chapitre unique (art. R641-1 à R641-25)](#572)
-          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#573)
-          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#574)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#575)
-        - [Chapitre unique. (art. R651-1)](#576)
-  - [Annexes (art. Annexe à l'article R322-20 à Annexe II à l'article R353-200, art. 1)](#577)
-    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#578)
-      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#579)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#580)
-    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#581)
-    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#582)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#583)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#584)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#585)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#586)
-    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe II à l'article R353-166, art. 1)](#587)
-      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#588)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#589)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#590)
-    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe II à l'article R353-200, art. 1)](#591)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#592)
+        - [Chapitre III : Accession à la propriété et autres cessions. (art.  à R443-33)](#539)
+          - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art.  à R443-33)](#540)
+          - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art.  à R443-33)](#541)
+      - [Titre V : Contrôle (art. R451-1 à R451-7)](#542)
+        - [Chapitre unique. (art. R451-1 à R451-7)](#543)
+      - [Titre VI : Organismes consultatifs. (art. R461-1 à R461-15)](#544)
+        - [Chapitre unique. (art. R461-1 à R461-15)](#545)
+          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R461-1 à R461-7)](#546)
+          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#547)
+    - [Livre IV : Habitations à loyer modéré. (art. R*421-10 à R423-67)](#548)
+      - [Titre II : Organismes d'habitations à loyer modéré. (art. R*421-10 à R423-67)](#549)
+        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré. (art. R*421-10 à R421-66)](#550)
+          - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-10 à R*421-30)](#551)
+          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-61 à R421-66)](#552)
+            - [Sous-section 1 : Création et gestion. (art. R*421-61 à R421-66)](#553)
+        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#554)
+          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#555)
+            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#556)
+    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#557)
+      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#558)
+        - [Chapitre unique. (art. R511-1)](#559)
+      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#560)
+        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#561)
+        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#562)
+        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#563)
+      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#564)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#565)
+      - [Titre Ier : Dispositions générales. (art. R612-1)](#566)
+        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#567)
+      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#568)
+        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#569)
+      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#570)
+        - [Chapitre unique (art. R631-1 à R631-5)](#571)
+          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#572)
+          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#573)
+      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#574)
+        - [Chapitre unique (art. R641-1 à R641-25)](#575)
+          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#576)
+          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#577)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#578)
+        - [Chapitre unique. (art. R651-1)](#579)
+  - [Annexes (art. Annexe à l'article R322-20 à Annexe à l'article R443-11)](#580)
+    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#581)
+      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#582)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#583)
+    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#584)
+    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#585)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#586)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#587)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#588)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#589)
+    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe II à l'article R353-166, art. 1)](#590)
+      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#591)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#592)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#593)
+    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe II à l'article R353-200, art. 1)](#594)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#595)
+    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#596)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -60534,7 +60538,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L442-1
 
 
-#### Chapitre III : Accession à la propriété et autres cessions.<a id=535></a>
+#### Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.<a id=535></a>
 
 ##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=536></a>
 
@@ -60568,8 +60572,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°84-702 1984-06-30 art. 4 JORF 24 juillet 1984
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
@@ -60589,7 +60592,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 **Liens**:
 
@@ -60631,7 +60634,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Anciens textes_:
 
@@ -60656,7 +60659,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Anciens textes_:
 
@@ -60678,15 +60681,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code des assurances - art. L131-1 (M)
-  - Code des assurances - art. L131-2 (M)
-  - Code des assurances - art. L131-3 (V)
-  - Code des assurances L132-1 à L132-28
-  - Code de la construction et de l'habitation L443-2 AL. 1 ET AL. 2
+  - Code des assurances - art. L131-1 (V)
+  - Code des assurances - art. L132-1 (V)
+  - Code de la construction et de l'habitation. - art. L443-2 (V)
 
 _Anciens textes_:
 
@@ -60714,7 +60715,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 
 ###### Article R443-7
@@ -60737,7 +60738,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 
 ###### Article R443-8
@@ -60754,31 +60755,28 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R443-7 (RENVOI)
+  - Code de la construction et de l'habitation. - art. R443-1 (V)
+  - Code de la construction et de l'habitation. - art. R443-7 (V)
 
 
 ###### Article R443-9
 
 Les sociétés d'habitations à loyer modéré ayant obtenu des avances de sociétés de crédit immobilier ne peuvent transférer le
 bénéfice des assurances souscrites en garantie des prêts hypothécaires consentis au moyen de ces avances qu'au profit de ces
-dernières sociétés.
+dernières sociétés. 
 
 Les sociétés de crédit immobilier ne peuvent transporter le bénéfice des assurances transférées à leur profit par les
 sociétés d'habitations à loyer modéré, ou celui des assurances souscrites directement à leur profit, sauf lorsque la cession
 des créances hypothécaires garanties par ces assurances est autorisée par la commission d'attribution des prêts, conformément
-aux dispositions de l'article R. 431-1.
+aux dispositions de l'article R. 431-1. 
 
 Le transport s'effectue, dans ces divers cas, par avenant à la police d'assurance.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret  1921-09-03 art. 5 al. 2, al. 3, al. 4
 
 _Codifié par_:
 
@@ -60786,39 +60784,23 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R431-1 (V)
 
+_Anciens textes_:
 
-##### Section 2 : Dispositions applicables aux cessions d'éléments du patrimoine immobilier.<a id=537></a>
+  - Décret  1921-09-03 art. 5 al. 2, al. 3, al. 4
+
+
+##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.<a id=537></a>
 
 ###### Article R443-10
 
-En application de l'article L. 443-7, l'organisme propriétaire peut vendre :
-
-1° Les maisons individuelles construites par l'organisme depuis plus de vingt ans, ce délai courant à compter de la date de
-déclaration d'achèvement des travaux mentionnés à l'article R 460-1 du code de l'urbanisme, ou acquises par l'organisme
-depuis plus de vingt ans à compter de la date de l'acte d'acquisition.
-
-Est considérée comme maison individuelle le bâtiment d'habitation comportant un accès direct vers l'extérieur et ne
-comprenant qu'un seul logement, au sens du troisième alinéa de l'article R. 111-1 ;
-
-2° Les logements situés dans un immeuble collectif, contruits par l'organisme depuis plus de dix ans, ce délai courant à
-compter de la date de déclaration d'achèvement des travaux mentionnés à l'article R. 460-1 du code de l'urbanisme, ou acquis
-par l'organisme depuis plus de dix ans.
-
-Est considéré comme immeuble collectif tout immeuble dont les caractéristiques ne répondent pas à celles définies au 1° ci-
-dessus.
-
-Les logements mentionnés aux 1° et 2° ci-dessus qui ont fait l'objet de travaux d'amélioration avec l'aide de l'Etat ou d'une
-collectivité publique ne peuvent être cédés qu'à l'expiration d'un délai de cinq ans à compter de la date de déclaration
-d'achèvement des travaux ou de la réception des travaux par le maître de l'ouvrage.
-
-Les immeubles collectifs et les logements qu'ils comportent ainsi que les maisons individuelles visés à l'article L. 443-7 ne
-peuvent être cédés que s'ils satisfont aux normes techniques énoncées en annexe au présent code.
+Le délai de dix ans fixé par l'article L. 443-7 court à compter de la date de déclaration d'achèvement des travaux prévue à
+l'article R. 460-1 du code de l'urbanisme ou à compter de la date de l'acte d'acquisition.
 
 **Liens relatifs à cet article**
 
@@ -60832,23 +60814,18 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2, JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L443-7 à L443-15
-  - Code de la construction et de l'habitation. - art. L443-8 (M)
+  - Code de l'urbanisme - art. R460-1 (M)
+  - Code de la construction et de l'habitation. - art. L443-7 (M)
 
 
 ###### Article R443-11
 
-Les logements visés à l'article L. 443-7 peuvent être acquis par les personnes physiques locataires de façon continue du même
-organisme d'habitations à loyer modéré depuis plus de cinq ans à compter de la date de signature de leur premier contrat de
-location.
-
-Lorsqu'il saisit, au titre des articles L. 443-7 ou L. 443-8 les autorités visées à l'article L. 443-9, l'organisme adresse à
-celles-ci les informations utiles, et notamment celles relatives à la localisation, à la dimension et à l'ancienneté du ou
-des logements concernés.
+Les normes d'habitabilité minimale mentionnées au premier alinéa de l'article L. 443-7 sont fixées en annexe au présent code.
 
 **Liens relatifs à cet article**
 
@@ -60862,13 +60839,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L443-7 (M)
-  - Code de la construction et de l'habitation. - art. L443-8 (M)
-  - Code de la construction et de l'habitation. - art. L443-9 (M)
 
 _Cité par_:
 
@@ -60877,26 +60853,28 @@ _Cité par_:
 
 ###### Article R443-12
 
-Les candidats à l'acquisition de leur logement saisissent l'organisme propriétaire de cette demande par lettre recommandée.
-Lorsque pour un même immeuble collectif le pourcentage de ces demandes fixé au sixième alinéa de l'article L. 443-7 est
-atteint, l'organisme dispose d'un délai d'un mois pour saisir les autorités visées à l'article L. 443-9.
+Lorsqu'un organisme d'habitations à loyer modéré envisage de vendre, en application du deuxième alinéa de l'article L.
+443-11, un logement vacant et a recueilli à cet effet les accords et avis prévus à l'article L. 443-7, il en informe ses
+locataires dans le département.
 
-En cas de décision négative, soit que l'organisme lui-même, soit que l'une des autorités visées au premier alinéa de
-l'article L. 443-9 ait refusé son accord, l'organisme notifie la décision de refus d'aliéner aux candidats acquéreurs dans le
-délai de deux mois qui suit la dernière des réponses, expresse ou tacite, de ces autorités, et, lorsque le représentant de
-l'Etat exprime un refus, en indique les motifs.
+Cette publicité mentionne la consistance du bien et le prix proposé.
 
-En cas d'accord de ces autorités, et à défaut d'y avoir préalablement procédé, l'organisme propriétaire saisit le service des
-domaines dans le délai de deux mois après que le dernier des accords requis et, le cas échéant, l'avis prévu au 2e alinéa de
-l'article L. 443-9 ont été donnés. La décision d'aliéner assortie du prix de vente fixé par l'organisme propriétaire,
-conformément à l'article L. 443-10, est définitivement arrêtée dans les deux mois qui suivent l'estimation du service des
-domaines.
+Elle est assurée :
 
-Dans le même délai l'organisme informe les candidats acquéreurs de la décision positive, du prix fixé de la possibilité pour
-l'acquéreur de se libérer du prix de vente par des paiements échelonnés conformément à l'article R. 443-15.
+a) Par voie d'affichage au siège social de l'organisme et aux emplacements habituellement utilisés pour l'information des
+locataires dans les immeubles collectifs appartenant à l'organisme et situés dans le département ;
 
-A compter de cette notification le candidat acquéreur doit souscrire dans les trois mois un engagement d'acquisition. A
-défaut il est réputé avoir renoncé à l'acquisition.
+b) Par une insertion dans deux journaux locaux diffusés dans le département ;
+
+c) Et, s'il s'agit d'une maison individuelle, par l'apposition sur cette maison ou à proximité immédiate d'un écriteau
+visible de la voie publique.
+
+L'organisme propriétaire ne peut écarter les demandes d'acquisition émanant de ses locataires dans le département que pour
+des motifs sérieux et légitimes.
+
+En tout état de cause, il ne peut retenir une demande émanant d'une personne n'ayant pas la qualité de locataire avant
+l'expiration d'un délai de deux mois courant à compter de l'exécution de l'ensemble des mesures de publicité prévues par les
+alinéas 2 et 3 du présent article.
 
 **Liens relatifs à cet article**
 
@@ -60910,14 +60888,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L443-10 (M)
+  - Code de la construction et de l'habitation. - art. L443-11 (M)
   - Code de la construction et de l'habitation. - art. L443-7 (M)
-  - Code de la construction et de l'habitation. - art. L443-9 (M)
-  - Code de la construction et de l'habitation. - art. R443-15 (M)
 
 _Cité par_:
 
@@ -60927,31 +60904,13 @@ _Cité par_:
 
 ###### Article R443-13
 
-Après avoir, pour vendre des logements, en application de l'article L. 443-8, recueilli, le cas échéant, l'avis mentionné au
-deuxième alinéa de l'article L. 443-9 et reçu les accords prévus au premier alinéa du même article, l'organisme propriétaire
-informe les locataires des mises en vente envisagées en indiquant le prix et les conditions de la vente.
+Lorsque, dans les cas prévus au deuxième alinéa de l'article L. 443-13, l'acquéreur demande à se libérer d'une partie du prix
+de vente par des versements échelonnés dans le temps, l'organisme doit proposer ces facilités pour un montant compris entre
+20 p. 100 et 80 p. 100 du prix de vente et à un taux effectif global dont le plafond est fixé par arrêté conjoint du ministre
+chargé de l'économie et des finances et du ministre chargé de la construction et de l'habitation.
 
-Cette information est faite par voie d'affichage au siège social de l'organisme propriétaire, dans les immeubles appartenant
-à l'organisme et situés dans une zone comprenant la commune d'implantation des logements vacants et les communes limitrophes
-ou, si la commune est divisée en arrondissements, l'arrondissement d'implantation, les arrondissements et les autres communes
-limitrophes de cet arrondissement, ainsi qu'à la mairie de la commune ou de l'arrondissement d'implantation.
-
-Dans les départements ou parties de département, autres que ceux compris dans la zone définie au précédent alinéa, où il est
-effectivement propriétaire de logements, l'organisme fait procéder à une publicité relative à la mise en vente des logements
-dans deux journaux régionaux ou locaux diffusés dans ces départements.
-
-Le droit de priorité des locataires s'exerce pendant une durée de soixante jours à compter de la date où l'ensemble de ces
-affichages et publications est intervenu. Dans ce délai les locataires intéressés peuvent faire connaître leur intention
-d'acquérir par lettre recommandée avec demande d'avis de réception.
-
-Au terme de ce délai l'organisme dispose de soixante jours pour faire connaître aux candidats la suite donnée à leur demande.
-
-La décision de l'organisme de donner suite à la demande d'achat d'un logement par un tiers ne justifiant d'aucun droit de
-priorité ne peut intervenir qu'au terme des délais et de la procédure ci-dessus définis, et si aucun candidat propriétaire ne
-s'est déclaré ou n'a été retenu pour ce logement.
-
-En dehors du cas où il a consenti la vente à un autre de ses locataires, l'organisme ne peut refuser la vente à un locataire
-demandant à bénéficier du droit de priorité et vendre à un tiers non locataire que pour des motifs sérieux et légitimes.
+L'organisme vendeur peut proposer à l'acquéreur différentes formules de versements échelonnés, mais l'acquéreur doit pouvoir
+opter en tout état de cause pour des versements constants échelonnés sur 240 mensualités.
 
 **Liens relatifs à cet article**
 
@@ -60965,7 +60924,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cité par_:
 
@@ -60974,28 +60934,21 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R443-14 AL. 2
-  - Code de la construction et de l'habitation. - art. R314-5 (M)
-  - Code de la construction et de l'habitation. - art. R431-3 (V)
+  - Code de la construction et de l'habitation. - art. L443-13 (M)
 
 
 ###### Article R443-14
 
-Le prix de vente d'un logement cédé en application des articles L. 443-7 et L. 443-8 est fixé par l'organisme, propriétaire
-dans les conditions définies à l'article L. 443-10. En vue de la fixation de ce prix, l'organisme propriétaire saisit le
-service des domaines.
+Pour l'application de l'article L. 443-8, l'aide publique pouvant donner lieu à remboursement comprend :
 
-L'estimation du service des domaines doit être fournie dans un délai de trois mois à compter de sa saisine par l'organisme.
-Elle est valable pendant une durée de deux ans à compter de sa notification.
+a) Les aides attribuées par l'Etat ou pour son compte et versées directement à l'organisme vendeur sous forme de primes ou de
+subventions ;
 
-La valeur résultant de l'actualisation du côut initial est établie de la façon suivante :
+b) Les aides de l'Etat destinées à une bonification des prêts accordés pour la construction, l'acquisition ou l'amélioration
+de l'immeuble vendu ; un arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé de la
+construction et de l'habitation fixe les modalités de calcul de ces aides.
 
-1° Pour les immeubles achevés antérieurement au 30 septembre 1953, elle résulte de l'application au prix de revient d'un
-rapport établi suivant les modalités définies par le ministre chargé de la construction et de l'habitation en fonction des
-indices existants à la date de l'achèvement de la construction en vigueur à la date de la vente ;
-
-2° Pour les immeubles achevés à compter du 1er octobre 1953, elle résulte de l'application au prix de revient du rapport
-existant entre l'indice du coût de la construction en vigueur à la date de l'achèvement de la construction.
+Ces sommes sont calculées, le cas échéant, pour la quote-part correspondant aux logements mis en vente.
 
 **Liens relatifs à cet article**
 
@@ -61006,6 +60959,11 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 **Liens**:
 
@@ -61023,50 +60981,17 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L443-10 (M)
-  - Code de la construction et de l'habitation. - art. L443-7 (M)
   - Code de la construction et de l'habitation. - art. L443-8 (M)
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-13 art. 1, art. 2 JORF 13 novembre 1985
 
 
 ###### Article R443-15
 
-Lorsque l'acquéreur choisit de se libérer du paiement du prix de la vente visée aux articles L. 443-7 et L. 443-8 par des
-versements échelonnés dans le temps en application des dispositions de l'article L. 443-10-1 l'organisme vendeur est tenu de
-lui consentir, sous réserve de ses capacités de remboursement, un crédit dont le montant et les caractéristiques sont fixées
-comme suit en fonction de ses ressources :
+En cas de vente réalisée en application de l'avant-dernier alinéa de l'article L. 443-11, les aides de l'Etat sont calculées
+ainsi qu'il est dit à l'article R. 443-14.
 
-1° Lorsque les ressources de l'acquéreur ne dépassent pas la limite visée à l'article R. 331-42 le montant du crédit accordé
-par l'organisme est au plus égal à 70 p. 100 du prix de vente du logement si les ressources de l'acquéreur sont comprises
-entre 70 p. 100 et 100 p. 100 de cette limite, à 80 p. 100 du prix de vente si elles sont inférieures à 70 p. 100 de cette
-limite.
-
-Dans les deux cas, le montant du crédit est porté à 90 p. 100 pour les acquéreurs ayant au moins trois enfants à charge dont
-un de moins de quatre ans, à la date de la vente.
-
-Les caractéristiques financières du crédit sont celles des prêts à taux fixes définis à l'article R. 331-54.
-
-Les versements effectués par l'acquéreur au titre du remboursement du crédit ne peuvent pas être échelonnés sur une durée
-inférieure à quinze ans, sauf accord contraire entre les parties.
-
-Dans ce dernier cas, le taux actuariel théorique du crédit d'une durée inférieure à quinze ans ainsi consenti est égal au
-taux actuariel théorique des prêts à taux fixes d'une durée de quinze ans définis à l'article R. 331-54 ;
-
-2° Lorsque les ressources de l'acquéreur sont supérieures à la limite mentionnée à l'article R. 331-42, la durée du crédit
-est au plus égale à celui des prêts de même durée définis à l'article R. 331-54, majoré d'un point.
-
-Toute personne physique se portant acquéreur d'un logement dans les conditions définies aux articles L. 443-7 et . 443-8 et
-bénéficiant des facilités de paiement fixées aux 1° et 2° du présent article acquitte au moins 10 p. 100 du prix de la vente
-au moment de la signature de l'acte.
-
-La valeur des taux mentionnés au présent article est celle en vigueur au moment de l'offre de crédit faite par l'organisme à
-l'acquéreur.
-
-Dans tous les cas d'application du présent article, l'acquéreur doit souscrire un contrat d'assurance dans les conditions
-prévues à l'article L. 443-2.
+Leur remboursement est en principe immédiatement exigible. Toutefois, le préfet peut, lorsque l'opération risque d'avoir des
+répercussions défavorables sur la situation financière de l'organisme, autoriser un remboursement en plusieurs fractions. Cet
+échelonnement ne peut être supérieur à la durée prévue par l'échéancier initial du prêt principal correspondant.
 
 **Liens relatifs à cet article**
 
@@ -61080,16 +61005,13 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
-  - Code de la construction et de l'habitation. - art. L443-2 (M)
-  - Code de la construction et de l'habitation. - art. L443-7 (M)
-  - Code de la construction et de l'habitation. - art. L443-8 (M)
-  - Code de la construction et de l'habitation. - art. R331-42 (M)
-  - Code de la construction et de l'habitation. - art. R331-54 (M)
+  - Code de la construction et de l'habitation. - art. L443-11 (M)
+  - Code de la construction et de l'habitation. - art. R443-14 (M)
 
 _Cité par_:
 
@@ -61099,10 +61021,10 @@ _Cité par_:
 
 ###### Article R443-16
 
-Lorsqu'un acquéreur répondant aux conditions définies à l'article R. 443-15 (1°) se libère du paiement du prix de vente par
-des versements échelonnés, il peut bénéficier de l'aide personnalisée au logement dans les conditions fixées par les
-dispositions du chapitre 1er du titre V du livre III du présent code (partie législative), relatives aux personnes qui sont
-propriétaires du logement qu'elles occupent.
+En cas de vente d'un logement ayant fait l'objet de travaux d'amélioration financés avec l'aide de l'Etat, le délai de cinq
+ans mentionné au dernier alinéa de l'article L. 443-13 court à compter de la date de déclaration d'achèvement des travaux ou,
+pour les travaux ne donnant pas lieu à la délivrance d'un permis de construire ou à la déclaration prévue par l'article L.
+422-2 du code de l'urbanisme, de la date de leur réception par le maître d'ouvrage.
 
 **Liens relatifs à cet article**
 
@@ -61116,7 +61038,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cité par_:
 
@@ -61125,28 +61048,22 @@ _Cité par_:
 
 ###### Article R443-17
 
-Pour la détermination des sommes à rembourser par un organisme d'habitations à loyer modéré en cas de vente de logement,
-l'organisme vendeur établit le prix de revient du logement et les modalités de financement de la construction ou de
-l'acquisition et de l'amélioration de l'immeuble en cause ou de l'ensemble de logements ayant fait l'objet d'un même
-financement ainsi que la part affectée au financement du logement vendu, en distinguant les prêts selon leur nature, et les
-subventions selon leur origine et leur nature.
+En cas de démolition totale ou partielle dans les conditions prévues par l'article L. 443-15-1, le remboursement des aides de
+l'Etat calculées ainsi qu'il est dit à l'article R. 443-14 et des prêts aidés ou consentis par l'Etat est en principe
+immédiatement exigible.
 
-L'aide publique à rembourser comprend les primes, subventions ou bonifications d'intérêt attribuées directement ou
-indirectement par l'Etat à l'organisme vendeur à raison du logement vendu, sauf application au profit de l'Etat des
-dispositions de l'article L. 443-15.
+Toutefois, le préfet peut, pour tenir compte de la situation financière de l'organisme et de l'intérêt de l'opération au plan
+économique et social :
 
-Le commissaire de la République du département où est situé le siège de l'organisme vérifie l'exactitude des calculs établis
-par l'organisme vendeur.
+a) Exonérer celui-ci en tout ou partie du remboursement des aides ;
 
-Le montant de l'aide publique à rembourser ainsi que les modalités de son reversement en recettes diverses au budget général
-sont ensuite définis par arrêté conjoint du ministre chargé de la construction et de l'habitation et du ministre chargé de
-l'économie et des finances.
+b) Autoriser le remboursement échelonné de tout ou partie des aides sur une durée ne pouvant excéder celle prévue par
+l'échéancier initial du prêt principal correspondant ;
+
+c) Autoriser l'organisme à continuer le remboursement des prêts visés au premier alinéa selon l'échéancier initialement
+prévu.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°65-557 du 10 juillet 1965 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -61154,334 +61071,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
-
-
-###### Article R443-17-1
-
-1. En cas de vente de logement avec paiement au comptant en application des dispositions des articles L. 443-7, L. 443-8 et
-L. 443-10-1, l'organisme vendeur peut conserver le bénéfice des prêts assortis d'une aide de l'Etat qu'il a obtenus pour le
-financement de la construction ou de l'acquisition et de l'amélioration du logement vendu, aux conditions figurant dans le
-contrat de prêt. L'aide publique définie à l'article R. 443-17 est immédiatement remboursée à l'Etat.
-
-2. En cas d'aliénation à une personne physique ou morale autre qu'un organisme d'habitations à loyer modéré, d'un élément de
-patrimoine immobilier, en application des dispositions de l'article L. 443-14, le capital restant dû des prêts assortis d'une
-aide de l'Etat obtenus pour le financement de la construction ou de l'acquisition et de l'amélioration du bien est remboursé
-immédiatement à l'Etat ou à l'établissement prêteur.
-
-L'aide publique définie à l'article R. 443-17 est immédiatement remboursée à l'Etat.
-
-3° Les dispositions du paragraphe 2 s'appliquent en cas de démolition d'un élément du patrimoine. Cependant, à titre
-exceptionnel, le ministre chargé de la construction et de l'habitation et le ministre chargé de l'économie et des finances
-peuvent compte tenu de sa situation financière et des justifications fournies sur la démolition entreprise, dispenser
-l'organisme du remboursement immédiat du capital restant dû des prêts.
-
-Le ministre chargé de la construction et de l'habitation et le ministre chargé de l'économie et des finances peuvent dans les
-mêmes conditions dispenser l'organisme du remboursement de l'aide publique.
-
-4. En cas d'aliénation au profit d'un autre organisme d'habitations à loyer modéré, et à la condition que le bien cédé
-conserve sa destination d'origine, les prêts initialement obtenus sont transférés, sans modification de leurs
-caractéristiques, à l'organisme bénéficiaire de l'aliénation, sous réserve du maintien de la garantie obtenue lors de
-l'octroi de ces prêts.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Créé par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Nouveaux textes_:
-
-  - Code de la construction et de l'habitation. - art. D443-17-1, v. 0.1 (VD)
+  - Décret n°87-477 1987-07-01 art. 1, 2 jorf 2 juillet 1987
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
-  - Code de la construction et de l'habitation. - art. L443-14 (M)
-  - Code de la construction et de l'habitation. - art. L443-7 (M)
-  - Code de la construction et de l'habitation. - art. L443-8 (M)
-  - Code de la construction et de l'habitation. - art. R443-17 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R443-18 (Ab)
-
-
-###### Article R443-17-2
-
-En cas de vente avec paiement échelonné en application de l'article L. 443-10-1, l'organisme vendeur n'est pas tenu au
-remboursement immédiat des aides publiques et des prêts assortis d'une aide de l'Etat qu'il a obtenus pour le financement de
-la construction ou de l'acquisition et de l'amélioration du logement vendu.
-
-Les fonds versés par l'acquéreur sont répartis par l'organisme vendeur de la façon suivante :
-
-Les sommes reçues au comptant lors de la signature du contrat sont affectées pour moitié à l'Etat au titre du remboursement
-des aides publiques dans la limite de leur montant, le solde étant attribué à l'organisme vendeur.
-
-Les sommes reçues mensuellement au titre des versements échelonnés sont réparties dans l'ordre suivant :
-
-a) Au bénéfice de l'Etat et des autres prêteurs au titre du paiement des annuités de remboursement des prêts, dans la limite
-du douzième des annuités normales de ces prêts, et s'il y a lieu au prorata de celles-ci.
-
-b) Au bénéfice de l'organisme vendeur pour le solde dans la limite de la moitié du versement ;
-
-c) Au bénéfice de l'Etat pour le solde, au titre du remboursement de l'aide publique jusqu'à remboursement de la totalité de
-celle-ci ;    d) A l'organisme vendeur pour le solde après remboursement de la totalité de l'aide publique.
-
-L'organisme vendeur informe les prêteurs de la conclusion du contrat de vente et communique au commissaire de la République
-un échéancier du remboursement de l'aide de l'Etat établi sur les bases précédentes.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Créé par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L443-10-1 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R443-18 (Ab)
-
-
-###### Article R443-18
-
-En application des dispositions de l'article L. 443-11, les sommes reçues par l'organisme vendeur à la suite des aliénations
-qu'il a consenties à quelque titre que ce soit, et conservées par lui en application des articles R. 443-17-1 et R. 443-17-2,
-reçoivent les affectations suivantes :
-
-Elles sont obligatoirement utilisées, ainsi que leurs produits pour financer :
-
-1° Des opérations de construction ou d'acquisition-amélioration de logements ouvrant droit au bénéfice des prêts visés aux
-articles R. 331-1 à R. 331-31 ;
-
-2° Des opérations de construction ou d'acquisition-amélioration de logements en vue de leur location ouvrant droit aux prêts
-visés aux articles R. 331-63 à R. 331-77 ;
-
-3° Des opérations de construction et de mise en vente de logements codifiées aux articles R. 331-59-8 à R. 331-59-18 ;
-
-4° Des travaux d'amélioration de logements ouvrant droit à une subvention de l'Etat visée aux articles R. 323-1 à R.
-323-11-1, ou à l'aide personnalisée au logement visée à l'article L. 351-1 ;
-
-5° Des travaux d'amélioration de logements ouvrant droit aux subventions visées aux articles R. 323-12 à R. 323-20 et R.
-323-21 à R. 323-30 ;
-
-6° Des opérations de construction et d'amélioration de logements financés à l'aide de prêts et concours financiers divers aux
-organismes d'habitation à loyer modéré visés au chapitre 1er du titre III du livre IV et des primes et prêts à la
-construction visées au chapitre 1er du titre 1er du livre III ;
-
-7° Des travaux de grosses réparations des logements à la condition que la provision pour grosses réparations concernant la
-totalité des immeubles bâtis appartenant à l'organisme soit au moins égale au montant fixé par la réglementation comptable
-applicable aux organismes d'habitations à loyer modéré.
-
-Au cas où leur affectation ne peut être immédiate, elles sont comptabilisées dans un compte spécial de la comptabilité de
-l'organisme vendeur, utilisées à des placements compatibles avec la réglementation applicable aux organismes d'habitations à
-loyer modéré et inscrites ainsi que leurs produits dans l'annexe des comptes annuels établis en application de l'article 8 du
-code de commerce.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cite_:
-
-  - Code de commerce 8
-  - Code de la construction et de l'habitation L443-11, R443-17-1, R443-17-2, R331-1 à R331-31, R331-63 à R331-77, R331-59-8 à R331-59-18, R323-1 à R323-11-1, L351-1, R323-12 à R323-20, R323-21 à R323-30
-  - Code de la construction et de l'habitation. - art. L351-1 (V)
-  - Code de la construction et de l'habitation. - art. L443-11 (M)
-  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
-  - Code de la construction et de l'habitation. - art. R443-17-2 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R481-8-2 (VD)
-
-
-###### Article R443-19
-
-Le contrat de vente du logement doit faire mention des prescriptions des articles L. 443-12 et L. 443-13. Il doit prévoir que
-toute aliénation ultérieure est subordonnée au paiement immédiat des sommes encore dues par l'acquéreur initial à l'organisme
-vendeur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-840 1966-11-14 art. 12
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L443-12 (M)
-  - Code de la construction et de l'habitation. - art. L443-13 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R443-21-1 (V)
-
-
-###### Article R443-20
-
-Le prix des éléments du patrimoine immobilier, vendus en application de l'article R. 443-14 ne peut être inférieur, sauf en
-cas de cession à un organisme d'HLM ou à une collectivité publique, ou en cas d'opérations entreprises en vue de permettre
-l'accession à la propriété, à l'évaluation faite par le service des domaines, dans les mêmes conditions que celles fixées à
-l'article R. 443-14.
-
-Les personnes physiques acquéreurs de logement, en application des dispositions de l'article L. 443-14, ne doivent pas
-disposer de ressources supérieures à la limite visée à l'article R. 331-42.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-840 1966-11-14 art. 13
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-42 (M)
+  - Code de la construction et de l'habitation. - art. L443-15-1 (M)
   - Code de la construction et de l'habitation. - art. R443-14 (M)
 
 _Cité par_:
 
-  - Code de la construction et de l'habitation. - art. R481-8-2 (VD)
-
-
-###### Article R443-21
-
-Lorsque le ou les logements vendus, en application des articles L. 443-7, L. 443-8 ou L. 443-14, ont fait l'objet d'une
-convention de réservation au profit d'une personne morale au titre des articles R. 314-4, R. 441-11 ou R. 441-19, cette
-convention ne fait pas obstacle à la vente.
-
-Toutefois, l'organisme est tenu, à moins que les parties n'en disposent autrement, de mettre à la disposition du
-réservataire, au moment de la vente, un logement équivalent.
-
-A défaut, le premier logement équivalent disponible doit être proposé prioritairement au réservataire.
-
-Pour déterminer l'équivalence du logement, il est notamment tenu compte des caractéristiques techniques et du lieu
-d'implantation du logement proposé à la vente.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-840 1966-11-14 art. 14
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L443-14 (M)
-  - Code de la construction et de l'habitation. - art. L443-7 (M)
-  - Code de la construction et de l'habitation. - art. L443-8 (M)
-  - Code de la construction et de l'habitation. - art. R314-4 (M)
-  - Code de la construction et de l'habitation. - art. R441-11 (M)
-  - Code de la construction et de l'habitation. - art. R441-19 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R443-21-1 (V)
-  - Code de la construction et de l'habitation. - art. R443-22 (V)
-
-
-###### Article R443-22
-
-Tant que l'organisme demeure propriétaire d'au moins un logement situé dans un immeuble collectif, il assure de droit, sauf
-s'il y renonce, les fonctions de syndic de la copropriété.
-
-Il est alors tenu d'établir un état descriptif de division de l'immeuble, un état de répartition des charges, ainsi qu'un
-règlement de copropriété conforme à un règlement type établi par le ministre chargé de la construction et de l'habitation. Sa
-rémunération en tant que syndic est fixée par le commissaire de la République.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-840 1966-11-14 art. 15
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-1176 1985-11-12 art. 1, art. 2 JORF 13 novembre 1985
-
-_Abrogé par_:
-
-  - Décret n°87-477 du 1 juillet 1987 - art. 2 ()
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R481-8-2 (VD)
+  - Code de la construction et de l'habitation. - art. R443-17-1 (Ab)
 
 
 ##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=538></a>
@@ -61504,7 +61108,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61512,6 +61120,7 @@ _Nouveaux textes_:
 
 _Cité par_:
 
+  - Code de la construction et de l'habitation. - art. R422-40 (T)
   - Code de la construction et de l'habitation. - art. R443-25 (T)
 
 
@@ -61540,7 +61149,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61561,15 +61174,19 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R443-23 (M)
+  - Code de la construction et de l'habitation. - art. R443-23
 
 
 ###### Article R443-26
@@ -61583,18 +61200,18 @@ a) Cas de paiement en vingt-cinq annuités.
 Un paiement différé est autorisé, à la demande de l'acquéreur, pour la fraction d'annuité, majorée comme il est indiqué à
 l'alinéa 1er, supérieure :
 
-- à 125 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
+- à 125% de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
 
-- à 140 p. 100 de la valeur du loyer principal pendant les cinq années suivantes.
+- à 140% de la valeur du loyer principal pendant les cinq années suivantes.
 
 b) Cas de paiement en vingt annuités.
 
 Un paiement différé est autorisé, à la demande de l'acquéreur pour la fraction d'annuité, majorée comme il est indiqué à
 l'alinéa 1er, supérieure :
 
-- à 135 p. 100 de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
+- à 135% de la valeur du loyer principal pendant une période de cinq ans à partir du moment où la dette est exigible ;
 
-- à 150 p. 100 de la valeur du loyer principal pendant les cinq années suivantes ;
+- à 150% de la valeur du loyer principal pendant les cinq années suivantes.
 
 c) Cas de paiement en quinze annuités.
 
@@ -61612,7 +61229,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61625,7 +61246,7 @@ Jusqu'à la signature du contrat de vente, les rapports de la société et du lo
 l'acquisition de son logement continuent d'être régis par le contrat de location coopérative ou le bail. Toutefois, le point
 de départ du paiement par annuités du prix d'acquisition est, au choix de la société, soit la date de réception par elle de
 la demande d'acquisition mentionnée à l'article L. 422-16, soit une date unique pour un ensemble de logements qui ne peut
-être postérieure au 31 décembre 1973.
+être postérieure au 31 décembre 1973. 
 
 Les sommes versées par les associés au titre de l'amortissement du capital dans les annuités d'emprunt entre le 1er janvier
 1972 et le point de départ du paiement par annuités du prix d'acquisition s'imputent sur la dernière de ces annuités.
@@ -61638,11 +61259,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61650,12 +61275,12 @@ _Nouveaux textes_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L422-16 (V)
+  - Code de la construction et de l'habitation. - art. L422-16
 
 
 ###### Article R443-28
 
-Le transfert de propriété  a lieu lors de la signature du contrat de vente. Lorsque l'acquéreur n'acquitte pas le prix au
+Le transfert de propriété a lieu lors de la signature du contrat de vente. Lorsque l'acquéreur n'acquitte pas le prix au
 comptant, la société doit inscrire son privilège de vendeur.
 
 **Liens relatifs à cet article**
@@ -61666,11 +61291,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61680,7 +61309,7 @@ _Nouveaux textes_:
 ###### Article R443-29
 
 La société est tenue d'établir, avant la signature du premier contrat de vente, un règlement de copropriété conforme à un
-règlement-type qui prévoiera la possibilité de constituer un syndicat coopératif et sera arrêté par le ministre chargé de la
+règlement type qui prévoiera la possibilité de constituer un syndicat coopératif et sera arrêté par le ministre chargé de la
 construction et de l'habitation. Ce règlement comporte l'état descriptif de division de l'immeuble.
 
 A compter de la signature du contrat de vente, le droit de propriété de l'acquéreur s'exerce dans le cadre de ce règlement.
@@ -61699,13 +61328,21 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+_Modifié par_:
+
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. D443-29, v. 0.1 (VD)
 
 _Cité par_:
 
-  - Code de la construction et de l'habitation. - art. R443-33 (M)
+  - Code de la construction et de l'habitation. - art. R443-33 (T)
 
 
 ###### Article R443-30
@@ -61721,11 +61358,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61748,11 +61389,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61772,11 +61417,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -61786,26 +61435,25 @@ _Nouveaux textes_:
 ###### Article R443-33
 
 Les sociétés anonymes d'habitations à loyer modéré qui ont été substituées aux sociétés anonymes coopératives d'habitations à
-loyer modéré de location-coopérative supprimées par la loi n. 71-580 du 16 juillet 1971 (article 26-I) ou avec lesquelles
-celles-ci ont fusionné, sont autorisées à percevoir des associés acquéreurs ;
+loyer modéré de location-coopérative supprimées par la loi n° 71-580 du 16 juillet 1971 (article 26-I) ou avec lesquelles
+celles-ci ont fusionné, sont autorisées à percevoir des associés acquéreurs : 
 
-a) Une indemnité forfaitaire égale à 0,50 p. 100 du prix de cession, pour la modification des contrats ;
+a) Une indemnité forfaitaire égale à 0,50 % du prix de cession, pour la modification des contrats ; 
 
 b) Des frais de gestion administrative pendant la période comprise entre la date de signature du contrat de vente et la
-constatation de l'entier paiement du prix dans la limite de 0,50 p. 100 du prix plafond en vigueur au 1er janvier de l'année
-en cours pour un logement de même superficie et de même catégorie ;
+constatation de l'entier paiement du prix dans la limite de 0,50 % du prix plafond en vigueur au 1er janvier de l'année en
+cours pour un logement de même superficie et de même catégorie ; 
 
 c) Le remboursement des frais d'établissement du règlement prévu à l'article R. 443-29 qui sont répartis proportionnellement
 aux valeurs relatives des parties privatives comprises dans les lots, telles que ces valeurs résultent des dispositions de
-l'article 5 de la loi n. 65-557 du 10 juillet 1965 sur la copropriété.
+l'article 5 de la loi n° 65-557 du 10 juillet 1965 sur la copropriété.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°65-557 du 10 juillet 1965 - art. 5 (V)
-  - Loi n°71-580 1971-07-16 ART. 26-I
-  - Code de la construction et de l'habitation. - art. R443-29 (M)
+  - Loi n°65-557 du 10 juillet 1965 - art. 5
+  - Code de la construction et de l'habitation. - art. R443-29 (T)
 
 _Anciens textes_:
 
@@ -61817,12 +61465,22 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
+  - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 
-### Titre V : Contrôle<a id=539></a>
+#### Chapitre III : Accession à la propriété et autres cessions.<a id=539></a>
 
-#### Chapitre unique.<a id=540></a>
+##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=540></a>
+
+##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=541></a>
+
+### Titre V : Contrôle<a id=542></a>
+
+#### Chapitre unique.<a id=543></a>
 
 ###### Article R451-1
 
@@ -61987,11 +61645,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L451-5 (Ab)
 
 
-### Titre VI : Organismes consultatifs.<a id=541></a>
+### Titre VI : Organismes consultatifs.<a id=544></a>
 
-#### Chapitre unique.<a id=542></a>
+#### Chapitre unique.<a id=545></a>
 
-##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=543></a>
+##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=546></a>
 
 ###### Article R461-1
 
@@ -62262,7 +61920,7 @@ _Abrogé par_:
   - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
 
-##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=544></a>
+##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=547></a>
 
 ###### Article R461-8
 
@@ -62389,13 +62047,13 @@ _Codifié par_:
   - Décret n°78-622 du 31 mai 1978, v. init.
 
 
-## Livre IV : Habitations à loyer modéré.<a id=545></a>
+## Livre IV : Habitations à loyer modéré.<a id=548></a>
 
-### Titre II : Organismes d'habitations à loyer modéré.<a id=546></a>
+### Titre II : Organismes d'habitations à loyer modéré.<a id=549></a>
 
-#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.<a id=547></a>
+#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.<a id=550></a>
 
-##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=548></a>
+##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=551></a>
 
 ###### Article R*421-10
 
@@ -62581,9 +62239,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Offices publics d'habitations à loyer modéré<a id=549></a>
+##### Section 2 : Offices publics d'habitations à loyer modéré<a id=552></a>
 
-##### Sous-section 1 : Création et gestion.<a id=550></a>
+##### Sous-section 1 : Création et gestion.<a id=553></a>
 
 ###### Article R*421-61
 
@@ -62679,11 +62337,11 @@ _Abrogé par_:
   - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
-#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=551></a>
+#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=554></a>
 
-##### Dispositions financières et comptables<a id=552></a>
+##### Dispositions financières et comptables<a id=555></a>
 
-##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=553></a>
+##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=556></a>
 
 ###### Article R423-34
 
@@ -63211,11 +62869,11 @@ _Cite_:
   - Loi   1884-04-15 ART. 159
 
 
-## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=554></a>
+## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=557></a>
 
-### Titre Ier : Bâtiments menaçant ruine.<a id=555></a>
+### Titre Ier : Bâtiments menaçant ruine.<a id=558></a>
 
-#### Chapitre unique.<a id=556></a>
+#### Chapitre unique.<a id=559></a>
 
 ###### Article R511-1
 
@@ -63252,9 +62910,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2573-17 (V)
 
 
-### Titre II : Bâtiments insalubres.<a id=557></a>
+### Titre II : Bâtiments insalubres.<a id=560></a>
 
-#### Chapitre Ier : Relogement des habitants.<a id=558></a>
+#### Chapitre Ier : Relogement des habitants.<a id=561></a>
 
 ###### Article R*521-1
 
@@ -63443,7 +63101,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*521-5 (V)
 
 
-#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=559></a>
+#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=562></a>
 
 ###### Article R522-1
 
@@ -63569,7 +63227,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R522-2 (V)
 
 
-#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=560></a>
+#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=563></a>
 
 ###### Article R523-1
 
@@ -63966,7 +63624,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
-### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=561></a>
+### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=564></a>
 
 ###### Article R531-1
 
@@ -64051,11 +63709,11 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D531-3, v. 0.1 (VD)
 
 
-## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=562></a>
+## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=565></a>
 
-### Titre Ier : Dispositions générales.<a id=563></a>
+### Titre Ier : Dispositions générales.<a id=566></a>
 
-#### Chapitre II : Occupation du domaine public.<a id=564></a>
+#### Chapitre II : Occupation du domaine public.<a id=567></a>
 
 ###### Article R612-1
 
@@ -64079,9 +63737,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L612-1 (V)
 
 
-### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=565></a>
+### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=568></a>
 
-#### Chapitre Ier : Service municipal du logement.<a id=566></a>
+#### Chapitre Ier : Service municipal du logement.<a id=569></a>
 
 ###### Article R621-1
 
@@ -64136,11 +63794,11 @@ _Anciens textes_:
   - Code de l'urbanisme 329
 
 
-### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=567></a>
+### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=570></a>
 
-#### Chapitre unique<a id=568></a>
+#### Chapitre unique<a id=571></a>
 
-##### Section 1 : Aide financière de l'Etat.<a id=569></a>
+##### Section 1 : Aide financière de l'Etat.<a id=572></a>
 
 ###### Article R631-1
 
@@ -64229,7 +63887,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Communes où sévit une crise de logement.<a id=570></a>
+##### Section 2 : Communes où sévit une crise de logement.<a id=573></a>
 
 ###### Article R631-4
 
@@ -64273,11 +63931,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L631-9 (M)
 
 
-### Titre IV : Logement d'office<a id=571></a>
+### Titre IV : Logement d'office<a id=574></a>
 
-#### Chapitre unique<a id=572></a>
+#### Chapitre unique<a id=575></a>
 
-##### Section 1 : Locaux d'habitation.<a id=573></a>
+##### Section 1 : Locaux d'habitation.<a id=576></a>
 
 ###### Article R641-1
 
@@ -64861,7 +64519,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-12 (M)
 
 
-##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=574></a>
+##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=577></a>
 
 ###### Article R641-23
 
@@ -64944,9 +64602,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-24 (M)
 
 
-### Titre V : Sanctions et dispositions diverses.<a id=575></a>
+### Titre V : Sanctions et dispositions diverses.<a id=578></a>
 
-#### Chapitre unique.<a id=576></a>
+#### Chapitre unique.<a id=579></a>
 
 ###### Article R651-1
 
@@ -64970,11 +64628,11 @@ _Anciens textes_:
   - Code de l'urbanisme 357
 
 
-# Annexes<a id=577></a>
+# Annexes<a id=580></a>
 
-## Normes minimales d'habitabilité<a id=578></a>
+## Normes minimales d'habitabilité<a id=581></a>
 
-### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=579></a>
+### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=582></a>
 
 ###### Article Annexe à l'article R322-20
 
@@ -65026,7 +64684,7 @@ _Abrogé par_:
   - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=580></a>
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=583></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -65356,7 +65014,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=581></a>
+## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=584></a>
 
 ###### Article Annexe III à l'article R353-1
 
@@ -65432,7 +65090,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=582></a>
+## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=585></a>
 
 ###### Article Annexe IV à l'article R353-1
 
@@ -65600,7 +65258,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=583></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=586></a>
 
 ###### Article Annexe III à l'article R353-32
 
@@ -65990,7 +65648,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=584></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=587></a>
 
 ###### Article Annexe II à l'article R353-127
 
@@ -66054,7 +65712,7 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=585></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=588></a>
 
 ###### Article Annexe 1 à l'article R353-161
 
@@ -66467,7 +66125,7 @@ _Créé par_:
   - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=586></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=589></a>
 
 ###### Article Annexe 2 à l'article R353-161
 
@@ -66850,9 +66508,9 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=587></a>
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=590></a>
 
-### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=588></a>
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=591></a>
 
 ###### Article Annexe II à l'article R353-166, art. 1
 
@@ -66891,9 +66549,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=589></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=592></a>
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=590></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=593></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
@@ -66980,9 +66638,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=591></a>
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=594></a>
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=592></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=595></a>
 
 ###### Article Annexe II à l'article R353-200, art. 1
 
@@ -67047,5 +66705,106 @@ _Codifié par_:
 _Créé par_:
 
   - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
+
+
+## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=596></a>
+
+###### Article Annexe à l'article R443-11
+
+1. Caractéristiques communes.
+
+Les logements situés dans les immeubles collectifs ou les maisons individuelles (1) doivent, avant la signature de l'acte de
+vente, présenter les caractéristiques ci-après :
+
+1.1. Gros oeuvre.
+
+Le gros oeuvre (murs, charpente, escaliers, planchers, balcons) ne présente pas de défaut d'entretien grave.
+
+1.2. Etanchéité.
+
+La couverture, ses raccords et ses accessoires sont étanches.
+
+Les sols, murs, seuils et plafonds sont protégés contre les eaux de ruissellement, les infiltrations et les remontées d'eau.
+
+Les ouvrants sont étanches à l'eau et en bon état de fonctionnement.
+
+1.3. Equipement.
+
+1.3.1. Canalisations d'eau.
+
+Les canalisations d'eau, les appareils qui leur sont raccordés et les réservoirs sont établis de manière à assurer la
+permanence de l'adduction et de l'évacuation et à éviter la pollution du réseau de distribution, notamment par les eaux usées
+et les eaux-vannes.
+
+Les canalisations d'eau potable desservant les logements assurent la distribution avec une pression et un débit suffisants et
+sont branchées au réseau public de distribution, s'il existe. Elles sont conformes aux règlements sanitaires en vigueur.
+
+1.3.2. Installations de gaz et d'électricité.
+
+Le logement est alimenté en électricité et, le cas échéant, en gaz. Ces alimentations, ainsi que la ventilation des pièces où
+le gaz est utilisé, répondent aux besoins normaux des usagers ; ces installations doivent assurer la sécurité des
+utilisateurs.
+
+Les nouvelles installations électriques et les nouvelles alimentations en gaz éventuelles, ainsi que la ventilation des
+pièces où le gaz est utilisé, sont conformes à la réglementation.
+
+1.3.3. Installation de la cuisine ou du coin cuisine.
+
+La cuisine ou le coin cuisine est intérieur et comprend un évier avec siphon raccordé à une chute d'eaux usées sur lequel
+sont installées l'eau potable froide et l'eau chaude. La cuisine ou le coin cuisine est aménagé de manière à pouvoir recevoir
+un appareil de cuisson à gaz ou électrique ou possède un conduit d'évacuation de fumée en bon état.
+
+1.3.4. Ouverture et ventilation.
+
+Toute pièce d'habitation est pourvue d'un ouvrant donnant à l'air libre permettant une aération et un éclairement suffisants
+et assurant le bon usage du logement et la conservation du bâtiment.
+
+Toute pièce de service (telle que la cuisine, le cabinet d'aisance ou la salle d'eau) est pourvue d'un ouvrant donnant à
+l'extérieur ou, à défaut, est équipée d'un système de ventilation débouchant à l'extérieur du bâtiment et assurant le bon
+usage du logement et la conservation de ce bâtiment.
+
+1.3.5. Equipement sanitaire.
+
+S'il existe un cabinet d'aisance intérieur, il est séparé de la cuisine et de la pièce où sont pris les repas.
+
+2. Caractéristiques spécifiques aux logements situés dans des immeubles collectifs.
+
+En outre, ces logements doivent présenter les caractéristiques suivantes :
+
+2.1. Equipement sanitaire.
+
+La salle d'eau est intérieure et comporte une baignoire ou une douche et un lavabo munis de siphons et alimentés en eau
+chaude et froide.
+
+Le cabinet d'aisance est intérieur et pourvu d'une cuvette à l'anglaise et d'une chasse d'eau. S'il est équipé d'une fosse
+étanche, la chasse d'eau peut être remplacée par un simple effet d'eau.
+
+Le cabinet d'aisance est séparé de la cuisine et de la pièce où sont pris les repas.
+
+Les planchers sont étanches et les parois situées autour de la douche et de la baignoire sont protégées contre les
+infiltrations.
+
+2.2. Chauffage.
+
+Les équipements de chauffage collectif (chaudière du chauffage central collectif notamment), lorsqu'il en existe, sont en bon
+état d'entretien et de fonctionnement. Ils permettent d'assurer une température suffisante dans chacune des pièces.
+
+2.3. Parties communes de l'immeuble collectif.
+
+Les parties communes sont en bon état d'entretien. En particulier, l'ascenseur, lorsqu'il existe, est en bon état d'entretien
+et de fonctionnement.
+
+(1) Est considéré comme maison individuelle le bâtiment d'habitation comportant un accès direct vers l'extérieur et ne
+comprenant qu'un seul logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°87-477 1987-07-01 annexe JORF 2 juillet 1987
 
 
