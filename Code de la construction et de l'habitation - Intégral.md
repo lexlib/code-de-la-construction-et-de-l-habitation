@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-12-21
+Version Consolidée au 1994-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -413,41 +413,41 @@ Version Consolidée au 1994-12-21
             - [Sous-section 5 : Prime de déménagement. (art. R351-25)](#410)
             - [Sous-section 7 : Dispositions diverses. (art. R*351-48 à R351-62-1)](#411)
               - [SECTION III : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R*351-48 à R351-52)](#412)
-              - [SECTION IV : Dispositions particulières aux logements-foyers (art. R351-55)](#413)
-                - [SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif. (art. R351-55)](#414)
-              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-59 à R351-62-1)](#415)
-            - [Sous-section 7 : Dispositions diverses. (art. R351-29)](#416)
-          - [Section 1 : Aide personnalisée (art. R351-1-1 à R351-32)](#417)
-            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1-1)](#418)
-            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-4 à R351-9)](#419)
-            - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-17-1)](#420)
-            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20)](#421)
-            - [Sous-section 5 : Prime de déménagement. (art. R351-23 à R351-24)](#422)
-            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28)](#423)
-            - [Sous-section 7 : Dispositions diverses. (art. R*351-30 à R351-32)](#424)
-          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#425)
-            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#426)
-            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#427)
-            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#428)
-          - [Section 2 : Fonds national de l'habitation. (art. R351-37)](#429)
-            - [Sous-section 2 : Attributions. (art. R351-37)](#430)
-          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R351-50 à R351-53)](#431)
-          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-56 à R351-65)](#432)
-            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-56 à R351-57)](#433)
-            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-65)](#434)
-          - [Section 4 : Dispositions particulières aux logements-foyers. (art. R351-60 à R351-66)](#435)
-            - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-60 à R351-66)](#436)
-        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-18 à R353-209)](#437)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-18)](#438)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-25)](#439)
-          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#440)
-          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-88)](#441)
-          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-72 à R353-73)](#442)
-          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-89 à R353-96)](#443)
-          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-91 à R353-118)](#444)
-          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#445)
-          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-134 à R353-135)](#446)
-          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°). (art. R353-154 à R353-165)](#447)
+              - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-59 à R351-62-1)](#413)
+            - [Sous-section 7 : Dispositions diverses. (art. R351-29)](#414)
+          - [Section 1 : Aide personnalisée (art. R351-1-1 à R351-32)](#415)
+            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1-1)](#416)
+            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-4 à R351-9)](#417)
+            - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-17-1)](#418)
+            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20)](#419)
+            - [Sous-section 5 : Prime de déménagement. (art. R351-23 à R351-24)](#420)
+            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28)](#421)
+            - [Sous-section 7 : Dispositions diverses. (art. R*351-30 à R351-32)](#422)
+          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#423)
+            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#424)
+            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#425)
+            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#426)
+          - [Section 2 : Fonds national de l'habitation. (art. R351-37)](#427)
+            - [Sous-section 2 : Attributions. (art. R351-37)](#428)
+          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R351-50 à R351-53)](#429)
+          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-55 à R351-65)](#430)
+            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-55 à R351-57)](#431)
+            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-65)](#432)
+          - [Section 4 : Dispositions particulières aux logements-foyers. (art. R351-60 à R351-66)](#433)
+            - [SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-60 à R351-66)](#434)
+        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-18 à R353-209)](#435)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-18)](#436)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-25)](#437)
+          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#438)
+          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-88)](#439)
+          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-72 à R353-73)](#440)
+          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-89 à R353-96)](#441)
+          - [Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°). (art. R353-91 à R353-118)](#442)
+          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#443)
+          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-134 à R353-135)](#444)
+          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°) (art. R353-154 à R353-165-12)](#445)
+            - [Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales. (art. R353-154 à R353-164-1)](#446)
+            - [Sous-section 2 : Logements-foyers dénommés résidences sociales. (art. R353-165 à R353-165-12)](#447)
           - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-166 à R353-178)](#448)
           - [Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques. (art. R353-189 à R353-199)](#449)
           - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-200 à R353-214)](#450)
@@ -579,14 +579,19 @@ Version Consolidée au 1994-12-21
     - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#576)
     - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#577)
     - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#578)
-    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe III à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#579)
-      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#580)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe III à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#581)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#582)
-    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe III à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#583)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#584)
-    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#585)
-    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#586)
+    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#579)
+      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#580)
+      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#581)
+      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#582)
+      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#583)
+    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe III à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#584)
+      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#585)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe III à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#586)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#587)
+    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe III à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#588)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#589)
+    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#590)
+    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#591)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -43192,7 +43197,8 @@ des subventions définies par la sous-section 2 peuvent être accordées pour fi
 cas échéant les travaux d'amélioration ainsi que les opérations et travaux mentionnés aux 1°, 2°, 4°, 6°, 7° et 8° de
 l'alinéa précédent. Le coût d'acquisition de ces logements ne doit pas excéder un pourcentage du prix témoin des opérations
 d'acquisition-amélioration fixé par arrêté des ministres chargés de la construction et de l'habitation et des finances pour
-des zones géographiques déterminées.
+des zones géographiques déterminées. Ces dispositions s'appliquent également aux logements-foyers dénommés résidences
+sociales et mentionnés à l'article R. 351-55.
 
 **Liens relatifs à cet article**
 
@@ -43310,7 +43316,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°94-549 du 30 juin 1994 - art. 1 () JORF 2 juillet 1994
+  - Décret n°94-1128 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
 
 _Nouveaux textes_:
 
@@ -49012,49 +49018,7 @@ _Modifié par_:
   - Décret n°86-982 1982-08-22 art. 9 JORF 26 août 1986
 
 
-##### SECTION IV : Dispositions particulières aux logements-foyers<a id=413></a>
-
-##### SOUS-SECTION I : Conditions d'assimilation des logements-foyers au logements à usage locatif.<a id=414></a>
-
-###### Article R351-55
-
-Sont considérés comme logements-foyers pour l'application du titre V du livre III de la première partie du code de la
-construction et de l'habitation des établissements à caractère social qui assurent le logement dans des immeubles comportant
-à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations annexes telles
-que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance.
-
-Toutefois, la présente sous-section ne s'applique qu'aux logements-foyers hébergeant à titre principal des jeunes
-travailleurs, des travailleurs migrants, des personnes handicapées ou des personnes âgées.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cité par_:
-
-  - CODE DES COMMUNES. - art. R*234-10 (Ab)
-  - Code de la construction et de l'habitation. - art. R129-13 (VD)
-  - Code de la construction et de l'habitation. - art. R323-7 (T)
-  - Code de la construction et de l'habitation. - art. R331-1 (T)
-  - Code de la construction et de l'habitation. - art. R331-1-1 (Ab)
-  - Code de la construction et de l'habitation. - art. R331-21-1 (Ab)
-  - Code de la construction et de l'habitation. - art. R331-4 (V)
-  - Code de la construction et de l'habitation. - art. R331-8 (T)
-  - Code de la construction et de l'habitation. - art. R351-58 (V)
-  - Code de la construction et de l'habitation. - art. R351-59 (V)
-  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
-  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
-  - Code de la construction et de l'habitation. - art. R353-159 (VD)
-  - Code de la construction et de l'habitation. - art. R353-165 (V)
-  - Code de la construction et de l'habitation. - art. R381-4 (T)
-  - Code de la construction et de l'habitation. - art. R442-4 (VD)
-  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
-  - Code de la construction et de l'habitation. - art. R445-24 (VD)
-
-
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=415></a>
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=413></a>
 
 ###### Article R351-59
 
@@ -49166,7 +49130,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R351-62-2 (V)
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=416></a>
+##### Sous-section 7 : Dispositions diverses.<a id=414></a>
 
 ###### Article R351-29
 
@@ -49206,9 +49170,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
-##### Section 1 : Aide personnalisée<a id=417></a>
+##### Section 1 : Aide personnalisée<a id=415></a>
 
-##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=418></a>
+##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=416></a>
 
 ###### Article R351-1-1
 
@@ -49236,7 +49200,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-4-1 (M)
 
 
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=419></a>
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=417></a>
 
 ###### Article R351-4
 
@@ -49345,7 +49309,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-26 (M)
 
 
-##### Sous-section 3 : Conditions particulières.<a id=420></a>
+##### Sous-section 3 : Conditions particulières.<a id=418></a>
 
 ###### Article R351-10
 
@@ -49663,7 +49627,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=421></a>
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=419></a>
 
 ###### Article R351-20
 
@@ -49707,7 +49671,7 @@ _Abrogé par_:
   - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
-##### Sous-section 5 : Prime de déménagement.<a id=422></a>
+##### Sous-section 5 : Prime de déménagement.<a id=420></a>
 
 ###### Article R351-23
 
@@ -49758,7 +49722,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 6 : Modalités de liquidation et de versement.<a id=423></a>
+##### Sous-section 6 : Modalités de liquidation et de versement.<a id=421></a>
 
 ###### Article R351-26
 
@@ -49904,7 +49868,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=424></a>
+##### Sous-section 7 : Dispositions diverses.<a id=422></a>
 
 ###### Article R*351-30
 
@@ -50094,7 +50058,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Section 2 : Fonds national de l'habitation.<a id=425></a>
+##### Section 2 : Fonds national de l'habitation.<a id=423></a>
 
 ###### Article R351-33
 
@@ -50126,7 +50090,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-36 (V)
 
 
-##### Sous-section 1 : Organisation.<a id=426></a>
+##### Sous-section 1 : Organisation.<a id=424></a>
 
 ###### Article R351-34
 
@@ -50177,7 +50141,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 2 : Attributions.<a id=427></a>
+##### Sous-section 2 : Attributions.<a id=425></a>
 
 ###### Article R351-36
 
@@ -50253,7 +50217,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 3 : Dispositions financières.<a id=428></a>
+##### Sous-section 3 : Dispositions financières.<a id=426></a>
 
 ###### Article R351-40
 
@@ -50452,9 +50416,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-##### Section 2 : Fonds national de l'habitation.<a id=429></a>
+##### Section 2 : Fonds national de l'habitation.<a id=427></a>
 
-##### Sous-section 2 : Attributions.<a id=430></a>
+##### Sous-section 2 : Attributions.<a id=428></a>
 
 ###### Article R351-37
 
@@ -50491,7 +50455,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-48 (M)
 
 
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=431></a>
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=429></a>
 
 ###### Article R351-50
 
@@ -50608,9 +50572,64 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-19 (M)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers<a id=432></a>
+##### Section 4 : Dispositions particulières aux logements-foyers<a id=430></a>
 
-##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=433></a>
+##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=431></a>
+
+###### Article R351-55
+
+Sont considérés comme logements-foyers pour l'application du titre V du livre III de la première partie du code de la
+construction et de l'habitation les établissements à caractère social qui assurent le logement dans des immeubles comportant
+à la fois des locaux privatifs et des locaux communs meublés ainsi que, le cas échéant, diverses prestations annexes telles
+que blanchissage, service de soins ou services sociaux éducatifs moyennant une redevance.
+
+Toutefois, la présente sous-section ne s'applique que :
+
+1. Aux logements-foyers hébergeant à titre principal des personnes handicapées ou des personnes âgées ;
+
+2. Aux logements-foyers, dénommés " résidences sociales ", destinés aux personnes ou familles éprouvant, au sens de l'article
+1er de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement, des difficultés particulières pour
+accéder à un logement décent et indépendant ;
+
+3. Aux logements-foyers hébergeant à titre principal des jeunes travailleurs ou des travailleurs migrants et ayant fait
+l'objet d'une convention, prévue à l'article L. 353-2, signée avant le 1er janvier 1995.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°90-449 1990-05-31 art. 1
+  - Code de la construction et de l'habitation. - art. L353-2 (M)
+
+_Modifié par_:
+
+  - Décret n°94-1130 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
+
+_Cité par_:
+
+  - CODE DES COMMUNES. - art. R*234-10 (Ab)
+  - Code de la construction et de l'habitation. - art. R129-13 (VD)
+  - Code de la construction et de l'habitation. - art. R323-7 (T)
+  - Code de la construction et de l'habitation. - art. R331-1 (T)
+  - Code de la construction et de l'habitation. - art. R331-1-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R331-21-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R331-4 (V)
+  - Code de la construction et de l'habitation. - art. R331-8 (T)
+  - Code de la construction et de l'habitation. - art. R351-58 (V)
+  - Code de la construction et de l'habitation. - art. R351-59 (V)
+  - Code de la construction et de l'habitation. - art. R351-61-1 (V)
+  - Code de la construction et de l'habitation. - art. R351-62-1 (V)
+  - Code de la construction et de l'habitation. - art. R353-159 (VD)
+  - Code de la construction et de l'habitation. - art. R353-165 (V)
+  - Code de la construction et de l'habitation. - art. R381-4 (T)
+  - Code de la construction et de l'habitation. - art. R442-4 (VD)
+  - Code de la construction et de l'habitation. - art. R442-5-1 (T)
+  - Code de la construction et de l'habitation. - art. R445-24 (VD)
+
 
 ###### Article R351-56
 
@@ -50701,7 +50720,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-58 (M)
 
 
-##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=434></a>
+##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=432></a>
 
 ###### Article R351-58
 
@@ -50841,9 +50860,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-11 (M)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers.<a id=435></a>
+##### Section 4 : Dispositions particulières aux logements-foyers.<a id=433></a>
 
-##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=436></a>
+##### SOUS-SECTION II : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=434></a>
 
 ###### Article R351-60
 
@@ -51000,9 +51019,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-32 (M)
 
 
-#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=437></a>
+#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=435></a>
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=438></a>
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=436></a>
 
 ###### Article R353-18
 
@@ -51027,7 +51046,7 @@ _Modifié par_:
   - Décret n°85-1231 1985-11-05 art. 1 JORF 24 novembre 1985
 
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=439></a>
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=437></a>
 
 ###### Article R353-1
 
@@ -51678,7 +51697,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-24 (M)
 
 
-##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=440></a>
+##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=438></a>
 
 ###### Article R353-32
 
@@ -52466,7 +52485,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-57, v. 0.1 (VD)
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=441></a>
+##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=439></a>
 
 ###### Article R353-58
 
@@ -53462,7 +53481,7 @@ _Abrogé par_:
   - Décret n°99-865 du 7 octobre 1999 - art. 2 (V) JORF 8 octobre 1999
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=442></a>
+##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=440></a>
 
 ###### Article R353-72
 
@@ -53539,7 +53558,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R353-72 (M)
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=443></a>
+##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=441></a>
 
 ###### Article R353-89
 
@@ -53738,7 +53757,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-96, v. 0.1 (VD)
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=444></a>
+##### Section 4 : Conventions conclues entre l'Etat et les bailleurs de logements, autres que les organisme d'H.L.M. et société d'économie mixte bénéficiaires d'aides de l'Etat en application de l'article L351-2 (2° et 3°).<a id=442></a>
 
 ###### Article R353-91
 
@@ -54555,7 +54574,7 @@ _Abrogé par_:
   - Décret n°97-535 du 28 mai 1997 - art. 1 () JORF 29 mai 1997
 
 
-##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=445></a>
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=443></a>
 
 ###### Article R353-126
 
@@ -55125,7 +55144,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D353-152, v. 0.1 (VD)
 
 
-##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=446></a>
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=444></a>
 
 ###### Article R353-134
 
@@ -55178,13 +55197,15 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R353-134 (M)
 
 
-##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°).<a id=447></a>
+##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°)<a id=445></a>
+
+##### Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales.<a id=446></a>
 
 ###### Article R353-154
 
-Les articles L. 353-1 à L. 353-13 du code de l'urbanisme et de l'habitation sont applicables aux logements-foyers assimilés à
-des logements à usage locatif en application du 5 de l'article L. 351-2 dudit code et de la section IV du chapitre 1er du
-présent titre, sous réserve des dispositions de la présente section.
+Les articles L. 353-1 à L. 353-13 du code de la construction et de l'habitation sont applicables aux logements-foyers
+assimilés à des logements à usage locatif en application du 5 de l'article L. 351-2 dudit code et de la section IV du
+chapitre 1er du présent titre, sous réserve des dispositions de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -55192,13 +55213,15 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°79-297 1979-04-11 JORF 13 AVRIL 1979 Rectificatif JORF 13 JUIN 1979
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L353-1 à L353-13
+  - Code de la construction et de l'habitation L353-13, L351-2, L353-1 à L353-13
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L353-13 (V)
 
 _Cité par_:
 
@@ -55225,6 +55248,10 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L353-2 (M)
@@ -55242,6 +55269,10 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. L342-1 (M)
@@ -55253,8 +55284,6 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
   - Code de la construction et de l'habitation. - art. L353-2 (M)
 
 
@@ -55271,10 +55300,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+
 _Cite_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
+  - Code de la construction et de l'habitation. - art. R353-156 (M)
 
 
 ###### Article R353-158
@@ -55283,8 +55315,8 @@ L'élément équivalent au loyer tient compte :
 
 1. Des frais financiers annuels afférents à l'immeuble qui recouvrent le remboursement ;
 
-Des charges afférant à l'ensemble des emprunts contractés pour la construction, l'amélioration ou l'acquisition-amélioration
-du logement-foyer ;
+Des charges afférentes à l'ensemble des emprunts contractés pour la construction, l'amélioration ou l'acquisition-
+amélioration du logement-foyer ;
 
 Des frais généraux du propriétaire ;
 
@@ -55309,6 +55341,10 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+
 _Cite_:
 
   - Code civil - art. 1719 (M)
@@ -55317,9 +55353,6 @@ _Cite_:
   - Code civil - art. 1754 (V)
   - Code civil - art. 1755 (V)
   - Code civil - art. 606 (V)
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L351-1 (V)
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
 
 
 ###### Article R353-159
@@ -55334,11 +55367,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
-  - Loi   1948-09-01 ART. 38
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 _Cité par_:
 
@@ -55346,6 +55377,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. Annexe 2 au III art R353-159 (V)
   - Code de la construction et de l'habitation. - art. R353-160 (V)
   - Code de la construction et de l'habitation. - art. R353-165 (V)
+
+_Cite_:
+
+  - Loi n°1948-09-01 art. 38
 
 
 ###### Article R353-160
@@ -55360,10 +55395,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 _Cité par_:
 
@@ -55385,15 +55419,17 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
-  - Code de la construction et de l'habitation. - art. L353-2 (M)
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L353-2 (M)
 
 
 ###### Article R353-162
@@ -55406,9 +55442,14 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
+
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L353-3 (V)
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. L353-13 (V)
 
 
 ###### Article R353-163
@@ -55423,10 +55464,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 
 ###### Article R353-164
@@ -55448,17 +55488,16 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
+  - Décret n°94-1129 du 23 décembre 1994 - art. 2 () JORF 27 décembre 1994
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. Annexe 1 au III art R353-159 (M)
 
 
-###### Article R353-165
+###### Article R353-164-1
 
 Pour l'application des articles L. 353-7 et L. 353-8 du code de la construction et de l'habitation, lorsque, à la date
 d'entrée en vigueur de la convention, le logement-foyer est occupé, le bailleur doit proposer aux occupants un titre
@@ -55491,12 +55530,43 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 1 () JORF 27 décembre 1994
+
 _Cite_:
 
-  - Code de la construction et de l'habitation L351-2 5
-  - Code de la construction et de l'habitation. - art. L353-13 (V)
   - Code de la construction et de l'habitation. - art. L353-7 (M)
   - Code de la construction et de l'habitation. - art. L353-8 (V)
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. R353-165 (M)
+
+
+##### Sous-section 2 : Logements-foyers dénommés résidences sociales.<a id=447></a>
+
+###### Article R353-165
+
+Les articles L. 353-1 à L. 353-13 sont applicables aux résidences sociales mentionnées à l'article R. 351-55 et assimilées à
+des logements à usage locatif en application du 5° de l'article L. 351-2 et de la section IV du chapitre Ier du présent titre
+sous réserve des dispositions de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L353-1 à L353-13, R351-55, L351-2
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation. - art. R351-55 (M)
 
 _Cité par_:
 
@@ -55507,6 +55577,329 @@ _Cité par_:
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. R353-164-1 (Ab)
+
+
+###### Article R353-165-1
+
+Pour l'application de l'article L. 353-2 :
+
+1° Le bailleur propriétaire de la résidence sociale ainsi que, s'il y a lieu, le gestionnaire ayant conclu avec celui-ci un
+contrat de location sont habilités à conclure la convention prévue à cet article.
+
+Le gestionnaire ou le propriétaire, s'il en assure lui même la gestion, doit au préalable avoir reçu l'agrément du préfet du
+département d'implantation de la résidence sociale ou des résidences sociales pour en assurer la gestion.
+
+2° Est assimilé au locataire et dénommée résident, la personne physique titulaire d'un titre d'occupation.
+
+Ce titre, auquel est annexé le règlement intérieur de la résidence sociale, est consentie par le gestionnaire dans les
+conditions définies à l'article R. 353-165-10 ; il ne peut être accessoire à un contrat de travail.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L352-2, R363-165-10
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. Annexe 2 au III art R353-159 (V)
+  - Code de la construction et de l'habitation. - art. R353-165-9 (Ab)
+  - Code de la construction et de l'habitation. - art. R365-1 (V)
+
+
+###### Article R353-165-2
+
+La convention conclue en application de l'article L. 353-2 doit être conforme à la convention type annexée au présent
+article.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L353-2 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-56 (V)
+
+
+###### Article R353-165-3
+
+La convention régit la part de la redevance qui, contrepartie de l'occupation des locaux, est assimilable au loyer et aux
+charges locatives récupérables.
+
+Cette part est seule prise en compte pour l'application du barème de l'aide personnalisée au logement.
+
+Elle est calculée sur la base de deux éléments équivalant l'un au loyer, l'autre aux charges locatives récupérables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+
+###### Article R353-165-4
+
+I. - L'élément équivalant au loyer constitue la participation du résident aux charges financières annuelles afférentes à
+l'immeuble.
+
+Les charges recouvrent :
+
+a) Le remboursement :
+
+- des charges afférentes à l'ensemble des dépenses effectuées pour la construction, l'amélioration ou l'acquisition-
+amélioration de la résidence sociale ;
+
+- des frais généraux du propriétaire ;
+
+- de la provision pour grosses réparations au sens de l'article 606 du code civil ;
+
+- du montant de la prime d'assurance de l'immeuble ;
+
+- de la taxe foncière sur les propriétés bâties.
+
+b) Les frais de fonctionnement relatifs à la résidence sociale, à savoir :
+
+- les frais de siège du gestionnaire ;
+
+- les frais fixes de personnel administratif ;
+
+- toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code civil ;
+
+- la provision pour gros entretien en application des articles 1719, 1720 et 1721 du code civil et les frais de personnel et
+de fournitures afférents à ces travaux.
+
+En sont exclus les frais relatifs à l'amortissement du mobilier.
+
+II. - L'élément équivalant aux charges locatives récupérables, sommes accessoires au loyer principal, et pris en compte
+forfaitairement, est exigible en contrepartie :
+
+- des services rendus liés à l'usage des différents éléments de la chose louée ;
+
+- des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée, qui ne sont
+pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
+
+- du droit de bail et des impositions qui correspondent à des services dont le résident profite directement.
+
+En sont exclues les dépenses relatives à l'amortissement du mobilier, à l'action socio-éducative et au service de
+blanchissage.
+
+La liste de ces charges est fixée dans la convention type.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code civil - art. 1719 (M)
+  - Code civil - art. 1720 (V)
+  - Code civil - art. 1721 (V)
+  - Code civil - art. 1754 (V)
+  - Code civil - art. 1755 (V)
+  - Code civil - art. 606 (V)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R331-104 (T)
+
+
+###### Article R353-165-5
+
+La durée de la convention ne peut être inférieure à neuf ans. La convention est renouvelable par tacite reconduction pour des
+périodes triennales, sous réserve de dénonciation expresse par l'une ou l'autre partie dans les conditions fixées par la
+convention type.
+
+Pendant la durée de la convention, le préfet du département d'implantation de la résidence sociale est tenu informé des
+modifications apportées au contrat de location conclu entre le propriétaire et le gestionnaire de la résidence sociale. Ces
+modifications ne peuvent conduire à remettre en cause les engagements pris dans la convention.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R443-21 (V)
+
+
+###### Article R353-165-6
+
+Le gestionnaire justifie, par la comptabilité de l'établissement, les éléments entrant dans le calcul du montant de
+l'équivalence de loyer, des charges locatives récupérables ainsi que des prestations annexes mentionnées dans la convention
+type.
+
+Chaque année au 15 mai, le gestionnaire adresse au préfet du département d'implantation de la résidence sociale les
+différents documents destinés au suivi de l'exécution de la convention, et mentionnés dans la convention type.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+
+###### Article R353-165-7
+
+Les dispositions de l'article L. 353-17 sont applicables aux conventions conclues en application de la présente sous-section.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L353-17 (V)
+
+
+###### Article R353-165-8
+
+La convention conclue dans les conditions de la présente sous-section est communiquée aux résidents qui en font la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+
+###### Article R353-165-9
+
+En cas de non-respect par le gestionnaire des engagements prévus dans la convention, le préfet du département d'implantation
+de la résidence sociale peut retirer l'agrément prévu à l'article R. 353-165-1 suivant les modalités fixées par la convention
+type.
+
+Entre la notification de la décision de retrait d'agrément et la date d'effet de cette décision, un avenant à la convention
+est signé avec un nouveau gestionnaire bénéficiant d'un agrément.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R353-165-1 (M)
+
+
+###### Article R353-165-10
+
+Le gestionnaire s'engage à proposer aux résidents dans les lieux à la date d'entrée en vigueur de la convention, ainsi qu'à
+tout entrant dans la résidence sociale, un titre d'occupation, établi par écrit, conforme aux stipulations de la convention
+afférentes à ce titre et cosigné par les deux parties.
+
+Ce titre est conclu pour une durée d'un mois, renouvelable par tacite reconduction pour des périodes de même durée.
+
+Le résident déjà dans les lieux dispose d'un délai d'un mois pour accepter le titre d'occupation ; au terme de ce délai, les
+dispositions de la convention s'appliquent de plein droit, sous réserve des contrats en cours.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+
+###### Article R353-165-11
+
+Le gestionnaire ne peut résilier le titre d'occupation que pour l'un des motifs suivants :
+
+1° Inexécution par le résident de l'une des obligations lui incombant en application du titre d'occupation ou manquement
+grave ou répété au règlement intérieur ;
+
+2° Fait pour le résident de ne plus remplir les conditions d'admission dans la résidence sociale ;
+
+3° Cessation totale de l'activité de la résidence.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
+
+
+###### Article R353-165-12
+
+Lorsque la résidence sociale doit faire l'objet de travaux d'amélioration, le gestionnaire doit informer les résidents
+conformément aux dispositions de la convention type.
+
+Si les travaux nécessitent l'évacuation temporaire des résidents, le gestionnaire est tenu de les reloger temporairement et,
+en cas de diminution des capacités d'accueil, de proposer des solutions de relogement. Les modalités de ces relogements sont
+précisées dans la convention type.
+
+Un mois avant la date d'achèvement des travaux, le gestionnaire notifie par lettre recommandée avec accusé de réception aux
+résidents dans les lieux, ou susceptibles d'être réintégrés à la suite d'un relogement temporaire, le montant de la nouvelle
+redevance applicable dès l'achèvement des travaux.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
 
 
 ##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=448></a>
@@ -73847,7 +74240,1017 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=579></a>
+## Convention type A.P.L. : résidences sociales.<a id=579></a>
+
+###### Article Annexe I à l'article R353-165-2
+
+Conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-2 du code de la
+construction et de l'habitation, et portant sur les logements-foyers dénommés résidences sociales, visés aux articles L.
+351-2 (5°) et R. 351-55 de ce code.
+
+Entre les soussignés :
+
+Le ministre chargé du logement agissant au nom de l'Etat et représenté par le préfet ;
+
+représenté par son président, M. ..., autorisé à cet effet par délibération de son conseil d'administration en date du ...,
+dénommé ci-après "le propriétaire" (1) (2) ;
+
+représenté par son président, M. ..., autorisé à cet effet par délibération de son conseil d'administration en date du ...,
+dénommé ci-après le "gestionnaire", et agissant à ce titre en application du contrat de location conclu avec le
+propriétaire ;
+
+Vu l'objet de la résidence sociale tel que défini à l'annexe I ;
+
+Vu l'agrément délivré par le préfet en date du ... à ... au gestionnaire pour assurer la gestion de résidences sociales
+(annexe II) ;
+
+Vu le contrat de location (3) en date du ... conclu entre le propriétaire et le gestionnaire ;
+
+Vu le budget prévisionnel de fonctionnement et l'accord de principe de ... (4) en date du ... ;
+
+Vu la description du programme et des travaux prévus (annexe III) ;
+
+il a été convenu ce qui suit :
+
+Article 1er.
+
+Objet de la convention.
+
+La présente convention a pour objet de fixer les droits et obligations des parties prévus par les articles R. 353-165 à R.
+353-165-12 du code de la construction et de l'habitation, pour la résidence sociale de ....
+
+La présente convention s'applique au programme décrit en annexe III.
+
+La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement
+dans les conditions définies dans le livre III, titre V (1ère partie), du code précité et de ses décrets d'application.
+
+Article 2.
+
+Objet de la résidence sociale.
+
+Parmi les personnes éprouvant des difficultés particulières au sens de l'article 1er de la loi n° 90-449 du 31 mai 1990
+visant à la mise en oeuvre du droit au logement, le gestionnaire s'engage à loger (5) : ....
+
+L'annexe I précise ces engagements ainsi que l'ensemble des actions menées au bénéfice des résidents.
+
+Les personnes ou les familles accueillies dans la résidence sociale sont dénommées résidents.
+
+Article 3.
+
+Conditions d'attribution.
+
+Les conditions d'attribution des locaux à usage privatif ou lits de la résidence sociale obéissent aux règles définies par
+l'article L. 441-1 du code de la construction et de l'habitation.
+
+La part des locaux à usage privatif ou lits réservés par le préfet est fixée à ... p. 100 du total des locaux à usage
+privatif ou lits de la résidence sociale, indépendamment d'éventuelles réservations conventionnelles (facultatif).
+
+Variante 1 : les modalités de gestion de ces réservations sont les suivantes : ....
+
+Variante 2 : les modalités de choix des personnes accueillies sont les suivantes : ....
+
+Article 4.
+
+Plafonds de ressources.
+
+Le gestionnaire s'engage à ce que les personnes ou familles entrant dans les locaux, lors de la mise en service et au fur et
+à mesure des vacances, disposent de ressources annuelles n'excédant pas le plafond déterminé dans les conditions prévues par
+l'article R. 331-12 (première phrase) du code de la construction et de l'habitation (6).
+
+Lorsque l'opération bénéficie d'une subvention de l'Etat au taux majoré prévue au 2° de l'article R. 331-15 du code de la
+construction et de l'habitation en faveur des populations rencontrant des difficultés particulières, le gestionnaire s'engage
+en outre à ce que 75 p. 100 des personnes ou familles entrant dans les locaux, lors de la mise en service et au fur et à
+mesure des vacances, disposent de ressources annuelles n'excédant pas les plafonds applicables aux logements mentionnés au
+deuxième alinéa de l'article R. 331-1 du code de la construction et de l'habitation. 
+
+Article 5.
+
+Durée de la convention.
+
+La présente convention prend effet à compter de sa signature.
+
+Elle est conclue pour une durée de ... ans (7).
+
+Elle expire le 30 juin.
+
+Elle est renouvelable par tacite reconduction pour des périodes triennales, sous réserve de dénonciation expresse par l'une
+ou l'autre partie, donnée par lettre recommandée avec avis de réception dans un délai de six mois avant sa date d'expiration.
+
+Pendant la durée prévue ci-dessus, le préfet est tenu informé des modifications apportées au contrat de location conclu entre
+le propriétaire et le gestionnaire de la résidence sociale. Ces modifications ne peuvent conduire à remettre en cause les
+engagements pris dans la présente convention. 
+
+Article 6.
+
+Suivi de l'exécution de la convention.
+
+Chaque année, au 15 mai, le gestionnaire adresse au préfet un bilan d'occupation et d'action sociales, le tableau des
+redevances pratiquées mentionné à l'article 21 de la présente convention, la comptabilité relative à la résidence sociale
+pour l'année précédente, un budget prévisionnel de fonctionnement pour l'année en cours et les éventuels avenants au contrat
+de location propriétaire/gestionnaire et autres pièces visées dans la présente convention. Le gestionnaire doit être en
+mesure de justifier au préfet le montant de la part de l'équivalence de loyer et de charges locatives récupérables au vu de
+ces documents. Il en adresse copie au propriétaire.
+
+Au vu de ces pièces et au regard des engagements pris dans la présente convention, le préfet peut faire des observations à
+l'adresse du gestionnaire avec copie au propriétaire.
+
+En cas de non-respect de ces engagements, les sanctions prévues à l'article 22 sont mises en oeuvre.
+
+Article 7.
+
+La redevance totale.
+
+Le tableau issu de la comptabilité de la résidence sociale et prévu à l'article 21 de la présente convention mentionne les
+redevances prévisionnelles totales, le montant de l'équivalence de loyer et de charges locatives récupérables ainsi que la
+liste et le montant des différentes prestations telles que précisées dans l'article 10. Ce tableau est établi, au 1er juillet
+de chaque année, par lit selon le type de chambre ou de logement. Il est communiqué au préfet au moment de la signature de la
+présente convention.
+
+Article 8.
+
+Part de la redevance assimilable au loyer et aux charges locatives.
+
+La part de la redevance assimilable au loyer et aux charges locatives récupérables et seule prise en compte pour le calcul de
+l'aide personnalisée au logement correspond aux éléments suivants :
+
+I. - En ce qui concerne l'équivalence du loyer : la participation du résident aux charges financières annuelles afférentes à
+l'immeuble recouvrent :
+
+a) Le remboursement :
+
+- des charges afférentes à l'ensemble des dépenses effectuées pour la construction, l'amélioration ou l'acquisition-
+amélioration de la résidence sociale ;
+
+- des frais généraux du propriétaire ;
+
+- de la provision pour grosses réparations au sens de l'article 606 du code civil ;
+
+- le montant de la prime d'assurance de l'immeuble ;
+
+- la taxe foncière sur la propriété bâtie.
+
+b) Les frais de fonctionnement relatifs à la résidence sociale, à savoir :
+
+- frais de siège du gestionnaire ;
+
+- frais fixes de personnel administratif ;
+
+- toutes dépenses de menu entretien au sens des articles 1754 et 1755 du code civil ;
+
+- provision pour gros entretien en application des articles 1719, 1720 et 1721 du code civil et frais de personnel et
+fournitures afférents à ces travaux.
+
+En sont exclus les frais relatifs à l'amortissement du mobilier.
+
+II. - L'élément équivalent aux charges locatives récupérables, sommes accessoires au loyer principal, et pris en compte
+forfaitairement, est exigible en contrepartie :
+
+- des services rendus liés à l'usage des différents éléments de la chose louée ;
+
+- des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée, qui ne sont
+pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
+
+- du droit de bail et des impositions qui correspondent à des services dont le résident profite directement.
+
+En sont exclues les dépenses relatives à l'amortissement du mobilier, à l'action socio-éducative et au service de
+blanchissage.
+
+L'annexe IV précise la liste de ces charges.
+
+Article 9.
+
+Maxima applicables à la part de la redevance assimilable au loyer et aux charges locatives récupérables.
+
+La part de la redevance mensuelle, assimilable au loyer et aux charges locatives récupérables, acquittée par le résident,
+hors dépenses liées aux prestations facultatives au sens de l'article 10 de la présente convention, ne doit pas excéder un
+maximum qui est fixé, en francs par lit et par type de chambre ou de logement, à (8) ;
+
+Ce maximum applicable à la part de la redevance assimilable au loyer et aux charges locatives récupérables évolue à compter
+du 1er juillet de chaque année en fonction des règles suivantes :
+
+a) A concurrence de 60 p. 100 de son montant en fonction des variations de l'indice du coût de la construction publié par
+l'I.N.S.E.E.
+
+L'élément de référence est constitué par les variations de l'indice du coût de la construction publié par l'I.N.S.E.E. entre
+l'indice du quatrième trimestre précédant l'année de révision et l'indice du quatrième trimestre de l'année antérieure à
+l'année précédant l'année de révision ;
+
+b) A concurrence de 15 p. 100 de son montant en fonction des variations du sous-indice "chauffage, éclairage" intégré dans
+l'indice des prix à la consommation pour l'ensemble des ménages ;
+
+c) A concurrence de 25 p. 100 de son montant en fonction des variations du sous-indice "services d'entretien".
+
+L'élément de référence pris en compte en b et en c est constitué par les variations de chacun des sous-indices publiés par
+l'I.N.S.E.E. entre le sous-indice de la moyenne annuelle précédant l'année de révision et le sous-indice de la moyenne
+annuelle de l'année antérieure à l'année précédant l'année de révision.
+
+La part de la redevance pratiquée est indexée sur ces bases dans la limite de la redevance maximum.
+
+Cette redevance peut, en outre, dans la limite de ce maximum et après que le gestionnaire aura recueilli l'avis du préfet,
+être réajustée chaque année le 1er juillet en cas d'amélioration notable du service rendu. 
+
+Article 10.
+
+Prestations annexes/services collectifs.
+
+Les prestations annexes automatiquement intégrées dans la redevance sont les suivantes (9) : ....
+
+Les prestations annexes auxquelles le résident a accès à titre gratuit sont les suivantes (10) : ....
+
+Hormis les prestations visées ci-dessus, les autres prestations sont facultatives et mentionnées comme telles dans le titre
+d'occupation et dans l'annexe I.
+
+Elles font l'objet d'un paiement distinct. 
+
+Article 11.
+
+Modalités de paiement de la redevance.
+
+La redevance est payée par fraction mensuelle à terme échu. Le gestionnaire remet au résident un document faisant clairement
+apparaître le montant de la redevance, le montant de l'équivalence de loyer et de charges locatives récupérables pris en
+compte pour le calcul de l'aide personnalisée au logement, ainsi que le montant de cette aide. Le montant des prestations
+annexes intégrées à la redevance, telles que précisées à l'article 10 ci-dessus, doit y apparaître clairement.
+
+Les prestations non comprises dans la redevance doivent faire l'objet d'une quittance détaillée et séparée.
+
+Article 12.
+
+Dépôt de garantie.
+
+Le gestionnaire peut demander au résident un dépôt de garantie qui ne peut être supérieur à un mois de la redevance. Il est
+restitué au moment de la restitution des clefs par le résident, déduction faite, le cas échéant, des sommes dues au
+gestionnaire sous réserve qu'elles soient dûment justifiées. Le montant du dépôt de garantie ne porte pas intérêt au bénéfice
+du résident. Il ne doit faire l'objet d'aucune révision. A défaut de restitution dans le délai prévu, le solde du dépôt de
+garantie restant dû au résident, après arrêté des comptes, produit intérêt au taux légal au profit du résident.
+
+En aucun cas, il ne peut être demandé une avance.
+
+Article 13.
+
+Information des résidents.
+
+Le gestionnaire doit tenir à disposition des résidents toute information sur les prestations de logement ou annexes au
+logement, ou sur les conditions financières de leur accueil dans la résidence sociale.
+
+La présente convention est tenue à la disposition permanente des résidents de la résidence sociale et accessible à tout
+moment. Cette information est mentionnée par affichage, et de façon très apparente, dans les parties communes de ladite
+résidence sociale dès la signature de la convention.
+
+Le gestionnaire s'engage à tenir à la disposition des résidents ou des entrants les notices d'information relatives à l'aide
+personnalisée au logement.
+
+Article 14.
+
+Règlement intérieur.    Un règlement intérieur de la résidence sociale, conforme aux dispositions de la présente convention
+relatives au titre d'occupation, est établi par le gestionnaire ; une copie en est transmise au préfet.
+
+Article 15.
+
+Titre d'occupation.
+
+Le gestionnaire s'engage à proposer aux résidents dans les lieux à la date d'entrée en vigueur de la présente convention
+ainsi qu'à tout entrant dans la résidence sociale un titre d'occupation établi par écrit, dans les conditions définies à
+l'article 16 ci-dessous, cosigné par les deux parties.
+
+Ce titre d'occupation doit comporter les précisions suivantes :
+
+a) Sa date de prise d'effet et sa durée ;
+
+b) Le rappel des conditions spécifiques d'accueil de la résidence sociale définies à l'annexe I et du respect de l'article
+1728 du code civil (les locaux loués à usage privatif sont considérés comme le domicile du résident) ;
+
+c) La désignation des locaux et équipements d'usage privatif dont le résident a la jouissance exclusive et, le cas échéant,
+l'énumération des locaux et équipements de la résidence sociale qui font l'objet d'un usage commun ;
+
+d) Les obligations relatives à l'occupation personnelle et effective des locaux qui lui ont été désignés ;
+
+e) Les obligations réciproques en cas d'absence prolongée ;
+
+f) Le montant de la redevance totale, la part de celle-ci assimilable aux loyer et charges locatives récupérables, la part de
+celle-ci correspondant aux prestations annexes et les modalités de paiement ainsi que les conditions d'évolution de chacun de
+ces éléments ;
+
+g) Le cas échéant, l'énumération des prestations annexes, y compris l'inventaire des meubles fournis, en distinguant celles
+qui sont facturées au locataire à travers la redevance et celles dont la facturation est liée à un usage facultatif mais
+effectif ;
+
+h) Le montant du dépôt de garantie, si celui-ci est prévu ;
+
+i) Les clauses résolutoires définies à l'article 17 ci-dessous.
+
+Le résident déjà dans les lieux dispose d'un délai d'un mois pour accepter ce titre d'occupation ; au terme de ce délai, les
+dispositions de la présente convention s'appliquent de plein droit, sous réserve des contrats en cours.
+
+La signature du titre d'occupation vaut acceptation par le résident du règlement intérieur joint à ce titre.
+
+En cas de changement de gestionnaire, de résiliation ou de dénonciation de ladite convention, le titre d'occupation est
+opposable de plein droit à tout nouveau gestionnaire.
+
+Article 16.
+
+Durée du titre d'occupation.
+
+Le titre d'occupation est conclu pour une durée d'un mois, renouvelable par tacite reconduction pour des périodes de même
+durée, à la volonté du seul résident dans les limites des conditions d'accueil spécifiques de la résidence sociale précisées
+à l'article 2 et dans l'annexe I, et dans la mesure où ce dernier exécute toutes les obligations stipulées par le titre
+d'occupation, notamment celles découlant de l'article 1728 du code civil.
+
+Au cours de chaque période mensuelle, le résident peut mettre fin à tout moment à son titre d'occupation, sous réserve d'un
+délai de préavis de huit jours donné par écrit.
+
+Pendant ce même mois, le gestionnaire, à la demande du résident, peut lui accorder pour le paiement de sa dette des délais
+dans les conditions de l'article 1244 du code civil. Ce délai suspend la résiliation du titre d'occupation.
+
+Article 17.
+
+Résiliation du titre d'occupation.
+
+Le gestionnaire ne peut résilier le titre d'occupation que pour l'un des motifs suivants :
+
+- inexécution par le résident de l'une des obligations lui incombant au regard du titre d'occupation ou manquement grave ou
+répété au règlement intérieur ; la résiliation du titre d'occupation ne produit effet qu'un mois après la date de
+notification par lettre recommandée avec accusé de réception ;
+
+- fait pour le résident de ne plus remplir les conditions d'admission dans la résidence sociale telles qu'elles sont définies
+à l'article 2 et par l'annexe I ; le gestionnaire doit alors informer individuellement les résidents concernés par lettre
+recommandée avec accusé de réception en respectant un préavis de trois mois francs ; le titre est résilié de plein droit
+lorsqu'une proposition de relogement correspondant à la situation des résidents leur a été faite ;
+
+- cessation totale de l'activité de la résidence ; le gestionnaire doit alors reloger les résidents qui doivent être prévenus
+par lettre recommandée avec accusé de réception au moins trois mois auparavant ; les conditions de ces relogements seront
+déterminées en accord avec le préfet ou son représentant.
+
+Article 18.
+
+La maintenance et l'entretien des locaux loués.
+
+Les locaux seront maintenus en bon état de fonctionnement au moyen d'une politique de provisionnement pour gros travaux et
+grosses réparations et d'un programme de travaux adaptés à la vocation de la résidence sociale.
+
+Variante n° 1 (11) : les obligations respectives du propriétaire et du gestionnaire relatives à la maintenance et à
+l'entretien des locaux sont celles définies dans le contrat de location.
+
+Variante n° 2 (12) : le propriétaire est tenu, en application des articles 606, 1719, 1720 et 1721 du code civil, de
+maintenir les locaux en bon état d'habitation et de faire exécuter les réparations nécessaires qui sont à sa charge. 
+
+Article 19.
+
+Exécution de travaux.
+
+Lorsque la résidence sociale doit faire l'objet de travaux d'amélioration, le gestionnaire doit informer les résidents par
+voie d'affichage, un mois au moins avant le début des travaux, de la nature du projet, de la nécessité éventuelle de
+relogements provisoires et des augmentations prévisionnelles de redevance et de charges nettes.
+
+Si la durée des travaux nécessite l'évacuation temporaire des résidents, le gestionnaire est tenu de les reloger
+temporairement et, en cas de diminution des capacités d'accueil, le gestionnaire doit trouver des solutions de relogement.
+Les modalités de ces relogements seront déterminées en accord avec le préfet ou son représentant. Elles devront, en tout état
+de cause, être équivalentes à leurs conditions de logement avant travaux. A l'achèvement des travaux, le résident peut
+demander à réintégrer préférentiellement la résidence sociale améliorée.
+
+Un mois avant la date d'achèvement des travaux, le gestionnaire notifie, par lettre recommandée avec accusé de réception aux
+résidents dans les lieux ou réintégrés à la suite d'un relogement temporaire, le montant de la nouvelle redevance applicable
+de plein droit dès l'achèvement des travaux.
+
+Article 20.
+
+Dispositions spécifiques en cas d'impayés.
+
+En application de l'article R. 351-64 du code de la construction et de l'habitation, lorsque le bénéficiaire ne règle pas la
+part de dépense de logement restant à sa charge, son cas est soumis à la section départementale des aides publiques au
+logement (S.D.A.P.L.) du conseil départemental de l'habitat (C.D.H.) par le gestionnaire percevant l'aide personnalisée au
+logement pour son compte. L'impayé est constitué soit lorsque trois termes nets consécutifs sont totalement impayés, soit
+lorsque le résident est débiteur à l'égard du gestionnaire d'une somme au moins égale à deux fois le montant mensuel brut de
+la redevance.
+
+A l'égard du résident bénéficiaire de l'aide personnalisée au logement, le gestionnaire s'engage à poursuivre par tous les
+moyens le recouvrement de sa créance, dès lors qu'un impayé est constitué au sens de l'alinéa ci-dessus, en lui notifiant,
+par lettre recommandée avec accusé de réception, le montant de cette créance ainsi que les conditions de résiliation du titre
+d'occupation et le risque de suspension du versement de l'aide personnalisée au logement ; cette suspension ne peut
+intervenir que sur décision de la section départementale des aides publiques au logement.
+
+Article 21.
+
+Obligations à l'égard des organismes chargés du service de l'aide personnalisée au logement.
+
+Le gestionnaire s'engage à l'égard du ou des organismes liquidateurs de l'aide personnalisée au logement :
+
+- à adresser, dès son entrée en vigueur, une photocopie de la présente convention, des documents qui y sont visés ainsi que
+de ses annexes ;
+
+- à adresser un tableau faisant apparaître la description des parties privatives (références des lits et chambres) ;
+
+- à adresser un tableau mentionnant les redevances pratiquées au 1er juillet, les redevances prévisionnelles totales, le
+montant de l'équivalence de loyer et de charges par lit correspondant à la liste des locaux d'habitation fournie à l'annexe
+III ainsi que le montant des différentes prestations précisées à l'article 10 ; ce tableau est valable pour chaque exercice
+allant du 1er juillet d'une année au 30 juin de l'année suivante ; un nouveau tableau doit être adressé avant le 15 mai de
+chaque année : il est établi sur la base du montant de la redevance pratiquée et de l'équivalence de loyer et de charges
+applicables chaque 1er juillet ;
+
+- à signaler immédiatement tout départ de résident bénéficiant de l'aide personnalisée au logement ;
+
+- à prendre toutes les dispositions nécessaires pour assurer la liaison avec les organismes liquidateurs afin de faciliter
+l'établissement et le dépôt des dossiers de demande d'aide personnalisée au logement ;
+
+- à fournir toutes justifications concernant le paiement de la redevance ; en cas d'impayé constitué au sens de l'article 20,
+à en aviser immédiatement les organismes liquidateurs ainsi que la section départementale des aides publiques au logement en
+indiquant les démarches entreprises auprès du résident défaillant ; à fournir aux organismes liquidateurs, pour le 15 mai, la
+liste des bénéficiaires non à jour de leurs obligations, en indiquant la date à laquelle la section départementale des aides
+publiques au logement a été saisie et en certifiant que la liste fournie est exhaustive ou que, le cas échéant, tous les
+bénéficiaires sont à jour.
+
+Article 22.
+
+Sanctions.
+
+En cas de non-respect par le gestionnaire des engagements prévus au titre de la présente convention et après que l'intéressé
+aura été mis en demeure par lettre recommandée avec avis de réception de présenter dans un délai de deux mois ses
+observations sur les griefs retenus à son encontre, le préfet peut retirer l'agrément prévu à l'article R. 353-165-1 (1°) du
+code de la construction et de l'habitation.
+
+Entre la notification de la décision de retrait d'agrément et la date d'effet de cette décision, un avenant à la présente
+convention est signé avec un nouveau gestionnaire bénéficiant d'un agrément.
+
+Article 23.
+
+Contrôle.
+
+Afin de permettre à l'Etat d'assurer le contrôle de l'application de la présente convention, le gestionnaire et le
+propriétaire sont tenus de fournir aux ministères chargés du logement et des affaires sociales ou aux membres des corps
+d'inspection générale relevant de ces ministères, toutes les informations et tous les documents nécessaires au plein exercice
+de ce contrôle.
+
+Fait à ..., le ....
+
+(1) Association gestionnaire de la résidence sociale.
+
+(2) Sauf dans le cas où le propriétaire est gestionnaire direct.
+
+(3) A joindre dès que possible en annexe à la convention.
+
+(4) Doivent figurer en annexe à la convention les pièces justifiant l'accord de principe des principaux partenaires au
+financement du fonctionnement de la résidence sociale.
+
+(5) Les étudiants en situation de rupture sociale et familiale peuvent, à titre exceptionnel, avoir accès à un nombre de
+places très minoritaires.
+
+(6) Dans la limite de 25 p. 100 des places disponibles, le préfet peut accorder une dérogation à cette disposition au
+bénéfice des personnes ou familles confrontées à des difficultés spécifiques d'accès au logement.
+
+(7) La durée est au moins égale à la durée du prêt principal accordé par la C.D.C. ou le C.F.F. et ne peut être inférieure à
+neuf ans.
+
+(8) Se référer au tableau par lit et par type de chambre ou de logement mentionné à l'annexe III.
+
+(9) Les prestations auxquelles le résident a accès sont décrites, par exemple : laverie automatique si libre usage.
+
+(10) Les prestations auxquelles le résident a accès sont décrites, par exemple : action d'aide à l'insertion, accompagnement
+social.
+
+(11) Si le propriétaire et le gestionnaire sont deux organismes distincts.
+
+(12) Dans le cas où le propriétaire est gestionnaire direct.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
+
+
+### Résidence sociale de ....<a id=580></a>
+
+###### Article Annexe II à l'article R353-165-2
+
+Cette annexe a pour objet de préciser le projet de la résidence sociale. Aussi, les éléments ci-dessous constituent un
+exemple des items nécessaires, lesquels devront faire, en fonction des projets locaux et des financements accordés, l'objet
+de précisions particulières.
+
+Désignation de la résidence sociale :
+
+Objet de la résidence sociale :
+
+Préciser, parmi les personnes ayant des difficultés particulières d'accès au logement au sens de l'article 1er de la loi n°
+90-449 du 31 mai 1990, les personnes ou familles qui seront accueillies dans la résidence sociale objet de la présente
+convention ainsi que les situations particulières auxquelles la résidence a vocation à répondre ;
+
+Préciser si des actions spécifiques sont prévues pour le relogement et l'accompagnement social, notamment si la résidence
+sociale a pour vocation d'accueillir les populations prioritaires au sens de l'article 4 de la loi du 31 mai 1990.
+
+Conditions spécifiques d'accueil (s'il y a lieu) :
+
+Durée maximale de l'accueil et conditions de son renouvellement ;
+
+Conditions d'admission dans la résidence sociale ;
+
+Modalités d'accès à la résidence sociale :
+
+Modalités de proposition et de désignation des résidents ;
+
+Organismes ou instances locales pouvant proposer des résidents ;
+
+Existence éventuelle d'une instance locale de concertation sur les attributions.
+
+Action sociale liée à l'accueil dans la résidence sociale (s'il y a lieu) :
+
+Actions à caractère social ;
+
+Action spécifique pour l'insertion par le logement ;
+
+Projet de relogement (s'il y a lieu) :
+
+Modalités de recours aux actions du plan départemental d'action pour le logement des personnes défavorisées et aux aides du
+fonds de solidarité pour le logement ;
+
+Modalités de recours aux dispositifs locaux pour l'attribution de logements sociaux ;
+
+Modalités de relogement au moyen de conventions éventuelles passées avec des bailleurs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
+
+_Abrogé par_:
+
+  - Décret n°2011-356 du 30 mars 2011 - art. (V)
+
+
+### Agrément pour la gestion de résidence sociale.<a id=581></a>
+
+###### Article Annexe III à l'article R353-165-2
+
+L'agrément peut avoir plusieurs dimensions, c'est-à-dire s'appliquer soit à l'échelon départemental, soit pour une opération
+déterminée, soit pour certains types de structures en fonction des financements accordés et des populations visées.
+
+Département :
+
+Bénéficiaire :
+
+Objet :
+
+- assurer la gestion de résidences sociales dans le département ;
+
+- être signataire de conventions A.P.L. Résidence sociale ;
+
+Fondements :
+
+- capacité à assurer une gestion locative assurant le maintien en bon état de fonctionnement des résidences ;
+
+- capacité à mener, conjointement avec le propriétaire, une gestion patrimoniale assurant la pérennité des résidences ;
+
+- capacité à assurer, le cas échéant, une gestion sociale adaptée à la situation des résidents ;
+
+- le cas échéant, capacité à participer aux actions de relogement et d'accompagnement social liées au logement pour les
+résidents.
+
+Durée :
+
+- indéterminée.
+
+Résiliation :
+
+- à la demande du bénéficiaire ou sur décision motivée du préfet.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
+
+_Abrogé par_:
+
+  - Décret n°2011-356 du 30 mars 2011 - art.
+
+
+### Description de la résidence sociale de ....<a id=582></a>
+
+###### Article Annexe IV à l'article R353-165-2
+
+I. - Désignation du ou des immeubles.
+
+II. - Nature du programme conventionné.
+
+Variante 1 : le programme est conventionné en application de l'article R. 351-56 du code de la construction et de
+l'habitation.
+
+Variante 1 bis : le programme est conventionné en application de l'article L. 351-2, 5° (cf. art. 18 de la loi n° 90-449 du
+31 mai 1990) : il s'agit d'une résidence sociale hébergeant à titre principal des jeunes travailleurs.
+
+Variante 2 : le programme est amélioré au moyen :
+
+- d'une subvention de l'Etat pour l'amélioration des logements sociaux prévue par l'article R. 323-1 du code de la
+construction et de l'habitation (PALULOS) ;
+
+- de financements issus de la fraction de la participation des employeurs à l'effort de construction réservée par priorité au
+logement des travailleurs immigrés et de leurs familles ;
+
+- de subventions du ministère chargé de la santé ;
+
+et conventionné en application de l'article R. 351-56 (2°).
+
+Variante 2 bis : le programme est acquis et amélioré ou acquis sans obligation minimale de travaux au moyen :
+
+- d'une subvention ou un prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation (P.L.A.-C.F.F. ou
+P.L.A.-C.D.C. acquisition-amélioration ou P.L.A. mentionnés au 2° de l'article R. 331-15 du code de la construction et de
+l'habitation) ;
+
+- de financements issus de la participation des employeurs à l'effort de construction réservée par priorité au logement des
+travailleurs immigrés et de leurs familles ;
+
+- de subventions du ministère chargé de la santé,
+
+et conventionné en application de l'article R. 351-56 (2°).
+
+Variante 3 : le programme est construit au moyen ;
+
+- d'une subvention ou d'un prêt prévu à l'article R. 331-1 du code de la construction et de l'habitation (P.L.A.-C.F.F. ou
+P.L.A.-C.D.C. ou P.L.A. mentionnés au 2° de l'article R. 331-15 du code de la construction et de l'habitation) ;
+
+- de subventions du ministère chargé de la santé,
+
+et conventionné en application de l'article R. 351-56 (3°).
+
+III. - Composition du programme.
+
+A. - Surface habitable totale :
+
+B. - Locaux auxquels s'applique la présente convention :
+
+1. Surface habitable totale (en mètres carrés) ;
+
+2. Surface habitable totale des parties privatives (en mètres carrés) ;
+
+Se décomposant comme suit :
+
+Nombre total de logements :
+
+Nombre total de chambres :
+
+Nombre total de lits :
+
+Type de locaux, surface habitable par local, nombre, numéro du local, nombre de lits, chambres et logements.
+
+3. Surface totale des locaux à usage collectif (en mètres carrés) ;
+
+Se décomposant comme suit :
+
+type de local, surface habitable, nombre.
+
+4. Dépendances (nombre et surface) :
+
+5. Garages et parking (nombre et type) :
+
+C. - Locaux auxquels ne s'appliquent pas la convention (1).
+
+IV. - Origine de propriété.
+
+V. - Renseignements administratifs.
+
+A. - Permis de construire ou déclaration de construction.
+
+B. - Modalités de financement de l'opération au titre de laquelle la présente convention est signée (2) :
+
+Financement principal ;
+
+Date d'octroi du prêt ;
+
+Numéro du prêt ;
+
+Durée ;
+
+Financement complémentaire ;
+
+Date d'achèvement de la construction ou certificat de conformité.
+
+C. - Historique des financements publics dont le programme a bénéficié depuis sa construction.
+
+Fait à ..., le ....
+
+(1) Exemple : logement de fonction.
+
+(2) Renseignements à compléter dès que les décisions de financement sont intervenues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
+
+_Abrogé par_:
+
+  - Décret n°2011-356 du 30 mars 2011 - art.
+
+
+### Charges locatives récupérables.<a id=583></a>
+
+###### Article Annexe V à l'article R353-165-2
+
+Cette annexe a pour objet de préciser la liste des charges récupérables prévues à l'article 8-II de la convention.
+
+Pour l'application de l'article 8-II de la présente convention :
+
+a) Il n'y a pas lieu de distinguer entre les services assurés par le bailleur en régie et les services assurés dans le cadre
+d'un contrat d'entreprise. Le coût des services assurés en régie inclut les dépenses de personnel d'encadrement technique.
+Lorsqu'il existe un contrat d'entreprise, le bailleur doit s'assurer que ce contrat distingue les dépenses récupérables et
+les autres dépenses.
+
+b) Les dépenses de personnel récupérables correspondent à la rémunération et aux charges sociales et fiscales.
+
+c) Lorsque l'entretien des parties communes et l'élimination des rejets sont assurés par un gardien ou un concierge, les
+dépenses correspondant à sa rémunération, à l'exclusion du salaire en nature, sont exigibles au titre des charges
+récupérables à concurrence des trois quarts de leur montant.
+
+d) Lorsque l'entretien des parties communes et l'élimination des rejets sont assurés par un employé d'immeuble, les dépenses
+correspondant à sa rémunération sont exigibles, en totalité, au titre des charges récupérables.
+
+e) Le remplacement d'éléments d'équipement n'est considéré comme assimilable aux menues réparations que si son coût est au
+plus égal au coût de celles-ci.
+
+Liste des charges récupérables :
+
+I. - Ascenseurs et monte-charges.
+
+1. Dépenses d'électricité ;
+
+2. Dépenses d'exploitation, d'entretien courant, de menues réparations :
+
+a) Exploitation :
+
+Visite périodique, nettoyage et graissage des organes mécaniques ;
+
+Examen semestriel des câbles et vérification annuelle des parachutes ;
+
+Nettoyage annuel de la cuvette, du dessus de la cabine et de la machinerie ;
+
+Dépannage ne nécessitant pas de réparations ou fournitures de pièces ;
+
+Tenue d'un dossier par l'entreprise d'entretien mentionnant les visites techniques, incidents et faits importants touchant
+l'appareil.
+
+b) Fournitures relatives à des produits ou à du petit matériel d'entretien (chiffons, graisses et huiles nécessaires) et aux
+lampes d'éclairage de la cabine.
+
+c) Menues réparations :
+
+De la cabine (boutons d'envoi, paumelles de portes, contacts de portes, ferme-portes automatiques, coulisseaux de cabine,
+dispositif de sécurité de seuil et cellule photoélectrique) ;
+
+Des paliers (ferme-portes mécaniques, électriques ou pneumatiques, serrures électromécaniques, contacts de porte et boutons
+d'appel) ;
+
+Des balais du moteur et fusibles.
+
+II. - Eau froide, eau chaude et chauffage collectif des locaux privatifs et des parties communes.
+
+1. Dépenses relatives :
+
+A l'eau froide et chaude des locataires ou occupants du bâtiment ou de l'ensemble des bâtiments d'habitation concernés ;
+
+A l'eau nécessaire à l'entretien courant des parties communes du ou desdits bâtiments, y compris à la station d'épuration ;
+
+A l'eau nécessaire à l'entretien courant des espaces extérieurs.
+
+Les dépenses relatives à la consommation d'eau incluent l'ensemble des taxes et redevances ainsi que les sommes dues au titre
+de la redevance d'assainissement, à l'exclusion de celles auxquelles le propriétaire est astreint en application de l'article
+L. 35-5 du code de la santé publique.
+
+Aux produits nécessaires à l'exploitation, à l'entretien et au traitement de l'eau ;
+
+A l'électricité ;
+
+Au combustible ou à la fourniture d'énergie quelle que soit sa nature.
+
+2. Dépenses d'exploitation, d'entretien courant et de menues réparations :
+
+a) Exploitation et entretien courant :
+
+Nettoyage des gicleurs, électrodes, filtres et clapets des brûleurs ;
+
+Entretien courant et graissage des pompes de relais, jauges, contrôleurs de niveau ainsi que des groupes moto-pompes et
+pompes de puisards ;
+
+Graissage des vannes et robinets et réfection des presse-étoupes ;
+
+Remplacement des ampoules des voyants lumineux et ampoules de chaufferie ;
+
+Entretien et réglage des appareils de régulation automatique et de leurs annexes ;
+
+Vérification et entretien des régulateurs de tirage ;
+
+Réglage des vannes, robinets et tés ne comprenant pas l'équilibrage ;
+
+Purge des points de chauffage ;
+
+Frais de contrôles de combustion ;
+
+Entretien des épurateurs de fumée ;
+
+Opérations de mise en repos en fin de saison de chauffage, rinçage des corps de chauffe et tuyauteries, nettoyage des
+chaufferies, y compris leurs puisards et siphons, ramonage des chaudières, carneaux et cheminées ;
+
+Conduite du chauffage ;
+
+Frais de location, d'entretien et de relevé des compteurs généraux et individuels ;
+
+Entretien de l'adoucisseur, du détartreur d'eau, du surpresseur et du détendeur ;
+
+Contrôles périodiques visant à éviter les fuites de fluide frigorigène des pompes à chaleur ;
+
+Vérification, nettoyage et graissage des organes des pompes à chaleur ;
+
+Nettoyage périodique de la face extérieure des capteurs solaires ;
+
+Vérification, nettoyage et graissage des organes des capteurs solaires.
+
+b) Menues réparations dans les parties communes ou sur des éléments d'usage commun :
+
+Réparation de fuites sur raccords et joints ;
+
+Remplacement des joints, clapets et presse-étoupes ;
+
+Rodage des sièges de clapets ;
+
+Menues réparations visant à remédier aux fuites de fluide frigorigène des pompes à chaleur ;
+
+Recharge en fluide frigorigène des pompes à chaleur.
+
+III. - Installations individuelles.
+
+Chauffage et production d'eau chaude, distribution d'eau dans les parties privatives :
+
+1. Dépenses d'alimentation commune de combustible.
+
+2. Exploitation et entretien courant, menues réparations :
+
+a) Exploitation et entretien courant :
+
+Réglage de débit et température de l'eau chaude sanitaire ;
+
+Vérification et réglage des appareils de commande, d'asservissement, de sécurité d'aquastat et de pompe ;
+
+Dépannage ;
+
+Contrôle des raccordements et de l'alimentation des chauffe-eau électriques, contrôle de l'intensité absorbée ;
+
+Vérification de l'état des résistances, des thermostats, nettoyage ;
+
+Réglage des thermostats et contrôle de la température d'eau ;
+
+Contrôle et réfection d'étanchéité des raccordements eau froide - eau chaude ;
+
+Contrôle des groupes de sécurité ;
+
+Rodage des sièges de clapets des robinets ;
+
+Réglage des mécanismes de chasse d'eau.
+
+b) Menues réparations :
+
+Remplacement des bilames, pistons, membranes, boîtes à eau, allumage piézo-électrique, clapets et joints des appareils à
+gaz ;
+
+Rinçage et nettoyage des corps de chauffe et tuyauteries ;
+
+Remplacement des joints, clapets et presse-étoupes des robinets ;
+
+Remplacement des joints, flotteurs et joints cloches des chasses d'eau.
+
+IV. - Parties communes intérieures au bâtiment ou à l'ensemble de bâtiments d'habitation.
+
+1. Dépenses relatives :
+
+A l'électricité ;
+
+Aux fournitures consommables, notamment produits d'entretien, balais et petit matériel assimilé nécessaires à l'entretien de
+propreté, sel.
+
+2. Exploitation et entretien courant, menues réparations :
+
+a) Entretien de la minuterie, pose, dépose et entretien des tapis ;
+
+b) Menues réparations des appareils d'entretien de propreté tels qu'aspirateur.
+
+3. Entretien de propreté (frais de personnel).
+
+V. - Espaces extérieurs au bâtiment ou à l'ensemble de bâtiments d'habitation (voies de circulation, aires de stationnement,
+abords et espaces verts, aires et équipements de jeux).
+
+1. Dépenses relatives :
+
+A l'électricité ;
+
+A l'essence et huile ;
+
+Aux fournitures consommables utilisées dans l'entretien courant :
+
+ampoules ou tubes d'éclairage, engrais, produits bactéricides et insecticides, produits tels que graines, fleurs, plants,
+plantes de remplacement, à l'exclusion de celles utilisées pour la réfection de massifs, plates-bandes ou haies.
+
+2. a) Exploitation et entretien courant :
+
+Opérations de coupe, désherbage, sarclage, ratissage, nettoyage et arrosage concernant :
+
+Les allées, aires de stationnement et abords ;
+
+Les espaces verts (pelouses, massifs, arbustes, haies vives, plates-bandes) ;
+
+Les aires de jeux ;
+
+Les bassins, fontaines, caniveaux, canalisations d'évacuation des eaux pluviales ;
+
+Entretien du matériel horticole ;
+
+Remplacement du sable des bacs et du petit matériel de jeux.
+
+b) Peinture et menues réparations des bancs de jardin et des équipements de jeux et grillages.
+
+VI. - Hygiène.
+
+1. Dépenses de fournitures consommables :
+
+Sacs en plastique et en papier nécessaires à l'élimination des rejets ;
+
+Produits relatifs à la désinsectisation et à la désinfection, y compris des colonnes sèches de vide-ordures.
+
+2. Exploitation et entretien courant :
+
+Entretien et vidange des fosses d'aisance ;
+
+Entretien des appareils de conditionnement des ordures.
+
+3. Elimination des rejets (frais de personnel).
+
+VII. - Equipements divers du bâtiment ou de l'ensemble de bâtiments d'habitation.
+
+1. Fourniture d'énergie nécessaire à la ventilation mécanique.
+
+2. Exploitation et entretien courant :
+
+Ramonage des conduits de ventilation ;
+
+Entretien de la ventilation mécanique ;
+
+Entretien des dispositifs d'ouverture automatique ou codée et des interphones ;
+
+Visites périodiques à l'exception des contrôles réglementaires de sécurité, nettoyage et graissage de l'appareillage fixe de
+manutention des nacelles de nettoyage des façades vitrées.
+
+3. Divers :
+
+Abonnements des postes de téléphone à la disposition des locataires.
+
+VIII. - Impositions et redevances.
+
+Droit de bail ;
+
+Taxe ou redevance d'enlèvement des ordures ménagères ;
+
+Taxe de balayage.
+
+(1) Si le programme faisait antérieurement l'objet d'une convention A.P.L. en application de l'article L. 351-2 (5°) du code
+de la construction et de l'habitation, mentionner les références de la précédente convention.
+
+(2) Rayer les mentions inutiles.
+
+(3) Exemple : logement de fonction.
+
+(4) Etablie conformément à l'article 3 du décret n° 55-22 du 4 janvier 1955 modifié précité.
+
+(5) Renseignements à compléter dès que les décisions de financements sont intervenues.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
+
+_Abrogé par_:
+
+  - Décret n°2011-356 du 30 mars 2011 - art.
+
+
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=584></a>
 
 ###### Article Annexe III à l'article R353-166
 
@@ -73995,7 +75398,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=580></a>
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=585></a>
 
 ###### Article Annexe II à l'article R353-166, art. 1
 
@@ -74034,7 +75437,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=581></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=586></a>
 
 ###### Article Annexe III à l'article R353-190
 
@@ -74417,7 +75820,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=582></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=587></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
@@ -74504,7 +75907,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=583></a>
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=588></a>
 
 ###### Article Annexe III à l'article R353-200
 
@@ -74673,7 +76076,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=584></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=589></a>
 
 ###### Article Annexe II à l'article R353-200, art. 1
 
@@ -74740,7 +76143,7 @@ _Créé par_:
   - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
 
 
-## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=585></a>
+## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=590></a>
 
 ###### Article Annexe à l'article R422-37
 
@@ -74955,7 +76358,7 @@ _Modifié par_:
   - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
 
 
-## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=586></a>
+## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=591></a>
 
 ###### Article Annexe à l'article R443-11
 
