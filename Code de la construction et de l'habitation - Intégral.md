@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-07-27
+Version Consolidée au 1993-08-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -11925,6 +11925,32 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. L821-2 (V)
   - Code de la construction et de l'habitation. - art. L831-1 (V)
   - Code de la construction et de l'habitation. - art. L831-2 (V)
+
+
+###### Article L351-2-1
+
+L'aide personnalisée au logement est attribuée dans les conditions fixées par le présent titre aux personnes de nationalité
+française et aux personnes de nationalité étrangère titulaires d'un des titres de séjour ou documents justifiant de la
+régularité du séjour et prévus en application de l'article L. 512-2 du code de la sécurité sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°93-1027 du 24 août 1993 - art. 40 () JORF 29 août 1993
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L512-2 (M)
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. L822-3 (V)
+  - Code de la construction et de l'habitation. - art. L822-8 (V)
 
 
 ###### Article L351-3
