@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-03-09
+Version Consolidée au 1980-06-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -42972,26 +42972,19 @@ _Nouveaux textes_:
 ###### Article R351-13
 
 Lorsque le bénéficiaire ou son conjoint se trouve depuis deux mois consécutifs à la date d'effet de la demande, ou pendant au
-moins deux mois consécutifs au cours de la période de paiement, en chômage total indemnisé en application des articles L.
-351-10, L. 351-18 ou L. 351-19 du code du travail, ou, en chômage partiel indemnisé en application de l'article L. 352-2 du
-code du travail ou en vertu de régimes particuliers à la profession et que cette situation entraîne une diminution des
-ressources d'au moins 20 p. 100, les ressources perçues par l'intéressé pendant l'année civile de référence sont, tant que
-dure cette situation, affectées d'un abattement de 30 p. 100 en cas de chômage total ou de 20 p. 100 en cas de chômage
-partiel. Cette mesure s'applique à la date d'effet de la demande ou au premier jour du mois au cours duquel survient le
-changement de situation.
+moins deux mois consécutifs au cours de la période de paiement, en chômage total ou partiel indemnisé en application du titre
+V du livre III du code du travail ou en vertu de régimes particuliers à la profession, les revenus d'activité perçus par
+l'intéressé pendant l'année civile de référence sont, tant que dure cette situation, affectés d'un abattement de 30 p. 100.
+Cette mesure s'applique à la date d'effet de la demande ou au premier jour du mois au cours duquel survient le changement de
+situation.
 
-L'abattement prévu au présent article n'est pas applicable aux personnes bénéficiant de l'allocation supplémentaire d'attente
-créée par l'avenant A.1 au règlement du règime national interprofessionnel d'allocations spéciales aux travailleurs sans
-emploi de l'industrie et du commerce.
-
-Lorsque l'intéressé s'est déjà trouvé en chômage total ou partiel au cours de l'année civile de référence, l'abattement ne
-porte que sur les revenus d'activité éventuellement perçus par l'intéressé au cours de ladite année.
-
-//DECR.0953 :
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.//
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Code du travail LIVRE III TITRE V
 
 _Anciens textes_:
 
@@ -42999,11 +42992,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Créé par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+  - Décret n°80-391 1980-06-02 ART. 1 JORF 4 JUIN 1980
 
 _Cité par_:
 
@@ -43013,13 +43006,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-28-1 (V)
   - Code de la construction et de l'habitation. - art. R351-7-1 (V)
 
-_Cite_:
-
-  - Code du travail - art. L351-10 (M)
-  - Code du travail - art. L351-18 (T)
-  - Code du travail - art. L351-19 (MMN)
-  - Code du travail - art. L352-2 (M)
-
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. R822-14 (V)
@@ -43027,15 +43013,15 @@ _Nouveaux textes_:
 
 ###### Article R351-14
 
-Lorsque le bénéficiaire ou son conjoint, en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
+Lorsque le bénéficiaire ou son conjoint en chômage total depuis au moins deux mois consécutifs à la date d'effet de la
 demande ou au cours de la période de paiement, ne bénéficie pas ou ne bénéficie plus d'une indemnisation dans les conditions
-fixées au premier alinéa de l'article R. 351-13, il n'est pas tenu compte, à partir de la date d'effet de la demande ou du
-premier jour du mois au cours duquel survient le changement de situation ou la cessation de l'indemnisation et tant que cette
-situation se prolonge, des ressources perçues par l'intéressé au cours de l'année civile de référence.
+fixées à l'article R. 351-13 ou perçoit l'allocation de fin de droits prévue par le réglement annexe à la convention
+interprofessionnelle conclue dans le cadre de la loi n° 79-32 du 16 janvier 1979 susvisée, il n'est pas tenu compte à partir
+de la date d'effet de la demande ou du premier jour du mois au cours duquel survient le changement de situation, la cessation
+de l'indemnisation ou l'admission à l'allocation de fin de droits précités, et tant que cette situation se prolonge, des
+ressources perçues par l'interessé au cours de l'année civile de référence.
 
-//DECR.0953 :
-
-Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.//
+Il appartient au bénéficiaire de justifier que les conditions prévues par le présent article sont remplies.
 
 **Liens relatifs à cet article**
 
@@ -43045,11 +43031,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°79-32 1979-01-16
+  - Code de la construction et de l'habitation. - art. R351-13 (M)
 
 _Créé par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+  - Décret n°80-391 1980-06-02 ART. 2 JORF 4 JUIN 1980
 
 _Cité par_:
 
@@ -43058,10 +43049,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-14-1 (V)
   - Code de la construction et de l'habitation. - art. R351-28-1 (V)
   - Code de la construction et de l'habitation. - art. R351-7-1 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R351-13 (M)
 
 _Nouveaux textes_:
 
@@ -43393,23 +43380,26 @@ _Cite_:
 L'aide personnalisée est versée selon les modalités techniques précisées par les conventions nationales prévues à l'article
 L. 351-8 :
 
-- au bailleur, lorsque le bénéficiaire est locataire ; ce versement peut faire l'objet d'avances dans des cas et selon des
-conditions définies par arrêté conjoint des ministres chargés de la sécurité sociale, de l'agriculture, des finances et de la
-construction et de l'habitation ;
+- au bailleur ou au gestionnaire répondant aux conditions fixées par l'arrêté du 9 mars 1978 relatif à l'agrément des
+personnes ou organismes habilités à gérer des immeubles faisant l'objet d'une convention régie par le titre V de la loi n.
+77-1 du 3 janvier 1977, lorsque le bénéficiaire est locataire : ce versement peut faire l'objet d'avances dans des cas et
+selon des conditions définies par arrêté conjoint des ministres chargés de la sécurité sociale, de l'agriculture, des
+finances et de la construction et de l'habitation ;
 
 - à l'établissement habilité à cette fin lorsque le bénéficiaire est propriétaire du logement ; cet établissement est
 l'établissement prêteur, lorsque le bénéficiaire est un propriétaire qui a contracté un prêt unique entrant dans le champ
 d'application de l'article R. 351-2 et, lorsque le propriétaire a contracté plusieurs prêts, l'établissement qui a accordé le
-prêt principal répondant aux critères dudit article R. 351-2, sauf si le propriétaire a donné mandat à un autre établissement
+prêt principal répondant aux critères dudit article R. 351-2 sauf si le propriétaire a donné mandat à un autre établissement
 répondant à des caractéristiques définies par arrêté conjoint des ministres chargés des finances, de la construction et de
 l'habitation, de l'agriculture et de la sécurité sociale, auquel cas l'aide personnalisée est versée à cet établissement.
 
-Toutefois, l'aide personnalisée peut être versée au locataire d'un logement compris dans un patrimoine conventionné
-comportant moins de dix logements.
+Lorsque le bénéficiaire est locataire d'un logement compris dans un patrimoine conventionné comportant moins de dix
+logements, l'aide personnalisée est versée au bailleur ou au gestionnaire, s'il en fait la demande ; dans le cas contraire,
+elle est versée au locataire.
 
-En outre, elle est versée directement au bénéficiaire qui est dans l'une des situations suivantes :
+En outre, elles est versée directement au bénéficiaire qui est dans l'une des situations suivantes :
 
-- locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 ;
+- locataire ou occupant de bonne foi dans le cas prévu par l'article L. 353-9 :
 
 - propriétaire qui a contracté plusieurs prêts et qui n'a pas donné mandat à un établissement habilité, lorsque aucune des
 mensualités de remboursement de ces prêts n'est supérieure ou égale pour la première année au montant de l'aide
@@ -43418,7 +43408,7 @@ personnalisée.
 Pour l'application du présent article :
 
 - sont assimilés à l'établissement prêteur le vendeur, en cas de vente à terme, et les sociétés faisant l'objet des
-dispositions des articles L. 212-1 à L. 212-13 et L. 213-1 à L. 213-15 lorsqu'elles ont été bénéficiaires du prêt principal ;
+dispositions des articles L. 212-1 à L. 212-13 et L. 213-1 à L. 213-15 lorsqu'elles ont été bénéficiaires du prêt principal :
 
 - est assimilé au propriétaire le porteur de parts ou d'actions de sociétés donnant vocation à l'attribution en propriété du
 logement qu'il occupe dès lors qu'il bénéficie directement d'un prêt entrant dans le champ d'application de l'article R.
@@ -43426,25 +43416,31 @@ logement qu'il occupe dès lors qu'il bénéficie directement d'un prêt entrant
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Arrêté  1978-03-09
+  - Loi n°77-1 1977-01-03 TITRE V
+  - Code de la construction et de l'habitation L351-8, R351-2, L353-9, L212-1 à L212-13, L213-1 à L213-15
+  - Code de la construction et de l'habitation. - art. L351-8 (M)
+  - Code de la construction et de l'habitation. - art. L353-9 (V)
+  - Code de la construction et de l'habitation. - art. R351-2 (M)
+
 _Anciens textes_:
 
   - Décret n°77-784 1977-07-13 art. 23
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°80-391 1980-06-02 ART. 3 JORF 4 JUIN 1980
 
 _Cité par_:
 
   - Code de l'action sociale et des familles - art. D271-2 (VD)
   - Code de la construction et de l'habitation. - art. R*351-31 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation L351-8, R351-2, L353-9, L212-1 à L212-13, L213-1 à L213-15
-  - Code de la construction et de l'habitation. - art. L351-8 (M)
-  - Code de la construction et de l'habitation. - art. L353-9 (V)
-  - Code de la construction et de l'habitation. - art. R351-2 (M)
 
 
 ###### Article R351-28
