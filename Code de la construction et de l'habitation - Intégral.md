@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-03-11
+Version Consolidée au 1983-03-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -373,7 +373,7 @@ Version Consolidée au 1983-03-11
           - [Section 1 : Aide personnalisée. (art. R351-2 à R351-29)](#370)
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-2 à R351-4-1)](#371)
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-8)](#372)
-            - [Sous-section 3 : Conditions particulières. (art. R351-17-2)](#373)
+            - [Sous-section 3 : Conditions particulières. (art. R351-16 à R351-17-2)](#373)
             - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-20-1)](#374)
             - [Sous-section 7 : Dispositions diverses. (art. R351-55 à R351-59)](#375)
               - [SECTION IV : Dispositions particulières aux logements-foyers (art. R351-55)](#376)
@@ -37813,6 +37813,39 @@ _Cité par_:
 
 ##### Sous-section 3 : Conditions particulières.<a id=373></a>
 
+###### Article R351-16
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
+d'une personne à charge au sens de l'article R. 351-8. Cette révision prend effet le premier jour du mois civil suivant celui
+au cours duquel est intervenu l'événement.
+
+Le montant de l'aide personnalisée est révisé en cours de période de paiement en cas de décès ou de départ du foyer d'une
+personne à charge au sens de l'article R. 351-8. Cette révision prend effet respectivement le premier jour du mois civil qui
+suit le décès ou le premier jour du mois civil au cours duquel survient le départ.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-784 1977-07-13 art. 12
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-176 1983-03-07 ART. 8 JORF 11 MARS 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R351-8 (M)
+
+
 ###### Article R351-17-2
 
 Dans le cas prévu à l'article R. 351-17 (6è alinéa), l'élément L de la formule de calcul prévue à l'article R. 351-18
@@ -43768,32 +43801,6 @@ _Cite_:
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. R822-15 (V)
-
-
-###### Article R351-16
-
-Le montant de l'aide personnalisée est révisé en cours de période de paiement lors de la naissance ou de l'arrivée au foyer
-d'une personne à charge au sens de l'article R. 351-8.
-
-Cette révision prend effet le premier jour du mois suivant celui au cours duquel est intervenu l'événement.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-784 1977-07-13 art. 12
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R351-29 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R351-8 (M)
 
 
 ###### Article R351-16 BIS
