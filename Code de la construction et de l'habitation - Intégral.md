@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1978-06-08
+Version Consolidée au 1978-07-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-1)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -38092,29 +38092,26 @@ _Cité par_:
 
 ###### Article R351-2
 
-L'aide personnalisée est accordée au propriétaire, pendant la période au cours de laquelle il rembourse les prêts définis par
-le titre III, chapitre Ier, section II, du présent livre ; elle est versée soit à compter de la première échéance de prêt
-lorsque le propriétaire occupe le logement, soit à compter de l'échéance qui suit son entrée dans les lieux.
+L'aide personnalisée est accordée [*bénéficiaire*] au propriétaire qui soit paie des intérêts en cas de différé
+d'amortissement, soit rembourse les prêts définis par les articles R. 331-32 et suivants ; elle est versée soit à compter de
+la première échéance d'intérêt ou de prêt lorsque le propriétaire occupe le logement, soit à compter du premier jour du mois
+au cours duquel se situe son entrée dans les lieux.
 
 Sont pris en considération pour le calcul de l'aide personnalisée :
 
-a) Les charges d'intérêts et d'amortissements et les charges accessoires au principal de la dette afférentes aux prêts
-susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés des finances et de la
-construction et de l'habitation ;
+a) Les charges d'intérêts, ou les charges d'intérêts et d'amortissement et les charges accessoires au principal de la dette
+afférente aux prêts susmentionnés et aux prêts complémentaires définis par arrêté conjoint des ministres chargés du budget et
+de la construction et de l'habitation ;
 
-b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance-vie, de l'assurance
+b) Le versement des primes d'assurance accessoires aux contrats de prêts, notamment de l'assurance vie, de l'assurance
 couvrant les risques d'invalidité, de l'assurance pour pertes pécuniaires résultant du report d'échéances de sommes dues en
 cas de chômage, contractées par le bénéficiaire en garantie de l'exécution des engagements souscrits.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-784 1977-07-13 art. 2
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -38125,6 +38122,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-21-4 (V)
   - Code de la construction et de l'habitation. - art. R351-27 (V)
   - Code de la construction et de l'habitation. - art. R351-4-1 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-32 (M)
 
 
 ###### Article R351-3
@@ -38629,6 +38630,19 @@ _Codifié par_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R351-29 (V)
+
+
+###### Article R351-16 BIS
+
+Le montant de l'aide personnalisée versée au bénéficiaire qui occupe le logement dont il est propriétaire est revisé en cours
+de période de paiement lorsque la période de remboursement du prêt ouvrant droit à l'aide personnalisée fait suite à une
+période de différé d'amortissement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
 ###### Article R351-17
