@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-03-07
+Version Consolidée au 2001-04-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -309,15 +309,15 @@ Version Consolidée au 2001-03-07
       - [Titre VII : Dispositions particulières aux départements d'outre-mer (art. R271-1)](#306)
         - [Chapitre unique. (art. R271-1)](#307)
     - [Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement. (art. R302-17 à R391-9)](#308)
-      - [Titre préliminaire : Politique d'aide au logement. (art. R302-17 à R302-27)](#309)
+      - [Titre préliminaire : Politique d'aide au logement. (art. R302-17 à R302-29)](#309)
         - [Chapitre II : Politique locale de l'habitat. (art. R302-17 à R302-23)](#310)
           - [Section 4 : Convention d'application du programme local de l'habitat. (art. R302-17)](#311)
           - [Section 5 : Dispositions transitoires. (art. R302-18 à R302-23)](#312)
-        - [Chapitre II : Programme local de l'habitat (art. R302-1 à R302-27)](#313)
+        - [Chapitre II : Programme local de l'habitat (art. R302-1 à R302-29)](#313)
           - [Section 1 : Contenu du programme local de l'habitat. (art. R302-1 à R302-1-3)](#314)
           - [Section 2 : Etablissement du programme local de l'habitat par un établissement public de coopération intercommunale. (art. R302-2 à R302-13)](#315)
           - [Section 3 : Etablissement d'un programme local de l'habitat par une commune. (art. R302-14 à R302-16)](#316)
-          - [Section 6 : Dispositions particulières à certaines agglomérations. (art. R302-24 à R302-27)](#317)
+          - [Section 6 : Dispositions particulières à certaines agglomérations. (art. R302-24 à R302-29)](#317)
       - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. R*311-1 à R317-24)](#318)
         - [Chapitre Ier : Primes et prêts à la construction. (art. R*311-1 à R*311-66)](#319)
           - [Section 1 : Dispositions communes aux primes et prêts. (art. R*311-1 à R311-4)](#320)
@@ -38177,6 +38177,93 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L302-5 (M)
   - Code de la construction et de l'habitation. - art. R312-3-1 (M)
   - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+###### Article R302-28
+
+L'inventaire prévu à l'article L. 302-6 est établi pour chaque bâtiment par la personne morale propriétaire, à défaut par la
+personne morale gestionnaire. Il comporte les informations suivantes :
+
+A. - Données générales concernant :
+
+a) Le propriétaire : nom ou raison sociale, dénomination usuelle, statut, numéro SIRET, adresse ;
+
+b) Le gestionnaire, s'il diffère du propriétaire : nom ou raison sociale, dénomination usuelle, statut, numéro SIRET,
+adresse ;
+
+c) Le bâtiment : adresse, nom du programme ou du bâtiment, date de première mise en location, mode de financement ;
+
+d) La convention, s'il y a lieu : numéro de la convention, date de la publication au fichier immobilier ou de l'inscription
+au livre foncier, année d'expiration de la convention.
+
+B. - Nombre de logements locatifs sociaux, au sens de l'article L. 302-5, dans le bâtiment, pour chacune des catégories
+suivantes :
+
+1° Logements appartenant aux organismes d'habitation à loyer modéré et construits ou acquis et améliorés avant le 5 janvier
+1977 ;
+
+2° Autres logements conventionnés ;
+
+3° Logements mentionnés au 3° de l'article L. 302-5 ;
+
+4° Logements ou équivalents logement des lits et places mentionnés au 4° de l'article L. 302-5, le nombre de logements
+équivalents étant obtenu en retenant la partie entière issue du calcul effectué à raison d'un logement pour trois lits en
+logements-foyer ou pour trois places en centre d'hébergement et de réinsertion sociale.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2001-316 du 12 avril 2001 - art. 1 () JORF 14 avril 2001
+
+_Transféré par_:
+
+  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L302-5 (M)
+  - Code de la construction et de l'habitation. - art. L302-6 (M)
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. R302-14 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R391-8 (M)
+
+
+###### Article R302-29
+
+L'inventaire est établi selon des modalités définies par arrêté du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2001-316 du 12 avril 2001 - art. 1 () JORF 14 avril 2001
+
+_Transféré par_:
+
+  - Décret n°2005-317 du 4 avril 2005 - art. 2 () JORF 6 avril 2005
+
+_Cité par_:
+
+  - Décret n°2015-638 du 8 juin 2015 (V)
+  - Code de la construction et de l'habitation. - art. R391-7 (V)
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. R302-15 (M)
 
 
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.<a id=318></a>
