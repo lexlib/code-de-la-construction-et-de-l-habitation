@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-12-31
+Version Consolidée au 2003-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -236,7 +236,7 @@ Version Consolidée au 2002-12-31
             - [Sous-section 2 : Contrôle technique obligatoire. (art. R*111-38 à R*111-42)](#233)
         - [Chapitre II : Dispositions spéciales. (art. R112-1)](#234)
           - [Section 1 : Dispositions spéciales relatives à la prévention du risque sismique. (art. R112-1)](#235)
-      - [Titre II : Sécurité et protection contre l'incendie. (art. R121-1 à R*127-4)](#236)
+      - [Titre II : Sécurité et protection contre l'incendie. (art. R121-1 à R*127-7)](#236)
         - [Chapitre Ier : Protection contre l'incendie - Classification des matériaux. (art. R121-1 à R121-13)](#237)
         - [Chapitre II : Dispositions de sécurité relatives aux immeubles de grande hauteur. (art. R122-1 à R122-29)](#238)
           - [Section 1 : Définitions et classifications. (art. R122-2 à R122-5)](#239)
@@ -258,7 +258,7 @@ Version Consolidée au 2002-12-31
         - [Chapitre V : Sécurité de certains équipements d'immeubles par destination. (art. R125-3-1 à R125-5)](#255)
           - [Section 2 : Sécurité des portes automatiques de garage. (art. R125-3-1 à R125-5)](#256)
         - [Chapitre VI : Protection contre les risques naturels ou miniers. (art. R126-1)](#257)
-        - [Chapitre VII : Gardiennage ou surveillance de certains immeubles d'habitation. (art. R*127-1 à R*127-4)](#258)
+        - [Chapitre VII : Gardiennage ou surveillance de certains immeubles d'habitation. (art. R*127-1 à R*127-7)](#258)
       - [Titre III : Chauffage et ravalement des immeubles - Lutte contre les termites. (art. R*131-1 à R*133-2)](#259)
         - [Chapitre Ier : Chauffage des immeubles (art. R*131-1 à R131-24)](#260)
           - [Section 1 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-1 à R*131-8)](#261)
@@ -272,13 +272,13 @@ Version Consolidée au 2002-12-31
           - [Section 1 : Aide à la productivité. (art. R*141-1 à R141-3)](#269)
           - [Section 2 : Coordination des programmes d'équipement. (art. R141-4)](#270)
         - [Chapitre II : Etudes et recherches techniques intéressant les industries du bâtiment. (art. R*142-1 à R*142-14)](#271)
-      - [Titre V : Contrôle et dispositions pénales. (art. R152-1 à R*152-7)](#272)
-        - [Chapitre II : Sanctions pénales. (art. R152-1 à R*152-7)](#273)
+      - [Titre V : Contrôle et dispositions pénales. (art. R152-1 à R*152-8)](#272)
+        - [Chapitre II : Sanctions pénales. (art. R152-1 à R*152-8)](#273)
           - [Section 1 : Sécurité des ascenseurs. (art. R152-1 à R152-2)](#274)
           - [Section 2 : Immeubles de grande hauteur. (art. R152-3)](#275)
           - [Section 2 : Immeubles recevant du public. (art. R*152-4 à R*152-5)](#276)
           - [Section 3 : Chauffage. (art. R*152-6)](#277)
-          - [Section 4 : Gardiennage ou surveillance de certains immeubles d'habitation. (art. R*152-7)](#278)
+          - [Section 4 : Gardiennage ou surveillance de certains immeubles d'habitation. (art. R*152-7 à R*152-8)](#278)
       - [Titre VI : Dispositions particulières aux départements d'outre-mer. (art. R*161-1 à R*161-2)](#279)
     - [Livre II : Statut des constructeurs. (art. R210-1 à R271-1)](#280)
       - [Titre Ier : Statut des sociétés de construction. (art. R210-1 à R*213-17-3)](#281)
@@ -33389,15 +33389,47 @@ _Nouveaux textes_:
 
 ###### Article R*127-4
 
-A la demande du préfet, le bailleur lui fait connaître, dans les deux mois suivants, les mesures qu'il a prises pour
-l'application du présent chapitre.
+A la demande du préfet ou, à Paris, du préfet de police, le bailleur lui fait connaître dans les deux mois suivants les
+mesures qu'il a prises pour l'application des articles R. 127-2 et R. 127-3.
 
-**Nota:**
+**Liens relatifs à cet article**
 
-NOTA : Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002
-aux logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la
-construction et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des
-impôts et à compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°2002-824 du 3 mai 2002 - art. 3 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Cite_:
+
+  - Code de la construction et de l'habitation.
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*152-9 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R271-6 (VD)
+
+
+###### Article R*127-5
+
+Afin d'éviter les risques manifestes pour la sécurité et la tranquillité des locaux, le bailleur défini à l'article R.
+127-1 :
+
+a) Installe et entretient un éclairage assurant une bonne visibilité de l'entrée des immeubles et de leurs parties communes,
+notamment des parcs de stationnement, quand ils sont situés à l'intérieur des locaux ;
+
+b) Installe et entretient les systèmes permettant de limiter l'accès aux parties communes des immeubles aux résidents et aux
+personnes autorisées par les résidents ou habilitées et l'accès aux caves et parcs de stationnement intérieurs aux résidents
+qui en bénéficient et aux personnes habilitées, ou prend les mesures ayant le même effet.
 
 **Liens relatifs à cet article**
 
@@ -33407,15 +33439,81 @@ _Codifié par_:
 
 _Créé par_:
 
-  - Décret n°2001-1361 du 28 décembre 2001 - art. 1 () JORF 30 décembre 2001
+  - Décret n°2002-824 du 3 mai 2002 - art. 1 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
 
-**Liens**:
+_Abrogé par_:
 
-  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Cite_:
+
+  - Code de la construction et de l'habitation.
 
 _Cité par_:
 
-  - Code de la construction et de l'habitation. - art. R*152-9 (VT)
+  - Code de la construction et de l'habitation. - art. R*152-10 (VT)
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R271-4 (VD)
+
+
+###### Article R*127-6
+
+Les mesures envisagées pour éviter les risques manifestes pour la sécurité et la tranquillité des locaux font l'objet d'une
+consultation des conseils de concertation locative dans les conditions prévues à l'article R. 127-3.
+
+Les services de police et de gendarmerie peuvent être associés, le cas échéant, dans le cadre des contrats locaux de sécurité
+mentionnés à l'article 1er de la loi n° 95-73 du 21 janvier 1995 d'orientation et de programmation relative à la sécurité, à
+la définition en fonction des circonstances locales des modalités d'application des mesures prises conformément à l'article
+R. 127-5 ou être sollicités par le bailleur d'émettre un avis sur toute mesure complémentaire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°95-73 du 21 janvier 1995 - art. 1
+  - Code de la construction et de l'habitation.
+
+_Créé par_:
+
+  - Décret n°2002-824 du 3 mai 2002 - art. 1 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Nouveaux textes_:
+
+  - Code de la sécurité intérieure - art. R271-5 (VD)
+
+
+###### Article R*127-7
+
+A la demande du préfet ou, à Paris, du préfet de police, le bailleur lui fait connaître dans les deux mois suivants les
+mesures qu'il a prises pour l'application de l'article R. 127-5.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-824 du 3 mai 2002 - art. 1 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
+
+_Abrogé par_:
+
+  - Décret n°2013-1113 du 4 décembre 2013 - art. 9
+
+_Cite_:
+
+  - Code de la construction et de l'habitation.
 
 _Nouveaux textes_:
 
@@ -35193,14 +35291,7 @@ transmettre des informations mensongères ou erronées est puni de la même pein
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
 pénal, des infractions définies au présent article. La peine encourue par les personnes morales est l'amende selon les
-formalités prévues par l'article 131-41 du code pénal.
-
-**Nota:**
-
-NOTA : Décret 2001-1361 2001-12-28 art. 3 : Les dispositions du présent décret sont applicables à compter du 1er janvier 2002
-aux logements situés en zone urbaine sensible détenus par les bailleurs définis à l'article R. 127-1 du code de la
-construction et de l'habitation et remplissant les conditions prévues aux I et II de l'article 1388 bis du code général des
-impôts et à compter du 1er janvier 2003 aux autres logements détenus par les bailleurs définis au même article R. 127-1.
+modalités prévues par l'article 131-41 du code pénal.
 
 **Liens relatifs à cet article**
 
@@ -35208,13 +35299,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-1361 du 28 décembre 2001 - art. 2 () JORF 30 décembre 2001
+  - Décret n°2002-824 du 3 mai 2002 - art. 4 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
 
-**Liens**:
+_Transféré par_:
 
-  - SPEC_APPLI: Décret n°2001-1361 du 28 décembre 2001 - art. 3 (V)
+  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
 
 _Cite_:
 
@@ -35229,6 +35320,49 @@ _Nouveaux textes_:
 _Anciens textes_:
 
   - Code de la construction et de l'habitation. - art. R*152-5 (M)
+
+
+###### Article R*152-8
+
+Est puni de l'amende prévue pour les contraventions de la 5e classe le fait pour le bailleur défini à l'article R. 127-1 de
+se soustraire aux obligations qui lui incombent en application de l'article R. 127-5. Le contrevenant encourt autant
+d'amendes qu'il y a d'immeubles ou groupes d'immeubles pour lesquels il n'a pas pris les mesures prescrites.
+
+Le fait pour le bailleur de ne pas déférer à la demande qui lui est faite en application de l'article R. 127-7 ou de
+transmettre des informations mensongères ou erronées est puni de la même peine d'amende prévue pour les contraventions de la
+5e classe.
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-2 du code
+pénal, des infractions définies au présent article. La peine encourue par les personnes morales est l'amende selon les
+modalités prévues par l'article 131-41 du code pénal.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-824 du 3 mai 2002 - art. 2 () JORF 5 mai 2002 en vigueur le 1er janvier 2003
+
+_Transféré par_:
+
+  - Décret n°2004-964 du 9 septembre 2004 - art. 2 () JORF 10 septembre 2004
+
+_Cite_:
+
+  - Code pénal - art. 121-2 (M)
+  - Code pénal - art. 131-41 (V)
+  - Code de la construction et de l'habitation R127-5, R127-7
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation R152-10
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation R152-6
 
 
 ### Titre VI : Dispositions particulières aux départements d'outre-mer.<a id=279></a>
