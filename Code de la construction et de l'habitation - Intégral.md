@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-06-27
+Version Consolidée au 1998-07-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -9744,12 +9744,12 @@ sociale pour lesquelles des règles spéciales ont été édictées en applicati
 financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux, de
 construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant à
 compter du 1er janvier 1991, 0,55 p. 100 et, à compter du 1er janvier 1992, 0,45 p. 100 au moins du montant, entendu au sens
-des règles prévues au chapitres Ier et II du titre IV du livre II du code de la sécurité sociale, des salaires payés par eux
-au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou
-commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même
-caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant le 30 juin 1991 pourront, pour la fraction
-excédant les sommes dues avec un taux de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison des salaires
-payés en 1991.
+des règles prévues au chapitres Ier et II du titre IV du livre II du code de la sécurité sociale, des rémunérations versées
+par eux au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère
+industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics
+ayant le même caractère. Les sommes acquitées par les entreprises au taux de 0,65 p. 100 avant le 30 juin 1991 pourront, pour
+la fraction excédant les sommes dues avec un taux de 0,55 p. 100, être imputées sur la participation versée en 1992 à raison
+des salaires payés en 1991.
 
 Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion d'indemnités de dommages de guerre, ont investi au
 cours d'un exercice, postérieurement à l'exercice 1948, une somme supérieure à celle prévue à l'alinéa précédent peuvent
@@ -9773,10 +9773,6 @@ Dans ce cas, l'obligation visée au premier alinéa du présent article est due 
 au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 231
 
 _Cité par_:
 
@@ -9883,13 +9879,17 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+_Cite_:
+
+  - CGI 231
+
 **Liens**:
 
-  - SPEC_APPLI: Loi n°95-116 du 4 février 1995 - art. 106 (V)
+  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 1 V
 
 _Modifié par_:
 
-  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Loi n°98-546 du 2 juillet 1998 - art. 1 () JORF 3 juillet 1998
 
 _Anciens textes_:
 
@@ -10112,9 +10112,9 @@ _Cité par_:
 ###### Article L313-5
 
 Les investissements à effectuer par les employeurs dans la construction de logements en application de l'article L. 313-1,
-ainsi que la cotisation prévue à l'article L. 313-4, sont calculés sur le montant des salaires payés au cours de l'année
-civile écoulée. Le délai d'un an, prévu par ces mêmes articles pour la réalisation des investissements, expire au 31 décembre
-de l'année suivant celle du paiement des salaires.
+ainsi que la cotisation prévue à l'article L. 313-4, sont calculés sur le montant des rémunérations versées au cours de
+l'année civile écoulée. Le délai d'un an, prévu par ces mêmes articles pour la réalisation des investissements, expire au 31
+décembre de l'année suivant celle du versement des rémunérations.
 
 **Liens relatifs à cet article**
 
@@ -10126,9 +10126,13 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°98-546 1998-07-02 art. 1 V
+
 _Modifié par_:
 
-  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Loi n°98-546 du 2 juillet 1998 - art. 1 () JORF 3 juillet 1998
 
 _Cité par_:
 
@@ -10136,8 +10140,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L313-1 (M)
-  - Code de la construction et de l'habitation. - art. L313-4 (M)
+  - Code de la construction et de l'habitation. - art. L313-1 (V)
+  - Code de la construction et de l'habitation. - art. L313-4 (V)
 
 
 ###### Article L313-6
@@ -12240,14 +12244,25 @@ _Cite_:
 ###### Article L321-1
 
 L'Agence nationale pour l'amélioration de l'habitat a pour objet de faciliter l'exécution de travaux de réparation,
-d'assainissement et d'amélioration des immeubles à usage principal d'habitation, notamment par la prise en charge totale ou
-partielle de l'intérêt des capitaux investis dans les travaux.
+d'assainissement et d'amélioration des immeubles à usage principal d'habitation et la transformation en logements locatifs
+des immeubles autres que ceux précédemment cités situés dans les zones de revitalisation rurale telles que définies par
+l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, dès
+lors qu'ils appartiennent à une zone bâtie agglomérée, notamment par la prise en charge totale ou partielle de l'intérêt des
+capitaux investis dans les travaux.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 54 () JORF 3 juillet 1998
 
 _Cité par_:
 
@@ -15440,6 +15455,10 @@ travaux portant sur des immeubles existants et destinés à usage d'habitation o
 
 5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1.
 
+Elles peuvent, en outre, avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le
+département, gérer en qualité d'administrateurs de biens des logements situés dans des copropriétés connaissant des
+difficultés importantes de fonctionnement ou être syndics de ces copropriétés.
+
 Elles peuvent réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des
 missions rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires.
 
@@ -15452,6 +15471,9 @@ du Conseil supérieur des habitations à loyer modéré, détermine les modalit�
 révision coopérative, définie au présent alinéa, ainsi que les conditions d'agrément garantissant le pluralisme de son
 exercice et le respect des principes coopératifs.
 
+Elles peuvent aussi prendre à bail des logements vacants pour les donner en sous-location à des personnes physiques dans les
+conditions fixées par les articles L. 444-1 et suivants.
+
 Un décret détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
@@ -15462,7 +15484,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-624 du 21 juillet 1994 - art. 42 () JORF 24 juillet 1994
+  - Loi n°98-546 du 2 juillet 1998 - art. 55 () JORF 3 juillet 1998
 
 _Cité par_:
 
@@ -15504,7 +15526,8 @@ Les sociétés anonymes coopératives de production d'habitations à loyer modé
 technique et financier a été constatée à l'occasion du contrôle prévu à l'article L. 451-1 peuvent, par décision de
 l'autorité administrative, être autorisées, dans des conditions fixées par décret, à construire, acquérir, aménager,
 restaurer, agrandir, améliorer et gérer des immeubles en vue de la location et destinés à un usage d'habitation ou à un usage
-professionnel et d'habitation.
+professionnel et d'habitation. L'autorisation est accordée lorsque l'administration n'a pas répondu dans un délai de six mois
+à une demande adressée à cet effet par une société anonyme coopérative de production d'habitations à loyer modéré.
 
 Ces sociétés doivent faire procéder, sous le nom de révision coopérative, à l'examen analytique et périodique de leurs
 comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
@@ -15514,10 +15537,6 @@ comptes et de leur gestion dans les conditions prévues à l'article L. 422-3-1.
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Loi n°92-643 du 13 juillet 1992 - art. 48 () JORF 14 juillet 1992
 
 _Cité par_:
 
@@ -15530,6 +15549,14 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
   - Code de la construction et de l'habitation. - art. R422-7-4 (Ab)
   - Code de la construction et de l'habitation. - art. R422-9-1 (M)
+
+_Modifié par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 56 () JORF 3 juillet 1998
+
+_Abrogé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 152 () JORF 14 décembre 2000
 
 _Cite_:
 
@@ -15824,8 +15851,12 @@ _Anciens textes_:
 
 ###### Article L422-5-1
 
-Les sociétés anonymes d'habitations à loyer modéré et les sociétés anonymes de crédit immobilier sont administrées par des
-conseils d'administration ou par des directoires et conseils de surveillance.
+Les sociétés d'habitations à loyer modéré et les sociétés anonymes de crédit immobilier sont administrées par des conseils
+d'administration ou par des directoires et conseils de surveillance.
+
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -15833,9 +15864,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi - art. 41 ()
+  - Loi n°98-546 du 2 juillet 1998 - art. 55 () JORF 3 juillet 1998
 
 
 ###### Article L422-6
@@ -16144,9 +16175,6 @@ _Cite_:
 Les sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution peuvent décider de se transformer en
 sociétés anonymes coopératives de production d'habitations à loyer modéré.
 
-A peine de nullité, la décision de transformation doit être agréée par le ministre chargé de la construction et de
-l'habitation.
-
 La transformation d'une société anonyme coopérative d'habitations à loyer modéré de location-attribution ou la fusion d'une
 telle société avec une société anonyme coopérative de production d'habitations à loyer modéré est subordonnée à une réduction
 du capital telle que doit être limité à un le nombre des actions dont chaque associé locataire-attributaire est propriétaire.
@@ -16155,19 +16183,15 @@ du capital telle que doit être limité à un le nombre des actions dont chaque 
 
 _Anciens textes_:
 
-  - Loi n°75-1255 1975-12-27 ART. 2
+  - Loi n°75-1255 1975-12-27 art. 2
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Cite_:
-
-  - Loi n°92-643 1992-07-13
-
 _Modifié par_:
 
-  - Loi n°95-116 du 4 février 1995 - art. 103 () JORF 5 février 1995
+  - Loi n°98-546 du 2 juillet 1998 - art. 57 () JORF 3 juillet 1998
 
 _Cité par_:
 
@@ -16177,9 +16201,9 @@ _Cité par_:
 
 ###### Article L422-15
 
-A compter de la publication de l'arrêté d'agrément prévu à l'article L. 422-14, il ne peut plus être constitué de droits
-réels sur les biens faisant l'objet des contrats de location-attribution, sans l'accord des locataires-attributaires ; ces
-biens ne peuvent être saisis en raison des créances postérieures à cette date.
+A compter de la décision de transformation visée à l'article L. 422-14, il ne peut plus être constitué de droits réels sur
+les biens faisant l'objet des contrats de location-attribution, sans l'accord des locataires-attributaires ; ces biens ne
+peuvent être saisis en raison des créances postérieures à cette date. 
 
 En cas de fusion entre une société anonyme coopérative d'habitations à loyer modéré de location-attribution et une société
 anonyme coopérative de production d'habitations à loyer modéré, les mêmes dispositions s'appliquent à compter de la
@@ -16189,7 +16213,7 @@ publication de l'arrêté approuvant cette fusion.
 
 _Anciens textes_:
 
-  - Loi n°75-1255 1975-12-27 ART. 3
+  - Loi n°75-1255 1975-12-27 art. 3
 
 _Codifié par_:
 
@@ -16197,11 +16221,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-657 du 20 juillet 1983 - art. 65 () JORF 21 JUILLET 1983
+  - Loi n°98-546 du 2 juillet 1998 - art. 57 () JORF 3 juillet 1998
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L422-14 (M)
+  - Code de la construction et de l'habitation. - art. L422-14 (V)
 
 
 ##### Section 8 : Dispositions provisoirement applicables par suite de la suppression des sociétés coopératives de location coopérative.<a id=146></a>
@@ -21770,6 +21794,31 @@ _Créé par_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L631-7-3 (V)
+  - Code de la construction et de l'habitation. - art. L631-7-5 (VD)
+
+
+###### Article L631-7-3
+
+Par dérogation aux dispositions de l'article L. 631-7, l'exercice d'une activité professionnelle, y compris commerciale, est
+autorisé dans une partie d'un local à usage d'habitation, dès lors que l'activité considérée n'est exercée que par le ou les
+occupants ayant leur résidence principale dans ce local et ne conduit à y recevoir ni clientèle ni marchandises.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°98-546 du 2 juillet 1998 - art. 11 () JORF 3 juillet 1998
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L631-7 (M)
+
+_Cité par_:
+
   - Code de la construction et de l'habitation. - art. L631-7-5 (VD)
 
 
