@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-09-21
+Version Consolidée au 1994-11-11
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -41700,24 +41700,23 @@ _Cité par_:
 Le taux de la subvention est au plus égal à 20 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article
 R. 323-6.
 
-" Ce taux peut être porté au plus à 30 p. 100 du coût prévisionnel des travaux, dans les limites susvisées :
+Ce taux peut être porté au plus à 30 p. 100 du coût prévisionnel des travaux, dans les limites susvisées :
 
-" a) Pour la réalisation de travaux destinés à améliorer la sécurité dans les immeubles, y compris les travaux de
-renforcement des portes d'entrée des logements, à condition qu'une collectivité locale participe à ces travaux pour un
-montant équivalent ;
+a) Pour la réalisation de travaux destinés à améliorer la sécurité dans les immeubles, y compris les travaux de renforcement
+des portes d'entrée des logements, à condition qu'une collectivité locale participe à ces travaux pour un montant
+équivalent ;
 
-" b) Pour des opérations à caractère expérimental ;
+b) Pour des opérations à caractère expérimental ;
 
-" c) Pour des opérations " habitat et vie sociale  ou pour des opérations réalisées dans le cadre des actions pour le
+c) Pour des opérations " habitat et vie sociale  ou pour des opérations réalisées dans le cadre des actions pour le
 développement social des quartiers.
 
-" En outre, le représentant de l'Etat dans le département peut, à titre exceptionnel, porter le taux de la subvention au plus
-à 40 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article R. 323-6, lorsque l'importance des
-travaux de l'opération et ses caractéristiques sociales le justifient.
+d) Pour des opérations dont le maître d'ouvrage est une commune de moins de 5 000 habitants, lorsque l'importance des travaux
+et les conditions d'équilibre financier de l'opération le justifient.
 
-**Nota:**
-
-
+En outre, le représentant de l'Etat dans le département peut, à titre exceptionnel, porter le taux de la subvention au plus à
+40 p. 100 du coût prévisionnel des travaux, dans les limites définies à l'article R. 323-6, lorsque l'importance des travaux
+de l'opération et ses caractéristiques sociales le justifient.
 
 **Liens relatifs à cet article**
 
@@ -41731,11 +41730,10 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°87-1113 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
+  - Décret n°94-977 du 4 novembre 1994 - art. 1 () JORF 11 novembre 1994
 
 **Liens**:
 
-  - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 2 (V)
   - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 1 (Ab)
   - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. 2 (Ab)
   - TXT_SOURCE: Arrêté du 20 novembre 1979 - art. ANNEXE (Ab)
