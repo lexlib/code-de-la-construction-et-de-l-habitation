@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-30
+Version Consolidée au 2000-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -179,8 +179,8 @@ Version Consolidée au 2000-12-30
       - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. L471-1 à L472-2)](#176)
         - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. L471-1)](#177)
         - [Chapitre II : Départements d'Outre-Mer. (art. L472-1 à L472-2)](#178)
-      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. L481-1 à L481-5)](#179)
-        - [Chapitre unique. (art. L481-1 à L481-5)](#180)
+      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. L481-1-1 à L481-5)](#179)
+        - [Chapitre unique. (art. L481-1-1 à L481-5)](#180)
     - [Livre V : Bâtiments menaçant ruine ou insalubres. (art. L511-1 à L531-2)](#181)
       - [Titre Ier : Bâtiments menaçant ruine. (art. L511-1 à L511-6)](#182)
         - [Chapitre unique. (art. L511-1 à L511-6)](#183)
@@ -22250,23 +22250,20 @@ _Cité par_:
 
 Un décret en Conseil d'Etat définit les modalités d'application du présent chapitre.
 
-Les dispositions des articles L. 452-4 à L. 452-6 sont applicables à compter du 1er janvier 2001.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
-
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V) JORF 14 décembre 2000
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
-
 _Cité par_:
 
   - Loi n°2000-1208 du 13 décembre 2000 - art. 163 (V)
   - Code de la construction et de l'habitation. - art. L452-2-1 (V)
+
+_Modifié par_:
+
+  - Loi - art. 40 (V) JORF 31 décembre 2000
 
 _Cite_:
 
@@ -22641,113 +22638,6 @@ _Cite_:
 
 #### Chapitre unique.<a id=180></a>
 
-###### Article L481-1
-
-Une redevance dont le montant, les modalités de perception et l'utilisation sont fixés par arrêté conjoint des ministres
-chargés des finances, de l'intérieur et de la construction et de l'habitation est versée par les sociétés d'économie mixte à
-la caisse de prêts aux organismes d'habitations à loyer modéré jusqu'au 31 décembre 1985 et à la caisse de garantie du
-logement social à compter du 1er janvier 1986 dans les trois premiers mois de chaque année pour les emprunts contractés en
-application de l'article L. 351-2 du présent code.
-
-Le montant de cette redevance ne peut excéder 0,15 % des capitaux restant dus sur les emprunts visés ci-dessus au 31 décembre
-de l'année précédente.
-
-Le produit de cette redevance est destiné à participer à la couverture des frais de gestion desdites caisses ainsi que de
-ceux de la caisse des dépôts et consignations pour la gestion des prêts consentis en application de l'article L. 351-2 ; en
-outre, une fraction en est affectée au fonds de garantie géré par la caisse de prêts aux organismes d'habitations à loyer
-modéré jusqu'au 31 décembre 1985 et par la caisse de garantie du logement social à compter du 1er janvier 1986 en vue de
-garantir celles des opérations de construction qui sont réalisées par les sociétés d'économie mixte en application de
-l'article L. 351-2 du présent code.
-
-Cette redevance est due également par les sociétés d'économie mixte de construction agréées en application des dispositions
-de l'article L. 472-1-1 pour les emprunts qu'elles contractent en application du livre IV du présent code.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°75-1351 du 31 décembre 1975 - art. 10 (V)
-  - Loi n°75-1351 du 31 décembre 1975 - art. 10-1 (V)
-  - Loi n°89-462 du 6 juillet 1989 - art. 24-2 (V)
-  - Arrêté du 8 mars 1996 - art. 5 (M)
-  - Arrêté du 30 décembre 2010 - art. 9 (V)
-  - Loi n°2014-173 du 21 février 2014 - art. 6 (V)
-  - Décret n°2014-1500 du 12 décembre 2014 - art. (VD)
-  - Décret n°2015-587 du 29 mai 2015 - art. 1 (V)
-  - Décret n°2016-178 du 22 février 2016 (V)
-  - Décret n°2016-178 du 22 février 2016 - art. 1
-  - Décret n°2016-384 du 30 mars 2016 (V)
-  - Décret n°2016-751 du 6 juin 2016 (V)
-  - Décret n°2016-751 du 6 juin 2016 - art. 3 (V)
-  - Ordonnance n°2016-1408 du 20 octobre 2016 - art. 6 (V)
-  - Décret n°2017-1565 du 14 novembre 2017 - art. 1 (V)
-  - Décret n°2017-1565 du 14 novembre 2017 - art. 9 (V)
-  - Décret n°2017-1726 du 20 décembre 2017 (V)
-  - Arrêté du 11 décembre 2017 - art. 3 (V)
-  - Arrêté du 11 décembre 2017 - art. 6 (V)
-  - Code de l'urbanisme - art. L211-2 (V)
-  - Code de l'urbanisme - art. L240-1 (V)
-  - Code de la construction et de l'habitation. - art. 481-1-3 (V)
-  - Code de la construction et de l'habitation. - art. D442-22 (V)
-  - Code de la construction et de l'habitation. - art. D481-5-2 (V)
-  - Code de la construction et de l'habitation. - art. L111-10-5 (V)
-  - Code de la construction et de l'habitation. - art. L111-7-1 (V)
-  - Code de la construction et de l'habitation. - art. L200-4 (V)
-  - Code de la construction et de l'habitation. - art. L302-1 (M)
-  - Code de la construction et de l'habitation. - art. L302-2 (V)
-  - Code de la construction et de l'habitation. - art. L31-10-3 (V)
-  - Code de la construction et de l'habitation. - art. L313-19 (M)
-  - Code de la construction et de l'habitation. - art. L313-20-1 (V)
-  - Code de la construction et de l'habitation. - art. L342-2 (V)
-  - Code de la construction et de l'habitation. - art. L411-10 (VT)
-  - Code de la construction et de l'habitation. - art. L411-2-1 (V)
-  - Code de la construction et de l'habitation. - art. L422-11-1 (V)
-  - Code de la construction et de l'habitation. - art. L435-1 (V)
-  - Code de la construction et de l'habitation. - art. L441-2-8 (V)
-  - Code de la construction et de l'habitation. - art. L444-10 (V)
-  - Code de la construction et de l'habitation. - art. L481-2 (Ab)
-  - Code de la construction et de l'habitation. - art. L481-8 (VD)
-  - Code de la construction et de l'habitation. - art. R*431-31 (Ab)
-  - Code de la construction et de l'habitation. - art. R*431-32 (Ab)
-  - Code de la construction et de l'habitation. - art. R*441-13 (V)
-  - Code de la construction et de l'habitation. - art. R*481-5-1 (V)
-  - Code de la construction et de l'habitation. - art. R323-1 (V)
-  - Code de la construction et de l'habitation. - art. R323-13 (V)
-  - Code de la construction et de l'habitation. - art. R353-159 (VD)
-  - Code de la construction et de l'habitation. - art. R441-2-1 (V)
-  - Code de la construction et de l'habitation. - art. R441-2-11 (V)
-  - Code de la construction et de l'habitation. - art. R481-1 (V)
-  - Code de la construction et de l'habitation. - art. R481-14 (V)
-  - Code de la construction et de l'habitation. - art. R481-15 (V)
-  - Code du service national - art. L120-1 (V)
-  - Code général de la propriété des personnes publ... - art. L3211-7 (V)
-  - Code général de la propriété des personnes publ... - art. R3211-7 (V)
-  - Code général des impôts, CGI. - art. 1388 ter (V)
-  - Code général des impôts, CGI. - art. 199 undecies C (V)
-  - Code général des impôts, CGI. - art. 207 (VD)
-  - Code monétaire et financier - art. R214-155 (V)
-  - Code monétaire et financier - art. R214-81 (V)
-  - Livre des procédures fiscales - art. L102 AE (V)
-  - Livre des procédures fiscales - art. R102 AE-1 (VD)
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Loi n°85-695 1985-07-11 art. 21 X jorf 12 juillet Rectificatif JORF 13 juillet 1985
-
-_Abrogé par_:
-
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 à partir du 31 décembre 2000
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L472-1 (V)
-
-
 ###### Article L481-1-1
 
 Les sociétés d'économie mixte versent à la Caisse de garantie du logement locatif social la cotisation prévue à l'article L.
@@ -22782,34 +22672,6 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L451-2 (M)
   - Code de la construction et de l'habitation. - art. L451-2-1 (M)
   - Code de la construction et de l'habitation. - art. L452-4 (MMN)
-
-
-###### Article L481-2
-
-Sur le produit de la redevance acquittée par les sociétés d'économie mixte, dont l'emploi est prévu à l'article précédent, il
-peut être prélevé une participation aux frais de la fédération groupant les sociétés d'économie mixte en vue d'assurer
-notamment leur meilleur fonctionnement, la coordination de leurs activités et le développement de l'information en faveur de
-l'habitation familiale populaire. Les conditions et l'importance de cette participation sont déterminées par décision
-administrative.
-
-**Liens relatifs à cet article**
-
-_Cité par_:
-
-  - Loi n°65-557 du 10 juillet 1965 - art. 29-11 (V)
-  - Arrêté du 28 novembre 2011 - art. 1 (V)
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Abrogé par_:
-
-  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 à partir du 31 décembre 2000
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L481-1 (M)
 
 
 ###### Article L481-3
