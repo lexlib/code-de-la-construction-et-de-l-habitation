@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-09-13
+Version Consolidée au 1981-10-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -522,7 +522,7 @@ Version Consolidée au 1981-09-13
           - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-52 à R*421-69)](#519)
             - [Sous-section 1 : Création et gestion. (art. R*421-52 à R421-66)](#520)
             - [Sous-section 1 : Création et gestion. (art. R*421-51)](#521)
-            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-68 à R*421-69)](#522)
+            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-69)](#522)
           - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-9 à R*422-38)](#523)
             - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-9)](#524)
             - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-38)](#525)
@@ -55509,41 +55509,6 @@ _Cité par_:
 
 
 ##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.<a id=522></a>
-
-###### Article R*421-68
-
-Par dérogation à l'article R. 421-54, le conseil d'administration de l'office public d'habitations à loyer modéré
-interdépartemental de la région parisienne est composé de vingt-quatre membres, à savoir :
-
-1. Sept membres élus par les conseils généraux, à raison de un par département et un membre élu par le conseil de Paris ;
-
-2. Deux membres désignés par les institutions ci-après existant dans la région : un membre par les conseils d'administration
-des caisses d'épargne et un membre par les conseils d'administration des caisses d'allocations familiales ;
-
-3. Douze membres nommés par les préfets, à raison de deux membres pour la ville de Paris et pour chacun des départements de
-la Seine-Saint-Denis, du Val-de-Marne et des Hauts-de-Seine et d'un membre pour chacun des départements du Val-d'Oise, de
-l'Essonne, des Yvelines et de Seine-et-Marne ;
-
-4. Deux membres élus par les locataires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 2 I
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°81-935 du 15 octobre 1981 - art. 16 (V) JORF 16 octobre 1981
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-54
-
 
 ###### Article R*421-69
 
