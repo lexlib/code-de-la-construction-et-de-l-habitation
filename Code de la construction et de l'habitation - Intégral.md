@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1987-08-15
+Version Consolidée au 1987-11-10
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -59076,9 +59076,17 @@ _Cité par_:
 
 Les demandes de logement sont présentées auprès des organismes d'habitations à loyer modéré.
 
-Elles peuvent l'être également, avec son accord, auprès de la commune d'implantation du logement ou, le cas échéant, auprès
-du groupement de communes compétent en matière de logement dont elle fait partie. Dans ce cas, l'autorité saisie transmet la
-demande à un ou plusieurs organismes d'habitations à loyer modéré dans un délai de quinze jours et en informe le demandeur.
+Elles peuvent l'être également auprès de la commune d'implantation du logement ou de la commune de résidence du demandeur,
+avec l'accord de celles-ci, ou, le cas échéant et dans les mêmes conditions, auprès du groupement de communes compétent en
+matière de logement dont elles font partie Dans ce cas, l'autorité saisie transmet la demande à un ou plusieurs organismes
+d'habitations à loyer modéré dans un délai de quinze jours et en informe le demandeur.
+
+Des modalités d'inscription et de gestion communes des demandes peuvent, en outre, après avis du conseil départemental de
+l'habitat, être définies par voie de convention entre des organismes, des communes ou des groupements de communes, et, le cas
+échéant, le représentant de l'Etat dans le département.
+
+Au cas où l'Etat ne serait pas partie à ladite convention, celle-ci doit recueillir l'approbation expresse du commissaire de
+la République du département. "
 
 Les demandes de logements présentées par des personnes physiques ont une durée de validité d'un an à compter de leur dépôt et
 sont renouvelables. L'accusé de réception de ces demandes porte indication de cette durée et des modalités de renouvellement.
@@ -59097,9 +59105,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 1 I, II jorf 10 novembre 1987
 
 _Cité par_:
 
@@ -59120,8 +59128,8 @@ _Cite_:
 ###### Article R441-3
 
 Compte tenu des caractéristiques des logements mentionnés à l'article L. 441-1, de la composition des foyers et de
-l'ancienneté des demandes, les attributions sont prononcées par chaque organisme d'habitations à loyer modéré au bénéfice des
-demandeurs à la recherche d'un logement adapté à leurs besoins en vue notamment :
+l'ancienneté des demandes, les attributions sont prononcées par chaque organisme d'habitations à loyer modéré, en fonction
+tant des besoins que de l'ensemble des ressources des demandeurs à la recherche d'un logement en vue notamment :
 
 a) De leur permettre d'occuper un logement correspondant à la taille et à la composition du ménage ;
 
@@ -59146,9 +59154,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 2 jorf 10 novembre 1987
 
 _Cité par_:
 
@@ -59174,12 +59182,13 @@ d'hébergement à titre temporaire, à l'occupation d'un logement qui a fait l'o
 satisfait pas aux normes de salubrité et d'occupation prises en compte pour l'octroi de l'allocation de logement ;
 
 b) Aux personnes ayant des difficultés spécifiques de logement, en particulier lorsqu'il s'agit de personnes handicapées, de
-familles nombreuses, de chefs de famille monoparentales ou de jeunes à la recherche d'un premier logement ;
+familles nombreuses, de femmes enceintes, de chefs de famille monoparentale ou de jeunes à la recherche d'un premier
+logement ;
 
 c) Aux personnes qu'un nouvel emploi conduit à changer de résidence ;
 
-d) Aux personnes ayant des difficultés graves à faire face à leurs dépenses de logement à la suite d'une réduction brutale de
-leurs ressources ;
+d) Aux personnes ayant des difficultés graves à faire face aux dépenses liées au logement qu'elles occupent à la suite d'une
+réduction brutale de leurs ressources. "
 
 e) Aux associations mentionnées à l'article R. 441-1.
 
@@ -59192,9 +59201,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 3 jorf 10 novembre 1987
 
 _Cite_:
 
@@ -59291,15 +59300,9 @@ _Créé par_:
 
 ###### Article R441-8
 
-L'organisme d'habitations à loyer modéré consulte, au moins une fois par an [*périodicité*], le maire de la commune
-d'implantation des logements sur la politique d'attribution et sur les résultats de celle-ci.
-
-Lorsque le maire le demande, cette consultation est effectuée simultanément par l'ensemble des organismes attribuant des
-logements sur le territoire de la commune.
-
-Chaque organisme communique au maire, au moins une fois par semestre, le nom et l'adresse de ses nouveaux locataires en
-mentionnant, le cas échéant, pour chacun d'eux le critère ou les critères de priorité qui ont motivé la décision
-d'attribution.
+L'organisme d'habitations à loyer modéré consulte le maire de la commune d'implantation des logements [*périodicité*] au
+moins une fois par an sur les principes régissant ces attributions et sur le résultat de leur application. Il lui communique
+également au moins une fois par an le nom et l'adresse des nouveaux locataires. "
 
 **Liens relatifs à cet article**
 
@@ -59307,9 +59310,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 4 jorf 10 novembre 1987
 
 
 ###### Article R441-9
@@ -59362,11 +59365,13 @@ _Cite_:
 
 ###### Article R441-10
 
-Le total des logements réservés en application des conventions de réservation prévues au deuxième alinéa de l'article L.
-441-1 ne peut représenter plus de 70 p. 100 du total des logements de chaque programme.
+Le total des logements réservés aux collectivités territoriales, aux établissements publics les groupant et aux chambres de
+commerce et d'industrie en contrepartie de l'octroi de la garantie financière des emprunts ne peut globalement représenter
+plus de 20 p. 100 des logements de chaque programme.
 
-Le total des logements réservés à ce titre par les communes ne peut représenter, sauf accord explicite de celles-ci, moins de
-25 p. 100 du total des logements de chaque programme.
+En outre, des réservations supplémentaires peuvent être consenties par les organismes d'habitations à loyer modéré en
+contrepartie d'un apport de terrain ou d'un financement, aux bénéficiaires visés à l'article R. 441-9, sur les logements ne
+faisant pas l'objet d'une réservation au titre de l'article R. 441-12. "
 
 **Liens relatifs à cet article**
 
@@ -59378,13 +59383,14 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 5 jorf 10 novembre 1987
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L441-1 (M)
+  - Code de la construction et de l'habitation. - art. R441-12 (M)
+  - Code de la construction et de l'habitation. - art. R441-9 (M)
 
 _Cité par_:
 
@@ -59453,13 +59459,9 @@ _Cité par_:
 
 ###### Article R441-15
 
-Au cas où les conditions dans lesquelles il doit être pourvu à la sécurité des personnes et des biens justifient qu'un plus
-grand nombre de logements soit réservé aux personnels chargés du maintien de l'ordre, un arrêté conjoint du ministre chargé
-du logement et du ministre intéressé peut accorder, pour une durée déterminée, les dérogations aux limites prévues à
-l'article R. 441-12.
-
-Il en est de même au cas où des travaux d'intérêt public rendent nécessaire le logement sur place de personnels employés à
-ces travaux.
+Pour permettre le logement des personnels chargés de mission de sécurité publique ou pour répondre à des besoins d'ordre
+économique, des dérogations aux limites prévues à l'article R. 441-12 peuvent être accordées, pour une durée déterminée, par
+arrêté conjoint du ministre chargé du logement et du ministre intéressé. "
 
 Le commissaire de la République peut également, après avis du conseil départemental de l'habitat, fixer des règles dérogeant
 localement et temporairement aux conditions de ressources mentionnées à l'article R. 441-1 (1°) pour résoudre des problèmes
@@ -59472,9 +59474,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
+  - Décret n°87-902 1987-11-04 art. 6 jorf 10 novembre 1987
 
 _Cite_:
 
