@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-12-29
+Version Consolidée au 1996-12-29 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -69779,13 +69779,13 @@ pour les logements à usage locatif leur appartenant et ouvrant droit à l'aide 
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Abrogé par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°2008-825 du 21 août 2008 - art. 2
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°96-1163 du 26 décembre 1996 - art. 3 () JORF 29 décembre 1996
+  - Code de la construction et de l'habitation. - art. L351-2 (V)
 
 
 ###### Article R481-4
