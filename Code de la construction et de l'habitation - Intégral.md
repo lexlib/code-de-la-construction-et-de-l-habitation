@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-03-11
+Version Consolidée au 1994-03-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -42071,8 +42071,9 @@ Les subventions ou prêts prévus à l'article R331-1 sont attribués pour des l
 personnes dont l'ensemble des ressources, à la date d'entrée dans les lieux, est au plus égal à un montant déterminé par un
 arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Toutefois, pour les logements
 mentionnés au deuxième alinéa de l'article R. 331-1, le plafond de ressources à l'entrée dans les lieux ne peut excéder 60 p.
-100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département.
-Les bailleurs doivent être en mesure de justifier du respect de cette obligation.
+100 du montant déterminé par l'arrêté précité, sauf dérogation accordée par le représentant de l'Etat dans le département. Ce
+plafond est fixé par arrêté conjoint des ministres chargés de la construction et de l'habitation et des finances. Les
+bailleurs doivent être en mesure de justifier du respect de cette obligation.
 
 Cet arrêté fixe également les modalités de contrôle des ressources.
 
@@ -42131,7 +42132,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°90-151 du 16 février 1990 - art. 3 () JORF 17 février 1990
+  - Décret n°94-209 du 11 mars 1994 - art. 1 () JORF 12 mars 1994
 
 
 ###### Article R331-13
