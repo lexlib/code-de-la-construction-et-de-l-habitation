@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2004-11-25
+Version Consolidée au 2004-11-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -82216,10 +82216,13 @@ _Modifié par_:
 
 ###### Article R443-34
 
-I. - Les logements produits par les organismes d'habitation à loyer modéré dans les conditions définies aux articles L. 421-1
-(7e alinéa), L. 422-2 (4e alinéa) et L. 422-3 (3e alinéa) sont vendus soit à des acquéreurs qui destinent le logement à leur
+I. - Les logements produits par les organismes d'habitations à loyer modéré dans les conditions définies aux articles L.
+421-1 (7e al.), L. 422-2 (4e al.) et L. 422-3 (3e al.) sont vendus soit à des acquéreurs qui destinent le logement à leur
 occupation personnelle dans les conditions du II ci-dessous, soit à des acquéreurs qui le louent dans le cadre des
-dispositions du cinquième et du huitième alinéa du e ainsi que du g de l'article 31 (I,1°) du code général des impôts.
+dispositions du quatrième et du septième alinéa du e ainsi que du h de l'article 31 (I, 1°) du code général des impôts. Les
+logements produits dans les conditions prévues au h précité doivent être destinés à être occupés par des personnes dont
+l'ensemble des ressources, à la date d'entrée dans les lieux, répond aux conditions prévues à l'article R. 391-8, et dont le
+loyer prévu au bail est au plus égal à celui visé à l'article R. 391-7.
 
 II. - Un arrêté conjoint des ministres chargés du logement et des finances détermine le montant maximum des ressources qui ne
 peut être dépassé par les acquéreurs occupants pour les opérations réalisées par les organismes visés aux articles L. 421-1
@@ -82234,14 +82237,6 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2002-847 2002-05-03 art. 2 : champ d'application
-
-_Créé par_:
-
-  - Décret n°2002-847 du 3 mai 2002 - art. 1 () JORF 5 mai 2002
-
 _Cité par_:
 
   - Arrêté du 3 mai 2002 - art. 4 (V)
@@ -82252,12 +82247,18 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R421-3 (V)
   - Code de la construction et de l'habitation. - art. R423-75-1 (VD)
 
+_Modifié par_:
+
+  - Décret n°2004-1275 du 26 novembre 2004 - art. 1 () JORF 27 novembre 2004
+
 _Cite_:
 
   - CGI 31
   - Code de la construction et de l'habitation. - art. L421-1 (M)
   - Code de la construction et de l'habitation. - art. L422-2 (M)
   - Code de la construction et de l'habitation. - art. L422-3 (M)
+  - Code de la construction et de l'habitation. - art. R391-7 (V)
+  - Code de la construction et de l'habitation. - art. R391-8 (V)
 
 _Nouveaux textes_:
 
@@ -83599,7 +83600,10 @@ considéré hors taxes.
 
 Pour la location-accession, le pourcentage prévu à l'alinéa précédent est égal à 95 % et s'applique pendant la période
 préalable à la levée de l'option, au montant du prix de vente mentionné dans le contrat régi par l'article 5 de la loi n°
-84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière.
+84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière. Toutefois, les opérations de
+location-accession bénéficiant de la décision d'agrément mentionnée au I de l'article R. 331-76-5-1 ne sont intégrées dans
+l'encours de production que jusqu'à l'obtention du prêt mentionné au I de l'article R. 331-76-5-1, et uniquement à hauteur du
+prix d'achat du terrain majoré des frais annexes y afférents.
 
 Pour les opérations menées dans le cadre de sociétés civiles l'engagement de l'organisme est calculé au prorata de ses parts
 dans la société et s'applique dans les mêmes conditions qu'aux paragraphes précédents.
@@ -83612,16 +83616,21 @@ _Codifié par_:
 
 _Cite_:
 
-  - Loi n°84-595 1984-07-12 art. 5
+  - Loi n°84-595 du 12 juillet 1984 - art. 5
+  - Code de la construction et de l'habitation. - art. R331-76-5-1
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2003-537 du 20 juin 2003 - art. 1 () JORF 22 juin 2003
+  - Décret n°2004-1276 du 26 novembre 2004 - art. 1 () JORF 27 novembre 2004
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R453-3 (T)
-  - Code de la construction et de l'habitation. - art. R453-7 (V)
+  - Code de la construction et de l'habitation. - art. R453-7 (T)
 
 
 ###### Article R453-3
