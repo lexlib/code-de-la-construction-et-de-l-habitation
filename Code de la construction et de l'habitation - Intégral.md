@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1980-07-05
+Version Consolidée au 1980-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -3489,6 +3489,22 @@ _Cite_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+
+###### Article L212-16
+
+Un décret en Conseil d'Etat déterminera la date d'effet et les conditions dans lesquelles les dispositions des sections
+précédentes seront appliquées aux sociétés constituées antérieurement au 31 décembre 1972.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°80-621 1980-07-31 art. 2 JORF 6 août 1980
 
 
 ###### Article L212-17
