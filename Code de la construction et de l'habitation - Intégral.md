@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2000-12-16
+Version Consolidée au 2000-12-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -444,7 +444,7 @@ Version Consolidée au 2000-12-16
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R*351-7-2 à R351-7)](#441)
             - [Sous-section 3 : Conditions particulières. (art. R351-11 à R351-13)](#442)
             - [Sous-section 4 : Calcul de l'aide personnalisée au logement. (art. R351-17-4 à R351-22-2)](#443)
-              - [PARAGRAPHE I : Dispositions relatives aux locataires. (art. R351-17-4 à R351-17-5)](#444)
+              - [PARAGRAPHE I : Dispositions relatives aux locataires. (art. R351-17-4)](#444)
               - [PARAGRAPHE II : Dispositions relatives aux propriétaires. (art. R351-19 à R351-21)](#445)
               - [PARAGRAPHE III : Dispositions communes aux locataires et aux propriétaires. (art. R351-22-2)](#446)
             - [Sous-section 5 : Prime de déménagement. (art. R351-25)](#447)
@@ -455,7 +455,7 @@ Version Consolidée au 2000-12-16
             - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R351-2 à R351-9)](#452)
             - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-17-1)](#453)
             - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20 à R351-22-1)](#454)
-              - [Paragraphe 1 : Dispositions relatives aux locataires. (art. R351-17-2 à R351-17-3)](#455)
+              - [Paragraphe 1 : Dispositions relatives aux locataires. (art. R351-17-2 à R351-17-5)](#455)
               - [Paragraphe 2 : Dispositions relatives aux propriétaires. (art. R351-18 à R351-21-4)](#456)
               - [Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires. (art. R351-22 à R351-22-1)](#457)
             - [Sous-section 5 : Prime de déménagement. (art. R351-23 à R351-24)](#458)
@@ -54856,11 +54856,15 @@ _Modifié par_:
 
 ###### Article R351-17-4
 
-Sous réserve d'un montant minimal fixé par arrêté conjoint des ministres chargés du logement, du budget, de la sécurité
-sociale et de l'agriculture, la participation personnelle du bénéficiaire est obtenue par l'application d'un taux de
-participation aux ressources du bénéficiaire appréciées conformément à l'article R. 351-5.
+La participation personnelle est la somme d'une participation minimale et du résultat de l'application d'un taux de
+participation aux ressources du bénéficiaire diminuées, dans la limite du montant desdites ressources, d'un montant fixé
+forfaitairement. Ce forfait est calculé, dans les conditions fixées par arrêté conjoint des ministres chargés du logement, du
+budget, de la sécurité sociale et de l'agriculture, sur la base du montant mensuel du revenu minimum d'insertion, fixé en
+application de l'article 3 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion.
 
-Les ressources sont arrondies aux 500 F supérieurs.
+La participation minimale est définie par le même arrêté.
+
+Les ressources sont appréciées conformément à l'article R. 351-5 et arrondies aux 500 F supérieurs.
 
 **Liens relatifs à cet article**
 
@@ -54875,48 +54879,14 @@ _Cité par_:
   - Décret n°2017-1859 du 29 décembre 2017 - art. 1 (V)
   - Code de la construction et de l'habitation. - art. R351-17-5 (V)
 
-_Créé par_:
-
-  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-  - Décret n°97-289 du 28 mars 1997 - art. 4 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-
 _Cite_:
 
+  - Loi n°88-1088 du 1 décembre 1988 - art. 3 (Ab)
   - Code de la construction et de l'habitation. - art. R351-5 (M)
 
+_Modifié par_:
 
-###### Article R351-17-5
-
-Le taux de participation est obtenu par l'addition de :
-
-Un taux de base différent selon qu'il s'agit d'une personne seule sans personne à charge ou d'un autre ménage ;
-
-Un premier taux complémentaire qui croît quand les ressources du ménage augmentent ; il est obtenu par l'application de taux
-à des tranches de ressources ;
-
-Un deuxième taux complémentaire qui croît quand le loyer augmente dans la limite du plafond ; il est obtenu par l'application
-de taux croissants à des tranches successives de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence
-fixé en fonction de la composition familiale.
-
-Le taux de participation fait l'objet d'une minoration en fonction du nombre de personnes à charge.
-
-Les loyers de référence et les modalités de calcul du taux de participation sont déterminés par arrêté conjoint des ministres
-en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cité par_:
-
-  - Arrêté du 3 juillet 1978 - art. 2 quater (VD)
-
-_Créé par_:
-
-  - Décret n°97-289 du 28 mars 1997 - art. 1 () JORF 29 mars 1997 en vigueur le 1er avril 1997
-  - Décret n°97-289 du 28 mars 1997 - art. 5 () JORF 29 mars 1997 en vigueur le 1er avril 1997
+  - Décret n°2000-1273 du 26 décembre 2000 - art. 1 () JORF 28 décembre 2000
 
 
 ##### PARAGRAPHE II : Dispositions relatives aux propriétaires.<a id=445></a>
@@ -56136,6 +56106,38 @@ _Créé par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R351-17 (M)
+
+
+###### Article R351-17-5
+
+Le taux de participation prévu à l'article R. 351-17-4 est obtenu par l'addition de :
+
+- un premier taux qui est fonction de la taille du ménage ;
+
+- un second taux qui croît quand le loyer augmente dans la limite d'un plafond ; il est obtenu par l'application de taux
+croissants à des tranches successives de loyer ; ces tranches sont déterminées en proportion d'un loyer de référence fixé en
+fonction de la composition familiale.
+
+Les loyers de référence et les modalités de calcul du taux de participation sont déterminés par arrêté conjoint des ministres
+en charge du logement, du budget, de la sécurité sociale et de l'agriculture.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cité par_:
+
+  - Arrêté du 3 juillet 1978 - art. 2 quater (VD)
+
+_Modifié par_:
+
+  - Décret n°2000-1273 du 26 décembre 2000 - art. 2 () JORF 28 décembre 2000
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R351-17-4 (M)
 
 
 ##### Paragraphe 2 : Dispositions relatives aux propriétaires.<a id=456></a>
