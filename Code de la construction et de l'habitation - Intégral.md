@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-07-10
+Version Consolidée au 1979-07-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-1)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -4642,12 +4642,8 @@ La personne mentionnée au premier alinéa de l'article L. 231-1 est tenue d'ex�
 conformément au g dudit article aux prix et conditions mentionnés au contrat si le maître de l'ouvrage en fait la demande
 dans le délai de trois mois à partir de la signature du contrat.
 
-Lorsque cette personne a fait état dans sa publicité ou dans le contrat de prêts destinés au financement de la construction,
-le contrat est, nonobstant toute stipulation contraire, réputé conclu sous la condition résolutoire du refus des prêts sauf
-si le maître de l'ouvrage a expressément indiqué qu'il renonçait à ces prêts.
-
-Le contrat est également réputé conclu sous la condition suspensive qu'il soit satisfait à toutes les formalités
-réglementaires préalables à la construction.
+Le contrat est réputé conclu sous la condition suspensive qu'il soit satisfait à toutes les formalités réglementaires
+préalables à la construction.
 
 La personne mentionnée au premier alinéa de l'article L. 231-1 ne peut exiger ou accepter du maître de l'ouvrage aucun
 versement, aucun dépôt, aucune souscription ou acceptation d'effet de commerce avant la signature du contrat. Les sommes qui
@@ -4657,7 +4653,7 @@ l'alinéa précédent ne se réaliserait pas.
 Aucun paiement ne peut non plus être exigé ni accepté avant la date à laquelle la créance est exigible.
 
 La personne mentionnée à l'article L. 231-1, alinéa 1er, est réputée constructeur de l'ouvrage au sens de l'article 1792-1 du
-code civil reproduit à l'article L. 111-14 du présent code.
+Code civil reproduit à l'article L. 111-14 du présent code.
 
 **Liens relatifs à cet article**
 
@@ -4669,6 +4665,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Loi n°79-596 du 13 juillet 1979 - art. 39 () JORF 14 juillet 1979
 
 _Cité par_:
 
@@ -5760,10 +5760,7 @@ _Cite_:
 
 ###### Article L261-11
 
-Lorsque le vendeur a fait état des prêts destinés au financement de la construction, le contrat doit être conclu sous
-condition résolutoire pour le cas de non-obtention de ceux-ci.
-
-Il doit être conclu par acte authentique et préciser :
+Le contrat doit être conclu par acte authentique et préciser :
 
 a) La description de l'immeuble ou de la partie d'immeuble vendu ;
 
@@ -5779,7 +5776,7 @@ Toutefois, lorsque la vente concerne une partie d'immeuble, le contrat peut ne c
 partie, les autres précisions prévues à l'alinéa précédent doivent alors figurer, soit dans un document annexé à l'acte, soit
 dans un document déposé au rang des minutes d'un notaire et auquel l'acte fait référence.
 
-Il doit également mentionner si le prix est ou non revisable et, dans l'affirmative, les modalités de sa révision.
+Il doit également mentionner si le prix est ou non révisable et, dans l'affirmative, les modalités de sa révision.
 
 Il doit, en outre, comporter en annexes, ou par référence à des documents déposés chez un notaire, les indications utiles
 relatives à la consistance et aux caractéristiques techniques de l'immeuble.
@@ -5793,6 +5790,9 @@ conditions fixées par décret, des documents relatifs à l'équilibre financier
 décision de prêt. L'inobservation des dispositions du présent article entraîne la nullité du contrat. Cette nullité ne peut
 être invoquée que par l'acquéreur et avant l'achèvement des travaux.
 
+Lorsque la vente a été précédée d'un contrat préliminaire prévu à l'article L. 261-15, seul le contrat de vente est soumis
+aux dispositions des articles 16 à 18 de la loi n° 79-596 du 13 juillet 1979.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -5802,6 +5802,17 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Cite_:
+
+  - Loi n°79-596 1979-07-13 art. 16 à 18
+  - Code civil - art. 1601-3 (V)
+  - Code de la construction et de l'habitation. - art. L261-15 (M)
+  - Code de la construction et de l'habitation. - art. L261-3 (M)
+
+_Modifié par_:
+
+  - Loi n°79-596 du 13 juillet 1979 - art. 39 () JORF 14 juillet 1979
 
 _Cité par_:
 
@@ -5819,11 +5830,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R261-13 (VD)
   - Code des assurances - art. R421-24-3 (Ab)
   - Code monétaire et financier - art. D313-26 (VD)
-
-_Cite_:
-
-  - Code civil - art. 1601-3 (V)
-  - Code de la construction et de l'habitation. - art. L261-3 (M)
 
 
 ###### Article L261-12
@@ -5914,8 +5920,9 @@ construction et aux délais d'exécution des travaux ainsi qu'à la consistance,
 
 Les fonds déposés en garantie sont indisponibles, incessibles et insaisissables jusqu'à la conclusion du contrat de vente.
 
-Ils sont restitués, dans le délai de trois mois, au déposant si le contrat n'est pas conclu du fait du vendeur ou si le
-contrat proposé fait apparaître une différence anormale par rapport aux prévisions du contrat préliminaire.
+Ils sont restitués, dans le délai de trois mois, au déposant si le contrat n'est pas conclu du fait du vendeur, si la
+condition suspensive prévue à l'article 17 de la loi n° 79-596 du 13 juillet 1979 n'est pas réalisée ou si le contrat proposé
+fait apparaître une différence anormale par rapport aux prévisions du contrat préliminaire.
 
 Est nulle toute autre promesse d'achat ou de vente.
 
@@ -5927,7 +5934,21 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°79-596 1979-07-13 ART. 37
+  - SPEC_APPLI: Ordonnance n°98-774 du 2 septembre 1998 - art. 5 ()
+
+_Cite_:
+
+  - Loi n°79-596 du 13 juillet 1979 - art. 17 (M)
+  - Code de la construction et de l'habitation. - art. L261-10 (M)
+
+_Modifié par_:
+
+  - Loi n°79-596 du 13 juillet 1979 - art. 39 () JORF 14 JUILLET 1979
 
 _Cité par_:
 
@@ -5946,10 +5967,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L291-3 (V)
   - Code général des impôts, CGI. - art. 155 (VD)
   - Code général des impôts, CGI. - art. 199 novovicies (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L261-10 (M)
 
 
 ###### Article L261-16
