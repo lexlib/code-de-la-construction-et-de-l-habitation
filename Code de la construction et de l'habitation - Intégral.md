@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-01
+Version Consolidée au 1983-06-03
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -71,8 +71,8 @@ Version Consolidée au 1983-06-01
         - [Chapitre unique. (art. L271-1)](#68)
           - [Section 1 : Dispositions générales. (art. L271-1)](#69)
     - [Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement (art. L301-1 à L371-3)](#70)
-      - [Titre préliminaire : Dispositions générales relatives aux politiques de l'habitat. (art. L301-1 à L301-2)](#71)
-        - [Chapitre Ier : Politiques d'aide au logement. (art. L301-1 à L301-2)](#72)
+      - [Titre préliminaire : Dispositions générales relatives aux politiques de l'habitat. (art. L301-1 à L301-5)](#71)
+        - [Chapitre Ier : Politiques d'aide au logement. (art. L301-1 à L301-5)](#72)
       - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. L311-1 à L316-1)](#73)
         - [Chapitre Ier : Primes et prêts à la construction. (art. L311-1 à L311-14)](#74)
           - [Section 1 : Primes. (art. L311-1 à L311-7)](#75)
@@ -81,13 +81,13 @@ Version Consolidée au 1983-06-01
           - [Section 4 : Honoraires des architectes et autres techniciens. (art. L311-14)](#78)
         - [Chapitre II : Garantie de l'Etat - Action des collectivités territoriales et des chambres de commerce et d'industrie. (art. L312-1 à L312-6)](#79)
           - [Section 1 : Garantie de l'Etat. (art. L312-1 à L312-2)](#80)
-          - [Section 2 : Action des collectivités territoriales. (art. L312-3 à L312-5)](#81)
+          - [Section 2 : Action des collectivités territoriales. (art. L312-3 à L312-5-2)](#81)
           - [Section 3 : Action des chambres de commerce et d'industrie. (art. L312-6)](#82)
         - [Chapitre III : Participation des employeurs à l'effort de construction. (art. L313-1 à L313-6)](#83)
           - [Section 1 : Participation des employeurs à l'effort de construction. (art. L313-1 à L313-6)](#84)
         - [Chapitre V : Epargne-logement-Dispositions transitoires applicables à l'épargne-construction (art. L315-1 à L315-32)](#85)
-          - [Section 1 : Epargne-logement. (art. L315-1 à L315-7)](#86)
-          - [Section 2 : Dispositions transitoires relatives à l'épargne-construction. (art. L315-8 à L315-32)](#87)
+          - [Section 1 : Epargne-logement. (art. L315-1 à L315-6)](#86)
+          - [Section 2 : Dispositions transitoires relatives à l'épargne-construction. (art. L315-19 à L315-32)](#87)
         - [Chapitre VI : Contrôle. (art. L316-1)](#88)
       - [Titre II : Amélioration de l'habitat. (art. L321-1 à L324-1)](#89)
         - [Chapitre Ier : Agence nationale de l'habitat - Statut et concours financier. (art. L321-1 à L321-4)](#90)
@@ -105,46 +105,46 @@ Version Consolidée au 1983-06-01
           - [Section 2 : Dispositions particulières applicables à certains logements conventionnés. (art. L353-14 à L353-18)](#102)
       - [Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement. (art. L361-1)](#103)
         - [Chapitre Ier : Conseil national de l'aide personnalisée au logement. (art. L361-1)](#104)
-      - [Titre VI : Organismes consultatifs. (art. L362-1 à L363-1)](#105)
+      - [Titre VI : Organismes consultatifs. (art. L362-1 à L364-1)](#105)
         - [Chapitre II : Conseil national de l'accession à la propriété. (art. L362-1 à L362-2)](#106)
         - [Chapitre III : Dispositions communes. (art. L363-1)](#107)
-      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte. (art. L371-1 à L371-3)](#108)
-        - [Chapitre unique. (art. L371-1 à L371-3)](#109)
-    - [Livre IV : Habitations à loyer modéré. (art. L411-1 à L481-1)](#110)
-      - [Titre Ier : Dispositions générales. (art. L411-1 à L411-2)](#111)
-        - [Chapitre unique. (art. L411-1 à L411-2)](#112)
-      - [Titre II : Organismes d'habitations à loyer modéré. (art. L421-1 à L424-1)](#113)
-        - [Chapitre Ier : Offices publics de l'habitat. (art. L421-1 à L421-8)](#114)
-          - [Section 1 : Dispositions générales. (art. L421-1 à L421-7)](#115)
-          - [Section 2 : Administration des offices publics de l'habitat. (art. L421-8)](#116)
-        - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. L422-1 à L422-19)](#117)
-          - [Section 1 : Fondations. (art. L422-1)](#118)
-          - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. L422-2)](#119)
-          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. L422-3)](#120)
-          - [Section 4 : Sociétés anonymes de crédit immobilier. (art. L422-4)](#121)
-          - [Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré. (art. L422-5 à L422-11)](#122)
-          - [Section 6 : Dispositions communes aux diverses sociétés coopératives d'habitations à loyer modéré. (art. L422-12)](#123)
-          - [Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré. (art. L422-13 à L422-15)](#124)
-          - [Section 8 : Dispositions provisoirement applicables par suite de la suppression des sociétés coopératives de location coopérative. (art. L422-16 à L422-19)](#125)
-        - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré. (art. L423-1 à L423-12)](#126)
-        - [Chapitre IV : Dispositions diverses. (art. L424-1)](#127)
-      - [Titre III : Dispositions financières. (art. L431-1 à L432-6)](#128)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. L431-1 à L431-6)](#129)
-        - [Chapitre II : Prêts aux autres organismes et collectivités. (art. L432-1 à L432-6)](#130)
-      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. L442-1 à L443-18)](#131)
-        - [Chapitre II : Loyers et divers. (art. L442-1 à L442-9)](#132)
-        - [Chapitre III : Accession à la propriété et autres cessions. (art.  à L442-9)](#133)
-        - [Chapitre III : Accession à la propriété. (art. L443-7 à L443-18)](#134)
-          - [Section 2 : Dispositions applicables aux locataires accédant à la propriété de leur logement. (art. L443-7 à L443-15)](#135)
-          - [Section 3 : Dispositions particulières aux pensionnés de guerre. (art. L443-16)](#136)
-          - [Section 3 : Dispositions particulières aux pensionnés de guerre. (art. L443-17)](#137)
-          - [Section 4 : Taux des intérêts moratoires. (art. L443-18)](#138)
-      - [Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété. (art. L451-1 à L451-7)](#139)
-        - [Chapitre Ier : Contrôle. (art. L451-1 à L451-7)](#140)
-      - [Titre VI : Organismes consultatifs. (art. L461-1)](#141)
-        - [Chapitre unique. (art. L461-1)](#142)
-          - [Section 3 : Comités départementaux des habitations à loyer modéré. (art. L461-1)](#143)
-      - [Titre VI : Organismes consultatifs. (art. L461-2)](#144)
+        - [Chapitre IV : Conseil départemental de l'habitat. (art. L364-1)](#108)
+      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte. (art. L371-1 à L371-3)](#109)
+        - [Chapitre unique. (art. L371-1 à L371-3)](#110)
+    - [Livre IV : Habitations à loyer modéré. (art. L411-1 à L481-1)](#111)
+      - [Titre Ier : Dispositions générales. (art. L411-1 à L411-2)](#112)
+        - [Chapitre unique. (art. L411-1 à L411-2)](#113)
+      - [Titre II : Organismes d'habitations à loyer modéré. (art. L421-1 à L424-1)](#114)
+        - [Chapitre Ier : Offices publics de l'habitat. (art. L421-1 à L421-8)](#115)
+          - [Section 1 : Dispositions générales. (art. L421-1 à L421-7)](#116)
+          - [Section 2 : Administration des offices publics de l'habitat. (art. L421-8)](#117)
+        - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. L422-1 à L422-19)](#118)
+          - [Section 1 : Fondations. (art. L422-1)](#119)
+          - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. L422-2)](#120)
+          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. L422-3)](#121)
+          - [Section 4 : Sociétés anonymes de crédit immobilier. (art. L422-4)](#122)
+          - [Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré. (art. L422-5 à L422-11)](#123)
+          - [Section 6 : Dispositions communes aux diverses sociétés coopératives d'habitations à loyer modéré. (art. L422-12)](#124)
+          - [Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré. (art. L422-13 à L422-15)](#125)
+          - [Section 8 : Dispositions provisoirement applicables par suite de la suppression des sociétés coopératives de location coopérative. (art. L422-16 à L422-19)](#126)
+        - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré. (art. L423-1 à L423-12)](#127)
+        - [Chapitre IV : Dispositions diverses. (art. L424-1)](#128)
+      - [Titre III : Dispositions financières. (art. L431-1 à L432-6)](#129)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. L431-1 à L431-6)](#130)
+        - [Chapitre II : Prêts aux autres organismes et collectivités. (art. L432-1 à L432-6)](#131)
+      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. L442-1 à L443-18)](#132)
+        - [Chapitre II : Loyers et divers. (art. L442-1 à L442-9)](#133)
+        - [Chapitre III : Accession à la propriété et autres cessions. (art.  à L442-9)](#134)
+        - [Chapitre III : Accession à la propriété. (art. L443-7 à L443-18)](#135)
+          - [Section 2 : Dispositions applicables aux locataires accédant à la propriété de leur logement. (art. L443-7 à L443-15)](#136)
+          - [Section 3 : Dispositions particulières aux pensionnés de guerre. (art. L443-16)](#137)
+          - [Section 3 : Dispositions particulières aux pensionnés de guerre. (art. L443-17)](#138)
+          - [Section 4 : Taux des intérêts moratoires. (art. L443-18)](#139)
+      - [Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété. (art. L451-1 à L451-7)](#140)
+        - [Chapitre Ier : Contrôle. (art. L451-1 à L451-7)](#141)
+      - [Titre VI : Organismes consultatifs. (art. L461-2)](#142)
+        - [Chapitre unique. (art. L461-2)](#143)
+          - [Section 4 : Dispositions communes. (art. L461-2)](#144)
       - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. L471-1 à L472-2)](#145)
         - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. L471-1)](#146)
         - [Chapitre II : Départements d'Outre-Mer. (art. L472-1 à L472-2)](#147)
@@ -530,58 +530,57 @@ Version Consolidée au 1983-06-01
       - [Titre II : Organismes d'habitations à loyer modéré. (art. R*421-2 à R423-67)](#527)
         - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré. (art. R*421-2 à R*421-79)](#528)
           - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-2 à R*421-30)](#529)
-          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-52 à R*421-51)](#530)
+          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-52 à R421-66)](#530)
             - [Sous-section 1 : Création et gestion. (art. R*421-52 à R421-66)](#531)
-            - [Sous-section 1 : Création et gestion. (art. R*421-51)](#532)
-          - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-9 à R*422-38)](#533)
-            - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-9)](#534)
-            - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-38)](#535)
-              - [Sous-section 3 : Statuts. (art. R*422-38)](#536)
-          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-79)](#537)
-        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#538)
-          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#539)
-            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#540)
-      - [Titre III : Dispositions financières. (art. R*431-33 à R*431-48)](#541)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#542)
-          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#543)
-            - [Sous-section  1 : Organisation et fonctionnement (art. R*431-30 à R*431-36)](#544)
-            - [Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1. (art. R*431-37 à R*431-45)](#545)
-            - [Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°). (art. R*431-46 à R*431-48)](#546)
-      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-24 à R441-25)](#547)
-        - [Conditions d'attribution des logements (art. R*441-24 à R441-25)](#548)
-          - [Plafond des ressources (art. R441-25)](#549)
-            - [Attribution des logements. (art. R441-25)](#550)
-    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#551)
-      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#552)
-        - [Chapitre unique. (art. R511-1)](#553)
-      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#554)
-        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#555)
-        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#556)
-        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#557)
-      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#558)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#559)
-      - [Titre Ier : Dispositions générales. (art. R612-1)](#560)
-        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#561)
-      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#562)
-        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#563)
-      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#564)
-        - [Chapitre unique (art. R631-1 à R631-5)](#565)
-          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#566)
-          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#567)
-      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#568)
-        - [Chapitre unique (art. R641-1 à R641-25)](#569)
-          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#570)
-          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#571)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#572)
-        - [Chapitre unique. (art. R651-1)](#573)
-  - [Annexes (art. Annexe à l'article R322-20 à Annexe II à l'article R353-190, art. 1)](#574)
-    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#575)
-      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#576)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#577)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#578)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#579)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#580)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#581)
+          - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-9 à R*422-38)](#532)
+            - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-9)](#533)
+            - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-38)](#534)
+              - [Sous-section 3 : Statuts. (art. R*422-38)](#535)
+          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-79)](#536)
+        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#537)
+          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#538)
+            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#539)
+      - [Titre III : Dispositions financières. (art. R*431-33 à R*431-48)](#540)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#541)
+          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#542)
+            - [Sous-section  1 : Organisation et fonctionnement (art. R*431-30 à R*431-36)](#543)
+            - [Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1. (art. R*431-37 à R*431-45)](#544)
+            - [Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°). (art. R*431-46 à R*431-48)](#545)
+      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-24 à R441-25)](#546)
+        - [Conditions d'attribution des logements (art. R*441-24 à R441-25)](#547)
+          - [Plafond des ressources (art. R441-25)](#548)
+            - [Attribution des logements. (art. R441-25)](#549)
+    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#550)
+      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#551)
+        - [Chapitre unique. (art. R511-1)](#552)
+      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#553)
+        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#554)
+        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#555)
+        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#556)
+      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#557)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#558)
+      - [Titre Ier : Dispositions générales. (art. R612-1)](#559)
+        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#560)
+      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#561)
+        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#562)
+      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#563)
+        - [Chapitre unique (art. R631-1 à R631-5)](#564)
+          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#565)
+          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#566)
+      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#567)
+        - [Chapitre unique (art. R641-1 à R641-25)](#568)
+          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#569)
+          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#570)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#571)
+        - [Chapitre unique. (art. R651-1)](#572)
+  - [Annexes (art. Annexe à l'article R322-20 à Annexe II à l'article R353-190, art. 1)](#573)
+    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#574)
+      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#575)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#576)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#577)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#578)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#579)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#580)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -5157,28 +5156,30 @@ _Cité par_:
 
 ###### Article L242-3
 
-Le titre Ier et le titre II du décret n. 54-1123 du 10 novembre 1954 ainsi que l'article 80, alinéa 2, de la loi n. 53-80 du
-7 février 1953 continuent à s'appliquer aux contrats conclus antérieurement au 31 décembre 1972.
+Le titre Ier et le titre II du décret n° 54-1123 du 10 novembre 1954 ainsi que l'article 80, alinéa 2, de la loi n° 53-80 du
+7 février 1953 continuent à s'appliquer aux contrats conclus antérieurement au 31 décembre 1972. 
 
 Toutes références à l'article 80, alinéa 2, susvisé sont, en tant que de raison, réputées faites aux dispositions du chapitre
-III du titre II du présent livre.
+III du titre Ier du présent livre.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
   - Loi n°53-80 du 7 février 1953 - art. 80, v. init.
-  - Décret n°54-1123 1954-11-10
-  - Code de la construction et de l'habitation 80
+  - Décret n°54-1123 du 10 novembre 1954, v. init.
 
 _Anciens textes_:
 
-  - Loi n°71-579 1971-07-16 art. 50 I al. 3, al. 4
   - Loi n°71-579 du 16 juillet 1971 - art. 50 (Ab)
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 7 () JORF 3 juin 1983
 
 
 ###### Article L242-4
@@ -5430,9 +5431,9 @@ _Modifié par_:
 
 ###### Article L251-9
 
-En vertu de l'article 49 de la loi n. 75-1328 du 31 décembre 1975, les dispositions des articles L. 251-1, alinéa 3, et L.
-251-3, alinéa 3, dans leur rédaction issue des articles 47 et 48 de ladite loi ne sont pas applicables aux baux à
-construction qui ont été conclus avant le 3 janvier 1976.
+Les dispositions des articles L. 251-1, alinéa 3, et L. 251-3, alinéa 3, dans leur rédaction issue des articles 47 et 48 de
+la loi n° 75-1328 du 31 décembre 1975 ne sont pas applicables aux baux à construction qui ont été conclus avant le 3 janvier
+1976.
 
 Les dispositions de l'alinéa 4 de l'article L. 251-5 relatives au cas où les revenus du preneur sont limités par l'effet de
 dispositions législatives s'appliquent aux baux en cours au 31 décembre 1977.
@@ -5441,20 +5442,22 @@ dispositions législatives s'appliquent aux baux en cours au 31 décembre 1977.
 
 _Anciens textes_:
 
-  - Loi n°75-1328 1975-12-31 art. 49
-  - Loi n°77-1457 1977-12-29 art. 9 II
+  - Loi n°75-1328 1975-12-31 ART. 49
+  - Loi n°77-1457 1977-12-29 ART. 9 II
 
 _Cite_:
 
-  - Loi n°75-1328 1975-12-31 art. 49, art. 47, art. 48
   - Loi n°75-1328 du 31 décembre 1975 - art. 47, v. init.
   - Loi n°75-1328 du 31 décembre 1975 - art. 48, v. init.
-  - Code de la construction et de l'habitation. - art. L251-1 (M)
-  - Code de la construction et de l'habitation. - art. L251-5 (M)
+  - Code de la construction et de l'habitation L251-3 AL. 3
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 8 () JORF 3 JUIN 1983
 
 
 ### Titre VI : Ventes d'immeubles à construire ou à rénover.<a id=63></a>
@@ -6417,6 +6420,98 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 296 ter (V)
 
 
+###### Article L301-3
+
+Les aides de l'Etat en faveur de l'habitat sont réparties par la loi de finances entre les actions d'intérêt national et les
+interventions locales.
+
+Dans chaque région, le représentant de l'Etat répartit les crédits entre les départements en prenant en considération les
+priorités régionales mentionnées à l'article L. 301-5 et après consultation du conseil régional.
+
+Dans chaque département et après avis du conseil général, le représentant de l'Etat répartit les crédits affectés au
+département en tenant compte des priorités définies dans les programmes locaux de l'habitat élaborés par les communes ou
+leurs groupements et en veillant au respect des objectifs nationaux, notamment pour le logement des personnes mal logées ou
+défavorisées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 74 (V)
+  - Code de la construction et de l'habitation. - art. L301-5-1 (V)
+  - Code de la construction et de l'habitation. - art. L301-5-2 (M)
+  - Code de la construction et de l'habitation. - art. L321-1-1 (V)
+  - Code de la construction et de l'habitation. - art. L371-3 (V)
+  - Code de la construction et de l'habitation. - art. R*321-7 (V)
+  - Code de la construction et de l'habitation. - art. R*321-8 (VD)
+  - Code de la construction et de l'habitation. - art. R321-5 (V)
+  - Code de la construction et de l'habitation. - art. R362-2 (V)
+  - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
+  - Code général des impôts, CGI. - art. 31 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L301-5 (M)
+
+
+###### Article L301-4
+
+Les communes, les départements, les régions définissent, dans le cadre de leurs compétences respectives, leurs priorités en
+matière d'habitat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+
+###### Article L301-5
+
+Dans le cadre de ses compétences pour promouvoir le développement économique et social et l'aménagement de son territoire, la
+région définit des priorités en matière d'habitat, après consultation des départements et au vu, le cas échéant, des
+programmes locaux d'habitat qui lui sont adressés par les communes ou les établissements publics de coopération
+intercommunale compétents en matière de logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 art. 3 II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. L301-3 (M)
+
+
 ### Titre Ier : Mesures tendant à favoriser la construction d'habitations.<a id=73></a>
 
 #### Chapitre Ier : Primes et prêts à la construction.<a id=74></a>
@@ -6948,12 +7043,17 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
   - TXT_SOURCE: Arrêté du 25 août 2003
   - TXT_SOURCE: Arrêté du 25 août 2003 - art. 1 (V)
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
 
 _Anciens textes_:
 
@@ -6973,6 +7073,14 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
 _Cité par_:
 
   - Arrêté du 16 février 2005 - art. 1 (V)
@@ -6980,27 +7088,36 @@ _Cité par_:
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 270 al. 1, al. 3
+  - Code de l'urbanisme 270 AL. 1 ET 3 (LOI 63-156 1963-02-23 ART. 46)
 
 
 ##### Section 2 : Action des collectivités territoriales.<a id=81></a>
 
 ###### Article L312-3
 
-Les départements, les communes et leurs groupements et les chambres de commerce et d'industrie peuvent soit garantir les
-emprunts contractés par des sociétés ou organismes ayant pour objet la construction d'immeubles à usage principal
-d'habitation n'excédant pas les normes de surface et de prix exigées pour l'octroi des prêts prévus par l'article L. 351-2 (1
-et 3), soit exceptionnellement leur allouer des avances.
+Les départements, les communes et leurs groupements peuvent soit garantir les emprunts contractés par des sociétés ou
+organismes ayant pour objet la construction d'immeubles à usage principal d'habitation n'excédant pas les normes de surface
+et de prix exigées pour l'octroi des prêts prévus par l'article L. 351-2 (1° et 3°), soit exceptionnellement leur allouer des
+avances.
 
-Un règlement d'administration publique fixe les conditions d'application du présent article, et notamment les conditions
-d'octroi des garanties ou avances prévues à l'alinéa précédent, ainsi que les règles du contrôle exercé sur les sociétés ou
-organismes bénéficiaires.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment les conditions d'octroi des
+garanties ou avances prévues à l'alinéa précédent, ainsi que les règles du contrôle exercé sur les sociétés ou organismes
+bénéficiaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 art. 3 par. ii
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 juin 1983
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Anciens textes_:
 
@@ -7014,7 +7131,7 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
+  - Code de la construction et de l'habitation L351-2 1°, 3°
 
 
 ###### Article L312-4
@@ -7047,28 +7164,130 @@ _Cite_:
   - Loi n°1871-08-10 art. 46
 
 
-###### Article L312-5
+###### Article L312-4-1
 
-Les règles générales applicables à la participation des communes à des entreprises privées, prévues notamment par le décret
-du 28 décembre 1926, sont applicables à la participation des départements aux mêmes entreprises.
-
-Un règlement d'administration publique fixe, en tant que de besoin, les modalités d'application de l'article L. 312-4 et de
-l'alinéa précédent.
+Les dispositions du premier alinéa de l'article 49 et du paragraphe I de l'article 6 de la loi n° 82-213 du 2 mars 1982
+relative aux droits et libertés des communes, des départements et des régions modifiée, ne sont pas applicables aux garanties
+d'emprunt ou aux cautionnements accordés respectivement par un département ou une commune pour les opérations de
+construction, d'acquisition ou d'amélioration de logements réalisées avec le bénéfice des prêts aidés par l'Etat.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
 _Cite_:
 
-  - Décret n°1926-12-28
-  - Code de la construction et de l'habitation. - art. L312-4 (M)
+  - Loi n°82-213 1982-03-02 ART. 49 AL. 1, ART. 6 PAR. I
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. L371-3 (V)
+
+
+###### Article L312-5
+
+Les règles générales applicables à la participation des communes à des entreprises privées, prévues notamment par les
+articles L. 381-1 à L. 381-6 du code des communes sont applicables à la participation des départements aux mêmes entreprises.
+
+Un décret en Conseil d'Etat fixe, en tant de besoin, les modalités d'application de l'article L. 312-4 et de l'alinéa
+précédent.
+
+**Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°53-982 1953-09-30 art. 4 al. 3, al. 4
+  - Décret n°53-982 1953-09-30 ART. 4 AL. 3, AL. 4
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°1871-08-10 art. 46
+  - Code de la construction et de l'habitation. - art. L312-4 (M)
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+  - Loi n°83-440 du 2 juin 1983 - art. 4 () JORF 3 JUIN 1983
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 JUIN 1983
+
+
+###### Article L312-5-1
+
+Les communes ou les établissements publics de coopération intercommunale peuvent définir un programme local de l'habitat qui
+détermine leurs opérations prioritaires et notamment les actions en faveur des personnes mal logées ou défavorisées.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi - art. 14 (V) JORF 19 juillet 1991
+
+_Cité par_:
+
+  - Loi - art. 14 (V)
+  - Code de la construction et de l'habitation. - art. L371-3 (V)
+
+
+###### Article L312-5-2
+
+La région peut [*financer*] :
+
+a) Compléter l'aide de l'Etat par des subventions, des prêts, des bonifications d'intérêts ou des garanties d'emprunt ;
+
+b) Accorder des subventions à l'acquisition et à l'aménagement de terrains à bâtir pour faciliter la réalisation des
+opérations d'habitat à caractère essentiellement social proposées par les collectivités territoriales ;
+
+c) Engager, seule ou par voie contractuelle, notamment avec l'Etat, un programme d'aides destinées à favoriser la qualité de
+l'habitat, l'amélioration des quartiers et des logements existants, l'équipement de terrains à bâtir, l'innovation, les
+économies d'énergie et l'utilisation des énergies renouvelables.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. L371-3 (V)
+  - Code de la construction et de l'habitation. - art. L371-4 (V)
 
 
 ##### Section 3 : Action des chambres de commerce et d'industrie.<a id=82></a>
@@ -7082,19 +7301,30 @@ construire et à gérer les immeubles destinés à la location ou à l'accession
 Pour ces opérations, les chambres de commerce et d'industrie peuvent être autorisées à émettre des emprunts dans les
 conditions définies à l'article 22 de la loi du 9 avril 1898.
 
+L'article L. 312-3 est applicable aux chambres de commerce et d'industrie.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Décret n°53-849 1953-09-18 art. 1
+  - Décret n°53-849 1953-09-18 ART. 1
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
 
 _Cite_:
 
-  - Loi n°1898-04-09 art. 22
+  - Code de la construction et de l'habitation. - art. L312-3 (M)
+  - Loi n°1898-04-09 ART. 22
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
 
 
 #### Chapitre III : Participation des employeurs à l'effort de construction.<a id=83></a>
@@ -7105,12 +7335,14 @@ _Cite_:
 
 Les employeurs, occupant au minimum dix salariés, à l'exception de l'Etat, des collectivités locales et de leurs
 établissements publics administratifs, assujettis à la taxe sur les salaires prévue à l'article 231 du code général des
-impôts, doivent consacrer au financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction
-de logements sociaux, de construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens
-des sommes représentant 0,9 p. 100 au moins du montant, entendu au sens de l'article 231 du code général des impôts précité,
-des salaires payés par eux au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant
-un caractère industriel ou commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs
-établissements publics ayant le même caractère.
+impôts, autres que ceux qui appartiennent à des professions relevant du régime agricole au regard des lois sur la sécurité
+sociale pour lesquelles des règles spéciales ont été édictées en application du 3 a dudit article 231, doivent consacrer au
+financement d'acquisition et d'aménagement de terrains destinés exclusivement à la construction de logements sociaux, de
+construction de logements, d'acquisition, d'aménagement ou de remise en état de logements anciens des sommes représentant 09
+p. 100 au moins du montant, entendu au sens de l'article 231 du code général des impôts précité, des salaires payés par eux
+au cours de l'exercice écoulé. Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou
+commercial, ainsi qu'aux organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même
+caractère.
 
 Les employeurs qui, au moyen de leurs ressources propres, à l'exclusion d'indemnités de dommages de guerre, ont investi au
 cours d'un exercice, postérieurement à l'exercice 1948, une somme supérieure à celle prévue à l'alinéa précédent peuvent
@@ -7124,6 +7356,10 @@ s'appliquent aux investissements qui doivent être réalisés à compter du 1er 
 de l'année 1974.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 231
 
 _Cité par_:
 
@@ -7227,17 +7463,7 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Loi n°78-653 du 22 juin 1978 - art. 4 (V) JORF 23 juin 1978
-  - Loi n°80-30 du 18 janvier 1980 - art. 21 (P) JORF 19 janvier 1980
-  - Loi n°82-1126 du 29 décembre 1982 - art. 27 (V) JORF 30 décembre 1982
-
-_Cite_:
-
-  - CGI 231
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 _Anciens textes_:
 
@@ -7521,7 +7747,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -7569,7 +7799,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -7593,15 +7827,30 @@ Les dépôts d'épargne-logement sont reçus par la caisse nationale d'épargne 
 les banques et organismes de crédit qui s'engagent par convention avec l'Etat à appliquer les règles fixées pour le
 fonctionnement de l'épargne-logement.
 
+**Nota:**
+
+NOTA : Loi 2005-516 2005-05-20 art. 16 V :
+
+1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
+2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
+ces dispositions.
+
+2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II (Transfert publié par le décret n°
+2005-1068 du 30 août 2005, publié au Journal officiel du 31 août 2005.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°65-554 1965-07-10 art. 4
+  - Loi n°65-554 1965-07-10 ART. 4
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -7631,23 +7880,29 @@ _Codifié par_:
 
 ###### Article L315-5
 
-Conformément de l'article 157-9 bis du code général des impôts, les intérêts et la prime d'épargne versés aux titulaires de
-comptes d'épargne-logement sont exonérés de l'impôt sur le revenu et ne sont pas pris en compte pour le calcul de
-l'allocation de logement.
+Les intérêts et la prime d'épargne versés aux titulaires de comptes d'épargne-logement ne sont pas pris en compte pour le
+calcul de l'allocation de logement.
+
+Conformément à l'article 157, 9° bis, du code général des impôts, ces intérêts et cette prime ne sont pas pris en compte pour
+la détermination du revenu net global.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - CGI 157-9 bis
+  - CGI 157 9° bis
 
 _Anciens textes_:
 
-  - Loi n°65-554 1965-07-10 art. 7
+  - Loi n°65-554 1965-07-10 ART. 7
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 10 () JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -7663,355 +7918,54 @@ Les modalités d'application des dispositions de la présente section sont fixé
 
 _Anciens textes_:
 
-  - Loi n°65-554 1965-07-10 art. 8 al. 1
+  - Loi n°65-554 1965-07-10 ART. 8 AL. 1 (pour partie)
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L315-1 à L315-7
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L315-18 (Ab)
 
 
-###### Article L315-7
-
-Le régime d'épargne institué par les dispositions de la présente section se substitue à celui de la section II, sous-section
-I, ci-après.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°65-554 1965-07-10 art. 1
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-
 ##### Section 2 : Dispositions transitoires relatives à l'épargne-construction.<a id=87></a>
-
-###### Article L315-8
-
-Le régime d'épargne-crédit a pour objet de permettre, dans les conditions et limites fixées par le décret en conseil d'Etat
-prévu à l'article L. 315-15, l'octroi de prêts aux personnes physiques qui, avant le 3 décembre 1965, ont effectué des dépots
-à vue à un compte d'épargne-crédit et qui font construire, avec le bénéfice des primes à la construction prévues par les
-dispositions réglementaires du présent livre, des immeubles à usage principal d'habitation destinés soit à leur logement ou à
-celui d'un de leurs ascendants ou descendants, soit au logement d'un des ascendants ou descendants de leur conjoint.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 1 al. 2
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. L315-10 (Ab)
-  - Code de la construction et de l'habitation. - art. L315-11 (Ab)
-  - Code de la construction et de l'habitation. - art. L315-14 (Ab)
-  - Code de la construction et de l'habitation. - art. L315-9 (Ab)
-  - Code de la construction et de l'habitation. - art. R*315-56 (Ab)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-15 (Ab)
-
-
-###### Article L315-9
-
-Les prêts prévus à l'article L. 315-8 peuvent également être accordés aux personnes physiques qui font construire des
-logements, en vue de l'accession à la propriété, au moyen de prêts consentis aux sociétés coopératives d'habitation à loyer
-modéré, ou aux sociétés de crédit immobilier en exécution des dispositions réglementaires relatives aux prêts aux organismes
-d'habitations à loyer modéré [*bénéficiaires*].
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 2 bis
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. L315-12 (Ab)
-  - Code de la construction et de l'habitation. - art. R*315-58 (Ab)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article L315-10
-
-La caisse nationale d'épargne et les caisses d'épargne ordinaires sont habilitées à recevoir les dépôts et à tenir les
-comptes d'épargne-crédit prévus à l'article L. 315-8.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 3
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article L315-11
-
-Les prêts prévus à l'article L. 315-8 sont accordés par le Crédit foncier de France ou le Comptoir des entrepreneurs. Le
-remboursement de ces prêts peut être garanti par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 5
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article L315-12
-
-Les prêts prévus à l'article L. 315-9 sont accordés par les sociétés de crédit immobilier ou par les sociétés anonymes
-coopératives d'habitation à loyer modéré. Le remboursement de ces prêts peut être garanti par l'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 5 bis
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-9 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*315-56 (Ab)
-
-
-###### Article L315-13
-
-Conformément au 9. bis de l'article 157-9 du code général des impôts, les intérêts servis aux titulaires des comptes
-d'épargne-crédit sont exonérés de l'impôt sur le revenu.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 157-9
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 7
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-
-###### Article L315-14
-
-Les titulaires des comptes d'épargne-crédit remplissant les conditions exigées pour l'octroi des prêts prévus à l'article L.
-315-8 ont priorité pour l'attribution des primes et prêts spéciaux à la construction prévus par les dispositions législatives
-et réglementaires du présent livre.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 8
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article L315-15
-
-Les modalités d'application des articles L. 315-8 à L. 315-14 sont fixées par décret en Conseil d'Etat.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Ordonnance 59-235 1959-02-04 art. 9
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation L315-8 à L315-14
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. L315-8 (Ab)
-
-
-###### Article L315-16
-
-La garantie que peut accorder l'Etat pour le remboursement des prêts d'épargne-crédit, institués par les articles L. 315-8 à
-L. 315-15, peut être étendue au remboursement des prêts d'épargne-credit consentis pour l'exécution des travaux de réparation
-de gros oeuvre ou d'assainissement exécutés sur les immeubles qui constituent la résidence principale de leur propriétaire ou
-celle de l'un de leurs ascendants ou descendants ou celle de l'un des ascendants ou descendants de leur conjoint.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°64-1278 du 23 décembre 1964 - art. 12, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation L315-8 à L315-15
-
-
-###### Article L315-17
-
-Dans les écritures du trésor, un compte de prêts intitulé "prêts au Crédit foncier de France, au comptoir des entrepreneurs
-et à la caisse des dépôts et consignations au titre de l'épargne-crédit ", est destiné à retracer les prêts éventuellement
-consentis par l'Etat pour compléter les ressources mises à la dispositions du Crédit foncier de France, du comptoir des
-entrepreneurs et de la caisse des dépôts et consignations en application des articles L. 315-8 à L. 315-15.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°60-1384 1960-12-23 art. 77 al. 1
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation L315-8 à L315-15
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*315-43 (Ab)
-
-
-###### Article L315-18
-
-Le décret en Conseil d'Etat prévu à l'article L. 315-6 précise les conditions dans lesquelles les titulaires des comptes
-d'épargne-crédit peuvent opter en faveur du régime institué par la section.
-
-A compter du 3 décembre 1965, aucun compte nouveau d'épargne-crédit ne peut être ouvert en application de la présente sous-
-section.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Loi n°65-554 1965-07-10 art. 8 al. 2, art. 9
-  - Loi n°65-554 du 10 juillet 1965 - art. 9, v. init.
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-6 (M)
-
 
 ###### Article L315-19
 
-Les dispositions de la présente sous-section sont applicables aux comptes d'épargne-construction ouverts jusqu'au 4 février
-1959 au nom de toute personne physique, soit par les caisses d'épargne, soit par les organismes avec lesquels la caisse des
-dépôts et consignations a conclu un accord.
+Les dispositions de la présente section sont applicables aux comptes d'épargne-construction ouverts jusqu'au 4 février 1959
+au nom de toute personne physique, soit par les caisses d'épargne, soit par les organismes avec lesquels la caisse des dépôts
+et consignations a conclu un accord.
 
 Les titulaires des livrets de domaine retraite, ouverts en application des dispositions du décret du 24 mai 1938, ont la
 faculté de faire verser le montant revalorisé de leur livret à un compte d'épargne-construction.
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°1938-05-24
+  - Code de la construction et de l'habitation.
+
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8023,16 +7977,11 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R315-69 (V)
   - Code de la construction et de l'habitation. - art. R315-74 (V)
 
-_Cite_:
-
-  - Code de la construction et de l'habitation L315-19 à L315-32
-  - Décret  1938-05-24
-
 
 ###### Article L315-20
 
 Les sommes versées aux comptes d'épargne-construction sont destinées à être investies dans la construction ou l'achat
-d'immeubles à usage principal d'habitation en vue du logement des titulaires de leurs conjoints ou de l'un de leurs
+d'immeubles à usage principal d'habitation en vue du logement des titulaires, de leurs conjoints ou de l'un de leurs
 ascendants ou descendants, ainsi que dans l'acquisition du terrain à bâtir nécessaire à cette construction et dans les
 travaux d'aménagement, de réparation et d'entretien sur des immeubles à usage principal d'habitation.
 
@@ -8040,7 +7989,15 @@ travaux d'aménagement, de réparation et d'entretien sur des immeubles à usage
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8060,7 +8017,15 @@ construction, augmentées des intérêts capitalisés au 31 décembre de chaque 
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 du 31 mai 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8087,11 +8052,19 @@ Tout retrait est subordonné à un préavis de trois mois.
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 du 31 mai 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 280 al. 3 à 5
+  - Code de l'urbanisme 280 AL. 3, AL. 4, AL. 5
 
 _Cité par_:
 
@@ -8113,6 +8086,14 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
+
 _Anciens textes_:
 
   - Code de l'urbanisme 281
@@ -8131,6 +8112,14 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
+
 _Anciens textes_:
 
   - Code de l'urbanisme 282
@@ -8145,7 +8134,15 @@ la totalité des intérêts de la bonification éventuelle prévus aux articles 
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8158,16 +8155,16 @@ _Cité par_:
 
 ###### Article L315-26
 
-Les sommes inscrites sur les comptes d'épargne-construction sont centralisées et gérées par la caisse des dépôts et
+Les sommes inscrites sur les comptes d'épargne-construction sont centralisées et gérées par la Caisse des dépôts et
 consignations.
 
-Les fonds disponibles sont placés auprès du Crédit foncier de France en obligations revalorisables proportionnellement à la
+Les fonds disponibles sont placés auprès du Crédit Foncier de France en obligations revalorisables proportionnellement à la
 hausse éventuelle du coût de la construction constatée comme il est dit à l'article L. 315-22.
 
-Le Crédit foncier de France peut, de plus, émettre dans le public des obligations de cette nature, dans les conditions fixées
+Le Crédit Foncier de France peut, de plus, émettre dans le public des obligations de cette nature, dans les conditions fixées
 par l'autorité réglementaire.
 
-Le produit de ces obligations est placé par le Crédit foncier de France, et, le cas échéant, par le Comptoir des
+Le produit de ces obligations est placé par le Crédit Foncier de France, et, le cas échéant, par le Comptoir des
 entrepreneurs, en prêts ou crédits revalorisables dans les mêmes conditions, consentis, notamment, pour partie, aux personnes
 qui sollicitent l'attribution d'un prêt garanti par l'Etat notamment dans le cadre de l'article L. 312-1.
 
@@ -8175,7 +8172,15 @@ qui sollicitent l'attribution d'un prêt garanti par l'Etat notamment dans le ca
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8183,8 +8188,8 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L312-1 (M)
-  - Code de la construction et de l'habitation. - art. L315-22 (M)
+  - Code de la construction et de l'habitation. - art. L312-1
+  - Code de la construction et de l'habitation. - art. L315-22
 
 _Cité par_:
 
@@ -8194,9 +8199,9 @@ _Cité par_:
 
 ###### Article L315-27
 
-Le Crédit foncier de France et, le cas échéant, le Comptoir des entrepreneurs bénéficient de leur législation spéciale pour
+Le Crédit Foncier de France et, le cas échéant, le Comptoir des entrepreneurs bénéficient de leur législation spéciale pour
 la réalisation, l'exécution et le recouvrement des prêts ou crédits hypothécaires consentis dans les conditions prévues aux
-articles ci-dessus de la présente sous-section.
+articles ci-dessus de la présente section.
 
 **Liens relatifs à cet article**
 
@@ -8204,18 +8209,26 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
+
 _Anciens textes_:
 
   - Code de l'urbanisme 285
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L315-19 à L315-32
+  - Code de la construction et de l'habitation.
 
 
 ###### Article L315-28
 
-Par dérogation aux articles 2132 et 2148 (4) du code civil les hypothèques constituées pour la sûreté des prêts ou crédits
+Par dérogation aux articles 2132 et 2148 (4) du Code civil les hypothèques constituées pour la sûreté des prêts ou crédits
 revalorisables consentis dans les conditions prévues aux articles précédents garantissent, à tout moment, le montant intégral
 de la créance de l'établissement prêteur, sous réserve que l'inscription mentionne le montant originaire de la créance, ainsi
 que la clause de revalorisation contenue dans le contrat de prêt. L'inscription doit, en outre, préciser qu'elle est requise
@@ -8230,10 +8243,14 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
 _Cite_:
 
   - Code civil - art. 2132 (Ab)
-  - Code civil 2148 (4)
+  - Code civil 2148 4
 
 _Anciens textes_:
 
@@ -8242,8 +8259,8 @@ _Anciens textes_:
 
 ###### Article L315-29
 
-La garantie de l'Etat est accordée à la Caisse des dépôts et consignations, au Crédit foncier de France et au Comptoir des
-entrepreneurs pour l'ensemble des opérations effectuées dans le cadre de la présente sous-section.
+La garantie de l'Etat est accordée à la Caisse des dépôts et consignations, au Crédit Foncier de France et au Comptoir des
+Entrepreneurs pour l'ensemble des opérations effectuées dans le cadre de la présente section.
 
 Toutes conventions utiles sont passées entre l'Etat et ces établissements.
 
@@ -8253,25 +8270,41 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
+
 _Anciens textes_:
 
   - Code de l'urbanisme 287
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L315-19 à L315-32
+  - Code de la construction et de l'habitation.
 
 
 ###### Article L315-30
 
-Les dispositions du code des caisses d'épargne sont applicables en tout ce qui n'est pas contraire à la présente sous-
-section, aux comptes d'épargne-construction, ainsi que les exonérations fiscales dont bénéficient les caisses d'épargne.
+Les dispositions du Code des caisses d'épargne sont applicables en tout ce qui n'est pas contraire à la présente section, aux
+comptes d'épargne-construction, ainsi que les exonérations fiscales dont bénéficient les caisses d'épargne.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-621 du 31 mai 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8280,20 +8313,28 @@ _Anciens textes_:
 
 ###### Article L315-31
 
-Un règlement d'administration publique définit les conditions d'application des articles L. 315-19 à L. 315-30 et notamment :
+Un décret en Conseil d'Etat définit les conditions d'application des articles L. 315-19 à L. 315-30 et notamment :
 
-1. Les conditions d'ouverture et de fonctionnement des comptes d'épargne-construction ;
+1° Les conditions d'ouverture et de fonctionnement des comptes d'épargne-construction ;
 
-2. Les justifications à fournir pour bénéficier de la bonification d'épargne prévue à l'article L. 315-21 ;
+2° Les justifications à fournir pour bénéficier de la bonification d'épargne prévue à l'article L. 315-21 ;
 
-3. Les bases de calcul de l'indice du coût de la construction et les conditions dans lesquelles l'indice sera publié
+3° Les bases de calcul de l'indice du coût de la construction et les conditions dans lesquelles l'indice sera publié
 périodiquement au Journal officiel.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-621 du 31 mai 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
 
 _Anciens textes_:
 
@@ -8301,24 +8342,35 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L315-19 à L315-30
-  - Code de la construction et de l'habitation. - art. L315-21 (M)
+  - Code de la construction et de l'habitation.
 
 
 ###### Article L315-32
 
 A compter du 4 février 1959, aucun compte nouveau d'épargne-construction ne peut plus être ouvert en application de la
-présente sous-section.
+présente section.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Ordonnance 59-235 1959-02-04 art. 10
+  - Ordonnance 59-235 1959-02-04 ART. 10
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+
+_Abrogé par_:
+
+  - Loi n°2011-525 du 17 mai 2011 - art. 180 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation.
 
 
 #### Chapitre VI : Contrôle.<a id=88></a>
@@ -8395,13 +8447,22 @@ L'Agence nationale pour l'amélioration de l'habitat est gérée par le Crédit 
 est passée entre l'Etat et le Crédit foncier de France.
 
 Les modalités de gestion et de fonctionnement de l'Agence nationale pour l'amélioration de l'habitat, notamment l'utilisation
-de ses ressources, sont déterminées par un règlement d'administration publique.
+de ses ressources, sont déterminées par un décret en conseil d'Etat.
 
 **Liens relatifs à cet article**
 
+_Anciens textes_:
+
+  - Loi n°70-1283 1970-12-31 ART. 6 III 1 pour partie
+  - Code de l'urbanisme 292
+
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
@@ -8417,10 +8478,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R321-30-2 (Ab)
   - Code de la construction et de l'habitation. - art. R321-5 (V)
   - Code de la construction et de l'habitation. - art. R321-6-3 (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme 292
 
 
 ##### Section 2 : Dispositions communes aux aides accordées aux propriétaires bailleurs.<a id=92></a>
@@ -10121,30 +10178,23 @@ _Cite_:
 
 Par dérogation à l'article L. 442-6, seules les dispositions des chapitres Ier, V, VI, des premier et deuxième alinéas de
 l'article 32 bis et de l'alinéa premier de l'article 78 de la loi n° 48-1360 du 1er septembre 1948 modifiée, sont applicables
-aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14 [*appartenant aux HLM et aux
-collectivités locales*].
+aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14.
 
-Les charges récupérables sont exigibles dans les conditions prévues à l'article L. 442-3.
+A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation contraire, les charges récupérables sont
+exigibles dans les conditions prévues à l'article L. 442-3.
 
 **Liens relatifs à cet article**
 
 _Cite_:
 
-  - Loi n°48-1360 1948-09-01 ART. 78 AL. 1, ART. 32 bis AL. 1 AL. 2
+  - Loi n°48-1360 1948-09-01 ART. 78 AL. 1, ART. 32 BIS AL. 1 AL. 2, ART. 4 à ART. 17, ART. 46 à ART. 86
   - Code de la construction et de l'habitation. - art. L353-14 (M)
+  - Code de la construction et de l'habitation. - art. L442-3 (M)
   - Code de la construction et de l'habitation. - art. L442-6 (M)
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°81-1161 1981-12-30 art. 9 III *application à compter de la publication du décret (955 du 9 novembre 1982 J.O. du 13 novembre 1982) fixant la liste des charges récupérables*
-
-_Modifié par_:
-
-  - Loi n°81-1161 du 30 décembre 1981 - art. 9 () JORF 31 DECEMBRE 1981
 
 _Cité par_:
 
@@ -10153,6 +10203,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L445-7 (V)
   - Code de la construction et de l'habitation. - art. R353-12 (V)
   - Code de la construction et de l'habitation. - art. R353-204 (V)
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 12 () JORF 3 JUIN 1983 rectificatif JORF 14 JUILLET 1983
 
 
 ###### Article L353-16
@@ -10365,9 +10419,60 @@ _Codifié par_:
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
-### Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte.<a id=108></a>
+#### Chapitre IV : Conseil départemental de l'habitat.<a id=108></a>
 
-#### Chapitre unique.<a id=109></a>
+###### Article L364-1
+
+La composition, les modalités de fonctionnement et la nature des différentes fonctions [*attributions*] du conseil
+départemental de l'habitat, substitué par la loi n° 83-8 du 7 janvier 1983 à l'ensemble des commissions, comités et conseils
+départementaux existant en matière de logement et autres que la commission départementale des rapports locatifs créée par la
+loi n° 82-526 du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs, sont fixées par décret en
+Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°82-526 1982-06-22
+  - Loi n°83-8 1983-01-07
+
+_Créé par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+
+_Cité par_:
+
+  - Loi n°86-1290 du 23 décembre 1986 - art. 41 bis (V)
+  - Loi n°89-462 du 6 juillet 1989 - art. 16 (V)
+  - Loi n°90-449 du 31 mai 1990 - art. 2 (V)
+  - Loi n°90-449 du 31 mai 1990 - art. 4 (VD)
+  - Loi n°90-449 du 31 mai 1990 - art. 4-1 (VT)
+  - Loi n°90-449 du 31 mai 1990 - art. 3 (V)
+  - Décret n°2004-123 du 9 février 2004 - art. 13 (V)
+  - Décret n°2007-1688 du 29 novembre 2007 - art. 4 (Ab)
+  - Décret n°2014-1334 du 5 novembre 2014 - art. 2 (V)
+  - Décret n°2014-1334 du 5 novembre 2014 - art. 4 (V)
+  - Décret n°2015-299 du 16 mars 2015 - art. 13
+  - Décret n°2017-761 du 4 mai 2017 - art. 2 (V)
+  - Décret n°2017-1565 du 14 novembre 2017 - art. 4 (V)
+  - Code de l'urbanisme - art. L123-9 (VT)
+  - Code de l'urbanisme - art. L153-16 (VD)
+  - Code de la construction et de l'habitation. - art. L302-12 (VD)
+  - Code de la construction et de l'habitation. - art. L371-3 (V)
+  - Code de la construction et de l'habitation. - art. R313-20-2 (V)
+  - Code de la construction et de l'habitation. - art. R321-11 (V)
+  - Code général des impôts, CGI. - art. 199 novovicies (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies D (V)
+  - Code général des impôts, annexe 3, CGIAN3. - art. 2 terdecies F (V)
+
+
+### Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte.<a id=109></a>
+
+#### Chapitre unique.<a id=110></a>
 
 ###### Article L371-1
 
@@ -10416,24 +10521,38 @@ _Cite_:
 
 ###### Article L371-3
 
-Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon.
+Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon à l'exception des articles
+L. 301-3 à L. 301-5, L. 312-4-1, L. 312-5-1, L. 312-5-2 et L. 364-1.
 
 **Liens relatifs à cet article**
 
-_Cite_:
+_Anciens textes_:
 
-  - Loi n°76-664 1976-07-19 ART. 5 et 8 (application)
+  - Loi n°76-664 1976-07-19 ART. 5, ART. 8 (application)
+  - Loi n°76-664 du 19 juillet 1976 - art. 5, v. init.
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+**Liens**:
 
-## Livre IV : Habitations à loyer modéré.<a id=110></a>
+  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
 
-### Titre Ier : Dispositions générales.<a id=111></a>
+_Cite_:
 
-#### Chapitre unique.<a id=112></a>
+  - Code de la construction et de l'habitation L301-3 à L301-5, L312-4-1, L312-5-1, L312-5-2, L364-1
+  - Code de la construction et de l'habitation. - art. L312-4-1 (M)
+  - Code de la construction et de l'habitation. - art. L312-5-1 (Ab)
+  - Code de la construction et de l'habitation. - art. L312-5-2 (M)
+  - Code de la construction et de l'habitation. - art. L364-1 (M)
+
+
+## Livre IV : Habitations à loyer modéré.<a id=111></a>
+
+### Titre Ier : Dispositions générales.<a id=112></a>
+
+#### Chapitre unique.<a id=113></a>
 
 ###### Article L411-1
 
@@ -10697,11 +10816,11 @@ _Anciens textes_:
   - Code de l'urbanisme 159
 
 
-### Titre II : Organismes d'habitations à loyer modéré.<a id=113></a>
+### Titre II : Organismes d'habitations à loyer modéré.<a id=114></a>
 
-#### Chapitre Ier : Offices publics de l'habitat.<a id=114></a>
+#### Chapitre Ier : Offices publics de l'habitat.<a id=115></a>
 
-##### Section 1 : Dispositions générales.<a id=115></a>
+##### Section 1 : Dispositions générales.<a id=116></a>
 
 ###### Article L421-1
 
@@ -10923,7 +11042,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R421-66 (Ab)
 
 
-##### Section 2 : Administration des offices publics de l'habitat.<a id=116></a>
+##### Section 2 : Administration des offices publics de l'habitat.<a id=117></a>
 
 ###### Article L421-8
 
@@ -10955,9 +11074,9 @@ _Anciens textes_:
   - Code de l'urbanisme 191 bis
 
 
-#### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=117></a>
+#### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=118></a>
 
-##### Section 1 : Fondations.<a id=118></a>
+##### Section 1 : Fondations.<a id=119></a>
 
 ###### Article L422-1
 
@@ -10974,7 +11093,7 @@ _Anciens textes_:
   - Code de l'urbanisme 176
 
 
-##### Section 2 : Sociétés anonymes d'habitations à loyer modéré.<a id=119></a>
+##### Section 2 : Sociétés anonymes d'habitations à loyer modéré.<a id=120></a>
 
 ###### Article L422-2
 
@@ -11033,7 +11152,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-1 (M)
 
 
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=120></a>
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=121></a>
 
 ###### Article L422-3
 
@@ -11082,7 +11201,7 @@ _Anciens textes_:
   - Code de l'urbanisme 173
 
 
-##### Section 4 : Sociétés anonymes de crédit immobilier.<a id=121></a>
+##### Section 4 : Sociétés anonymes de crédit immobilier.<a id=122></a>
 
 ###### Article L422-4
 
@@ -11127,7 +11246,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-1 (M)
 
 
-##### Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré.<a id=122></a>
+##### Section 5 : Dispositions communes aux sociétés d'habitations à loyer modéré.<a id=123></a>
 
 ###### Article L422-5
 
@@ -11357,7 +11476,7 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 827 (V)
 
 
-##### Section 6 : Dispositions communes aux diverses sociétés coopératives d'habitations à loyer modéré.<a id=123></a>
+##### Section 6 : Dispositions communes aux diverses sociétés coopératives d'habitations à loyer modéré.<a id=124></a>
 
 ###### Article L422-12
 
@@ -11383,7 +11502,7 @@ _Anciens textes_:
   - Code de l'urbanisme 178 bis
 
 
-##### Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré.<a id=124></a>
+##### Section 7 : Dispositions transitoires relatives aux sociétés coopératives de location-attribution d'habitations à loyer modéré.<a id=125></a>
 
 ###### Article L422-13
 
@@ -11465,7 +11584,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-14 (M)
 
 
-##### Section 8 : Dispositions provisoirement applicables par suite de la suppression des sociétés coopératives de location coopérative.<a id=125></a>
+##### Section 8 : Dispositions provisoirement applicables par suite de la suppression des sociétés coopératives de location coopérative.<a id=126></a>
 
 ###### Article L422-16
 
@@ -11575,7 +11694,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-16 (V)
 
 
-#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré.<a id=126></a>
+#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré.<a id=127></a>
 
 ###### Article L423-1
 
@@ -12034,7 +12153,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R422-2-1 (V)
 
 
-#### Chapitre IV : Dispositions diverses.<a id=127></a>
+#### Chapitre IV : Dispositions diverses.<a id=128></a>
 
 ###### Article L424-1
 
@@ -12058,9 +12177,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L472-3 (VD)
 
 
-### Titre III : Dispositions financières.<a id=128></a>
+### Titre III : Dispositions financières.<a id=129></a>
 
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=129></a>
+#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=130></a>
 
 ###### Article L431-1
 
@@ -12161,26 +12280,26 @@ _Cité par_:
 
 Les départements et les communes peuvent :
 
-1. Consentir aux organismes d'habitations à loyer modéré des prêts dont les conditions générales d'emploi sont déterminées
+1° Consentir aux organismes d'habitations à loyer modéré des prêts dont les conditions générales d'emploi sont déterminées
 par les conventions établies à cet effet, et leur allouer des subventions ;
 
-2. Souscrire à des obligations des sociétés d'habitations à loyer modéré et de crédit immobilier ;
+2° Souscrire à des obligations des sociétés d'habitations à loyer modéré et de crédit immobilier ;
 
-3. Souscrire ou acquérir des actions de sociétés d'habitations à loyer modéré et de crédit immobilier, lesdites actions
+3° Souscrire ou acquérir des actions de sociétés d'habitations à loyer modéré et de crédit immobilier, lesdites actions
 devant être entièrement libérées et ne devant pas dépasser les deux tiers du capital social ;
 
-4. Faire apport, sous les mêmes réserves, aux sociétés d'habitations à loyer modéré de terrains ou de constructions, la
+4° Faire apport, sous les mêmes réserves, aux sociétés d'habitations à loyer modéré de terrains ou de constructions, la
 valeur attribuée à ces apports ne pouvant être inférieure à leur valeur réelle.
-
-Les délibérations par lesquelles les conseils municipaux décident soit d'acquérir les actions des sociétés d'habitations à
-loyer modéré ou de crédit immobilier, soit de recevoir, à titre de redevance, des actions d'apport émises par lesdites
-sociétés, sont approuvées par le préfet [*tutelle*].
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 1983-06-02 Art. 5 1° JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -12194,11 +12313,11 @@ _Anciens textes_:
 
 ###### Article L431-5
 
-Les bureaux d'aide sociale, les hospices et hôpitaux [*établissements de bienfaisance*] peuvent, avec l'autorisation du
-préfet, employer une partie de leur patrimoine soit en prêts aux organismes d'habitations à loyer modéré et aux sociétés de
-crédit immobilier, soit en obligations ou actions de ces sociétés, lesdites actions entièrement libérées et ne pouvant
-dépasser les deux tiers du capital social. Le montant cumulé des emplois de fonds autorisés par le présent article ne peut
-excéder deux cinquièmes du patrimoine des établissements susindiqués.
+Les bureaux d'aide sociale, les hospices et les hôpitaux à caractère communal, intercommunal, départemental,
+interdépartemental peuvent employer une partie de leur patrimoine soit en prêts aux organismes d'habitations à loyer modéré
+et aux sociétés de crédit immobilier, soit en obligations ou actions de ces sociétés, lesdites actions entièrement libérées
+et ne pouvant dépasser les deux tiers du capital social. Le montant cumulé des emplois de fonds autorisés par le présent
+article ne peut excéder deux cinquièmes du patrimoine des établissements sus-indiqués.
 
 **Liens relatifs à cet article**
 
@@ -12206,13 +12325,13 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+_Modifié par_:
+
+  - Loi n°83-440 1983-06-02 Art. 5 2° JORF 3 JUIN 1983
+
 _Anciens textes_:
 
   - Code de l'urbanisme 210
-
-**Liens**:
-
-  - TXT_ASSOCIE: Code de la construction R431-61
 
 _Cité par_:
 
@@ -12270,40 +12389,37 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-47 (Ab)
 
 
-#### Chapitre II : Prêts aux autres organismes et collectivités.<a id=130></a>
+#### Chapitre II : Prêts aux autres organismes et collectivités.<a id=131></a>
 
 ###### Article L432-1
 
-Les communes peuvent être autorisées par décret en Conseil d'Etat à construire des habitations pour familles nombreuses
-répondant aux conditions prévues par l'article L. 411-1.
+Les communes peuvent construire des habitations pour familles nombreuses répondant aux conditions prévues par l'article L.
+411-1. 
 
 Ces habitations peuvent également être construites par les offices publics ou par les sociétés anonymes d'habitations à loyer
-modéré pour le compte des communes.
+modéré pour le compte des communes. 
 
 Les habitations mentionnées aux deux alinéas précédents ne peuvent être gérées que par des offices publics d'habitations à
-loyer modéré.
-
-Pour la constructions de ces habitations, les communes bénéficient  des dispositions des articles L. 431-1, L. 431-2, L.
-442-7, L. 443-18 et R. 431-1 à R. 431-6.
+loyer modéré ou des sociétés anonymes d'habitations à loyer modéré. Pour la construction de ces habitations, les communes
+bénéficient des dispositions des articles L. 431-1, L. 431-2, L. 442-7, L. 443-18 et R. 431-1 à R. 431-6
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code de l'urbanisme 192
+  - Loi n°83-440 1983-06-02 Art. 5 3° JORF 3 JUIN 1983
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L411-1, L431-1, L431-2, L442-7, L443-18, R431-1 à R431-6
-  - Code de la construction et de l'habitation. - art. L411-1 (M)
-  - Code de la construction et de l'habitation. - art. L431-1 (M)
-  - Code de la construction et de l'habitation. - art. L431-2 (V)
-  - Code de la construction et de l'habitation. - art. L442-7 (M)
+  - Code de la construction et de l'habitation. - art. L411-1 (V)
+  - Code de la construction et de l'habitation. - art. L431-1 (V)
+  - Code de la construction et de l'habitation. - art. L442-7 (V)
   - Code de la construction et de l'habitation. - art. L443-18 (V)
+  - Code de la construction et de l'habitation. - art. R431-1 (V)
 
 _Cité par_:
 
@@ -12427,9 +12543,9 @@ _Codifié par_:
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
-### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=131></a>
+### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=132></a>
 
-#### Chapitre II : Loyers et divers.<a id=132></a>
+#### Chapitre II : Loyers et divers.<a id=133></a>
 
 ###### Article L442-1
 
@@ -12519,17 +12635,18 @@ _Cité par_:
 
 ###### Article L442-3
 
-Dans les immeubles appartenant aux organismes d'habitation à loyer modéré, les charges récupérables [*définition*], sommes
-accessoires au loyer principal, sont exigibles en contrepartie :
+A compter du 13 novembre 1982 [*date*] et nonobstant toute disposition ou stipulation contraire, dans les immeubles
+appartenant aux organismes d'habitations à loyer modéré, les charges récupérables, sommes accessoires au loyer principal,
+sont exigibles en contrepartie :
 
 - des services rendus liés à l'usage des différents éléments de la chose louée ;
 
-- des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun sur la chose louée, qui ne sont
+- des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée, qui ne sont
 pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
 
 - du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
 
-- La liste de ces charges est fixée par décret en Conseil d'Etat.
+La liste de ces charges est fixée par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
@@ -12537,13 +12654,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
+_Modifié par_:
 
-  - SPEC_APPLI: Loi n°81-1161 1981-12-30 art. 9 III *application à compter de la publication du décret (955 du 9 novembre 1982 J.O. du 13 novembre 1982) fixant la liste des charges récupérables*
-
-_Créé par_:
-
-  - Loi n°81-1161 du 30 décembre 1981 - art. 9 () JORF 31 DECEMBRE 1981
+  - Loi n°83-440 1983-06-02 Art. 2 2° JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -12654,18 +12767,24 @@ _Cité par_:
 
 ###### Article L442-7
 
-Les fonctionnaires et agents de l'Etat civils et militaires ou leurs ayants-droit ne bénéficient du maintien dans les lieux
-en cas de mutation, de cessation de services ou de décès que pendant un délai de six mois.
+Les fonctionnaires et agents de l'Etat civils et militaires attributaires de logements réservés par les organismes dans une
+limite fixée par décret en contrepartie d'une majoration de prêt définie également par décret ou leurs ayants droit ne
+bénéficient du maintien dans les lieux en cas de mutation, de cessation de services ou de décès que pendant un délai de six
+mois.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 13 () JORF 3 JUIN 1983
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 200 al. 3
+  - Code de l'urbanisme 200 AL. 3
 
 _Cité par_:
 
@@ -12841,11 +12960,11 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R442-5 (Ab)
 
 
-#### Chapitre III : Accession à la propriété et autres cessions.<a id=133></a>
+#### Chapitre III : Accession à la propriété et autres cessions.<a id=134></a>
 
-#### Chapitre III : Accession à la propriété.<a id=134></a>
+#### Chapitre III : Accession à la propriété.<a id=135></a>
 
-##### Section 2 : Dispositions applicables aux locataires accédant à la propriété de leur logement.<a id=135></a>
+##### Section 2 : Dispositions applicables aux locataires accédant à la propriété de leur logement.<a id=136></a>
 
 ###### Article L443-7
 
@@ -12957,19 +13076,18 @@ _Cité par_:
 
 ###### Article L443-9
 
-Les dispositions des articles L. 443-7 et L. 443-8 ne sont pas applicables aux logements construits par les sociétés anonymes
-coopératives d'habitations à loyer modéré en application de l'ancien article 173 du code de l'urbanisme et de l'habitation
-[*abrogé par la loi n° 71-580 du 16 juillet 1971 ART. 10*].
+Les articles L. 443-7 et L. 443-8 ne sont pas applicables aux logements construits sous le régime de la location-attribution
+ou au titre des programmes sociaux de relogement.
 
 **Liens relatifs à cet article**
 
 _Anciens textes_:
 
-  - Loi n°65-556 1965-07-10 art. 1 al. 5
+  - Loi n°65-556 1965-07-10 ART. 1 AL. 5
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -12982,10 +13100,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R443-11 (M)
   - Code de la construction et de l'habitation. - art. R443-12 (M)
   - Code général des collectivités territoriales - art. L5218-2 (V)
-
-_Cite_:
-
-  - Code de l'urbanisme 173
 
 
 ###### Article L443-10
@@ -13195,7 +13309,7 @@ _Codifié par_:
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 3 : Dispositions particulières aux pensionnés de guerre.<a id=136></a>
+##### Section 3 : Dispositions particulières aux pensionnés de guerre.<a id=137></a>
 
 ###### Article L443-16
 
@@ -13215,7 +13329,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L443-1 (V)
 
 
-##### Section 3 : Dispositions particulières aux pensionnés de guerre.<a id=137></a>
+##### Section 3 : Dispositions particulières aux pensionnés de guerre.<a id=138></a>
 
 ###### Article L443-17
 
@@ -13246,7 +13360,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L443-2 (M)
 
 
-##### Section 4 : Taux des intérêts moratoires.<a id=138></a>
+##### Section 4 : Taux des intérêts moratoires.<a id=139></a>
 
 ###### Article L443-18
 
@@ -13281,9 +13395,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L432-5 (Ab)
 
 
-### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.<a id=139></a>
+### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.<a id=140></a>
 
-#### Chapitre Ier : Contrôle.<a id=140></a>
+#### Chapitre Ier : Contrôle.<a id=141></a>
 
 ###### Article L451-1
 
@@ -13514,44 +13628,26 @@ _Anciens textes_:
   - Code de l'urbanisme 239
 
 
-### Titre VI : Organismes consultatifs.<a id=141></a>
+### Titre VI : Organismes consultatifs.<a id=142></a>
 
-#### Chapitre unique.<a id=142></a>
+#### Chapitre unique.<a id=143></a>
 
-##### Section 3 : Comités départementaux des habitations à loyer modéré.<a id=143></a>
-
-###### Article L461-1
-
-Le département subvient aux frais de fonctionnement du comité des habitations à loyer modéré ainsi qu'aux frais de
-déplacement de ses membres, dans les limites et conditions fixées par le conseil général.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 juin 1983
-
-_Anciens textes_:
-
-  - Code de l'urbanisme 157 al. 1
-
-
-### Titre VI : Organismes consultatifs.<a id=144></a>
+##### Section 4 : Dispositions communes.<a id=144></a>
 
 ###### Article L461-2
 
-Un règlement d'administration publique détermine les mesures relatives à la composition, à l'organisation et au
-fonctionnement du conseil supérieur et des comités départementaux des habitations à loyer modéré.
+Un décret en conseil d'Etat détermine les mesures relatives à la composition, à l'organisation et au fonctionnement du
+conseil supérieur des habitations à loyer modéré.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
 
 _Anciens textes_:
 
@@ -13936,22 +14032,20 @@ _Anciens textes_:
 
 ###### Article L511-2
 
-Dans les cas prévus par l'article précédent, l'arrêté [*de péril, définition*] prescrivant la réparation ou la démolition du
-bâtiment menaçant ruine est notifié au propriétaire, avec sommation d'avoir à effectuer les travaux dans un délai déterminé
-et, s'il conteste le péril, de faire commettre un expert chargé de procéder, contradictoirement et au jour fixé par l'arrêté,
-à la constatation de l'état du bâtiment et de dresser rapport.
+Dans les cas prévus par l'article précédent, l'arrêté prescrivant la réparation ou la démolition du bâtiment menaçant ruine
+est notifié au propriétaire, avec sommation d'avoir à effectuer les travaux dans un délai déterminé et, s'il conteste le
+péril, de faire commettre un expert chargé de procéder, contradictoirement et au jour fixé par l'arrêté, à la constatation de
+l'état du bâtiment et de dresser rapport.
 
-Si, au jour indiqué, le propriétaire n'a point fait cesser le péril [*carence*] et s'il n'a pas cru devoir désigner un
-expert, il sera passé outre et procédé à la visite par l'expert seul nommé par l'administration.
+Si, au jour indiqué, le propriétaire n'a point fait cesser le péril et s'il n'a pas cru devoir désigner un expert, il sera
+passé outre et procédé à la visite par l'expert seul nommé par l'administration.
 
 Le tribunal administratif, après avoir entendu les parties dûment convoquées conformément à la loi, statue sur le litige de
 l'expertise, fixe, s'il y a lieu, le délai pour l'exécution des travaux ou pour la démolition. Il peut autoriser le maire à y
 faire procéder d'office et aux frais du propriétaire si cette exécution n'a pas eu lieu à l'époque prescrite.
 
-En outre, lorsque le tribunal administratif  a constaté l'insécurité de l'immeuble, le maire peut prendre un arrêté portant
+En outre, lorsque le tribunal administratif a constaté l'insécurité de l'immeuble, le maire peut prendre un arrêté portant
 interdiction d'habiter.
-
-Ledit arrêté doit être revêtu de l'approbation du préfet.
 
 **Liens relatifs à cet article**
 
@@ -14014,11 +14108,15 @@ _Cité par_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 1983-06-02 Art. 5 4° JORF 3 JUIN 1983
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 304 al. 1, al. 2, al. 5, al. 8, al. 9
+  - Code de l'urbanisme 304 AL. 1, 2, 5, 8 et 9
 
 
 ###### Article L511-3
@@ -14583,20 +14681,23 @@ _Cite_:
 ###### Article L621-3
 
 Il peut être mis fin par décision administrative, après avis du ou des maires intéressés, au remboursement des dépenses
-d'organisation et de fonctionnement du service municipal du logement.
+d'organisation et de fonctionnement du service municipal du logement. 
 
 De même, un service municipal ou intercommunal du logement, dont les dépenses de personnel sont supportées exclusivement par
-la ou les communes intéressées, peut être créé dans les conditions prévues à l'article L. 621-1.
+la ou les communes intéressées, peut être créé dans les conditions prévues à l'article L. 621-1. 
 
 Dans les hypothèses prévues aux deux alinéas précédents, l'organisation et le fonctionnement du service municipal ou
-intercommunal du logement sont assurés, dans les mêmes conditions que les autres services, par les communes intéressées sous
-le contrôle du préfet.
+intercommunal du logement sont assurés, dans les mêmes conditions que les autres services, par les communes intéressées.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 1983-06-02 Art. 5 5° JORF 3 JUIN 1983
 
 _Anciens textes_:
 
@@ -14615,14 +14716,15 @@ A Paris et dans les communes des départements des Hauts-de-Seine, de la Seine-S
 Il est institué à Paris et dans chacune des communes mentionnées ci-dessus un comité consultatif municipal du logement dont
 la composition est fixée par décision administrative.
 
-Un comité consultatif départemental du logement est institué auprès des préfets des départements de Paris, des Hauts-de-
-Seine, de la Seine-Saint-Denis et du Val-de-Marne par décision administrative.
-
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
 
 _Anciens textes_:
 
@@ -15530,21 +15632,19 @@ _Cite_:
 
 ###### Article L651-6
 
-Les agents assermentés du service municipal du logement sont nommés par le préfet et, sauf à Paris et dans les communes des
-départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ayant fait partie de l'ancien département de la
-Seine, sur proposition du maire. Ils prêtent serment devant le juge du tribunal d'instance de leur résidence et sont
-astreints aux règles concernant le secret professionnel.
+Les agents assermentés du service municipal du logement sont nommés par le maire. Ils prêtent serment devant le juge du
+tribunal d'instance de leur résidence et sont astreints aux règles concernant le secret professionnel.
 
-Leur nombre est fixé à 1 par 30000 habitants ou fraction de ce chiffre. Ce nombre peut être augmenté par décision
+Leur nombre est fixé à 1 par 30 000 habitants ou fraction de ce chiffre. Ce nombre peut être augmenté par décision
 ministérielle.
 
-Ils sont habilités [*pouvoirs*] à visiter les locaux à usage d'habitation situés dans le territoire relevant du service
-municipal du logement.
+Ils sont habilités à visiter les locaux à usage d'habitation situés dans le territoire relevant du service municipal du
+logement.
 
 Ils doivent être munis d'un ordre de mission personnel ainsi que d'une carte d'identité revêtue de leur photographie.
 
 La visite des locaux ne peut avoir lieu que de huit heures à dix-neuf heures ; l'occupant ou le gardien du local est tenu de
-laisser visiter sur présentention de l'ordre de mission ; la visite s'effectue en sa présence.
+laisser visiter sur présentation de l'ordre de mission ; la visite s'effectue en sa présence.
 
 En cas de carence de la part de l'occupant ou du gardien du local, l'agent assermenté du service municipal du logement peut,
 au besoin, se faire ouvrir les portes et visiter les lieux en présence du maire ou du commissaire de police. Les portes
@@ -15554,11 +15654,15 @@ doivent être refermées dans les mêmes conditions.
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 1983-06-02 Art. 5 6° JORF 3 JUIN 1983
 
 _Anciens textes_:
 
-  - Code de l'urbanisme 355 al. 1, al. 6
+  - Code de l'urbanisme 355 AL. 1 à 6
 
 _Cité par_:
 
@@ -18221,12 +18325,15 @@ _Cité par_:
 
 ###### Article R122-19
 
-Le maire et le préfet assurent, chacun en ce qui le concerne, l'exécution des dispositions du présent chapitre.
+Le maire et le représentant de l'Etat dans le département assurent, chacun en ce qui le concerne, l'exécution des
+dispositions du présent chapitre.
 
-La commission de sécurité compétente est, dans tous les cas, la commission consultative départementale de la protection
-civile instituée par le décret n° 65-1048 du 2 décembre 1965. Les membres de cette commission peuvent être mandatés pour
-procéder aux visites de contrôle effectuées en application des dispositions du présent chapitre et du chapitre III du présent
-titre ; ils sont désignés à cet effet par le préfet après avis de la commission.
+La commission de sécurité compétente est, dans tous les cas,
+
+la commission consultative départementale de la protection civile instituée par le décret n° 65-1048 du 2 décembre 1965. Les
+membres de cette commission peuvent être mandatés pour procéder aux visites de contrôle effectuées en application des
+dispositions du présent chapitre et du chapitre III du présent titre ; ils sont désignés à cet effet par le représentant de
+l'Etat dans le département après avis de la commission.
 
 **Liens relatifs à cet article**
 
@@ -18234,13 +18341,13 @@ _Cite_:
 
   - Décret n°65-1048 1965-12-02
 
-_Anciens textes_:
-
-  - Décret n°67-1063 1967-11-15 art. 24
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
@@ -18276,17 +18383,17 @@ _Cité par_:
 ###### Article R122-21
 
 Pendant la construction des immeubles de grande hauteur, des visites peuvent être faites sur place par la commission, soit de
-sa propre initiative, soit à la demande du maire ou du préfet.
+sa propre initiative, soit à la demande du maire ou du représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-1063 1967-11-15 art. 26
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R122-22
@@ -18358,49 +18465,51 @@ _Codifié par_:
 
 ###### Article R122-25
 
-La décision du maire est notifiée directement au propriétaire ; une ampliation en est transmise au préfet.
+La décision du maire est notifiée directement au propriétaire ; une ampliation en est transmise au représentant de l'Etat
+dans le département.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-1063 1967-11-15 art. 27
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R122-26
 
-Après achèvement des travaux ou dans le cas d'occupation partielle, le préfet fait procéder dans le centre de secours
-concerné à l'inscription de l'immeuble sur le répertoire des constructions pour lesquelles les services publics de secours et
-de lutte contre l'incendie doivent établir un plan d'intervention.
+Après achèvement des travaux ou dans le cas d'occupation partielle, le représentant de l'Etat dans le département fait
+procéder dans le centre de secours concerné à l'inscription de l'immeuble sur le répertoire des constructions pour lesquelles
+les services publics de secours et de lutte contre l'incendie doivent établir un plan d'intervention.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-1063 1967-11-15 art. 28
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R122-27
 
-Un fichier départemental de contrôle des immeubles de grande hauteur est établi et tenu à jour par le préfet.
+Un fichier départemental de contrôle des immeubles de grande hauteur est établi et tenu à jour par le représentant de l'Etat
+dans le département.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°67-1063 1967-11-15 art. 28-1
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R122-28
@@ -19302,22 +19411,22 @@ _Anciens textes_:
 
 ###### Article R*123-28
 
-Le préfet peut prendre, pour toutes les communes du département ou pour plusieurs d'entre elles, ainsi que dans tous les cas
-où il n'y est pas pourvu par les autorités municipales, toutes mesures relatives à la sécurité dans les établissements
-recevant du public.
+Le représentant de l'Etat dans le département peut prendre, pour toutes les communes du département ou pour plusieurs d'entre
+elles, ainsi que dans tous les cas où il n'y est pas pourvu par les autorités municipales, toutes mesures relatives à la
+sécurité dans les établissements recevant du public.
 
 Ce droit n'est exercé à l'égard des établissements d'une seule commune ou à l'égard d'un seul établissement qu'après qu'une
 mise en demeure adressée au maire est restée sans résultat.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 29
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ##### Sous-section 2 : Commissions de sécurité.<a id=209></a>
@@ -19342,7 +19451,7 @@ tourisme ;
 
 - le préfet de police ;
 
-- deux préfets désignés par le ministre de l'intérieur ;
+- deux représentants de l'Etat dans le département désignés par le ministre de l'intérieur ;
 
 - deux maires désignés par le ministre de l'intérieur ;
 
@@ -19379,15 +19488,19 @@ l'architecte général de la ville de Paris ;
 
 - le cas échéant, tout représentant des ministres qui ne sont pas désignés ci-dessus.
 
+**Nota:**
+
+
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 30
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
@@ -19539,9 +19652,9 @@ _Cité par_:
 ###### Article R*123-35
 
 La commission consultative départementale de la protection civile est l'organe technique d'étude, de contrôle et
-d'information du préfet et du maire. Elle assiste ces derniers dans l'application des mesures de police et de surveillance
-qu'ils sont appelés à prendre en vue d'assurer la protection contre l'incendie et la panique dans les établissements soumis
-au présent chapitre.
+d'information du représentant de l'Etat dans le département et du maire. Elle assiste ces derniers dans l'application des
+mesures de police et de surveillance qu'ils sont appelés à prendre en vue d'assurer la protection contre l'incendie et la
+panique dans les établissements soumis au présent chapitre.
 
 Elle est chargée notamment :
 
@@ -19552,14 +19665,18 @@ De procéder aux visites de réception, prévues à l'article R. 123-45, desdits
 délivrance du certificat de conformité prévu par l'article L. 460-2 du code de l'urbanisme et sur la délivrance de
 l'autorisation d'ouverture des établissements ;
 
-De procéder, soit de sa propre initiative, soit à la demande du maire ou du préfet, à des contrôles périodiques ou inopinés
-sur l'observation des dispositions réglementaires.
+De procéder, soit de sa propre initiative, soit à la demande du maire ou du représentant de l'Etat dans le département, à des
+contrôles périodiques ou inopinés sur l'observation des dispositions réglementaires.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cite_:
 
@@ -19570,106 +19687,113 @@ _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R161-5 (V)
 
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 36
-
 
 ###### Article R*123-36
 
 La commission consultative départementale de la protection civile est seule compétente pour donner un avis se rapportant aux
-établissements classés dans la 1ère catégorie prévue à l'article R. 123-19.
+établissements classés dans la 1re catégorie prévue à l'article R. 123-19. 
 
 Elle examine toutes questions et demandes d'avis présentées par les maires ou par les commissions d'arrondissement ou les
-commissions communales ou intercommunales.
+commissions communales ou intercommunales. 
 
 En cas d'avis défavorable donné par ces commissions, les exploitants peuvent demander que la question soit soumise à la
-commission départementale.
+commission départementale. 
 
-La commission départementale propose au préfet le renvoi au ministre de l'intérieur des dossiers pour lesquels il apparaît
-opportun de demander l'avis de la commission centrale de sécurité.
+La commission départementale propose au représentant de l'Etat dans le département le renvoi au ministre de l'intérieur des
+dossiers pour lesquels il apparaît opportun de demander l'avis de la commission centrale de sécurité.
+
+**Nota:**
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, les Commissions locales de sécurité sont renouvelées pour une
+durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R123-19
+  - Code de la construction et de l'habitation. - art. R*123-19 (V)
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R*123-39 (V)
 
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 37
-
 
 ###### Article R*123-37
 
-Après avis de la commission consultative départementale de la protection civile, le préfet peut constituer des sous-
-commissions dont il fixe la compétence et charger certains membres de la visite des établissements assujettis au présent
-chapitre.
+Après avis de la commission consultative départementale de la protection civile, le représentant de l'Etat dans le
+département peut constituer des sous-commissions dont il fixe la compétence et charger certains membres de la visite des
+établissements assujettis au présent chapitre.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 38
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R*123-38
 
-Après avis de la commission consultative départementale de la protection civile, le préfet peut créer des commissions de
-sécurité d'arrondissement et, en cas de besoin et après consultation des maires, des commissions communales ou
-intercommunales.
+Après avis de la commission consultative départementale de la protection civile, le représentant de l'Etat dans le
+département peut créer des commissions de sécurité d'arrondissement et, en cas de besoin et après consultation des maires,
+des commissions communales ou intercommunales.
 
 Il en fixe la composition.
 
 **Liens relatifs à cet article**
 
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*123-13 (V)
-  - Code de la construction et de l'habitation. - art. R*123-39 (V)
-  - Décret n°95-260 du 8 mars 1995 - art. 28 (V)
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 39
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
+
+_Cité par_:
+
+  - Décret n°95-260 du 8 mars 1995 - art. 28 (V)
+  - Code de la construction et de l'habitation. - art. R*123-13 (V)
+  - Code de la construction et de l'habitation. - art. R*123-39 (V)
 
 
 ###### Article R*123-39
 
-Le préfet fixe les attributions et les circonscriptions des commissions de sécurité mentionnées à l'article R. 123-38. Il
-peut notamment, sauf dans les cas prévus à l'article R. 123-36, charger ces commissions d'étudier, aux lieu et place de la
-commission consultative départementale de la protection civile, certaines catégories d'affaires qui relèvent normalement de
-la compétence de cette dernière.
+Le représentant de l'Etat dans le département fixe les attributions et les circonscriptions des commissions de sécurité
+mentionnées à l'article R. 123-38. Il peut notamment, sauf dans les cas prévus à l'article R. 123-36, charger ces commissions
+d'étudier, aux lieu et place de la commission consultative départementale de la protection civile, certaines catégories
+d'affaires qui relèvent normalement de la compétence de cette dernière.
+
+**Nota:**
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, les Commissions locales de sécurité sont renouvelées pour une
+durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Code de la construction et de l'habitation R123-38, R123-36
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 40
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R*123-36 (V)
+  - Code de la construction et de l'habitation. - art. R*123-38 (V)
 
 
 ###### Article R*123-40
@@ -19692,7 +19816,8 @@ _Codifié par_:
 
 ###### Article R*123-41
 
-Les commissions se réunissent sur convocation de leur président ou à la demande du préfet.
+Les commissions se réunissent sur convocation de leur président ou à la demande du représentant de l'Etat dans le
+département.
 
 Lorsqu'il ne préside pas la commission, chaque maire assiste de droit, avec voix délibérative, à la réunion où il est procédé
 à l'examen des affaires concernant des établissements situés dans sa commune.
@@ -19704,15 +19829,20 @@ consultative.
 Le secrétariat est assuré selon le cas par un fonctionnaire ou un agent de la sous-préfecture, de la commune ou de
 l'établissement public.
 
+**Nota:**
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, les Commissions locales de sécurité sont renouvelées pour une
+durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
+
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 42
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R*123-42
@@ -19723,21 +19853,26 @@ toute heure dans chaque établissement soumis à la présente réglementation.
 Les membres permanents de la commission consultative départementale de la protection civile, des commissions de sécurité
 d'arrondissement et des commissions communales et intercommunales de sécurité, ou leurs représentants dûment mandatés, ont
 accès dans les établissements qu'ils sont appelés à visiter sur présentation d'une commission délivrée à cet effet par le
-préfet.
+représentant de l'Etat dans le département.
+
+**Nota:**
+
+Conformément à l'annexe du décret n° 2015-628 du 5 juin 2015, les Commissions locales de sécurité sont renouvelées pour une
+durée de cinq ans à compter du 8 juin 2015 (8 juin 2020).
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R161-5 (V)
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 43
 
 
 ##### Sous-section 3 : Organisation du contrôle des établissements.<a id=210></a>
@@ -19850,13 +19985,13 @@ _Anciens textes_:
 Le maire autorise l'ouverture par arrêté pris après avis de la commission.
 
 Cet arrêté est notifié directement à l'exploitant soit par voie administrative, soit par lettre recommandée avec demande
-d'avis de réception ; une ampliation en est transmise au préfet.
+d'avis de réception ; une ampliation en est transmise au représentant de l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -19865,29 +20000,29 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*152-6 (V)
   - Code du sport. - art. Annexe III-3 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°73-1007 1973-10-31 art. 47
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R*123-47
 
-La liste des établissements soumis aux dispositions du présent chapitre est établie et mise à jour chaque année par le préfet
-après avis de la commission consultative départementale de la protection civile.
+La liste des établissements soumis aux dispositions du présent chapitre est établie et mise à jour chaque année par le
+représentant de l'Etat dans le département après avis de la commission consultative départementale de la protection civile.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R161-5 (V)
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 48
 
 
 ###### Article R*123-48
@@ -19897,9 +20032,9 @@ contrôle et de visites inopinées effectuées par la commission de sécurité c
 
 Ces visites ont pour but notamment :
 
-- de vérifier si les prescriptions du présent chapitre ou les arrêtés du préfet ou du maire pris en vue de son application
-sont observés et, notamment, si tous les appareils de secours contre l'incendie ainsi que les appareils d'éclairage de
-sécurité fonctionnent normalement ;
+- de vérifier si les prescriptions du présent chapitre ou les arrêtés du représentant de l'Etat dans le département ou du
+maire pris en vue de son application sont observés et, notamment, si tous les appareils de secours contre l'incendie ainsi
+que les appareils d'éclairage de sécurité fonctionnent normalement ;
 
 - de s'assurer que les vérifications prévues à l'article R. 123-43 ont été effectuées ;
 
@@ -19913,7 +20048,11 @@ existants.
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
@@ -19926,10 +20065,6 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation R123-43
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 49
 
 
 ###### Article R*123-49
@@ -20017,8 +20152,8 @@ _Anciens textes_:
 ###### Article R*123-52
 
 Sans préjudice de l'exercice par les autorités de police de leurs pouvoirs généraux, la fermeture des établissements
-exploités en infraction aux dispositions du présent chapitre peut être ordonnée par le maire, ou par le préfet dans les
-conditions fixées aux articles R. 123-27 et R. 123-28.
+exploités en infraction aux dispositions du présent chapitre peut être ordonnée par le maire, ou par le représentant de
+l'Etat dans le département dans les conditions fixées aux articles R. 123-27 et R. 123-28.
 
 La décision est prise par arrêté après avis de la commission de sécurité compétente. L'arrêté fixe, le cas échéant, la nature
 des aménagements et travaux à réaliser ainsi que les délais d'exécution.
@@ -20027,7 +20162,11 @@ des aménagements et travaux à réaliser ainsi que les délais d'exécution.
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 _Cité par_:
 
@@ -20035,29 +20174,26 @@ _Cité par_:
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R123-27, R123-28
-
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 55
+  - Code de la construction et de l'habitation. - art. R*123-27 (V)
 
 
 ##### Section 6 : Dispositions diverses.<a id=212></a>
 
 ###### Article R*123-53
 
-Le préfet de police et les préfets des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne fixent,
-chacun en ce qui le concerne, la composition et les modalités de fonctionnement des commissions de sécurité.
+Le préfet de police et les représentants de l'Etat dans les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du
+Val-de-Marne fixent, chacun en ce qui le concerne, la composition et les modalités de fonctionnement des commissions de
+sécurité.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°73-1007 1973-10-31 art. 56
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R*123-54
@@ -20858,11 +20994,11 @@ _Cite_:
 
 ###### Article R141-4
 
-Il peut être organisé, à l'initiative des préfets de région ou des préfets, des conférences de coordination des maîtres
-d'ouvrage ayant pour objet la confrontation et la mise au point de divers programmes d'équipement et de construction à
-réaliser sur plusieurs années ; elles ont à connaître aussi des projets des divers maîtres d'ouvrage touchant la constitution
-d'une réserve de terrains d'assiette et l'élaboration de programmes d'équipement connexes. Elles coordonnent la mise en
-oeuvre de l'exécution de ces programmes.
+Il peut être organisé, à l'initiative des représentants de l'Etat dans la région ou dans le département, des conférences de
+coordination des maîtres d'ouvrage ayant pour objet la confrontation et la mise au point de divers programmes d'équipement et
+de construction à réaliser sur plusieurs années ; elles ont à connaître aussi des projets des divers maîtres d'ouvrage
+touchant la constitution d'une réserve de terrains d'assiette et l'élaboration de programmes d'équipement connexes. Elles
+coordonnent la mise en oeuvre de l'exécution de ces programmes.
 
 A ces conférences participent, aux côtés des représentants des collectivités locales et des services publics intéressés, les
 représentants qualifiés des principaux organismes constructeurs et des professions.
@@ -20877,11 +21013,15 @@ de région.
 
 _Anciens textes_:
 
-  - Loi n°57-908 1957-08-07 art. 47
+  - Loi n°57-908 1957-08-07 ART. 47
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 #### Chapitre II : Etudes et recherches techniques intéressant les industries du bâtiment.<a id=230></a>
@@ -27070,41 +27210,53 @@ _Cite_:
 
 ###### Article R*313-9
 
-Les quatre cinquièmes de la participation sont utilisés selon les modalités ci-après :
+Les quatre cinquièmes [*pourcentage*] de la participation sont utilisés selon les modalités ci-après [*bénéficiaires*] :
 
 1. Prêts aux salariés de l'employeur pour faciliter la construction de leur propre logement ;
 
-2. Versements, sous l'une des modalités fixées à l'article R. 313-23 ;
+2. Versements, sous l'une des modalités fixées à l'article R. 313-23.
 
 a) A des associations à caractère professionnel ou interprofessionnel ayant pour objet exclusif de promouvoir l'acquisition
 et l'aménagement de terrains destinés à la construction de logements sociaux, la construction de logements ou l'acquisition,
 l'aménagement ou la remise en état de logements existants ;
 
 b) A des organismes dotés d'un statut qui leur permet de concourir au financement de l'acquisition et l'aménagement de
-terrains destinés à la construction de logements sociaux, de la construction de logements ou à l'acquisition, l'aménagement
+terrains destinés à la construction de logements sociaux, de la constructions de logements ou à l'acquisition, l'aménagement
 ou la remise en état de logements existants ; ces organismes sont désignés par un arrêté des ministres chargés de la
 construction et de l'habitation, du commerce, de l'artisanat et de l'industrie, qui fixe un minimum de sommes à recueillir
-pour le maintien du bénéfice de cette désignation.
+pour le maintien du bénéfice de cette désignation ;
 
 c) A des organismes ayant pour objet l'acquisition et l'aménagement de terrains destinés à la construction de logements
-sociaux, la construction de logements ou l'acquisition, l'aménagement ou la remise en état de logements existants. Ces
+sociaux, la construction de logements ou l'acquisition, l'aménagement ou la remise en état de logements existants ; ces
 organismes sont autorisés par arrêté du ministre chargé de la construction et de l'habitation à recevoir ces versements dans
-les conditions fixées par cet arrêté.
+les conditions fixées par cet arrêté [*organismes collecteurs*].
 
-3. A titre exceptionnel, investissement par les employeurs dans la construction  de logements ou les travaux d'amélioration
-d'immeubles anciens leur appartenant et loués ou destinés à être loués à leurs salariés ; cette utilisation ne peut avoir
-lieu que si elle est autorisée par le préfet, sur le rapport du directeur départemental de l'équipement et lorsque les autres
-formes de participation prévues ci-dessus ne peuvent répondre aux besoins des salariés de l'entreprise.
+3. A titre exceptionnel, investissements par les employeurs dans la construction de logements dans les conditions fixées à
+l'article R. 313-15 (alinéa 3) ou les travaux d'amélioration d'immeubles anciens leur appartenant, loués ou destinés à être
+loués à leurs salariés et compris dans un programme d'intérêt général visant à améliorer des ensembles de logements et
+approuvé par le représentant de l'Etat dans le département.
+
+Cet investissement  peut aussi être réalisé dans l'amélioration de logements occupés par leurs salariés bénéficiant du statut
+du personnel des exploitations minières et assimilés régi par le décret n. 46-1433 du 14 juin 1946 modifié.
+
+L'employeur devra signer avec l'Etat une convention en application de l'article L. 351-2 du code de la construction et de
+l'habitation.
+
+Cette utilisation ne peut avoir lieu que si elle est autorisée par le représentant de l'Etat dans le département, sur le
+rapport du directeur départemental de l'équipement et lorsque les autres formes de participation prévues ci-dessus ne peuvent
+répondre aux besoins des salariés.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°75-1269 1975-12-27 art. 7
+  - Décret n°46-1433 1946-06-14
+  - Code de la construction et de l'habitation R313-23, R313-15, L351-2
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -27124,9 +27276,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*313-34 (Ab)
   - Code de la construction et de l'habitation. - art. R*313-35 (Ab)
 
-_Cite_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation R313-23
+  - Décret n°80-190 1980-03-05 ART. 1 JORF 9 MARS 1980
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V) JORF 3 juin 1983
 
 
 ###### Article R*313-10
@@ -38877,6 +39030,28 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. R314-4 (M)
   - Code de la construction et de l'habitation. - art. R353-59 (M)
+
+
+###### Article R353-65
+
+Un pourcentage de l'ensemble des logements conventionnés doit être occupé par les personnes ou les familles dont les
+ressources sont inférieures à un montant déterminé par les représentant de l'Etat dans le département. Ce pourcentage est
+fixé par les conventions.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-199 1978-02-22 art. 8
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°80-416 1980-06-10 art. 6 JORF 13 juin 1980
+  - Décret n°83-440 1983-06-02 art. 6 JORF 3 juin 1983
 
 
 ###### Article R353-66
@@ -54315,42 +54490,9 @@ _Abrogé par_:
   - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
-##### Sous-section 1 : Création et gestion.<a id=532></a>
+##### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=532></a>
 
-###### Article R*421-51
-
-Les offices publics d'habitations à loyer modéré ont pour objet de réaliser, en vue de la location, les opérations prévues à
-l'article L. 411-1 ainsi que les opérations financées en application du livre III, titre V et de l'article L. 431-6 du
-présent code.
-
-Ils sont créés dans les formes prévues à l'article L. 421-4, après avis du comité départemental et du conseil supérieur des
-habitations à loyer modéré.
-
-Ils sont habilités à gérer les immeubles à usage principal d'habitation appartenant à l'Etat, aux collectivités locales, à
-d'autres organismes d'habitations à loyer modéré, sous réserve, s'il y a lieu, de l'application de l'article L. 442-9, à des
-sociétés d'économie mixte ou à des organismes à but non lucratif.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L411-1 (M)
-  - Code de la construction et de l'habitation. - art. L421-4 (M)
-  - Code de la construction et de l'habitation. - art. L431-6 (Ab)
-  - Code de la construction et de l'habitation. - art. L442-9 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
-
-
-##### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=533></a>
-
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=534></a>
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=533></a>
 
 ###### Article R*422-9
 
@@ -54385,9 +54527,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=535></a>
+##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=534></a>
 
-##### Sous-section 3 : Statuts.<a id=536></a>
+##### Sous-section 3 : Statuts.<a id=535></a>
 
 ###### Article R*422-38
 
@@ -54409,7 +54551,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=537></a>
+##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=536></a>
 
 ###### Article R*421-79
 
@@ -54428,11 +54570,11 @@ _Abrogé par_:
   - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
-#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=538></a>
+#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=537></a>
 
-##### Dispositions financières et comptables<a id=539></a>
+##### Dispositions financières et comptables<a id=538></a>
 
-##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=540></a>
+##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=539></a>
 
 ###### Article R423-34
 
@@ -54933,11 +55075,11 @@ _Cite_:
   - Loi   1884-04-15 ART. 159
 
 
-### Titre III : Dispositions financières.<a id=541></a>
+### Titre III : Dispositions financières.<a id=540></a>
 
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=542></a>
+#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=541></a>
 
-##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.<a id=543></a>
+##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.<a id=542></a>
 
 ###### Article R*431-33
 
@@ -54973,7 +55115,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Sous-section  1 : Organisation et fonctionnement<a id=544></a>
+##### Sous-section  1 : Organisation et fonctionnement<a id=543></a>
 
 ###### Article R*431-30
 
@@ -55107,7 +55249,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1.<a id=545></a>
+##### Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1.<a id=544></a>
 
 ###### Article R*431-37
 
@@ -55361,7 +55503,7 @@ _Abrogé par_:
   - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
 
 
-##### Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°).<a id=546></a>
+##### Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°).<a id=545></a>
 
 ###### Article R*431-46
 
@@ -55442,9 +55584,9 @@ _Cite_:
   - Code de la construction et de l'habitation R431-42
 
 
-### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=547></a>
+### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=546></a>
 
-#### Conditions d'attribution des logements<a id=548></a>
+#### Conditions d'attribution des logements<a id=547></a>
 
 ###### Article R*441-24
 
@@ -55794,9 +55936,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R481-4 (V)
 
 
-##### Plafond des ressources<a id=549></a>
+##### Plafond des ressources<a id=548></a>
 
-##### Attribution des logements.<a id=550></a>
+##### Attribution des logements.<a id=549></a>
 
 ###### Article R441-25
 
@@ -55827,11 +55969,11 @@ _Abrogé par_:
   - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
 
 
-## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=551></a>
+## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=550></a>
 
-### Titre Ier : Bâtiments menaçant ruine.<a id=552></a>
+### Titre Ier : Bâtiments menaçant ruine.<a id=551></a>
 
-#### Chapitre unique.<a id=553></a>
+#### Chapitre unique.<a id=552></a>
 
 ###### Article R511-1
 
@@ -55868,9 +56010,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2573-17 (V)
 
 
-### Titre II : Bâtiments insalubres.<a id=554></a>
+### Titre II : Bâtiments insalubres.<a id=553></a>
 
-#### Chapitre Ier : Relogement des habitants.<a id=555></a>
+#### Chapitre Ier : Relogement des habitants.<a id=554></a>
 
 ###### Article R*521-1
 
@@ -56059,7 +56201,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*521-5 (V)
 
 
-#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=556></a>
+#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=555></a>
 
 ###### Article R522-1
 
@@ -56186,7 +56328,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R522-2 (V)
 
 
-#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=557></a>
+#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=556></a>
 
 ###### Article R523-1
 
@@ -56584,7 +56726,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
-### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=558></a>
+### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=557></a>
 
 ###### Article R531-1
 
@@ -56649,11 +56791,11 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=559></a>
+## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=558></a>
 
-### Titre Ier : Dispositions générales.<a id=560></a>
+### Titre Ier : Dispositions générales.<a id=559></a>
 
-#### Chapitre II : Occupation du domaine public.<a id=561></a>
+#### Chapitre II : Occupation du domaine public.<a id=560></a>
 
 ###### Article R612-1
 
@@ -56677,9 +56819,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L612-1 (V)
 
 
-### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=562></a>
+### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=561></a>
 
-#### Chapitre Ier : Service municipal du logement.<a id=563></a>
+#### Chapitre Ier : Service municipal du logement.<a id=562></a>
 
 ###### Article R621-1
 
@@ -56734,11 +56876,11 @@ _Anciens textes_:
   - Code de l'urbanisme 329
 
 
-### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=564></a>
+### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=563></a>
 
-#### Chapitre unique<a id=565></a>
+#### Chapitre unique<a id=564></a>
 
-##### Section 1 : Aide financière de l'Etat.<a id=566></a>
+##### Section 1 : Aide financière de l'Etat.<a id=565></a>
 
 ###### Article R631-1
 
@@ -56827,7 +56969,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Communes où sévit une crise de logement.<a id=567></a>
+##### Section 2 : Communes où sévit une crise de logement.<a id=566></a>
 
 ###### Article R631-4
 
@@ -56871,11 +57013,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L631-9 (M)
 
 
-### Titre IV : Logement d'office<a id=568></a>
+### Titre IV : Logement d'office<a id=567></a>
 
-#### Chapitre unique<a id=569></a>
+#### Chapitre unique<a id=568></a>
 
-##### Section 1 : Locaux d'habitation.<a id=570></a>
+##### Section 1 : Locaux d'habitation.<a id=569></a>
 
 ###### Article R641-1
 
@@ -57459,7 +57601,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-12 (M)
 
 
-##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=571></a>
+##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=570></a>
 
 ###### Article R641-23
 
@@ -57542,9 +57684,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-24 (M)
 
 
-### Titre V : Sanctions et dispositions diverses.<a id=572></a>
+### Titre V : Sanctions et dispositions diverses.<a id=571></a>
 
-#### Chapitre unique.<a id=573></a>
+#### Chapitre unique.<a id=572></a>
 
 ###### Article R651-1
 
@@ -57568,11 +57710,11 @@ _Anciens textes_:
   - Code de l'urbanisme 357
 
 
-# Annexes<a id=574></a>
+# Annexes<a id=573></a>
 
-## Normes minimales d'habitabilité<a id=575></a>
+## Normes minimales d'habitabilité<a id=574></a>
 
-### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=576></a>
+### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=575></a>
 
 ###### Article Annexe à l'article R322-20
 
@@ -57624,7 +57766,7 @@ _Abrogé par_:
   - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=577></a>
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=576></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -57954,7 +58096,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=578></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=577></a>
 
 ###### Article Annexe III à l'article R353-32
 
@@ -58344,7 +58486,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=579></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=578></a>
 
 ###### Article Annexe II à l'article R353-127
 
@@ -58408,9 +58550,9 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=580></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=579></a>
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=581></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=580></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
