@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2002-05-05
+Version Consolidée au 2002-07-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -497,7 +497,7 @@ Version Consolidée au 2002-05-05
           - [Section 3 : Subvention foncière aux logements locatifs intermédiaires (art. R381-6)](#494)
       - [Titre IX : Dispositions relatives aux prêts locatifs intermédiaires. (art. R391-1 à R391-9)](#495)
         - [Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations (art. R391-1 à R391-9)](#496)
-    - [Livre IV : Habitations à loyer modéré (art. R411-1 à R481-4)](#497)
+    - [Livre IV : Habitations à loyer modéré (art. R411-1 à R*491-6)](#497)
       - [Titre Ier : Dispositions générales (art. R411-1)](#498)
         - [Chapitre unique. (art. R411-1)](#499)
       - [Titre II : Organismes d'habitations à loyer modéré (art. R*421-2 à R423-83)](#500)
@@ -588,65 +588,67 @@ Version Consolidée au 2002-05-05
       - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. R472-1 à R472-2)](#585)
         - [Chapitre II : Départements d'outre-mer. (art. R472-1 à R472-2)](#586)
       - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. R*481-1 à R481-4)](#587)
-    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#588)
-      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#589)
-        - [Chapitre unique. (art. R511-1)](#590)
-      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R522-5)](#591)
-        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#592)
-        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#593)
-      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#594)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R662-1)](#595)
-      - [Titre Ier : Dispositions générales. (art. R612-1 à R615-5)](#596)
-        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#597)
-        - [Chapitre V : Mesures de sauvegarde. (art. R615-1 à R615-5)](#598)
-      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R623-7)](#599)
-        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#600)
-        - [Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière. (art. R623-1 à R623-7)](#601)
-      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-8)](#602)
-        - [Chapitre unique (art. R631-1 à R631-8)](#603)
-          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#604)
-          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-8)](#605)
-      - [Titre IV : Mise en oeuvre du droit au logement par la réquisition. (art. R641-1 à R642-12)](#606)
-        - [Chapitre Ier : Réquisition. (art. R641-1 à R641-25)](#607)
-        - [Chapitre II : Réquisition avec attributaire. (art. R*642-1 à R642-12)](#608)
-          - [Section 1 : Principes généraux. (art. R*642-1 à R*642-4)](#609)
-          - [Section 2 : Procédure. (art. R*642-5 à R*642-8)](#610)
-          - [Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition. (art. R*642-9 à R*642-10)](#611)
-          - [Section 4 : Plafonds de ressources et loyers. (art. R642-11 à R642-12)](#612)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1 à R651-2)](#613)
-        - [Chapitre unique. (art. R651-1 à R651-2)](#614)
-      - [Titre VI : Dispositions relatives à l'outre-mer. (art. R662-1)](#615)
-        - [Chapitre II : Dispositions relatives à la Polynésie française. (art. R662-1)](#616)
-  - [Annexes (art. Annexe à l'article R231-13 à Annexe à l'article R443-11)](#617)
-    - [Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13 (art. Annexe à l'article R231-13)](#618)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#619)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#620)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#621)
-    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#622)
-    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#623)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#624)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#625)
-    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#626)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#627)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#628)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#629)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#630)
-    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#631)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#632)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#633)
-    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#634)
-      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#635)
-      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#636)
-      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#637)
-      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#638)
-    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#639)
-      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#640)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#641)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#642)
-    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#643)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#644)
-    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#645)
-    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#646)
+      - [Titre IX : Dispositions particulières relatives au maintien du caractère de logement social. (art. R*491-1 à R*491-6)](#588)
+        - [Chapitre unique. (art. R*491-1 à R*491-6)](#589)
+    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#590)
+      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#591)
+        - [Chapitre unique. (art. R511-1)](#592)
+      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R522-5)](#593)
+        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#594)
+        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#595)
+      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#596)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R662-1)](#597)
+      - [Titre Ier : Dispositions générales. (art. R612-1 à R615-5)](#598)
+        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#599)
+        - [Chapitre V : Mesures de sauvegarde. (art. R615-1 à R615-5)](#600)
+      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R623-7)](#601)
+        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#602)
+        - [Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière. (art. R623-1 à R623-7)](#603)
+      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-8)](#604)
+        - [Chapitre unique (art. R631-1 à R631-8)](#605)
+          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#606)
+          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-8)](#607)
+      - [Titre IV : Mise en oeuvre du droit au logement par la réquisition. (art. R641-1 à R642-12)](#608)
+        - [Chapitre Ier : Réquisition. (art. R641-1 à R641-25)](#609)
+        - [Chapitre II : Réquisition avec attributaire. (art. R*642-1 à R642-12)](#610)
+          - [Section 1 : Principes généraux. (art. R*642-1 à R*642-4)](#611)
+          - [Section 2 : Procédure. (art. R*642-5 à R*642-8)](#612)
+          - [Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition. (art. R*642-9 à R*642-10)](#613)
+          - [Section 4 : Plafonds de ressources et loyers. (art. R642-11 à R642-12)](#614)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1 à R651-2)](#615)
+        - [Chapitre unique. (art. R651-1 à R651-2)](#616)
+      - [Titre VI : Dispositions relatives à l'outre-mer. (art. R662-1)](#617)
+        - [Chapitre II : Dispositions relatives à la Polynésie française. (art. R662-1)](#618)
+  - [Annexes (art. Annexe à l'article R231-13 à Annexe à l'article R443-11)](#619)
+    - [Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13 (art. Annexe à l'article R231-13)](#620)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#621)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#622)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#623)
+    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#624)
+    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#625)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#626)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#627)
+    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#628)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#629)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#630)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#631)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#632)
+    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#633)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#634)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#635)
+    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#636)
+      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#637)
+      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#638)
+      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#639)
+      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#640)
+    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#641)
+      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#642)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#643)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#644)
+    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#645)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#646)
+    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#647)
+    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#648)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -80888,11 +80890,161 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R441-31 (Ab)
 
 
-## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=588></a>
+### Titre IX : Dispositions particulières relatives au maintien du caractère de logement social.<a id=588></a>
 
-### Titre Ier : Bâtiments menaçant ruine.<a id=589></a>
+#### Chapitre unique.<a id=589></a>
 
-#### Chapitre unique.<a id=590></a>
+###### Article R*491-1
+
+Les logements auxquels s'appliquent les dispositions de l'article L. 411-3 ne sont donnés en location qu'à des personnes dont
+les ressources n'excèdent pas le plafond en vigueur au 1er janvier de l'année de la cession de ces logements par l'organisme
+d'habitation à loyer modéré, ce plafond étant actualisé conformément aux règles qui auraient été applicables si ces logements
+n'avaient pas été cédés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L411-3 (V)
+
+
+###### Article R*491-2
+
+Dans les logements auxquels s'appliquent les dispositions de l'article L. 411-3, le loyer ne peut excéder le montant maximum
+en vigueur dans ces logements à la date de leur cession par l'organisme d'habitations à loyer modéré ou à la date
+d'expiration de la convention, si le logement faisait l'objet lors de sa cession d'une convention conclue en application de
+l'article L. 351-2.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L351-2 (V)
+  - Code de la construction et de l'habitation. - art. L411-3 (V)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*491-6 (V)
+  - Code de la construction et de l'habitation. - art. R491-5 (VD)
+
+
+###### Article R*491-3
+
+Les logements auxquels s'appliquent les dispositions de l'article L. 411-4 ne sont donnés en location qu'à des personnes dont
+les ressources n'excèdent pas le plafond en vigueur à la date d'expiration de la convention conclue en application de
+l'article L. 351-2, ce plafond étant actualisé conformément aux règles qui auraient été applicables si ces logements étaient
+demeurés conventionnés.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L351-2 (V)
+  - Code de la construction et de l'habitation. - art. L411-4 (V)
+
+
+###### Article R*491-4
+
+Dans les logements auxquels s'appliquent les dispositions de l'article L. 411-4, le loyer ne peut excéder le montant maximum
+résultant des clauses de la convention conclue en application de l'article L. 351-2 à la date de son expiration.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L351-2 (V)
+  - Code de la construction et de l'habitation. - art. L411-4 (V)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*491-6 (V)
+  - Code de la construction et de l'habitation. - art. R491-5 (VD)
+
+
+###### Article R*491-5
+
+Le montant maximum de loyer prévu aux articles R. 491-2 et R. 491-4 est actualisé au 1er juillet de chaque année conformément
+au mode de calcul défini au d de l'article 17 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs
+et portant modification de la loi n° 86-1290 du 23 décembre 1986.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°86-1290 1986-12-23
+  - Loi n°89-462 du 6 juillet 1989 - art. 17 (M)
+  - Code de la construction et de l'habitation R491-2, R491-4
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+
+###### Article R*491-6
+
+Dans les logements mentionnés aux articles L. 411-3 et L. 411-4, les baux successifs mentionnent la date de cession par
+l'organisme d'habitation à loyer modéré ou la date d'expiration de la convention justifiant l'assujettissement du logement
+aux dispositions de ces articles, le montant du loyer maximum déterminé en application des articles R. 491-2, R. 491-4 et R.
+491-5, ainsi que les modalités de son actualisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2002-995 du 9 juillet 2002 - art. 1 () JORF 16 juillet 2002
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L411-3 (V)
+  - Code de la construction et de l'habitation. - art. R*491-2 (V)
+  - Code de la construction et de l'habitation. - art. R*491-4 (V)
+
+
+## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=590></a>
+
+### Titre Ier : Bâtiments menaçant ruine.<a id=591></a>
+
+#### Chapitre unique.<a id=592></a>
 
 ###### Article R511-1
 
@@ -80929,9 +81081,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2573-17 (V)
 
 
-### Titre II : Bâtiments insalubres.<a id=591></a>
+### Titre II : Bâtiments insalubres.<a id=593></a>
 
-#### Chapitre Ier : Relogement des habitants.<a id=592></a>
+#### Chapitre Ier : Relogement des habitants.<a id=594></a>
 
 ###### Article R*521-1
 
@@ -81120,7 +81272,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*521-5 (V)
 
 
-#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=593></a>
+#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=595></a>
 
 ###### Article R522-1
 
@@ -81246,7 +81398,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R522-2 (V)
 
 
-### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=594></a>
+### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=596></a>
 
 ###### Article R531-1
 
@@ -81331,11 +81483,11 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D531-3, v. 0.1 (VD)
 
 
-## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=595></a>
+## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=597></a>
 
-### Titre Ier : Dispositions générales.<a id=596></a>
+### Titre Ier : Dispositions générales.<a id=598></a>
 
-#### Chapitre II : Occupation du domaine public.<a id=597></a>
+#### Chapitre II : Occupation du domaine public.<a id=599></a>
 
 ###### Article R612-1
 
@@ -81359,7 +81511,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L612-1 (V)
 
 
-#### Chapitre V : Mesures de sauvegarde.<a id=598></a>
+#### Chapitre V : Mesures de sauvegarde.<a id=600></a>
 
 ###### Article R615-1
 
@@ -81480,9 +81632,9 @@ _Créé par_:
   - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
 
 
-### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=599></a>
+### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=601></a>
 
-#### Chapitre Ier : Service municipal du logement.<a id=600></a>
+#### Chapitre Ier : Service municipal du logement.<a id=602></a>
 
 ###### Article R621-1
 
@@ -81537,7 +81689,7 @@ _Anciens textes_:
   - Code de l'urbanisme 329
 
 
-#### Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière.<a id=601></a>
+#### Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière.<a id=603></a>
 
 ###### Article R623-1
 
@@ -81754,11 +81906,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R623-4
 
 
-### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=602></a>
+### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=604></a>
 
-#### Chapitre unique<a id=603></a>
+#### Chapitre unique<a id=605></a>
 
-##### Section 1 : Aide financière de l'Etat.<a id=604></a>
+##### Section 1 : Aide financière de l'Etat.<a id=606></a>
 
 ###### Article R631-1
 
@@ -81847,7 +81999,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Communes où sévit une crise de logement.<a id=605></a>
+##### Section 2 : Communes où sévit une crise de logement.<a id=607></a>
 
 ###### Article R631-4
 
@@ -81991,9 +82143,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R631-7 (M)
 
 
-### Titre IV : Mise en oeuvre du droit au logement par la réquisition.<a id=606></a>
+### Titre IV : Mise en oeuvre du droit au logement par la réquisition.<a id=608></a>
 
-#### Chapitre Ier : Réquisition.<a id=607></a>
+#### Chapitre Ier : Réquisition.<a id=609></a>
 
 ###### Article R641-1
 
@@ -82758,9 +82910,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-23 (V)
 
 
-#### Chapitre II : Réquisition avec attributaire.<a id=608></a>
+#### Chapitre II : Réquisition avec attributaire.<a id=610></a>
 
-##### Section 1 : Principes généraux.<a id=609></a>
+##### Section 1 : Principes généraux.<a id=611></a>
 
 ###### Article R*642-1
 
@@ -82899,7 +83051,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-4 (V)
 
 
-##### Section 2 : Procédure.<a id=610></a>
+##### Section 2 : Procédure.<a id=612></a>
 
 ###### Article R*642-5
 
@@ -83012,7 +83164,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-9 (V)
 
 
-##### Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition.<a id=611></a>
+##### Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition.<a id=613></a>
 
 ###### Article R*642-9
 
@@ -83067,7 +83219,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-18 (V)
 
 
-##### Section 4 : Plafonds de ressources et loyers.<a id=612></a>
+##### Section 4 : Plafonds de ressources et loyers.<a id=614></a>
 
 ###### Article R642-11
 
@@ -83144,9 +83296,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-1 (V)
 
 
-### Titre V : Sanctions et dispositions diverses.<a id=613></a>
+### Titre V : Sanctions et dispositions diverses.<a id=615></a>
 
-#### Chapitre unique.<a id=614></a>
+#### Chapitre unique.<a id=616></a>
 
 ###### Article R651-1
 
@@ -83205,9 +83357,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L651-10 (V)
 
 
-### Titre VI : Dispositions relatives à l'outre-mer.<a id=615></a>
+### Titre VI : Dispositions relatives à l'outre-mer.<a id=617></a>
 
-#### Chapitre II : Dispositions relatives à la Polynésie française.<a id=616></a>
+#### Chapitre II : Dispositions relatives à la Polynésie française.<a id=618></a>
 
 ###### Article R662-1
 
@@ -83261,9 +83413,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*261-8 (V)
 
 
-# Annexes<a id=617></a>
+# Annexes<a id=619></a>
 
-## Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13<a id=618></a>
+## Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13<a id=620></a>
 
 ###### Article Annexe à l'article R231-13
 
@@ -83422,7 +83574,7 @@ _Cite_:
   - dispositions des articles L. 731-1 et suivants du code du travail
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=619></a>
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=621></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -83752,7 +83904,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=620></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=622></a>
 
 ###### Article Annexe I à l'article R353-1
 
@@ -84389,7 +84541,7 @@ _Modifié par_:
   - Décret n°2002-848 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=621></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=623></a>
 
 ###### Article Annexe II à l'article R353-1
 
@@ -84496,7 +84648,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 1 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=622></a>
+## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=624></a>
 
 ###### Article Annexe III à l'article R353-1
 
@@ -84572,7 +84724,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=623></a>
+## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=625></a>
 
 ###### Article Annexe IV à l'article R353-1
 
@@ -84740,7 +84892,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=624></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=626></a>
 
 ###### Article Annexe I à l'article R353-32
 
@@ -85344,7 +85496,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=625></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=627></a>
 
 ###### Article Annexe I à l'article R353-59
 
@@ -85834,7 +85986,7 @@ _Modifié par_:
   - Décret n°2002-845 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Document prévu par l'article 1er de la présente convention.<a id=626></a>
+## Document prévu par l'article 1er de la présente convention.<a id=628></a>
 
 ###### Article Annexe II à l'article R353-59
 
@@ -85985,7 +86137,7 @@ _Créé par_:
   - Décret n°99-865 du 7 octobre 1999 - art. 3 () JORF 8 octobre 1999
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=627></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=629></a>
 
 ###### Article Annexe I à l'article R353-90
 
@@ -86491,7 +86643,7 @@ _Modifié par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=628></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=630></a>
 
 ###### Article Annexe II à l'article R353-90
 
@@ -87302,7 +87454,7 @@ _Créé par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=629></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=631></a>
 
 ###### Article Annexe I à l'article R353-127
 
@@ -87573,7 +87725,7 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=630></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=632></a>
 
 ###### Article Annexe III à l'article R353-127
 
@@ -87824,7 +87976,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 5 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Engagements de portée générale applicables à tout programme conventionné.<a id=631></a>
+## Engagements de portée générale applicables à tout programme conventionné.<a id=633></a>
 
 ###### Article Annexe V à l'article R353-127
 
@@ -88207,7 +88359,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=632></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=634></a>
 
 ###### Article Annexe 1 à l'article R353-161
 
@@ -88620,7 +88772,7 @@ _Créé par_:
   - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=633></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=635></a>
 
 ###### Article Annexe 2 à l'article R353-161
 
@@ -89003,7 +89155,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-## Convention type A.P.L. : résidences sociales.<a id=634></a>
+## Convention type A.P.L. : résidences sociales.<a id=636></a>
 
 ###### Article Annexe I à l'article R353-165-2
 
@@ -89484,7 +89636,7 @@ _Créé par_:
   - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
 
 
-### Résidence sociale de ....<a id=635></a>
+### Résidence sociale de ....<a id=637></a>
 
 ###### Article Annexe II à l'article R353-165-2
 
@@ -89547,7 +89699,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-### Agrément pour la gestion de résidence sociale.<a id=636></a>
+### Agrément pour la gestion de résidence sociale.<a id=638></a>
 
 ###### Article Annexe III à l'article R353-165-2
 
@@ -89598,7 +89750,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Description de la résidence sociale de ....<a id=637></a>
+### Description de la résidence sociale de ....<a id=639></a>
 
 ###### Article Annexe IV à l'article R353-165-2
 
@@ -89721,7 +89873,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Charges locatives récupérables.<a id=638></a>
+### Charges locatives récupérables.<a id=640></a>
 
 ###### Article Annexe V à l'article R353-165-2
 
@@ -90013,7 +90165,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=639></a>
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=641></a>
 
 ###### Article Annexe I à l'article R353-166
 
@@ -90232,7 +90384,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=640></a>
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=642></a>
 
 ###### Article Annexe II à l'article R353-166, art. 1
 
@@ -90271,7 +90423,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=641></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=643></a>
 
 ###### Article Annexe I à l'article R353-190
 
@@ -90781,7 +90933,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=642></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=644></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
@@ -90868,7 +91020,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=643></a>
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=645></a>
 
 ###### Article Annexe I à l'article R353-200
 
@@ -91121,7 +91273,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=644></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=646></a>
 
 ###### Article Annexe II à l'article R353-200, art. 1
 
@@ -91188,7 +91340,7 @@ _Créé par_:
   - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
 
 
-## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=645></a>
+## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=647></a>
 
 ###### Article Annexe à l'article R422-37
 
@@ -91403,7 +91555,7 @@ _Modifié par_:
   - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
 
 
-## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=646></a>
+## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=648></a>
 
 ###### Article Annexe à l'article R443-11
 
