@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-04-18
+Version Consolidée au 1985-05-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -7890,6 +7890,11 @@ Le régime de l'épargne-logement [*définition*] a pour objet de permettre l'oc
 fait des dépôts à un compte d'épargne-logement et qui affectent cette épargne au financement de logements destinés à
 l'habitation principale [*bénéficiaires*].
 
+Les titulaires d'un compte d'épargne-logement qui n'affectent  pas cette épargne au financement de logements destinés à
+l'habitation principale dans les conditions du premier alinéa peuvent l'affecter au financement de logements ayant une autre
+destination dans les conditions fixées par un décret en conseil d'état qui détermine notamment les destinations autorisées.
+Ces destinations sont exclusives, à l'exception des résidences de tourisme, de tout usage commercial ou professionnel.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -7902,7 +7907,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+  - Loi n°85-536 1985-05-21 art. 2 JORF 23 mai 1985
 
 _Cité par_:
 
@@ -7931,13 +7936,17 @@ _Cité par_:
 
 **Liens**:
 
+  - SPEC_APPLI: Ordonnance n°98-521 du 24 juin 1998 - art. 3 (V)
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
 
 
 ###### Article L315-2
 
-Les prêts d'épargne-logement sont accordés pour le financement des dépenses de construction, d'acquisition, d'extension ou de
-certaines dépenses de réparation et d'amélioration des logements définis à l'article L. 315-1.
+Les prêts d'épargne-logement concernant les logements destinés à l'habitation principale  sont accordés pour le financement
+des dépenses de construction, d'acquisition, d'extension ou de certaines dépenses de réparation et d'amélioration .
+
+Les prêts d'épargne-logement concernant les logements ayant une autre destination sont accordés pour le financement des
+dépenses de construction, d'extension ou de certaines dépenses de réparation et d'amélioration.
 
 **Liens relatifs à cet article**
 
@@ -7945,13 +7954,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Anciens textes_:
-
-  - Loi n°65-654 1965-07-10 ART. 3
-
 _Modifié par_:
 
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
+  - Loi n°85-536 1985-05-21 Art. 2 JORF 23 MAI 1985
 
 _Cité par_:
 
@@ -7960,13 +7965,13 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*315-8 (V)
   - Code de la construction et de l'habitation. - art. R331-72 (V)
 
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L315-1 (M)
-
 **Liens**:
 
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
+
+_Anciens textes_:
+
+  - Loi n°65-654 1965-07-10 ART. 3
 
 
 ###### Article L315-3
