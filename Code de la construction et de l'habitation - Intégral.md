@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-01-19
+Version Consolidée au 2005-02-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -324,7 +324,7 @@ Version Consolidée au 2005-01-19
           - [Section 2 : Etablissement du programme local de l'habitat par un établissement public de coopération intercommunale. (art. R302-2 à R302-13)](#321)
           - [Section 3 : Etablissement d'un programme local de l'habitat par une commune. (art. R302-14 à R302-16)](#322)
           - [Section 6 : Dispositions particulières à certaines agglomérations. (art. R302-24 à R302-38)](#323)
-      - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. R*311-1 à R317-24)](#324)
+      - [Titre Ier : Mesures tendant à favoriser la construction d'habitations. (art. R*311-1 à R318-23)](#324)
         - [Chapitre Ier : Primes et prêts à la construction. (art. R*311-1 à R*311-66)](#325)
           - [Section 1 : Dispositions communes aux primes et prêts. (art. R*311-1 à R311-4)](#326)
           - [Section 2 : Dispositions communes aux différentes primes. (art. R*311-5 à R*311-22)](#327)
@@ -387,271 +387,279 @@ Version Consolidée au 2005-01-19
           - [Section 3 : Dispositions transitoires (art. R315-69 à R315-82)](#384)
             - [Sous-section 2 : Epargne-construction. (art. R315-69 à R315-82)](#385)
         - [Chapitre VI : Contrôle. (art. R316-1 à R316-3)](#386)
-        - [Chapitre VII : Avances aidées par l'Etat pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété. (art. R317-1 à R317-24)](#387)
+        - [Chapitre VII : Avances aidées par l'Etat pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété. (art. R317-1 à R317-25)](#387)
           - [Section 1 : Conditions d'attribution de l'avance. (art. R317-3 à R317-7)](#388)
           - [Section 2 : Caractéristiques financières de l'avance. (art. R317-8 à R317-12)](#389)
           - [Section 3 : Conventions avec les établissements de crédit. (art. R317-13 à R317-14)](#390)
           - [Section 4 : Garantie des prêts. (art. R317-15)](#391)
           - [Section 5 : Contrôle. (art. R317-16 à R317-17)](#392)
           - [Section 6 : Dispositions spécifiques aux départements d'outre-mer. (art. R317-18 à R317-24)](#393)
-      - [Titre II : Amélioration de l'habitat. (art. R*321-4 à R*325-6)](#394)
-        - [Chapitre Ier : Agence nationale pour l'amélioration de l'habitat. (art. R*321-4 à R321-22)](#395)
-          - [Section 1 : Organisation et fonctionnement de l'agence (art. R*321-4 à R*321-11)](#396)
-            - [Sous-section 1 : Dispositions générales (art. R*321-4 à R321-3)](#397)
-            - [Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat (art. R*321-10 à R*321-11)](#398)
-          - [Section 2 : Conditions d'attribution des aides (art. R*321-12 à R321-22)](#399)
-        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-21)](#400)
-          - [Section 1 : Subventions à l'amélioration des logements locatifs sociaux. (art. R323-1 à R323-12)](#401)
-          - [Section 2 : Dispositions relatives aux départements d'outre-mer. (art. R323-13 à R323-21)](#402)
-            - [Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer (art. R323-13 à R323-21)](#403)
-        - [Chapitre V : Restauration immobilière. (art. R*325-1 à R*325-6)](#404)
-      - [Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement. (art. R331-1 à R331-84)](#405)
-        - [Chapitre unique. (art. R331-1 à R331-84)](#406)
-          - [Section 1 : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés. (art. R331-1 à R331-28)](#407)
-            - [Sous-section 1 : Dispositions communes. (art. R331-1 à R331-13)](#408)
-            - [Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations. (art. R331-14 à R331-16)](#409)
-            - [Sous-section 3 : Dispositions applicables aux autres prêts locatifs sociaux. (art. R331-17 à R331-21)](#410)
-            - [Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis. (art. R331-24 à R331-25)](#411)
-            - [Sous-section 6 : Départements d'outre-mer. (art. R331-28)](#412)
-          - [Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété. (art. R331-31-1 à R331-62)](#413)
-            - [Sous-section 1 : Conditions d'octroi des prêts. (art. R331-34 à R331-52)](#414)
-            - [Sous-section 2 : Caractéristiques des prêts. (art. R331-53 à R331-55)](#415)
-            - [Sous-section 3 : Modalités de l'aide. (art. R331-56)](#416)
-            - [Sous-section 4 : Préfinancement. (art. R331-57 à R331-59)](#417)
-            - [Sous-section 4 bis : Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R331-59 du code de la construction et de l'habitation. (art. R331-59-1 à R331-59-7)](#418)
-            - [Sous-section 4 ter : Régime des opérations d'accession à la propriété aidée comportant un contrat de location-accession à la propriété immobilière régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière. (art. R331-59-8 à R331-59-17)](#419)
-            - [Sous-section 5 : Sanctions. (art. R331-60 à R331-61)](#420)
-            - [Sous-section 5 bis : Dispositions relatives à la mise en extinction des prêts aidés par l'Etat à l'accession à la propriété. (art. R331-61-1 à R331-61-2)](#421)
-            - [Sous-section 6 : Départements d'outre-mer. (art. R331-62)](#422)
-          - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-63 à R331-77-2)](#423)
-            - [Sous-section 1 : Conditions d'octroi. (art. R331-65 à R331-70)](#424)
-            - [Sous-section 2 : Caractéristiques. (art. R331-71 à R331-76)](#425)
-            - [Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété. (art. R331-76-1 à R331-76-5-4)](#426)
-            - [Sous-section 3 : Contrôle. (art. R331-76-6 à R331-76-7)](#427)
-            - [Sous-section 4 : Départements d'outre-mer. (art. R331-77 à R331-77-2)](#428)
-          - [Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs. (art. R331-78 à R331-84)](#429)
-      - [Titre V : Aide personnalisée au logement (art. R351-1 à R353-214)](#430)
-        - [Chapitre Ier : Dispositions générales (art. R351-1 à R351-66)](#431)
-          - [Section 1 : Aide personnalisée (art. R351-1 à R351-32)](#432)
-            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1 à R351-1-1)](#433)
-            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R*351-7-2 à R351-9)](#434)
-            - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-17-1)](#435)
-            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20 à R351-22-1)](#436)
-              - [Paragraphe 1 : Dispositions relatives aux locataires. (art. R351-17-2 à R351-17-5)](#437)
-              - [Paragraphe 2 : Dispositions relatives aux propriétaires. (art. R351-18 à R351-21-4)](#438)
-              - [Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires. (art. R351-22 à R351-22-1)](#439)
-            - [Sous-section 5 : Prime de déménagement. (art. R351-23 à R351-25)](#440)
-            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28-2)](#441)
-            - [Sous-section 7 : Dispositions diverses. (art. R*351-30 à R351-32)](#442)
-          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#443)
-            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#444)
-            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#445)
-            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#446)
-          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R*351-48 à R351-52)](#447)
-          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-55 à R351-66)](#448)
-            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-55 à R351-57)](#449)
-            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-66)](#450)
-        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-1 à R353-214)](#451)
-          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-22)](#452)
-          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#453)
-          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-73)](#454)
-          - [Section 4 : Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°). (art. R353-89 à R353-103)](#455)
-          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#456)
-          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°) (art. R353-154 à R353-165-12)](#457)
-            - [Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales. (art. R353-154 à R353-164-1)](#458)
-            - [Sous-section 2 : Logements-foyers dénommés résidences sociales. (art. R353-165 à R353-165-12)](#459)
-          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-166 à R353-178)](#460)
-          - [Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques. (art. R353-189 à R353-199)](#461)
-          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-200 à R353-214)](#462)
-      - [Titre VI : Organismes consultatifs. (art. R*361-1 à R362-20)](#463)
-        - [Chapitre Ier : Conseil national de l'habitat. (art. R*361-1 à R*361-20)](#464)
-        - [Chapitre II : Conseil départemental de l'habitat. (art. R362-1 à R362-20)](#465)
-          - [Section 1 : Compétences. (art. R362-1 à R362-8)](#466)
-          - [Section 2 : Composition et fonctionnement. (art. R362-9 à R362-20)](#467)
-      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer. (art. R371-1 à R372-19)](#468)
-        - [Chapitre Ier : Conseil départemental de l'habitat. (art. R371-1 à R371-10)](#469)
-          - [Section 1 : Compétences. (art. R371-1 à R371-2)](#470)
-          - [Section 2 : Composition et fonctionnement. (art. R371-3 à R371-10)](#471)
-        - [Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés. (art. R372-1 à R372-19)](#472)
-          - [Section 1 : Dispositions générales relatives aux aides de l'Etat (art. R372-1 à R372-8)](#473)
-            - [Sous-section 1 : Dispositions relatives aux opérations (art. R372-1 à R372-2)](#474)
-            - [Sous-section 2 : Dispositions relatives aux bénéficiaires des subventions et des prêts (art. R372-3)](#475)
-            - [Sous-section 3 : Dispositions relatives aux conditions générales d'octroi des aides de l'Etat (art. R372-4 à R372-8)](#476)
-          - [Section 2 : Dispositions applicables aux subventions de l'Etat (art. R372-9 à R372-19)](#477)
-            - [Sous-section 1 : Dispositions relatives à l'assiette et aux taux des subventions (art. R372-9 à R372-11)](#478)
-            - [Sous-section 2 : Modalités de versements des subventions (art. R372-12 à R372-13)](#479)
-            - [Sous-section 3 : Subventions de l'Etat pour surcharge foncière (art. R372-14 à R372-16)](#480)
-            - [Sous-section 4 : Dispositions relatives à l'acquisition de terrains (art. R372-17 à R372-19)](#481)
-      - [Titre VIII : Dispositions particulières à la région Ile-de-France (art. R381-1 à R381-6)](#482)
-        - [Chapitre unique : Subventions spécifiques aux logements locatifs ou subventions foncières (art. R381-1 à R381-6)](#483)
-          - [Section 1 : Conditions d'attribution des subventions foncières aux logements locatifs sociaux (art. R381-1 à R381-3)](#484)
-          - [Section 2 : Subventions spécifiques aux logements locatifs sociaux (art. R381-4 à R381-5)](#485)
-          - [Section 3 : Subvention foncière aux logements locatifs intermédiaires (art. R381-6)](#486)
-      - [Titre IX : Dispositions relatives aux prêts locatifs intermédiaires. (art. R391-1 à R391-9)](#487)
-        - [Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations (art. R391-1 à R391-9)](#488)
-    - [Livre IV : Habitations à loyer modéré (art. R411-1 à R*491-6)](#489)
-      - [Titre Ier : Dispositions générales (art. R411-1)](#490)
-        - [Chapitre unique. (art. R411-1)](#491)
-      - [Titre II : Organismes d'habitations à loyer modéré (art. R*421-1 à R*423-92)](#492)
-        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré (art. R*421-1 à R*421-80)](#493)
-          - [Section 1 : Offices publics d'aménagement et de construction (art. R*421-1 à R421-44)](#494)
-            - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-1 à R421-4-1)](#495)
-            - [Sous-section 2 : Offices publics d'aménagement et de construction créés directement. (art. R421-32)](#496)
-            - [Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce. (art. R421-40 à R421-44)](#497)
-          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-51 à R*421-72)](#498)
-            - [Sous-section 1 : Création et gestion. (art. R*421-51 à R421-64)](#499)
-            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-67 à R*421-72)](#500)
-          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-73 à R*421-80)](#501)
-        - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-1 à R422-42)](#502)
-          - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. R*422-1 à R422-2-1)](#503)
-          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. R*422-6 à R422-9-6)](#504)
-          - [Section 4 : Sociétés anonymes de crédit immobilier. (art. R*422-10 à R*422-15)](#505)
-          - [Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré. (art. R*422-16-1 à R422-17)](#506)
-          - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-18 à R422-37)](#507)
-            - [Sous-section 1 : Dispositions générales. (art. R*422-18 à R*422-33)](#508)
-            - [Sous-section 2 : Durée d'activité. (art. R422-34 à R422-36-1)](#509)
-            - [Sous-section 3 : Statuts. (art. R*422-38 à R422-37)](#510)
-          - [Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R422-39 à R422-42)](#511)
-        - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré (art. R423-1 à R*423-92)](#512)
-          - [Section 1 : Dispositions communes financières et comptables. (art. R423-1 à R423-78)](#513)
-            - [Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction. (art. R*423-2 à R423-33)](#514)
-              - [Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction. (art. R*423-2 à R*423-30)](#515)
-              - [Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce. (art. R*423-31)](#516)
-              - [Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique. (art. R423-32 à R423-33)](#517)
-            - [Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R*423-63 à R423-67)](#518)
-            - [Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité (art. R423-68 à R423-78)](#519)
-          - [Section 2 : Dispositions domaniales. (art. R*423-84 à R423-83)](#520)
-          - [Section 3 : Sociétés anonymes de coordination d'organismes d'habitations à loyer modéré (art. R*423-85 à R*423-92)](#521)
-      - [Titre III : Dispositions financières. (art. R*431-7 à R433-23)](#522)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-7 à R431-63)](#523)
-          - [Section 1 : Prêts et subventions de l'Etat. (art. R*431-7 à R431-29)](#524)
-            - [Sous-section 1 : Dispositions générales. (art. R*431-7 à R431-18)](#525)
-            - [Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier. (art. R431-19 à R431-24)](#526)
-            - [Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance. (art. R431-25 à R431-29)](#527)
-          - [Section 3 : Bonifications d'intérêts. (art. R*431-50 à R431-56)](#528)
-          - [Section 4 : Dispositions diverses (art. R431-57 à R431-63)](#529)
-            - [Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics. (art. R431-57 à R431-61)](#530)
-            - [Sous-section 2 : Garanties hypothécaires. (art. R431-62)](#531)
-            - [Sous-section 3 : Modalités de gestion des prêts. (art. R431-63)](#532)
-        - [Chapitre II : Prêts aux autres organismes et collectivités (art. R*432-1 à R432-9)](#533)
-          - [Section 1 : Prêts de l'Etat aux communes. (art. R*432-1 à R432-3)](#534)
-          - [Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels. (art. R432-4 à R432-8)](#535)
-          - [Section 3 : Dispositions communes. (art. R432-9)](#536)
-        - [Chapitre III : Marchés des organismes d'habitations à loyer modéré. (art. R*433-1 à R433-23)](#537)
-          - [Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré. (art. R*433-1 à R*433-4)](#538)
-          - [Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux. (art. R433-5 à R433-19)](#539)
-          - [Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte. (art. R433-20 à R433-23)](#540)
-      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R441-1 à R443-34)](#541)
-        - [Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité. (art. R441-1 à R441-31)](#542)
-          - [Section 1 : Conditions d'attribution des logements et plafonds de ressources. (art. R441-1 à R441-14)](#543)
-          - [Section 2 : Commission de médiation et droit au logement opposable. (art. R441-13)](#544)
-          - [Section 2 : Supplément de loyer de solidarité (art. *R441-20 à R441-31)](#545)
-            - [Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré. (art. *R441-20 à R441-28)](#546)
-            - [Sous-section 2 : Dispositions applicables à d'autres bailleurs sociaux. (art. R441-29 à R441-30)](#547)
-            - [Sous-section 3 : Logements exonérés du supplément de loyer de solidarité. (art. R441-31)](#548)
-        - [Chapitre II : Loyers et divers. (art. *R442-3 à R*442-23)](#549)
-          - [Section 1 : Dispositions générales. (art. *R442-3 à R442-5-1)](#550)
-          - [Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires. (art. R442-6 à R442-12)](#551)
-          - [Section 3 : Enquêtes et statistiques relatives à la connaissance de l'occupation des logements. (art. *R442-13 à *R442-14)](#552)
-          - [Section 4 : Gérance d'immeubles. (art. R*442-15 à R*442-23)](#553)
-            - [Sous-section 1 : Dispositions générales. (art. R*442-15 à R*442-21)](#554)
-            - [Sous-section 2 : Mandats soumis à autorisation. (art. R*442-22 à R*442-23)](#555)
-        - [Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions. (art. R*443-4 à R443-34)](#556)
-          - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art. R*443-4 à R443-9)](#557)
-          - [Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier. (art. R443-10 à R443-18)](#558)
-          - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R443-23 à R443-33)](#559)
-          - [Section 5 : Dispositions applicables aux opérations réalisées en vue de la vente de logements à des personnes physiques (art. R443-34)](#560)
-      - [Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété. (art. R*451-6 à R453-8)](#561)
-        - [Chapitre Ier : Contrôle. (art. R*451-6 à R*451-10)](#562)
-          - [Section 1 : Contrôle à l'initiative de l'Etat. (art. R*451-6 à R451-5)](#563)
-          - [Section 2 : Infractions aux règles d'attribution et d'affectation. (art. R*451-8)](#564)
-          - [Section 3 : Contrôle à la demande des départements et des communes (art. R*451-9)](#565)
-          - [Section 4 : Avis préalable à certaines opérations immobilières (art. R*451-10)](#566)
-        - [Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes. (art. R452-1 à R452-28)](#567)
-          - [Section 1 : Dispositions générales (art. R452-1 à R452-3)](#568)
-          - [Section 2 : Organisation et administration (art. R452-4 à R452-20)](#569)
-          - [Section 3 : Régime financier (art. R452-21 à R452-25-1)](#570)
-          - [Section 4 : Contrôle externe (art. R452-26 à R452-28)](#571)
-        - [Chapitre III : Garantie des opérations d'accession à la propriété. (art. R453-1 à R453-8)](#572)
-      - [Titre VI : Organismes consultatifs. (art. R*461-1 à R461-15)](#573)
-        - [Chapitre unique. (art. R*461-1 à R461-15)](#574)
-          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R*461-1 à R461-3)](#575)
-          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#576)
-      - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. R472-1 à R472-2)](#577)
-        - [Chapitre II : Départements d'outre-mer. (art. R472-1 à R472-2)](#578)
-      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. R*481-1 à R481-4)](#579)
-      - [Titre IX : Dispositions particulières relatives au maintien du caractère de logement social. (art. R*491-1 à R*491-6)](#580)
-        - [Chapitre unique. (art. R*491-1 à R*491-6)](#581)
-    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#582)
-      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#583)
-        - [Chapitre unique. (art. R511-1)](#584)
-      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R522-5)](#585)
-        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#586)
-        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#587)
-      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#588)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R662-1)](#589)
-      - [Titre Ier : Dispositions générales. (art. R612-1 à R615-5)](#590)
-        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#591)
-        - [Chapitre V : Mesures de sauvegarde. (art. R615-1 à R615-5)](#592)
-      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R623-7)](#593)
-        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#594)
-        - [Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière. (art. R623-1 à R623-7)](#595)
-      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-8)](#596)
-        - [Chapitre unique (art. R631-1 à R631-8)](#597)
-          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#598)
-          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-8)](#599)
-      - [Titre IV : Mise en oeuvre du droit au logement par la réquisition. (art. R641-1 à R642-12)](#600)
-        - [Chapitre Ier : Réquisition. (art. R641-1 à R641-25)](#601)
-        - [Chapitre II : Réquisition avec attributaire. (art. R*642-1 à R642-12)](#602)
-          - [Section 1 : Principes généraux. (art. R*642-1 à R*642-4)](#603)
-          - [Section 2 : Procédure. (art. R*642-5 à R*642-8)](#604)
-          - [Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition. (art. R*642-9 à R*642-10)](#605)
-          - [Section 4 : Plafonds de ressources et loyers. (art. R642-11 à R642-12)](#606)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1 à R651-2)](#607)
-        - [Chapitre unique. (art. R651-1 à R651-2)](#608)
-      - [Titre VI : Dispositions relatives à l'outre-mer. (art. R662-1)](#609)
-        - [Chapitre II : Dispositions relatives à la Polynésie française. (art. R662-1)](#610)
-  - [Annexes (art. Annexe I à l'article R313-31 à Annexe à l'article R453-8)](#611)
-    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées. (art. Annexe I à l'article R313-31)](#612)
-    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17. (art. Annexe II à l'article R313-31-2)](#613)
-    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9. (art. Annexe III aux articles R313-31, R313-31-2)](#614)
-    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative. (art. Annexe IV à l'article R313-31-2)](#615)
-    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL). (art. Annexe V aux articles R313-31, R313-31-2)](#616)
-    - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2. (art. Annexe VI à l'article R313-31-2)](#617)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#618)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#619)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#620)
-    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#621)
-    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#622)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#623)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#624)
-    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#625)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#626)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#627)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#628)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#629)
-    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#630)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#631)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#632)
-    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#633)
-      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#634)
-      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#635)
-      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#636)
-      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#637)
-    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#638)
-      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#639)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#640)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#641)
-    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#642)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#643)
-    - [Statuts types des sociétés anonymes d'habitations à loyer modéré. (art. Annexe à l'article R422-1)](#644)
-    - [Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. Annexe à l'article R422-6)](#645)
-    - [Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. Annexe à l'article R422-7)](#646)
-    - [Statuts types des sociétés anonymes de crédit immobilier. (art. Annexe à l'article R422-14)](#647)
-    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#648)
-    - [Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré. (art. Annexe à l'article R423-85)](#649)
-    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#650)
-    - [Clauses types de la convention de garantie fixées en application de l'article R. 453-8. (art. Annexe à l'article R453-8)](#651)
+          - [Section 7 : Mise en extinction de l'avance. (art. R317-25)](#394)
+        - [Chapitre VIII : Avances remboursables sans intérêt pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété (art. R318-1 à R318-23)](#395)
+          - [Section 1 : Conditions d'attribution de l'avance. (art. R318-5 à R318-9)](#396)
+          - [Section 2 : Caractéristiques financières de l'avance. (art. R318-10 à R318-13)](#397)
+          - [Section 3 : Compensation par l'Etat de l'absence d'intérêts. (art. R318-14 à R318-17)](#398)
+          - [Section 4 : Conventions avec les établissements de crédit. (art. R318-18 à R318-19)](#399)
+          - [Section 5 : Garantie des prêts. (art. R318-20)](#400)
+          - [Section 6 : Contrôle. (art. R318-21 à R318-23)](#401)
+      - [Titre II : Amélioration de l'habitat. (art. R*321-4 à R*325-6)](#402)
+        - [Chapitre Ier : Agence nationale pour l'amélioration de l'habitat. (art. R*321-4 à R321-22)](#403)
+          - [Section 1 : Organisation et fonctionnement de l'agence (art. R*321-4 à R*321-11)](#404)
+            - [Sous-section 1 : Dispositions générales (art. R*321-4 à R321-3)](#405)
+            - [Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat (art. R*321-10 à R*321-11)](#406)
+          - [Section 2 : Conditions d'attribution des aides (art. R*321-12 à R321-22)](#407)
+        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-21)](#408)
+          - [Section 1 : Subventions à l'amélioration des logements locatifs sociaux. (art. R323-1 à R323-12)](#409)
+          - [Section 2 : Dispositions relatives aux départements d'outre-mer. (art. R323-13 à R323-21)](#410)
+            - [Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer (art. R323-13 à R323-21)](#411)
+        - [Chapitre V : Restauration immobilière. (art. R*325-1 à R*325-6)](#412)
+      - [Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement. (art. R331-1 à R331-84)](#413)
+        - [Chapitre unique. (art. R331-1 à R331-84)](#414)
+          - [Section 1 : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés. (art. R331-1 à R331-28)](#415)
+            - [Sous-section 1 : Dispositions communes. (art. R331-1 à R331-13)](#416)
+            - [Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations. (art. R331-14 à R331-16)](#417)
+            - [Sous-section 3 : Dispositions applicables aux autres prêts locatifs sociaux. (art. R331-17 à R331-21)](#418)
+            - [Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis. (art. R331-24 à R331-25)](#419)
+            - [Sous-section 6 : Départements d'outre-mer. (art. R331-28)](#420)
+          - [Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété. (art. R331-31-1 à R331-62)](#421)
+            - [Sous-section 1 : Conditions d'octroi des prêts. (art. R331-34 à R331-52)](#422)
+            - [Sous-section 2 : Caractéristiques des prêts. (art. R331-53 à R331-55)](#423)
+            - [Sous-section 3 : Modalités de l'aide. (art. R331-56)](#424)
+            - [Sous-section 4 : Préfinancement. (art. R331-57 à R331-59)](#425)
+            - [Sous-section 4 bis : Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R331-59 du code de la construction et de l'habitation. (art. R331-59-1 à R331-59-7)](#426)
+            - [Sous-section 4 ter : Régime des opérations d'accession à la propriété aidée comportant un contrat de location-accession à la propriété immobilière régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière. (art. R331-59-8 à R331-59-17)](#427)
+            - [Sous-section 5 : Sanctions. (art. R331-60 à R331-61)](#428)
+            - [Sous-section 5 bis : Dispositions relatives à la mise en extinction des prêts aidés par l'Etat à l'accession à la propriété. (art. R331-61-1 à R331-61-2)](#429)
+            - [Sous-section 6 : Départements d'outre-mer. (art. R331-62)](#430)
+          - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-63 à R331-77-2)](#431)
+            - [Sous-section 1 : Conditions d'octroi. (art. R331-65 à R331-70)](#432)
+            - [Sous-section 2 : Caractéristiques. (art. R331-71 à R331-76)](#433)
+            - [Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété. (art. R331-76-1 à R331-76-5-4)](#434)
+            - [Sous-section 3 : Contrôle. (art. R331-76-6 à R331-76-7)](#435)
+            - [Sous-section 4 : Départements d'outre-mer. (art. R331-77 à R331-77-2)](#436)
+          - [Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs. (art. R331-78 à R331-84)](#437)
+      - [Titre V : Aide personnalisée au logement (art. R351-1 à R353-214)](#438)
+        - [Chapitre Ier : Dispositions générales (art. R351-1 à R351-66)](#439)
+          - [Section 1 : Aide personnalisée (art. R351-1 à R351-32)](#440)
+            - [Sous-section 1 : Champ d'application de l'aide personnalisée au logement. (art. R351-1 à R351-1-1)](#441)
+            - [Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement. (art. R*351-7-2 à R351-9)](#442)
+            - [Sous-section 3 : Conditions particulières. (art. R351-10 à R351-17-1)](#443)
+            - [Sous-section 4 : Calcul de l'aide personnalisée au logement (art. R351-20 à R351-22-1)](#444)
+              - [Paragraphe 1 : Dispositions relatives aux locataires. (art. R351-17-2 à R351-17-5)](#445)
+              - [Paragraphe 2 : Dispositions relatives aux propriétaires. (art. R351-18 à R351-21-4)](#446)
+              - [Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires. (art. R351-22 à R351-22-1)](#447)
+            - [Sous-section 5 : Prime de déménagement. (art. R351-23 à R351-25)](#448)
+            - [Sous-section 6 : Modalités de liquidation et de versement. (art. R351-26 à R351-28-2)](#449)
+            - [Sous-section 7 : Dispositions diverses. (art. R*351-30 à R351-32)](#450)
+          - [Section 2 : Fonds national de l'habitation. (art. R351-33 à R351-45)](#451)
+            - [Sous-section 1 : Organisation. (art. R351-34 à R351-35)](#452)
+            - [Sous-section 2 : Attributions. (art. R351-36 à R351-39)](#453)
+            - [Sous-section 3 : Dispositions financières. (art. R351-40 à R351-45)](#454)
+          - [Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat. (art. R*351-48 à R351-52)](#455)
+          - [Section 4 : Dispositions particulières aux logements-foyers (art. R351-55 à R351-66)](#456)
+            - [Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif. (art. R351-55 à R351-57)](#457)
+            - [Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer. (art. R351-58 à R351-66)](#458)
+        - [Chapitre III : Régime juridique des logements locatifs conventionnés. (art. R353-1 à R353-214)](#459)
+          - [Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré. (art. R353-1 à R353-22)](#460)
+          - [Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°). (art. R353-32 à R353-57)](#461)
+          - [Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18. (art. R353-58 à R353-73)](#462)
+          - [Section 4 : Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°). (art. R353-89 à R353-103)](#463)
+          - [Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation. (art. R353-126 à R353-152)](#464)
+          - [Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°) (art. R353-154 à R353-165-12)](#465)
+            - [Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales. (art. R353-154 à R353-164-1)](#466)
+            - [Sous-section 2 : Logements-foyers dénommés résidences sociales. (art. R353-165 à R353-165-12)](#467)
+          - [Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°). (art. R353-166 à R353-178)](#468)
+          - [Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques. (art. R353-189 à R353-199)](#469)
+          - [Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III. (art. R353-200 à R353-214)](#470)
+      - [Titre VI : Organismes consultatifs. (art. R*361-1 à R362-20)](#471)
+        - [Chapitre Ier : Conseil national de l'habitat. (art. R*361-1 à R*361-20)](#472)
+        - [Chapitre II : Conseil départemental de l'habitat. (art. R362-1 à R362-20)](#473)
+          - [Section 1 : Compétences. (art. R362-1 à R362-8)](#474)
+          - [Section 2 : Composition et fonctionnement. (art. R362-9 à R362-20)](#475)
+      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer. (art. R371-1 à R372-19)](#476)
+        - [Chapitre Ier : Conseil départemental de l'habitat. (art. R371-1 à R371-10)](#477)
+          - [Section 1 : Compétences. (art. R371-1 à R371-2)](#478)
+          - [Section 2 : Composition et fonctionnement. (art. R371-3 à R371-10)](#479)
+        - [Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés. (art. R372-1 à R372-19)](#480)
+          - [Section 1 : Dispositions générales relatives aux aides de l'Etat (art. R372-1 à R372-8)](#481)
+            - [Sous-section 1 : Dispositions relatives aux opérations (art. R372-1 à R372-2)](#482)
+            - [Sous-section 2 : Dispositions relatives aux bénéficiaires des subventions et des prêts (art. R372-3)](#483)
+            - [Sous-section 3 : Dispositions relatives aux conditions générales d'octroi des aides de l'Etat (art. R372-4 à R372-8)](#484)
+          - [Section 2 : Dispositions applicables aux subventions de l'Etat (art. R372-9 à R372-19)](#485)
+            - [Sous-section 1 : Dispositions relatives à l'assiette et aux taux des subventions (art. R372-9 à R372-11)](#486)
+            - [Sous-section 2 : Modalités de versements des subventions (art. R372-12 à R372-13)](#487)
+            - [Sous-section 3 : Subventions de l'Etat pour surcharge foncière (art. R372-14 à R372-16)](#488)
+            - [Sous-section 4 : Dispositions relatives à l'acquisition de terrains (art. R372-17 à R372-19)](#489)
+      - [Titre VIII : Dispositions particulières à la région Ile-de-France (art. R381-1 à R381-6)](#490)
+        - [Chapitre unique : Subventions spécifiques aux logements locatifs ou subventions foncières (art. R381-1 à R381-6)](#491)
+          - [Section 1 : Conditions d'attribution des subventions foncières aux logements locatifs sociaux (art. R381-1 à R381-3)](#492)
+          - [Section 2 : Subventions spécifiques aux logements locatifs sociaux (art. R381-4 à R381-5)](#493)
+          - [Section 3 : Subvention foncière aux logements locatifs intermédiaires (art. R381-6)](#494)
+      - [Titre IX : Dispositions relatives aux prêts locatifs intermédiaires. (art. R391-1 à R391-9)](#495)
+        - [Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations (art. R391-1 à R391-9)](#496)
+    - [Livre IV : Habitations à loyer modéré (art. R411-1 à R*491-6)](#497)
+      - [Titre Ier : Dispositions générales (art. R411-1)](#498)
+        - [Chapitre unique. (art. R411-1)](#499)
+      - [Titre II : Organismes d'habitations à loyer modéré (art. R*421-1 à R*423-92)](#500)
+        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré (art. R*421-1 à R*421-80)](#501)
+          - [Section 1 : Offices publics d'aménagement et de construction (art. R*421-1 à R421-44)](#502)
+            - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-1 à R421-4-1)](#503)
+            - [Sous-section 2 : Offices publics d'aménagement et de construction créés directement. (art. R421-32)](#504)
+            - [Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce. (art. R421-40 à R421-44)](#505)
+          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-51 à R*421-72)](#506)
+            - [Sous-section 1 : Création et gestion. (art. R*421-51 à R421-64)](#507)
+            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-67 à R*421-72)](#508)
+          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-73 à R*421-80)](#509)
+        - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-1 à R422-42)](#510)
+          - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. R*422-1 à R422-2-1)](#511)
+          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. R*422-6 à R422-9-6)](#512)
+          - [Section 4 : Sociétés anonymes de crédit immobilier. (art. R*422-10 à R*422-15)](#513)
+          - [Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré. (art. R*422-16-1 à R422-17)](#514)
+          - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-18 à R422-37)](#515)
+            - [Sous-section 1 : Dispositions générales. (art. R*422-18 à R*422-33)](#516)
+            - [Sous-section 2 : Durée d'activité. (art. R422-34 à R422-36-1)](#517)
+            - [Sous-section 3 : Statuts. (art. R*422-38 à R422-37)](#518)
+          - [Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R422-39 à R422-42)](#519)
+        - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré (art. R423-1 à R*423-92)](#520)
+          - [Section 1 : Dispositions communes financières et comptables. (art. R423-1 à R423-78)](#521)
+            - [Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction. (art. R*423-2 à R423-33)](#522)
+              - [Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction. (art. R*423-2 à R*423-30)](#523)
+              - [Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce. (art. R*423-31)](#524)
+              - [Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique. (art. R423-32 à R423-33)](#525)
+            - [Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R*423-63 à R423-67)](#526)
+            - [Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité (art. R423-68 à R423-78)](#527)
+          - [Section 2 : Dispositions domaniales. (art. R*423-84 à R423-83)](#528)
+          - [Section 3 : Sociétés anonymes de coordination d'organismes d'habitations à loyer modéré (art. R*423-85 à R*423-92)](#529)
+      - [Titre III : Dispositions financières. (art. R*431-7 à R433-23)](#530)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-7 à R431-63)](#531)
+          - [Section 1 : Prêts et subventions de l'Etat. (art. R*431-7 à R431-29)](#532)
+            - [Sous-section 1 : Dispositions générales. (art. R*431-7 à R431-18)](#533)
+            - [Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier. (art. R431-19 à R431-24)](#534)
+            - [Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance. (art. R431-25 à R431-29)](#535)
+          - [Section 3 : Bonifications d'intérêts. (art. R*431-50 à R431-56)](#536)
+          - [Section 4 : Dispositions diverses (art. R431-57 à R431-63)](#537)
+            - [Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics. (art. R431-57 à R431-61)](#538)
+            - [Sous-section 2 : Garanties hypothécaires. (art. R431-62)](#539)
+            - [Sous-section 3 : Modalités de gestion des prêts. (art. R431-63)](#540)
+        - [Chapitre II : Prêts aux autres organismes et collectivités (art. R*432-1 à R432-9)](#541)
+          - [Section 1 : Prêts de l'Etat aux communes. (art. R*432-1 à R432-3)](#542)
+          - [Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels. (art. R432-4 à R432-8)](#543)
+          - [Section 3 : Dispositions communes. (art. R432-9)](#544)
+        - [Chapitre III : Marchés des organismes d'habitations à loyer modéré. (art. R*433-1 à R433-23)](#545)
+          - [Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré. (art. R*433-1 à R*433-4)](#546)
+          - [Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux. (art. R433-5 à R433-19)](#547)
+          - [Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte. (art. R433-20 à R433-23)](#548)
+      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R441-1 à R443-34)](#549)
+        - [Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité. (art. R441-1 à R441-31)](#550)
+          - [Section 1 : Conditions d'attribution des logements et plafonds de ressources. (art. R441-1 à R441-14)](#551)
+          - [Section 2 : Commission de médiation et droit au logement opposable. (art. R441-13)](#552)
+          - [Section 2 : Supplément de loyer de solidarité (art. *R441-20 à R441-31)](#553)
+            - [Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré. (art. *R441-20 à R441-28)](#554)
+            - [Sous-section 2 : Dispositions applicables à d'autres bailleurs sociaux. (art. R441-29 à R441-30)](#555)
+            - [Sous-section 3 : Logements exonérés du supplément de loyer de solidarité. (art. R441-31)](#556)
+        - [Chapitre II : Loyers et divers. (art. *R442-3 à R*442-23)](#557)
+          - [Section 1 : Dispositions générales. (art. *R442-3 à R442-5-1)](#558)
+          - [Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires. (art. R442-6 à R442-12)](#559)
+          - [Section 3 : Enquêtes et statistiques relatives à la connaissance de l'occupation des logements. (art. *R442-13 à *R442-14)](#560)
+          - [Section 4 : Gérance d'immeubles. (art. R*442-15 à R*442-23)](#561)
+            - [Sous-section 1 : Dispositions générales. (art. R*442-15 à R*442-21)](#562)
+            - [Sous-section 2 : Mandats soumis à autorisation. (art. R*442-22 à R*442-23)](#563)
+        - [Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions. (art. R*443-4 à R443-34)](#564)
+          - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art. R*443-4 à R443-9)](#565)
+          - [Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier. (art. R443-10 à R443-18)](#566)
+          - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R443-23 à R443-33)](#567)
+          - [Section 5 : Dispositions applicables aux opérations réalisées en vue de la vente de logements à des personnes physiques (art. R443-34)](#568)
+      - [Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété. (art. R*451-6 à R453-8)](#569)
+        - [Chapitre Ier : Contrôle. (art. R*451-6 à R*451-10)](#570)
+          - [Section 1 : Contrôle à l'initiative de l'Etat. (art. R*451-6 à R451-5)](#571)
+          - [Section 2 : Infractions aux règles d'attribution et d'affectation. (art. R*451-8)](#572)
+          - [Section 3 : Contrôle à la demande des départements et des communes (art. R*451-9)](#573)
+          - [Section 4 : Avis préalable à certaines opérations immobilières (art. R*451-10)](#574)
+        - [Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes. (art. R452-1 à R452-28)](#575)
+          - [Section 1 : Dispositions générales (art. R452-1 à R452-3)](#576)
+          - [Section 2 : Organisation et administration (art. R452-4 à R452-20)](#577)
+          - [Section 3 : Régime financier (art. R452-21 à R452-25-1)](#578)
+          - [Section 4 : Contrôle externe (art. R452-26 à R452-28)](#579)
+        - [Chapitre III : Garantie des opérations d'accession à la propriété. (art. R453-1 à R453-8)](#580)
+      - [Titre VI : Organismes consultatifs. (art. R*461-1 à R461-15)](#581)
+        - [Chapitre unique. (art. R*461-1 à R461-15)](#582)
+          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R*461-1 à R461-3)](#583)
+          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#584)
+      - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. R472-1 à R472-2)](#585)
+        - [Chapitre II : Départements d'outre-mer. (art. R472-1 à R472-2)](#586)
+      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. R*481-1 à R481-4)](#587)
+      - [Titre IX : Dispositions particulières relatives au maintien du caractère de logement social. (art. R*491-1 à R*491-6)](#588)
+        - [Chapitre unique. (art. R*491-1 à R*491-6)](#589)
+    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#590)
+      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#591)
+        - [Chapitre unique. (art. R511-1)](#592)
+      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R522-5)](#593)
+        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#594)
+        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#595)
+      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#596)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R662-1)](#597)
+      - [Titre Ier : Dispositions générales. (art. R612-1 à R615-5)](#598)
+        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#599)
+        - [Chapitre V : Mesures de sauvegarde. (art. R615-1 à R615-5)](#600)
+      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R623-7)](#601)
+        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#602)
+        - [Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière. (art. R623-1 à R623-7)](#603)
+      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-8)](#604)
+        - [Chapitre unique (art. R631-1 à R631-8)](#605)
+          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#606)
+          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-8)](#607)
+      - [Titre IV : Mise en oeuvre du droit au logement par la réquisition. (art. R641-1 à R642-12)](#608)
+        - [Chapitre Ier : Réquisition. (art. R641-1 à R641-25)](#609)
+        - [Chapitre II : Réquisition avec attributaire. (art. R*642-1 à R642-12)](#610)
+          - [Section 1 : Principes généraux. (art. R*642-1 à R*642-4)](#611)
+          - [Section 2 : Procédure. (art. R*642-5 à R*642-8)](#612)
+          - [Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition. (art. R*642-9 à R*642-10)](#613)
+          - [Section 4 : Plafonds de ressources et loyers. (art. R642-11 à R642-12)](#614)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1 à R651-2)](#615)
+        - [Chapitre unique. (art. R651-1 à R651-2)](#616)
+      - [Titre VI : Dispositions relatives à l'outre-mer. (art. R662-1)](#617)
+        - [Chapitre II : Dispositions relatives à la Polynésie française. (art. R662-1)](#618)
+  - [Annexes (art. Annexe I à l'article R313-31 à Annexe à l'article R453-8)](#619)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées. (art. Annexe I à l'article R313-31)](#620)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17. (art. Annexe II à l'article R313-31-2)](#621)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9. (art. Annexe III aux articles R313-31, R313-31-2)](#622)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative. (art. Annexe IV à l'article R313-31-2)](#623)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL). (art. Annexe V aux articles R313-31, R313-31-2)](#624)
+    - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2. (art. Annexe VI à l'article R313-31-2)](#625)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#626)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#627)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#628)
+    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#629)
+    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#630)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#631)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#632)
+    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#633)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#634)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#635)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#636)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#637)
+    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#638)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#639)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#640)
+    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#641)
+      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#642)
+      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#643)
+      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#644)
+      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#645)
+    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#646)
+      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#647)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#648)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#649)
+    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#650)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#651)
+    - [Statuts types des sociétés anonymes d'habitations à loyer modéré. (art. Annexe à l'article R422-1)](#652)
+    - [Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. Annexe à l'article R422-6)](#653)
+    - [Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré. (art. Annexe à l'article R422-7)](#654)
+    - [Statuts types des sociétés anonymes de crédit immobilier. (art. Annexe à l'article R422-14)](#655)
+    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#656)
+    - [Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré. (art. Annexe à l'article R423-85)](#657)
+    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#658)
+    - [Clauses types de la convention de garantie fixées en application de l'article R. 453-8. (art. Annexe à l'article R453-8)](#659)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -45057,11 +45065,11 @@ _Cite_:
 ###### Article R312-3-1
 
 La garantie de l'Etat prévue au troisième alinéa de l'article L. 312-1 peut être accordée aux prêts conventionnés mentionnés
-aux articles R. 331-63 à R. 331-77-2 ainsi qu'à l'avance mentionnée au chapitre VII du titre Ier du livre III du présent code
-consentis par des établissements de crédit ayant conclu une convention avec la société de gestion du fonds de garantie de
-l'accession sociale à la propriété, à des personnes physiques dont les revenus sont inférieurs à des plafonds de ressources
-fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé du logement
-et, pour les départements d'outre-mer, du ministre chargé de l'outre-mer.
+aux articles R. 331-63 à R. 331-77-2 ainsi qu'aux avances mentionnées aux chapitres VII et VIII du titre Ier du livre III du
+présent code consentis par des établissements de crédit ayant conclu une convention avec la société de gestion du fonds de
+garantie de l'accession sociale à la propriété, à des personnes physiques dont les revenus sont inférieurs à des plafonds de
+ressources fixés par arrêté conjoint du ministre chargé de l'économie, du ministre chargé du budget et du ministre chargé du
+logement et, pour les départements d'outre-mer, du ministre chargé de l'outre-mer.
 
 **Liens relatifs à cet article**
 
@@ -45117,7 +45125,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2003-806 du 25 août 2003 - art. 2 () JORF 28 août 2003
+  - Décret n°2005-70 du 31 janvier 2005 - art. 2 () JORF 1er février 2005
 
 _Cite_:
 
@@ -51650,13 +51658,831 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R317-15 (V)
 
 
-### Titre II : Amélioration de l'habitat.<a id=394></a>
+##### Section 7 : Mise en extinction de l'avance.<a id=394></a>
 
-#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat.<a id=395></a>
+###### Article R317-25
 
-##### Section 1 : Organisation et fonctionnement de l'agence<a id=396></a>
+Les établissements de crédit conventionnés pour délivrer les avances prévues à l'article R. 317-1 ne peuvent plus émettre
+d'offre de prêt à compter du 1er février 2005.
 
-##### Sous-section 1 : Dispositions générales<a id=397></a>
+Les offres de prêt antérieures à cette date n'ayant pas fait l'objet d'une acceptation avant le 1er juin 2005 seront frappées
+de caducité.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-70 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R317-1 (M)
+
+
+#### Chapitre VIII : Avances remboursables sans intérêt pour la construction, l'acquisition et l'amélioration de logements en accession à la propriété<a id=395></a>
+
+###### Article R318-1
+
+La condition prévue au c du I de l'article 244 quater J du code général des impôts est remplie lorsque la résidence
+principale du bénéficiaire de l'avance remboursable a été rendue inhabitable de façon définitive du fait d'une catastrophe
+entraînant l'application :
+
+- soit de la loi n° 82-600 du 13 juillet 1982 relative à l'indemnisation des victimes de catastrophes naturelles ;
+
+- soit de l'article L. 122-7 du code des assurances pour des dommages causés par les effets du vent dû aux tempêtes, ouragans
+ou cyclones ;
+
+- soit du premier alinéa de l'article L. 128-1 du code des assurances pour des dommages dus à des catastrophes
+technologiques.
+
+La demande d'avance doit être présentée dans le délai de deux ans suivant la date de publication de la décision de
+constatation de l'état de catastrophe ou la survenance du sinistre et être accompagnée d'une attestation selon laquelle les
+dommages affectant le logement nécessitent la réalisation sur un autre site d'une nouvelle construction ou l'acquisition d'un
+nouveau logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cite_:
+
+  - Loi n°82-600 du 13 juillet 1982 (V)
+  - Code général des impôts, CGI. - art. 244 quater J (VD)
+  - Code des assurances - art. L122-7 (M)
+  - Code des assurances - art. L128-1 (M)
+
+_Cité par_:
+
+  - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
+  - Arrêté du 22 décembre 2008 (V)
+  - Arrêté du 4 mai 2009 - art. Annexe (M)
+  - Arrêté du 30 décembre 2010 - art. 12 (V)
+  - Décret n°2010-1704 du 30 décembre 2010 - art. 2 (V)
+  - Code de la construction et de l'habitation. - art. R313-19-1 (V)
+  - Code de la construction et de l'habitation. - art. R313-20-1 (V)
+  - Code de la construction et de l'habitation. - art. R318-8 (V)
+  - Code de la construction et de l'habitation. - art. R331-72 (V)
+  - Code de la construction et de l'habitation. - art. R331-76-5-1 (V)
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+###### Article R318-2
+
+L'avance peut être accordée pour financer les opérations suivantes :
+
+1° La construction d'un logement, accompagnée, le cas échéant, de l'acquisition de droits de construire ou de terrains
+destinés à la construction de ce logement, ou l'acquisition d'un logement en vue de sa première occupation ; l'aménagement à
+usage de logement de locaux non destinés à l'habitation est assimilé à la construction d'un logement ;
+
+2° L'acquisition d'un logement ayant déjà été occupé et, le cas échéant, les travaux d'amélioration nécessaires ;
+
+3° L'acquisition d'un logement faisant l'objet d'un contrat régi par les dispositions de la loi n° 84-595 du 12 juillet 1984
+définissant la location-accession à la propriété immobilière lorsque cette acquisition porte sur des opérations mentionnées
+au 1° ou au 2° du présent article. Dans ce cas, l'avance est accordée au vu des ressources de l'accédant à la date de la
+levée d'option.
+
+Ces opérations peuvent comprendre la construction ou l'acquisition simultanée de dépendances dont la liste est fixée par
+arrêté conjoint du ministre chargé du logement et du ministre chargé de l'économie et des finances.
+
+Sont qualifiés de "neufs", au sens du présent chapitre, les logements mentionnés au 1°, ainsi que ceux mentionnés au 3°
+lorsque l'emprunteur est le premier occupant à la date de la levée d'option. Les autres logements sont qualifiés d'"anciens".
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cite_:
+
+  - Loi n°84-595 du 12 juillet 1984 (V)
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Arrêté du 31 janvier 2005 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. *R318-10-1 (V)
+  - Code de la construction et de l'habitation. - art. R318-3 (Ab)
+  - Code de la construction et de l'habitation. - art. R318-6 (V)
+  - Code de la construction et de l'habitation. - art. R318-8 (V)
+
+
+###### Article R318-3
+
+Les logements anciens au sens de l'article R. 318-2 doivent, le cas échéant après réalisation de travaux, répondre aux normes
+minimales de surface et d'habitabilité définies en annexe au présent code. Le respect de cette condition est apprécié au jour
+de l'entrée dans les lieux de l'emprunteur.
+
+Lorsque l'acquisition porte sur des immeubles achevés depuis plus de vingt ans, un état des lieux relatif à la conformité du
+logement aux normes de surface et d'habitabilité est établi dans les mêmes conditions que celui prévu à l'article R. 331-69
+par un professionnel indépendant de la transaction et titulaire d'une assurance professionnelle. Cet état des lieux est
+conservé au dossier de prêt. Si des travaux de mise aux normes sont nécessaires, l'octroi de l'avance est subordonné à leur
+réalisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-912 du 3 août 2010 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R318-2
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-27 (V)
+  - Code de la construction et de l'habitation. - art. R331-69 (Ab)
+
+
+##### Section 1 : Conditions d'attribution de l'avance.<a id=396></a>
+
+###### Article R318-5
+
+Pour l'application des plafonds fixés à l'article R. 318-4, les ressources de l'emprunteur sont appréciées en prenant en
+compte son revenu fiscal de référence au sens du 1° du IV de l'article 1417 du code général des impôts, auquel est ajouté, le
+cas échéant, celui des personnes destinées à occuper le logement à titre de résidence principale et qui ne sont pas
+rattachées au foyer fiscal de l'emprunteur.
+
+Pour l'application du douzième alinéa du I de l'article 244 quater J du code général des impôts, lorsqu'au cours de l'avant-
+dernière année ou de l'année précédant celle de l'offre d'avance remboursable sans intérêt survient un événement modifiant la
+composition du foyer fiscal de l'emprunteur, la somme des revenus fiscaux de référence servant de base à la définition du
+montant de l'avance remboursable sans intérêt est calculée de la manière suivante :
+
+- lorsque l'un des événements mentionnés aux 4, 6 et 7 de l'article 6 du code général des impôts survient et si l'avis
+d'imposition commun permet d'individualiser les revenus de l'intéressé, seuls les revenus de ce dernier faisant l'objet d'une
+imposition commune puis séparée sont pris en compte. Lorsque cette individualisation n'est pas possible, le montant total des
+revenus de l'intéressé à prendre en compte est égal à la somme de la moitié des revenus faisant l'objet d'une imposition
+commune et de la totalité des revenus faisant l'objet d'une imposition séparée ;
+
+- lorsque l'intéressé se marie ou conclut un pacte civil de solidarité, le montant total des revenus du bénéficiaire de
+l'avance remboursable sans intérêt à prendre en compte est égal à la somme des revenus faisant l'objet d'une imposition
+séparée puis commune.
+
+Un arrêté conjoint des ministres chargés du logement et de l'économie et des finances précise les documents fiscaux, le cas
+échéant par catégorie de contribuables, ainsi que les autres documents et déclarations qui doivent être fournis par
+l'emprunteur à l'appui de sa demande d'avance et les conditions dans lesquels ces documents doivent être transmis.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 4 octobre 2001 - art. 3 (V)
+  - Arrêté du 25 août 2003 - art. 3 (Ab)
+  - Arrêté du 31 janvier 2005 - art. 2 (V)
+  - Code de la construction et de l'habitation. - art. R318-12 (V)
+  - Code de la construction et de l'habitation. - art. R318-14 (V)
+  - Code de la construction et de l'habitation. - art. R318-22 (V)
+  - Code de la construction et de l'habitation. - art. R318-7 (VD)
+
+_Cite_:
+
+  - CGI 1417, 244 quater J, 6
+  - Code de la construction et de l'habitation. - art. R318-4 (M)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+###### Article R318-6
+
+Il ne peut être accordé qu'une avance par opération au sens de l'article R. 318-2. 
+
+Tant que l'avance sans intérêt n'est pas intégralement remboursée, un logement acquis avec l'aide de l'Etat ne peut être :
+
+- ni transformé en locaux commerciaux ou professionnels ;
+
+- ni affecté à la location saisonnière ou en meublé ;
+
+- ni utilisé comme résidence secondaire ;
+
+- ni utilisé à titre d'accessoire du contrat de travail. 
+
+En cas de destruction du logement avant le terme prévu au deuxième alinéa, le maintien de l'avance est subordonné à sa
+reconstruction dans un délai de quatre ans à compter de la date du sinistre.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Décret n°2010-1704 du 30 décembre 2010 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R318-2 (V)
+
+
+###### Article R318-7
+
+Est considéré comme résidence principale, au sens du présent chapitre, un logement occupé au moins huit mois par an, sauf en
+cas d'obligation de déplacement liée à l'activité professionnelle, raison de santé ou cas de force majeure, par l'emprunteur
+et les personnes visées au deuxième alinéa de l'article R. 318-4.
+
+Tant que l'avance n'est pas totalement remboursée, l'emprunteur ne peut proposer le logement à la location que dans les
+conditions suivantes :
+
+- la location, d'une durée maximale de six ans, doit résulter de la survenance de l'un des faits suivants : mobilité
+professionnelle entraînant un trajet de plus de 70 km entre le nouveau lieu de travail et le logement financé ; décès ;
+divorce ; dissolution d'un pacte civil de solidarité ; invalidité ou incapacité reconnue par une décision de la commission
+technique d'orientation et de reclassement professionnel ; chômage d'une durée supérieure à un an attestée par l'inscription
+à l'Agence nationale pour l'emploi ;
+
+- le logement ne peut être loué qu'à un locataire dont les ressources, à la date d'entrée dans les lieux, satisfont aux
+conditions prévues par l'article R. 318-4 déterminées dans les conditions de l'article R. 318-5 ;
+
+- les loyers annuels ne peuvent excéder 5 % du coût de l'opération, limité au prix maximum d'opération mentionné à l'article
+R. 318-10, ce dernier étant révisé au moment de la mise en location en fonction des variations de la moyenne sur quatre
+trimestres de l'indice national mesurant le coût de la construction publié par l'Institut national de la statistique et des
+études économiques (INSEE) ;
+
+- l'évolution du loyer mensuel obéit aux révisions prévues par la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
+rapports locatifs ;
+
+- la location fait l'objet d'une déclaration par l'emprunteur à l'établissement de crédit ainsi que, le cas échéant, à
+l'organisme payeur de l'allocation personnalisée au logement prévue aux articles R. 351-1 et suivants du présent code.
+
+L'occupation d'un logement ayant bénéficié d'une avance sans intérêt doit être effective dans le délai maximum d'un an
+suivant soit la déclaration d'achèvement des travaux, soit l'acquisition du logement si celle-ci est postérieure. Ce délai
+peut être porté à six ans lorsque le logement est destiné à être occupé par l'emprunteur à compter de la date de son départ à
+la retraite, à condition que le logement soit loué pendant ce délai dans les conditions prévues aux six alinéas précédents.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cite_:
+
+  - Loi n°89-462 1989-07-06
+  - Code de la construction et de l'habitation. - art. R318-10 (M)
+  - Code de la construction et de l'habitation. - art. R318-4 (M)
+  - Code de la construction et de l'habitation. - art. R318-5 (V)
+  - Code de la construction et de l'habitation. - art. R351-1 (M)
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R319-2 (V)
+
+
+###### Article R318-8
+
+Toute mutation entre vifs des logements financés avec l'aide de l'avance prévue à l'article R. 318-1 du présent chapitre
+entraîne le remboursement intégral du capital de l'avance restant dû, au plus tard au moment de l'accomplissement des
+formalités de publicité foncière de la mutation. La mutation doit être déclarée à l'établissement de crédit dès la signature
+de l'acte authentique qui la constate.
+
+Toutefois, l'emprunteur peut conserver le bénéfice de l'avance, sous la forme d'un transfert du capital restant dû, s'il
+acquiert un autre logement répondant aux critères définis à l'article R. 318-2 en vue de l'occuper à titre de résidence
+principale. Cette disposition est applicable aux bénéficiaires de l'avance prévue à l'article R. 317-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R317-1 (M)
+  - Code de la construction et de l'habitation. - art. R318-1 (V)
+  - Code de la construction et de l'habitation. - art. R318-2 (V)
+
+
+###### Article R318-9
+
+L'emprunteur ne peut bénéficier des dispositions des articles R. 321-12 à R. 321-22 que pour les travaux d'accessibilité de
+l'immeuble et d'adaptation du logement aux besoins des personnes handicapées ou à mobilité réduite, lorsqu'une personne
+occupant le logement est atteinte d'un handicap postérieurement à l'entrée dans les lieux. Il ne peut bénéficier des
+dispositions des articles R. 331-32 à R. 331-62 et R. 331-76-5-1.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R321-12 à R321-22, R331-32 à R331-62, R331-76-5-1
+  - Code de la construction et de l'habitation. - art. R331-76-5-1 (M)
+
+
+##### Section 2 : Caractéristiques financières de l'avance.<a id=397></a>
+
+###### Article R318-10
+
+Le montant de l'avance est égal à la moins élevée des sommes résultant des deux calculs suivants :
+
+20 % du coût de l'opération retenu dans la limite d'un montant maximum déterminé en fonction du nombre de personnes destinées
+à occuper le logement, de la localisation du logement selon le zonage mentionné à l'article R. 318-4 et du caractère neuf ou
+ancien du logement. Ce taux est porté à 30 % dans les zones urbaines sensibles et dans les zones franches urbaines
+mentionnées à l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du
+territoire ;
+
+50 % du montant du ou des autres prêts, d'une durée supérieure à deux ans, concourant au financement de l'opération.
+
+Les montants maximaux mentionnés au deuxième alinéa ci-dessus sont les suivants :
+
+(Tableau non reproduit)
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Cite_:
+
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
+  - Code de la construction et de l'habitation. - art. R318-4 (M)
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-25 (V)
+  - Code de la construction et de l'habitation. - art. R318-30 (V)
+  - Code de la construction et de l'habitation. - art. R318-7 (VD)
+
+
+###### Article R318-11
+
+I. - Le coût total de l'opération, toutes taxes comprises, comprend :
+
+- la charge foncière ou la charge immobilière, y compris les frais d'état des lieux, les honoraires de géomètre et les taxes
+afférentes, à l'exclusion des frais d'acte notarié et des droits d'enregistrement pour les terrains à bâtir ou les immeubles
+anciens ;
+
+- les honoraires de négociation restant, le cas échéant, à la charge de l'acquéreur ;
+
+- le coût des travaux, y compris les honoraires liés à leur réalisation ;
+
+- les frais relatifs à l'assurance de responsabilité mentionnée à l'article L. 241-1 du code des assurances ou à l'assurance
+de dommages mentionnée à l'article L. 242-1 du même code ;
+
+- les taxes afférentes à la construction mentionnées aux articles 1585 A, 1599 octies, 1599 B et 1599-0 B du code général des
+impôts et de l'article L. 142-2 du code de l'urbanisme.
+
+II. - Lorsque l'acquisition est accompagnée de travaux, ceux-ci doivent être réalisés dans un délai de trois ans à compter de
+la date d'émission de l'offre d'avance. L'emprunteur doit transmettre, dès réception, les factures correspondantes à
+l'établissement de crédit ayant accordé l'avance. Les factures sont conservées au dossier de prêt.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Arrêté du 16 mars 1992 - art. 2 bis (Ab)
+  - Arrêté du 10 août 2009 - art. 2 (V)
+  - Décret n°2010-1704 du 30 décembre 2010 - art. 2 (V)
+  - Code de la construction et de l'habitation. - art. *R318-10 (V)
+  - Code de la construction et de l'habitation. - art. R313-20-1 (V)
+
+_Cite_:
+
+  - CGI 1585 A, 1599 octies, 1599 B, 1599-0 B
+  - Code des assurances - art. L241-1 (M)
+  - Code des assurances - art. L242-1 (M)
+  - Code de l'urbanisme - art. L142-2 (M)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+###### Article R318-12
+
+Les conditions de remboursement de l'avance sont déterminées à la date d'émission de l'offre d'avance en fonction des
+ressources de l'emprunteur, déterminées dans les conditions prévues aux alinéas 8 à 13 du I de l'article 244 quater J du code
+général des impôts et à l'article R. 318-5 ci-dessus et tiennent compte des modalités de remboursement des prêts immobiliers
+consentis, le cas échéant, pour la même opération.
+
+Le remboursement de l'avance s'effectue, selon les ressources de l'emprunteur, soit en une seule période lorsque
+l'amortissement ne donne lieu à aucun différé, soit en deux périodes lorsqu'il y a un différé sur une fraction ou sur la
+totalité de son montant. Dans ce dernier cas, les sommes ayant fait l'objet d'un différé sont remboursées au cours de la
+seconde période. Pour chaque période, le remboursement s'effectue par mensualités constantes. La fraction de l'avance faisant
+l'objet du différé et la durée de la seconde période de remboursement sont fixées en fonction des ressources de l'emprunteur
+et des personnes destinées à occuper le logement, conformément au tableau suivant :
+
+(Tableau non reproduit)
+
+Lorsque l'emprunteur bénéficie d'une avance assortie d'un différé de remboursement, la durée de ce différé ne peut excéder la
+plus longue des durées des prêts contractés, le cas échéant, pour la même opération.
+
+La durée de la période de remboursement ou, s'il y a lieu, de différé, peut être réduite à la demande de l'emprunteur, sans
+pouvoir être inférieure à six ans.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater J
+  - Code de la construction et de l'habitation. - art. R318-5 (V)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-22 (V)
+  - Code de la construction et de l'habitation. - art. R318-32 (V)
+
+
+###### Article R318-13
+
+L'établissement de crédit apprécie sous sa propre responsabilité la solvabilité et les garanties de remboursement présentées
+par l'emprunteur demandant l'avance.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+##### Section 3 : Compensation par l'Etat de l'absence d'intérêts.<a id=398></a>
+
+###### Article R318-14
+
+Le montant du crédit d'impôt accordé à l'établissement de crédit pour compenser l'absence d'intérêts de l'avance est calculé
+en appliquant au montant de l'avance un taux S, fixé en fonction des ressources de l'emprunteur déterminées dans les
+conditions prévues aux alinéas huit à treize du I de l'article 244 quater J du code général des impôts et à l'article R.
+318-5 ci-dessus, conformément aux dispositions de l'article R. 318-16.
+
+Toutefois, lorsque la durée de la période de remboursement ou, s'il y a lieu, de différé est réduite à la demande de
+l'emprunteur ou plafonnée en fonction de la plus longue des durées de prêts contractés pour la même opération, le montant du
+crédit d'impôt tient compte de cette réduction, conformément aux dispositions de l'article R. 318-16. Dans ce cas, le calcul
+est effectué en arrondissant la durée de cette période au multiple de six mois inférieur.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater J
+  - Code de la construction et de l'habitation. - art. R318-5 (V)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-16 (V)
+  - Code général des impôts, annexe 2, CGIAN2. - art. 171 BI (V)
+
+
+###### Article R318-15
+
+La durée de la période de remboursement ou, s'il y a lieu, de différé, ne peut excéder les durées ci-dessous :
+
+(Tableau non reproduit)
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-33 (V)
+
+
+###### Article R318-16
+
+Le taux S prévu à l'article R. 318-14 est obtenu en arrondissant à la quatrième décimale le résultat de la formule :
+
+X x (1 + Y)
+
+dans laquelle :
+
+X est la somme des valeurs, actualisées à un taux d'intérêt T 1, des écarts entre les mensualités d'une avance de 1 euros et
+les mensualités constantes d'un prêt de référence de 1 euros, de même durée, accordé au taux d'intérêt T 2. Le taux T 1 est
+égal au taux mensuel équivalent à un taux annuel T 0 augmenté de 0,35 point. Le taux T 2 est égal au taux mensuel équivalent
+au même taux annuel T 0 majoré de 1,10 point. Le taux T 0 est le taux annuel de rendement de l'emprunt d'Etat de même durée
+moyenne de remboursement que l'avance ;
+
+Y est égal à la différence entre, d'une part, la somme des intérêts d'un prêt de 1 euros consenti sur cinq annuités
+constantes au taux annuel de rendement de l'emprunt d'Etat à trois ans, majoré de 0,35 point et, d'autre part, la moitié des
+intérêts d'un prêt de 1 euros consenti sur un an au taux annuel de rendement de l'emprunt d'Etat à un an, majoré de 0,35
+point.
+
+Le taux S est applicable aux avances faisant l'objet d'une offre de prêt au cours du même trimestre. Le taux fixé
+précédemment reste toutefois en vigueur lorsque les taux de rendement moyens des emprunts d'Etat n'ont pas varié de plus de
+0,25 point depuis la dernière fixation. Cette variation est appréciée sur la moyenne algébrique des taux de rendement moyens
+de deux emprunts d'Etat de maturité proche, respectivement de cinq ans et quinze ans, dont les références sont communiquées
+par l'organisme mentionné à l'article R. 312-3-1 du présent code pour chaque année civile avant le 1er novembre de l'année
+précédente.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-14 (V)
+
+
+###### Article R318-17
+
+En cas de remboursement anticipé partiel ou total de l'avance, les fractions de crédit d'impôt restant à imputer ne peuvent
+plus être utilisées. Les conditions d'application du présent article sont précisées par le ministre chargé de l'économie et
+des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Code général des impôts, annexe 2, CGIAN2. - art. 171 BJ (V)
+
+
+##### Section 4 : Conventions avec les établissements de crédit.<a id=399></a>
+
+###### Article R318-18
+
+Seuls les établissements de crédit ayant passé une convention avec l'Etat, conforme à une convention type approuvée par
+arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du logement, sont habilités à accorder
+les avances prévues au premier alinéa du I de l'article 244 quater J.
+
+Cette convention est signée au nom de l'Etat par le ministre chargé de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation 244 quater J
+
+
+###### Article R318-19
+
+Le ministre chargé de l'économie et des finances et le ministre chargé du logement sont autorisés à confier la gestion et le
+suivi des crédits d'impôt dus au titre des avances remboursables à l'organisme mentionné à l'article R. 312-3-1 du présent
+code. Les relations entre l'Etat et cet organisme sont définies par une convention approuvée par arrêté conjoint du ministre
+chargé de l'économie et des finances et du ministre chargé du logement qui précise notamment les conditions dans lesquelles
+cet organisme participe au contrôle de l'application des dispositions du présent chapitre.
+
+Dans ce cas, les établissements de crédit doivent conclure avec cet organisme une convention, conforme à une convention type
+approuvée par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre chargé du logement.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R318-21 (V)
+
+
+##### Section 5 : Garantie des prêts.<a id=400></a>
+
+###### Article R318-20
+
+Les avances prévues au premier alinéa du I de l'article 244 quater J peuvent bénéficier de la garantie mentionnée au
+troisième alinéa de l'article L. 312-1 du présent code, dans les conditions prévues aux articles R. 312-3-1 à R. 312-3-3.
+
+Lorsque l'établissement de crédit accorde, en complément de l'avance, un prêt conventionné garanti en application de
+l'article R. 312-3-1, l'octroi de l'avance est subordonné à celui de la garantie mentionnée à l'alinéa précédent.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater J
+  - Code de la construction et de l'habitation L312-1, R312-3-1 à R312-3-3
+  - Code de la construction et de l'habitation. - art. L312-1 (M)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+##### Section 6 : Contrôle.<a id=401></a>
+
+###### Article R318-21
+
+Le contrôle des conditions d'application des dispositions du présent chapitre est exercé par le ministre chargé de l'économie
+et des finances et le ministre chargé du logement. 
+
+Les contrôles qui peuvent, le cas échéant, être confiés à l'organisme mentionné à l'article R. 312-3-1 en application de
+l'article R. 318-19 doivent être effectués par des agents commissionnés à cet effet par les ministres chargés du logement et
+de l'économie et des finances.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R312-3-1 (V)
+  - Code de la construction et de l'habitation. - art. R318-19 (V)
+
+
+###### Article R318-22
+
+I. - Dans le cas où les conditions relatives à la justification des ressources déclarées par l'emprunteur, prévues aux
+alinéas huit à treize du I de l'article 244 quater J du code général des impôts et à l'article R. 318-5 ci-dessus, n'ont pas
+été respectées par lui et afin de permettre à l'Etat d'ordonner le remboursement de l'avantage dont l'emprunteur a indûment
+bénéficié, l'établissement de crédit communique au ministre chargé du logement ou, le cas échéant, à l'organisme mentionné à
+l'article R. 312-3-1, au plus tard le 31 mars, les informations nominatives concernant les offres d'avance qu'il a faites
+l'année précédente et concernant :
+
+- les emprunteurs qui ne lui ont pas transmis, après relance de sa part, le ou les avis d'imposition requis ;
+
+- les emprunteurs dont le ou les avis d'imposition font apparaître, par rapport aux revenus fiscaux de référence déclarés, un
+écart justifiant une réduction de l'avantage dont ils ont bénéficié, à moins que l'avance n'ait fait l'objet d'une
+régularisation avec l'emprunteur avant cette date dans les conditions fixées par l'arrêté prévu à l'article R. 318-5.
+
+II. - Au vu des informations communiquées par l'établissement de crédit, le ministre chargé du logement ou, le cas échéant,
+l'organisme mentionné à l'article R. 312-3-1 invite le bénéficiaire de l'avance, par lettre recommandée avec accusé de
+réception, à faire part de ses observations dans un délai de deux mois.
+
+A l'expiration du délai, le ministre chargé du logement, le cas échéant sur proposition de l'organisme mentionné à l'article
+R. 312-3-1, demande le remboursement de l'avantage indûment perçu par l'emprunteur. Le titre exécutoire porte :
+
+- dans le cas mentionné au deuxième alinéa du présent article, sur le reversement d'une somme équivalente à celle du crédit
+d'impôt dont l'établissement de crédit a bénéficié en contrepartie de l'avance accordée à l'emprunteur, majorée de 25 % ;
+
+- dans le cas mentionné au troisième alinéa du présent article, sur le reversement d'une somme égale à la différence, majorée
+de 25 %, entre la somme correspondant au crédit d'impôt dont l'établissement de crédit a bénéficié en contrepartie de
+l'avance accordée à l'emprunteur et celle correspondant à celui dont il aurait bénéficié si le revenu fiscal de référence
+figurant sur l'avis d'imposition au titre de l'année précédant l'offre de prêt avait été pris en compte pour l'attribution de
+l'avance. Si la durée de la période de remboursement, ou, s'il y lieu, de différé, a été réduite en application des
+dispositions de l'article R. 318-12, la somme correspondant au crédit d'impôt dont l'établissement de crédit aurait bénéficié
+si le revenu fiscal de référence figurant sur l'avis d'imposition au titre de l'année précédant l'offre de prêt avait été
+pris en compte pour l'attribution de l'avance est calculée sur la base de la durée de remboursement ou, s'il y a lieu, de
+différé, la plus proche de celle retenue par l'emprunteur.
+
+La créance est recouvrée au profit de l'Etat par les comptables du Trésor, selon les modalités prévues pour les créances
+étrangères à l'impôt et au domaine.
+
+L'établissement de crédit informe l'emprunteur de ces dispositions dès l'émission de l'offre de prêt.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 244 quater J
+  - Code de la construction et de l'habitation. - art. R312-3-1 (M)
+  - Code de la construction et de l'habitation. - art. R318-12 (M)
+  - Code de la construction et de l'habitation. - art. R318-5 (V)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+
+###### Article R318-23
+
+Dans les situations prévues à la première phrase du 1 et au 2 du II de l'article 199 ter I du code général des impôts et si
+l'offre d'avance faite à l'emprunteur le mentionnait expressément, l'établissement de crédit peut prévoir de rendre
+immédiatement exigible le remboursement par l'emprunteur de l'avance sans intérêt. Dans tous les cas, il doit indiquer dans
+le contrat de prêt les conditions générales de l'avance remboursable et les obligations d'information incombant à
+l'emprunteur, notamment en cas de changement de situation.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 199 ter I
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2005-69 du 31 janvier 2005 - art. 1 () JORF 1er février 2005
+
+_Cité par_:
+
+  - Décret n°2010-1704 du 30 décembre 2010 - art. 2 (V)
+
+
+### Titre II : Amélioration de l'habitat.<a id=402></a>
+
+#### Chapitre Ier : Agence nationale pour l'amélioration de l'habitat.<a id=403></a>
+
+##### Section 1 : Organisation et fonctionnement de l'agence<a id=404></a>
+
+##### Sous-section 1 : Dispositions générales<a id=405></a>
 
 ###### Article R*321-4
 
@@ -51979,7 +52805,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L651-2 (M)
 
 
-##### Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat<a id=398></a>
+##### Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat<a id=406></a>
 
 ###### Article R*321-10
 
@@ -52096,7 +52922,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R321-7 (V)
 
 
-##### Section 2 : Conditions d'attribution des aides<a id=399></a>
+##### Section 2 : Conditions d'attribution des aides<a id=407></a>
 
 ###### Article R*321-12
 
@@ -52575,9 +53401,9 @@ _Cite_:
   - Code de la construction et de l'habitation R321-12
 
 
-#### Chapitre III : Subventions de l'Etat.<a id=400></a>
+#### Chapitre III : Subventions de l'Etat.<a id=408></a>
 
-##### Section 1 : Subventions à l'amélioration des logements locatifs sociaux.<a id=401></a>
+##### Section 1 : Subventions à l'amélioration des logements locatifs sociaux.<a id=409></a>
 
 ###### Article R323-1
 
@@ -52998,9 +53824,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R323-23 (Ab)
 
 
-##### Section 2 : Dispositions relatives aux départements d'outre-mer.<a id=402></a>
+##### Section 2 : Dispositions relatives aux départements d'outre-mer.<a id=410></a>
 
-##### Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer<a id=403></a>
+##### Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer<a id=411></a>
 
 ###### Article R323-13
 
@@ -53289,7 +54115,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R323-30 (Ab)
 
 
-#### Chapitre V : Restauration immobilière.<a id=404></a>
+#### Chapitre V : Restauration immobilière.<a id=412></a>
 
 ###### Article R*325-1
 
@@ -53434,13 +54260,13 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.<a id=405></a>
+### Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement.<a id=413></a>
 
-#### Chapitre unique.<a id=406></a>
+#### Chapitre unique.<a id=414></a>
 
-##### Section 1 : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.<a id=407></a>
+##### Section 1 : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.<a id=415></a>
 
-##### Sous-section 1 : Dispositions communes.<a id=408></a>
+##### Sous-section 1 : Dispositions communes.<a id=416></a>
 
 ###### Article R331-1
 
@@ -54139,7 +54965,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-23 (Ab)
 
 
-##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.<a id=409></a>
+##### Sous-section 2 : Dispositions applicables aux subventions de l'Etat et aux prêts de la Caisse des dépôts et consignations.<a id=417></a>
 
 ###### Article R331-14
 
@@ -54402,7 +55228,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-15
 
 
-##### Sous-section 3 : Dispositions applicables aux autres prêts locatifs sociaux.<a id=410></a>
+##### Sous-section 3 : Dispositions applicables aux autres prêts locatifs sociaux.<a id=418></a>
 
 ###### Article R331-17
 
@@ -54632,7 +55458,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-18 (V)
 
 
-##### Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis.<a id=411></a>
+##### Sous-section 4 : Dispositions relatives au foncier et à l'acquisition d'immeubles bâtis.<a id=419></a>
 
 ###### Article R331-24
 
@@ -54796,7 +55622,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-6 (V)
 
 
-##### Sous-section 6 : Départements d'outre-mer.<a id=412></a>
+##### Sous-section 6 : Départements d'outre-mer.<a id=420></a>
 
 ###### Article R331-28
 
@@ -54818,7 +55644,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°87-1113 du 24 décembre 1987 - art. 3 ()
 
 
-##### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.<a id=413></a>
+##### Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété.<a id=421></a>
 
 ###### Article R331-31-1
 
@@ -54928,7 +55754,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L431-6 (Ab)
 
 
-##### Sous-section 1 : Conditions d'octroi des prêts.<a id=414></a>
+##### Sous-section 1 : Conditions d'octroi des prêts.<a id=422></a>
 
 ###### Article R331-34
 
@@ -55689,7 +56515,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-44 (V)
 
 
-##### Sous-section 2 : Caractéristiques des prêts.<a id=415></a>
+##### Sous-section 2 : Caractéristiques des prêts.<a id=423></a>
 
 ###### Article R331-53
 
@@ -55938,7 +56764,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-99 (V)
 
 
-##### Sous-section 3 : Modalités de l'aide.<a id=416></a>
+##### Sous-section 3 : Modalités de l'aide.<a id=424></a>
 
 ###### Article R331-56
 
@@ -55977,7 +56803,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-60 (V)
 
 
-##### Sous-section 4 : Préfinancement.<a id=417></a>
+##### Sous-section 4 : Préfinancement.<a id=425></a>
 
 ###### Article R331-57
 
@@ -56106,7 +56932,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-57 (V)
 
 
-##### Sous-section 4 bis : Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R331-59 du code de la construction et de l'habitation.<a id=418></a>
+##### Sous-section 4 bis : Régime du financement des logements n'ayant pas fait l'objet du transfert ou du maintien du préfinancement dans les conditions définies à l'article R331-59 du code de la construction et de l'habitation.<a id=426></a>
 
 ###### Article R331-59-1
 
@@ -56321,7 +57147,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-59-6 (V)
 
 
-##### Sous-section 4 ter : Régime des opérations d'accession à la propriété aidée comportant un contrat de location-accession à la propriété immobilière régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière.<a id=419></a>
+##### Sous-section 4 ter : Régime des opérations d'accession à la propriété aidée comportant un contrat de location-accession à la propriété immobilière régi par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière.<a id=427></a>
 
 ###### Article R331-59-8
 
@@ -56671,7 +57497,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-59-1 (V)
 
 
-##### Sous-section 5 : Sanctions.<a id=420></a>
+##### Sous-section 5 : Sanctions.<a id=428></a>
 
 ###### Article R331-60
 
@@ -56727,7 +57553,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-32 (V)
 
 
-##### Sous-section 5 bis : Dispositions relatives à la mise en extinction des prêts aidés par l'Etat à l'accession à la propriété.<a id=421></a>
+##### Sous-section 5 bis : Dispositions relatives à la mise en extinction des prêts aidés par l'Etat à l'accession à la propriété.<a id=429></a>
 
 ###### Article R331-61-1
 
@@ -56770,7 +57596,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-32 (V)
 
 
-##### Sous-section 6 : Départements d'outre-mer.<a id=422></a>
+##### Sous-section 6 : Départements d'outre-mer.<a id=430></a>
 
 ###### Article R331-62
 
@@ -56791,7 +57617,7 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
-##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.<a id=423></a>
+##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.<a id=431></a>
 
 ###### Article R331-63
 
@@ -56898,7 +57724,7 @@ _Modifié par_:
   - Décret n°1993-03-18 art. 3 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
-##### Sous-section 1 : Conditions d'octroi.<a id=424></a>
+##### Sous-section 1 : Conditions d'octroi.<a id=432></a>
 
 ###### Article R331-65
 
@@ -57072,15 +57898,11 @@ _Modifié par_:
 
 Les opérations d'agrandissement de logements existants ou d'acquisition de logements existants suivies, le cas échéant, de
 travaux d'amélioration, doivent respecter des normes minimales de surface habitable. Les travaux d'agrandissement ou
-d'amélioration doivent avoir au minimum pour effet de mettre en conformité les logements avec des normes d'habitabilité.
-Lorsque l'acquisition porte sur des immeubles achevés depuis plus de vingt ans, un état des lieux relatif aux conditions de
-surface et d'habitabilité est annexé au contrat de prêt. Un arrêté des ministres chargés du logement et de l'économie définit
-les conditions d'application de cet article.
-
-**Nota:**
-
-NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
-compter du 1er novembre 2001.
+d'amélioration doivent avoir au minimum pour effet de mettre en conformité les logements avec des normes d'habitabilité. Les
+normes minimales de surface et d'habitabilité sont celles mentionnées à l'article R. 318-3. Lorsque l'acquisition porte sur
+des immeubles achevés depuis plus de vingt ans, un état des lieux relatif aux conditions de surface et d'habitabilité est
+annexé au contrat de prêt. Un arrêté des ministres chargés du logement et de l'économie définit les conditions d'application
+de cet article.
 
 **Liens relatifs à cet article**
 
@@ -57095,13 +57917,13 @@ _Cité par_:
   - Arrêté du 4 octobre 2001 - art. 7 (V)
   - Code de la construction et de l'habitation. - art. R318-3 (Ab)
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
-
 _Modifié par_:
 
-  - Décret n°2001-911 du 4 octobre 2001 - art. 4 () JORF 6 octobre 2001
+  - Décret n°2005-70 du 31 janvier 2005 - art. 5 () JORF 1er février 2005
+
+_Abrogé par_:
+
+  - Décret n°2010-913 du 3 août 2010 - art. 1
 
 
 ###### Article R331-70
@@ -57144,7 +57966,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-66 (M)
 
 
-##### Sous-section 2 : Caractéristiques.<a id=425></a>
+##### Sous-section 2 : Caractéristiques.<a id=433></a>
 
 ###### Article R331-71
 
@@ -57183,7 +58005,7 @@ _Modifié par_:
 
 Les prêts conventionnés sont exclusifs de tout autre prêt à l'exception des prêts suivants :
 
-1. L'avance aidée par l'Etat mentionnée à l'article R. 317-1 ;
+1. L'avance aidée par l'Etat mentionnée aux articles R. 317-1 et R. 318-1 ;
 
 2. Les prêts d'épargne logement prévus aux articles L. 315-1 et L. 315-2 ;
 
@@ -57199,11 +58021,6 @@ partir d'intérêts acquis au taux de rémunération des dépôts en vigueur à 
 7. Les compléments de prêts accordés aux Français rapatriés d'outre-mer titulaires de titres d'indemnisation prévus par la
 loi n° 78-1 du 2 janvier 1978 relative à l'indemnisation des Français rapatriés d'outre-mer dépossédés de leurs biens.
 
-**Nota:**
-
-NOTA : Décret 2001-911 2001-10-04 art. 13 : Les dispositions du présent décret sont applicables aux offres de prêts émises à
-compter du 1er novembre 2001.
-
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -57214,18 +58031,15 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L315-2 (M)
   - Code de la construction et de l'habitation. - art. R314-1 (V)
   - Code de la construction et de l'habitation. - art. R317-1 (M)
+  - Code de la construction et de l'habitation. - art. R318-1 (V)
 
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Décret n°2001-911 du 4 octobre 2001 - art. 13 (V)
-
 _Modifié par_:
 
-  - Décret n°2001-911 du 4 octobre 2001 - art. 7 () JORF 6 octobre 2001
+  - Décret n°2005-70 du 31 janvier 2005 - art. 3 () JORF 1er février 2005
 
 _Cité par_:
 
@@ -57408,7 +58222,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-73 (V)
 
 
-##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.<a id=426></a>
+##### Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété.<a id=434></a>
 
 ###### Article R331-76-1
 
@@ -57576,8 +58390,8 @@ plafonds de ressources mentionnés à l'article R. 331-66.
 Les prêts visés à l'alinéa précédent peuvent faire l'objet d'une convention de refinancement conclue sous l'égide de l'Etat
 entre les établissements de crédits distributeurs et la Caisse des dépôts et consignations.
 
-L'accédant ne peut bénéficier, pour un même logement, des dispositions du présent article et de celles des articles R. 317-1
-à R. 317-24.
+L'accédant ne peut bénéficier, pour un même logement, des dispositions du présent article et de celles des articles R. 318-1
+à R. 318-23.
 
 II. - Pour obtenir la décision d'agrément, le vendeur conclut avec l'Etat une convention qui prévoit le respect des
 conditions suivantes :
@@ -57617,7 +58431,7 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°84-595 1984-07-12
-  - Code de la construction et de l'habitation R331-66, R317-1 à R317-24, L261-3
+  - Code de la construction et de l'habitation R331-66, R318-1 à R318-23, L261-3
   - Code de la construction et de l'habitation. - art. L261-3 (M)
   - Code de la construction et de l'habitation. - art. R331-66 (M)
 
@@ -57653,9 +58467,9 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 244 quater W (V)
   - Code général des impôts, annexe 3, CGIAN3. - art. 46 AG sexdecies (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2004-286 du 26 mars 2004 - art. 2 () JORF 27 mars 2004
+  - Décret n°2005-70 du 31 janvier 2005 - art. 4 () JORF 1er février 2005
 
 
 ###### Article R331-76-5-2
@@ -57734,7 +58548,7 @@ _Cité par_:
   - Arrêté du 26 mars 2004 - art. Annexe I (V)
 
 
-##### Sous-section 3 : Contrôle.<a id=427></a>
+##### Sous-section 3 : Contrôle.<a id=435></a>
 
 ###### Article R331-76-6
 
@@ -57786,7 +58600,7 @@ _Modifié par_:
   - Décret n°2003-806 2003-08-25 art. 1 1° JORF 28 août 2003
 
 
-##### Sous-section 4 : Départements d'outre-mer.<a id=428></a>
+##### Sous-section 4 : Départements d'outre-mer.<a id=436></a>
 
 ###### Article R331-77
 
@@ -57853,7 +58667,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-##### Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.<a id=429></a>
+##### Section 4 : Prêts à taux préférentiel et révisable pour la construction, l'acquisition et l'amélioration des logements locatifs.<a id=437></a>
 
 ###### Article R331-78
 
@@ -58031,13 +58845,13 @@ _Modifié par_:
   - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
 
-### Titre V : Aide personnalisée au logement<a id=430></a>
+### Titre V : Aide personnalisée au logement<a id=438></a>
 
-#### Chapitre Ier : Dispositions générales<a id=431></a>
+#### Chapitre Ier : Dispositions générales<a id=439></a>
 
-##### Section 1 : Aide personnalisée<a id=432></a>
+##### Section 1 : Aide personnalisée<a id=440></a>
 
-##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=433></a>
+##### Sous-section 1 : Champ d'application de l'aide personnalisée au logement.<a id=441></a>
 
 ###### Article R351-1
 
@@ -58123,7 +58937,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-4-1 (M)
 
 
-##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=434></a>
+##### Sous-section 2 : Conditions générales d'attribution de l'aide personnalisée au logement.<a id=442></a>
 
 ###### Article R*351-7-2
 
@@ -58774,7 +59588,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-26 (M)
 
 
-##### Sous-section 3 : Conditions particulières.<a id=435></a>
+##### Sous-section 3 : Conditions particulières.<a id=443></a>
 
 ###### Article R351-10
 
@@ -59253,7 +60067,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (M)
 
 
-##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=436></a>
+##### Sous-section 4 : Calcul de l'aide personnalisée au logement<a id=444></a>
 
 ###### Article R351-20
 
@@ -59292,7 +60106,7 @@ _Abrogé par_:
   - Décret n°97-289 du 28 mars 1997 - art. 10 (V) JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
-##### Paragraphe 1 : Dispositions relatives aux locataires.<a id=437></a>
+##### Paragraphe 1 : Dispositions relatives aux locataires.<a id=445></a>
 
 ###### Article R351-17-2
 
@@ -59431,7 +60245,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-17-4 (M)
 
 
-##### Paragraphe 2 : Dispositions relatives aux propriétaires.<a id=438></a>
+##### Paragraphe 2 : Dispositions relatives aux propriétaires.<a id=446></a>
 
 ###### Article R351-18
 
@@ -59771,7 +60585,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-22-1 (M)
 
 
-##### Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires.<a id=439></a>
+##### Paragraphe 3 : Dispositions communes aux locataires et aux propriétaires.<a id=447></a>
 
 ###### Article R351-22
 
@@ -59834,7 +60648,7 @@ _Créé par_:
   - Décret n°97-289 du 28 mars 1997 - art. 16 () JORF 29 mars 1997 en vigueur le 1er avril 1997
 
 
-##### Sous-section 5 : Prime de déménagement.<a id=440></a>
+##### Sous-section 5 : Prime de déménagement.<a id=448></a>
 
 ###### Article R351-23
 
@@ -59899,7 +60713,7 @@ _Modifié par_:
   - Décret n°2001-1037 du 5 novembre 2001 - art. 8 () JORF 11 novembre 2001 en vigueur le 1er janvier 2002
 
 
-##### Sous-section 6 : Modalités de liquidation et de versement.<a id=441></a>
+##### Sous-section 6 : Modalités de liquidation et de versement.<a id=449></a>
 
 ###### Article R351-26
 
@@ -60179,7 +60993,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-28-1 (M)
 
 
-##### Sous-section 7 : Dispositions diverses.<a id=442></a>
+##### Sous-section 7 : Dispositions diverses.<a id=450></a>
 
 ###### Article R*351-30
 
@@ -60396,7 +61210,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-66 (V)
 
 
-##### Section 2 : Fonds national de l'habitation.<a id=443></a>
+##### Section 2 : Fonds national de l'habitation.<a id=451></a>
 
 ###### Article R351-33
 
@@ -60428,7 +61242,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-36 (V)
 
 
-##### Sous-section 1 : Organisation.<a id=444></a>
+##### Sous-section 1 : Organisation.<a id=452></a>
 
 ###### Article R351-34
 
@@ -60484,7 +61298,7 @@ _Modifié par_:
   - Décret n°95-709 du 9 mai 1995 - art. 8 () JORF 11 mai 1995
 
 
-##### Sous-section 2 : Attributions.<a id=445></a>
+##### Sous-section 2 : Attributions.<a id=453></a>
 
 ###### Article R351-36
 
@@ -60582,7 +61396,7 @@ _Modifié par_:
   - Décret n°95-709 du 9 mai 1995 - art. 10 () JORF 11 mai 1995
 
 
-##### Sous-section 3 : Dispositions financières.<a id=446></a>
+##### Sous-section 3 : Dispositions financières.<a id=454></a>
 
 ###### Article R351-40
 
@@ -60783,7 +61597,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-44 (M)
 
 
-##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=447></a>
+##### Section 3 : Section des aides publiques au logement du conseil départemental de l'habitat.<a id=455></a>
 
 ###### Article R*351-48
 
@@ -61005,9 +61819,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-20 (Ab)
 
 
-##### Section 4 : Dispositions particulières aux logements-foyers<a id=448></a>
+##### Section 4 : Dispositions particulières aux logements-foyers<a id=456></a>
 
-##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=449></a>
+##### Sous-section 1 : Conditions d'assimilation des logements-foyers aux logements à usage locatif.<a id=457></a>
 
 ###### Article R351-55
 
@@ -61153,7 +61967,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R351-58 (M)
 
 
-##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=450></a>
+##### Sous-section 2 : Conditions d'octroi de l'aide personnalisée au logement aux personnes résidant dans un logement-foyer.<a id=458></a>
 
 ###### Article R351-58
 
@@ -61607,9 +62421,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R351-32 (M)
 
 
-#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=451></a>
+#### Chapitre III : Régime juridique des logements locatifs conventionnés.<a id=459></a>
 
-##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=452></a>
+##### Section 1 : Conventions conclues entre l'Etat et les organismes d'habitations à loyer modéré.<a id=460></a>
 
 ###### Article R353-1
 
@@ -62114,7 +62928,7 @@ _Modifié par_:
   - Décret n°99-864 du 7 octobre 1999 - art. 2 () JORF 8 octobre 1999
 
 
-##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=453></a>
+##### Section 2 : Conventions conclues entre l'Etat et les bailleurs de logements en application de l'article L351-2 (4°).<a id=461></a>
 
 ###### Article R353-32
 
@@ -62788,7 +63602,7 @@ _Créé par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
 
 
-##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=454></a>
+##### Section 3 : Conventions conclues entre l'Etat et les sociétés d'économie mixte de construction immobilière ne demandant pas à bénéficier des dispositions de l'article L353-18.<a id=462></a>
 
 ###### Article R353-58
 
@@ -63220,7 +64034,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R353-71 (M)
 
 
-##### Section 4 : Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°).<a id=455></a>
+##### Section 4 : Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°).<a id=463></a>
 
 ###### Article R353-89
 
@@ -63682,7 +64496,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L351-2 (M)
 
 
-##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=456></a>
+##### Section 6 : Dispositions particulières relatives aux conventions passées entre l'Etat et les bailleurs de logements bénéficiaires de prêts conventionnés en application de la section III du chapitre unique du titre III du livre III du code de la construction et de l'habitation.<a id=464></a>
 
 ###### Article R353-126
 
@@ -64246,9 +65060,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°)<a id=457></a>
+##### Section 7 : Conventions passées entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L353-13 portant sur les logements-foyers visés par l'article L351-2 (5°)<a id=465></a>
 
-##### Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales.<a id=458></a>
+##### Sous-section 1 : Logements-foyers autres que les logements-foyers dénommés résidences sociales.<a id=466></a>
 
 ###### Article R353-154
 
@@ -64593,7 +65407,7 @@ _Anciens textes_:
   - Code de la construction et de l'habitation. - art. R353-165 (M)
 
 
-##### Sous-section 2 : Logements-foyers dénommés résidences sociales.<a id=459></a>
+##### Sous-section 2 : Logements-foyers dénommés résidences sociales.<a id=467></a>
 
 ###### Article R353-165
 
@@ -64951,7 +65765,7 @@ _Créé par_:
   - Décret n°94-1129 du 23 décembre 1994 - art. 3 () JORF 27 décembre 1994
 
 
-##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=460></a>
+##### Section 8 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé à l'accession à la propriété et mentionnées à l'article R331-41 (3°).<a id=468></a>
 
 ###### Article R353-166
 
@@ -65194,7 +66008,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-41 (M)
 
 
-##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.<a id=461></a>
+##### Section 9 : Conventions conclues en application de l'article L351-2 (3) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par des collectivités publiques.<a id=469></a>
 
 ###### Article R353-189
 
@@ -65436,7 +66250,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=462></a>
+##### Section 10 : Conventions conclues en application de l'article L351-2 (3°) entre l'Etat et les personnes physiques ou morales bénéficiaires de prêts prévus par la sous-section IV bis de la section II du chapitre I du titre III du livre III.<a id=470></a>
 
 ###### Article R353-200
 
@@ -65783,9 +66597,9 @@ _Modifié par_:
   - TXT_SOURCE: Code de la construction et de l'habitation L351-2 3
 
 
-### Titre VI : Organismes consultatifs.<a id=463></a>
+### Titre VI : Organismes consultatifs.<a id=471></a>
 
-#### Chapitre Ier : Conseil national de l'habitat.<a id=464></a>
+#### Chapitre Ier : Conseil national de l'habitat.<a id=472></a>
 
 ###### Article R*361-1
 
@@ -66289,9 +67103,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*361-10 (V)
 
 
-#### Chapitre II : Conseil départemental de l'habitat.<a id=465></a>
+#### Chapitre II : Conseil départemental de l'habitat.<a id=473></a>
 
-##### Section 1 : Compétences.<a id=466></a>
+##### Section 1 : Compétences.<a id=474></a>
 
 ###### Article R362-1
 
@@ -66566,7 +67380,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-2 (M)
 
 
-##### Section 2 : Composition et fonctionnement.<a id=467></a>
+##### Section 2 : Composition et fonctionnement.<a id=475></a>
 
 ###### Article R362-9
 
@@ -66991,11 +67805,11 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
-### Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer.<a id=468></a>
+### Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer.<a id=476></a>
 
-#### Chapitre Ier : Conseil départemental de l'habitat.<a id=469></a>
+#### Chapitre Ier : Conseil départemental de l'habitat.<a id=477></a>
 
-##### Section 1 : Compétences.<a id=470></a>
+##### Section 1 : Compétences.<a id=478></a>
 
 ###### Article R371-1
 
@@ -67034,7 +67848,7 @@ _Créé par_:
   - Décret n°91-162 du 12 février 1991 - art. 1 () JORF 14 février 1991
 
 
-##### Section 2 : Composition et fonctionnement.<a id=471></a>
+##### Section 2 : Composition et fonctionnement.<a id=479></a>
 
 ###### Article R371-3
 
@@ -67331,11 +68145,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R371-4 (M)
 
 
-#### Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.<a id=472></a>
+#### Chapitre II : Subventions et prêts pour la construction, l'acquisition et l'amélioration des logements locatifs aidés.<a id=480></a>
 
-##### Section 1 : Dispositions générales relatives aux aides de l'Etat<a id=473></a>
+##### Section 1 : Dispositions générales relatives aux aides de l'Etat<a id=481></a>
 
-##### Sous-section 1 : Dispositions relatives aux opérations<a id=474></a>
+##### Sous-section 1 : Dispositions relatives aux opérations<a id=482></a>
 
 ###### Article R372-1
 
@@ -67428,7 +68242,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R372-17 (V)
 
 
-##### Sous-section 2 : Dispositions relatives aux bénéficiaires des subventions et des prêts<a id=475></a>
+##### Sous-section 2 : Dispositions relatives aux bénéficiaires des subventions et des prêts<a id=483></a>
 
 ###### Article R372-3
 
@@ -67477,7 +68291,7 @@ _Créé par_:
   - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
 
 
-##### Sous-section 3 : Dispositions relatives aux conditions générales d'octroi des aides de l'Etat<a id=476></a>
+##### Sous-section 3 : Dispositions relatives aux conditions générales d'octroi des aides de l'Etat<a id=484></a>
 
 ###### Article R372-4
 
@@ -67640,9 +68454,9 @@ _Cite_:
   - Code de l'urbanisme - art. R460-1 (M)
 
 
-##### Section 2 : Dispositions applicables aux subventions de l'Etat<a id=477></a>
+##### Section 2 : Dispositions applicables aux subventions de l'Etat<a id=485></a>
 
-##### Sous-section 1 : Dispositions relatives à l'assiette et aux taux des subventions<a id=478></a>
+##### Sous-section 1 : Dispositions relatives à l'assiette et aux taux des subventions<a id=486></a>
 
 ###### Article R372-9
 
@@ -67740,7 +68554,7 @@ _Cité par_:
   - Arrêté du 13 mars 1986 - art. 6 (Ab)
 
 
-##### Sous-section 2 : Modalités de versements des subventions<a id=479></a>
+##### Sous-section 2 : Modalités de versements des subventions<a id=487></a>
 
 ###### Article R372-12
 
@@ -67790,7 +68604,7 @@ _Créé par_:
   - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
 
 
-##### Sous-section 3 : Subventions de l'Etat pour surcharge foncière<a id=480></a>
+##### Sous-section 3 : Subventions de l'Etat pour surcharge foncière<a id=488></a>
 
 ###### Article R372-14
 
@@ -67876,7 +68690,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R372-3 (V)
 
 
-##### Sous-section 4 : Dispositions relatives à l'acquisition de terrains<a id=481></a>
+##### Sous-section 4 : Dispositions relatives à l'acquisition de terrains<a id=489></a>
 
 ###### Article R372-17
 
@@ -67960,11 +68774,11 @@ _Créé par_:
   - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
 
 
-### Titre VIII : Dispositions particulières à la région Ile-de-France<a id=482></a>
+### Titre VIII : Dispositions particulières à la région Ile-de-France<a id=490></a>
 
-#### Chapitre unique : Subventions spécifiques aux logements locatifs ou subventions foncières<a id=483></a>
+#### Chapitre unique : Subventions spécifiques aux logements locatifs ou subventions foncières<a id=491></a>
 
-##### Section 1 : Conditions d'attribution des subventions foncières aux logements locatifs sociaux<a id=484></a>
+##### Section 1 : Conditions d'attribution des subventions foncières aux logements locatifs sociaux<a id=492></a>
 
 ###### Article R381-1
 
@@ -68049,7 +68863,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-24 (V)
 
 
-##### Section 2 : Subventions spécifiques aux logements locatifs sociaux<a id=485></a>
+##### Section 2 : Subventions spécifiques aux logements locatifs sociaux<a id=493></a>
 
 ###### Article R381-4
 
@@ -68127,7 +68941,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R365-1 (V)
 
 
-##### Section 3 : Subvention foncière aux logements locatifs intermédiaires<a id=486></a>
+##### Section 3 : Subvention foncière aux logements locatifs intermédiaires<a id=494></a>
 
 ###### Article R381-6
 
@@ -68159,9 +68973,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R391-1 (V)
 
 
-### Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.<a id=487></a>
+### Titre IX : Dispositions relatives aux prêts locatifs intermédiaires.<a id=495></a>
 
-#### Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations<a id=488></a>
+#### Chapitre unique : Prêts pour la construction, l'acquisition et l'amélioration d'habitations<a id=496></a>
 
 ###### Article R391-1
 
@@ -68435,11 +69249,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R391-3 (V)
 
 
-## Livre IV : Habitations à loyer modéré<a id=489></a>
+## Livre IV : Habitations à loyer modéré<a id=497></a>
 
-### Titre Ier : Dispositions générales<a id=490></a>
+### Titre Ier : Dispositions générales<a id=498></a>
 
-#### Chapitre unique.<a id=491></a>
+#### Chapitre unique.<a id=499></a>
 
 ###### Article R411-1
 
@@ -68462,13 +69276,13 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L411-1 (V)
 
 
-### Titre II : Organismes d'habitations à loyer modéré<a id=492></a>
+### Titre II : Organismes d'habitations à loyer modéré<a id=500></a>
 
-#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré<a id=493></a>
+#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré<a id=501></a>
 
-##### Section 1 : Offices publics d'aménagement et de construction<a id=494></a>
+##### Section 1 : Offices publics d'aménagement et de construction<a id=502></a>
 
-##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=495></a>
+##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=503></a>
 
 ###### Article R*421-1
 
@@ -69515,7 +70329,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*421-51 (Ab)
 
 
-##### Sous-section 2 : Offices publics d'aménagement et de construction créés directement.<a id=496></a>
+##### Sous-section 2 : Offices publics d'aménagement et de construction créés directement.<a id=504></a>
 
 ###### Article R421-32
 
@@ -69546,7 +70360,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R362-1 (M)
 
 
-##### Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.<a id=497></a>
+##### Sous-section 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis, en matière de gestion financière et comptable, aux règles applicables aux entreprises de commerce.<a id=505></a>
 
 ###### Article R421-40
 
@@ -69676,9 +70490,9 @@ _Cite_:
   - Code de la construction et de l'habitation R421-28, R421-30
 
 
-##### Section 2 : Offices publics d'habitations à loyer modéré<a id=498></a>
+##### Section 2 : Offices publics d'habitations à loyer modéré<a id=506></a>
 
-##### Sous-section 1 : Création et gestion.<a id=499></a>
+##### Sous-section 1 : Création et gestion.<a id=507></a>
 
 ###### Article R*421-51
 
@@ -70389,7 +71203,7 @@ _Anciens textes_:
   - Code de l'urbanisme 169 et 170
 
 
-##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.<a id=500></a>
+##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.<a id=508></a>
 
 ###### Article R*421-67
 
@@ -70505,7 +71319,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
 
 
-##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=501></a>
+##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=509></a>
 
 ###### Article R*421-73
 
@@ -70670,9 +71484,9 @@ _Abrogé par_:
   - Décret n°2008-566 du 18 juin 2008 - art. 1
 
 
-#### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=502></a>
+#### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=510></a>
 
-##### Section 2 : Sociétés anonymes d'habitations à loyer modéré.<a id=503></a>
+##### Section 2 : Sociétés anonymes d'habitations à loyer modéré.<a id=511></a>
 
 ###### Article R*422-1
 
@@ -71063,7 +71877,7 @@ _Modifié par_:
   - Décret n°2004-943 du 2 septembre 2004 - art. 11 () JORF 7 septembre 2004
 
 
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=504></a>
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré et sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=512></a>
 
 ###### Article R*422-6
 
@@ -71389,7 +72203,7 @@ _Modifié par_:
   - Décret n°2004-1087 du 14 octobre 2004 - art. 1 () JORF 15 octobre 2004
 
 
-##### Section 4 : Sociétés anonymes de crédit immobilier.<a id=505></a>
+##### Section 4 : Sociétés anonymes de crédit immobilier.<a id=513></a>
 
 ###### Article R*422-10
 
@@ -71578,7 +72392,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-9 (AbD)
 
 
-##### Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré.<a id=506></a>
+##### Section 5 : Dispositions communes aux sociétés anonymes et aux sociétés coopératives d'habitations à loyer modéré.<a id=514></a>
 
 ###### Article R*422-16-1
 
@@ -71680,9 +72494,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-8-1 (V)
 
 
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=507></a>
+##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=515></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=508></a>
+##### Sous-section 1 : Dispositions générales.<a id=516></a>
 
 ###### Article R*422-18
 
@@ -72011,7 +72825,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-13 (V)
 
 
-##### Sous-section 2 : Durée d'activité.<a id=509></a>
+##### Sous-section 2 : Durée d'activité.<a id=517></a>
 
 ###### Article R422-34
 
@@ -72154,7 +72968,7 @@ _Modifié par_:
   - Décret n°2001-645 du 18 juillet 2001 - art. 2 () JORF 20 juillet 2001
 
 
-##### Sous-section 3 : Statuts.<a id=510></a>
+##### Sous-section 3 : Statuts.<a id=518></a>
 
 ###### Article R*422-38
 
@@ -72196,7 +73010,7 @@ _Cité par_:
   - Décret n°93-749 du 27 mars 1993 - art. 7 (V)
 
 
-##### Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=511></a>
+##### Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=519></a>
 
 ###### Article R422-39
 
@@ -72286,9 +73100,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L422-16 (V)
 
 
-#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré<a id=512></a>
+#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré<a id=520></a>
 
-##### Section 1 : Dispositions communes financières et comptables.<a id=513></a>
+##### Section 1 : Dispositions communes financières et comptables.<a id=521></a>
 
 ###### Article R423-1
 
@@ -72322,9 +73136,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L423-3 (AbD)
 
 
-##### Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction.<a id=514></a>
+##### Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction.<a id=522></a>
 
-##### Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction.<a id=515></a>
+##### Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction.<a id=523></a>
 
 ###### Article R*423-2
 
@@ -72841,7 +73655,7 @@ _Abrogé par_:
   - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
-##### Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.<a id=516></a>
+##### Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.<a id=524></a>
 
 ###### Article R*423-31
 
@@ -72871,7 +73685,7 @@ _Abrogé par_:
   - Décret n°2008-648 du 1er juillet 2008 - art. 1
 
 
-##### Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique.<a id=517></a>
+##### Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique.<a id=525></a>
 
 ###### Article R423-32
 
@@ -73121,7 +73935,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*421-13 (V)
 
 
-##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=518></a>
+##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=526></a>
 
 ###### Article R*423-63
 
@@ -73996,7 +74810,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R423-65 (Ab)
 
 
-##### Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité<a id=519></a>
+##### Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité<a id=527></a>
 
 ###### Article R423-68
 
@@ -74362,7 +75176,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R423-68 (M)
 
 
-##### Section 2 : Dispositions domaniales.<a id=520></a>
+##### Section 2 : Dispositions domaniales.<a id=528></a>
 
 ###### Article R*423-84
 
@@ -74485,7 +75299,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 3 : Sociétés anonymes de coordination d'organismes d'habitations à loyer modéré<a id=521></a>
+##### Section 3 : Sociétés anonymes de coordination d'organismes d'habitations à loyer modéré<a id=529></a>
 
 ###### Article R*423-85
 
@@ -74796,13 +75610,13 @@ _Cite_:
   - Code de commerce - art. L225-100 (V)
 
 
-### Titre III : Dispositions financières.<a id=522></a>
+### Titre III : Dispositions financières.<a id=530></a>
 
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=523></a>
+#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=531></a>
 
-##### Section 1 : Prêts et subventions de l'Etat.<a id=524></a>
+##### Section 1 : Prêts et subventions de l'Etat.<a id=532></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=525></a>
+##### Sous-section 1 : Dispositions générales.<a id=533></a>
 
 ###### Article R*431-7
 
@@ -75428,7 +76242,7 @@ _Modifié par_:
   - TXT_SOURCE: Règlement CE 974/98 1998-05-03
 
 
-##### Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier.<a id=526></a>
+##### Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier.<a id=534></a>
 
 ###### Article R431-19
 
@@ -75644,7 +76458,7 @@ _Modifié par_:
   - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance.<a id=527></a>
+##### Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance.<a id=535></a>
 
 ###### Article R431-25
 
@@ -75779,7 +76593,7 @@ _Modifié par_:
   - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Section 3 : Bonifications d'intérêts.<a id=528></a>
+##### Section 3 : Bonifications d'intérêts.<a id=536></a>
 
 ###### Article R*431-50
 
@@ -75976,9 +76790,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 4 : Dispositions diverses<a id=529></a>
+##### Section 4 : Dispositions diverses<a id=537></a>
 
-##### Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics.<a id=530></a>
+##### Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics.<a id=538></a>
 
 ###### Article R431-57
 
@@ -76117,7 +76931,7 @@ _Anciens textes_:
   - Décret n°1907-01-10 art. 11
 
 
-##### Sous-section 2 : Garanties hypothécaires.<a id=531></a>
+##### Sous-section 2 : Garanties hypothécaires.<a id=539></a>
 
 ###### Article R431-62
 
@@ -76142,7 +76956,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L431-1 (V)
 
 
-##### Sous-section 3 : Modalités de gestion des prêts.<a id=532></a>
+##### Sous-section 3 : Modalités de gestion des prêts.<a id=540></a>
 
 ###### Article R431-63
 
@@ -76166,9 +76980,9 @@ _Créé par_:
   - Décret n°93-619 1993-03-25 art. 1, art. 2 JORF 28 mars 1993
 
 
-#### Chapitre II : Prêts aux autres organismes et collectivités<a id=533></a>
+#### Chapitre II : Prêts aux autres organismes et collectivités<a id=541></a>
 
-##### Section 1 : Prêts de l'Etat aux communes.<a id=534></a>
+##### Section 1 : Prêts de l'Etat aux communes.<a id=542></a>
 
 ###### Article R*432-1
 
@@ -76279,7 +77093,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L432-1 (M)
 
 
-##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.<a id=535></a>
+##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.<a id=543></a>
 
 ###### Article R432-4
 
@@ -76389,7 +77203,7 @@ _Modifié par_:
   - Ordonnance n°2000-916 du 19 septembre 2000 - art. 1 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
 
 
-##### Section 3 : Dispositions communes.<a id=536></a>
+##### Section 3 : Dispositions communes.<a id=544></a>
 
 ###### Article R432-9
 
@@ -76407,9 +77221,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-#### Chapitre III : Marchés des organismes d'habitations à loyer modéré.<a id=537></a>
+#### Chapitre III : Marchés des organismes d'habitations à loyer modéré.<a id=545></a>
 
-##### Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré.<a id=538></a>
+##### Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré.<a id=546></a>
 
 ###### Article R*433-1
 
@@ -76500,7 +77314,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux.<a id=539></a>
+##### Section 2 : Contrats des organismes privés d'habitations à loyer modéré et des sociétés d'économie mixte de construction et de gestion de logements sociaux.<a id=547></a>
 
 ###### Article R433-5
 
@@ -77141,7 +77955,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R433-5 (M)
 
 
-##### Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte.<a id=540></a>
+##### Section 4 : Dispositions relatives à certains contrats passés par les organismes privés d'habitations à loyer modéré et les sociétés d'économie mixte.<a id=548></a>
 
 ###### Article R433-20
 
@@ -77281,11 +78095,11 @@ _Modifié par_:
   - Décret n°93-746 1993-03-27 art. 2, art. 9 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
-### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=541></a>
+### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=549></a>
 
-#### Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité.<a id=542></a>
+#### Chapitre Ier : Conditions d'attribution des logements et plafonds de ressources - Supplément de loyer de solidarité.<a id=550></a>
 
-##### Section 1 : Conditions d'attribution des logements et plafonds de ressources.<a id=543></a>
+##### Section 1 : Conditions d'attribution des logements et plafonds de ressources.<a id=551></a>
 
 ###### Article R441-1
 
@@ -78085,7 +78899,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R441-15 (M)
 
 
-##### Section 2 : Commission de médiation et droit au logement opposable.<a id=544></a>
+##### Section 2 : Commission de médiation et droit au logement opposable.<a id=552></a>
 
 ###### Article R441-13
 
@@ -78115,9 +78929,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L441-2-5 (M)
 
 
-##### Section 2 : Supplément de loyer de solidarité<a id=545></a>
+##### Section 2 : Supplément de loyer de solidarité<a id=553></a>
 
-##### Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré.<a id=546></a>
+##### Sous-section 1 : Dispositions applicables aux organismes d'habitations à loyer modéré.<a id=554></a>
 
 ###### Article *R441-20
 
@@ -78424,7 +79238,7 @@ _Créé par_:
   - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
 
 
-##### Sous-section 2 : Dispositions applicables à d'autres bailleurs sociaux.<a id=547></a>
+##### Sous-section 2 : Dispositions applicables à d'autres bailleurs sociaux.<a id=555></a>
 
 ###### Article R441-29
 
@@ -78472,7 +79286,7 @@ _Créé par_:
   - Décret n°96-355 du 25 avril 1996 - art. 1 () JORF 27 avril 1996
 
 
-##### Sous-section 3 : Logements exonérés du supplément de loyer de solidarité.<a id=548></a>
+##### Sous-section 3 : Logements exonérés du supplément de loyer de solidarité.<a id=556></a>
 
 ###### Article R441-31
 
@@ -78516,9 +79330,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R481-4 (V)
 
 
-#### Chapitre II : Loyers et divers.<a id=549></a>
+#### Chapitre II : Loyers et divers.<a id=557></a>
 
-##### Section 1 : Dispositions générales.<a id=550></a>
+##### Section 1 : Dispositions générales.<a id=558></a>
 
 ###### Article *R442-3
 
@@ -78650,7 +79464,7 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R442-4 (V)
 
 
-##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.<a id=551></a>
+##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.<a id=559></a>
 
 ###### Article R442-6
 
@@ -78860,7 +79674,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L442-1 (V)
 
 
-##### Section 3 : Enquêtes et statistiques relatives à la connaissance de l'occupation des logements.<a id=552></a>
+##### Section 3 : Enquêtes et statistiques relatives à la connaissance de l'occupation des logements.<a id=560></a>
 
 ###### Article *R442-13
 
@@ -78930,9 +79744,9 @@ _Créé par_:
   - Décret n°96-1163 du 26 décembre 1996 - art. 1 () JORF 29 décembre 1996
 
 
-##### Section 4 : Gérance d'immeubles.<a id=553></a>
+##### Section 4 : Gérance d'immeubles.<a id=561></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=554></a>
+##### Sous-section 1 : Dispositions générales.<a id=562></a>
 
 ###### Article R*442-15
 
@@ -79172,7 +79986,7 @@ _Créé par_:
   - TRANSFERE: Décret n°2009-1686 du 30 décembre 2009 - art. 10 (V)
 
 
-##### Sous-section 2 : Mandats soumis à autorisation.<a id=555></a>
+##### Sous-section 2 : Mandats soumis à autorisation.<a id=563></a>
 
 ###### Article R*442-22
 
@@ -79245,9 +80059,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. Annexe à l'article R422-6 (V)
 
 
-#### Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.<a id=556></a>
+#### Chapitre III : Accession à la propriété et autres cessions - Transformations d'usage - Démolitions.<a id=564></a>
 
-##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=557></a>
+##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=565></a>
 
 ###### Article R*443-4
 
@@ -79481,7 +80295,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R431-1 (V)
 
 
-##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.<a id=558></a>
+##### Section 2 : Dispositions applicables aux cessions, aux transformations d'usage et aux démolitions d'éléments du patrimoine immobilier.<a id=566></a>
 
 ###### Article R443-10
 
@@ -79797,7 +80611,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R481-8-2 (V)
 
 
-##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=559></a>
+##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=567></a>
 
 ###### Article R443-23
 
@@ -80057,7 +80871,7 @@ _Modifié par_:
   - Décret n°87-477 du 1 juillet 1987 - art. 1 ()
 
 
-##### Section 5 : Dispositions applicables aux opérations réalisées en vue de la vente de logements à des personnes physiques<a id=560></a>
+##### Section 5 : Dispositions applicables aux opérations réalisées en vue de la vente de logements à des personnes physiques<a id=568></a>
 
 ###### Article R443-34
 
@@ -80110,11 +80924,11 @@ _Anciens textes_:
   - Décret n°1907-01-10 art. 40
 
 
-### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.<a id=561></a>
+### Titre V : Contrôle, redressement des organismes et garantie de l'accession sociale à la propriété.<a id=569></a>
 
-#### Chapitre Ier : Contrôle.<a id=562></a>
+#### Chapitre Ier : Contrôle.<a id=570></a>
 
-##### Section 1 : Contrôle à l'initiative de l'Etat.<a id=563></a>
+##### Section 1 : Contrôle à l'initiative de l'Etat.<a id=571></a>
 
 ###### Article R*451-6
 
@@ -80345,7 +81159,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R452-25-2 (M)
 
 
-##### Section 2 : Infractions aux règles d'attribution et d'affectation.<a id=564></a>
+##### Section 2 : Infractions aux règles d'attribution et d'affectation.<a id=572></a>
 
 ###### Article R*451-8
 
@@ -80380,7 +81194,7 @@ _Créé par_:
   - Décret n°2002-392 du 22 mars 2002 - art. 1 () JORF 23 mars 2002
 
 
-##### Section 3 : Contrôle à la demande des départements et des communes<a id=565></a>
+##### Section 3 : Contrôle à la demande des départements et des communes<a id=573></a>
 
 ###### Article R*451-9
 
@@ -80411,7 +81225,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R451-1 (VT)
 
 
-##### Section 4 : Avis préalable à certaines opérations immobilières<a id=566></a>
+##### Section 4 : Avis préalable à certaines opérations immobilières<a id=574></a>
 
 ###### Article R*451-10
 
@@ -80440,9 +81254,9 @@ _Cité par_:
   - Code général de la propriété des personnes publ... - art. R3221-9 (V)
 
 
-#### Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.<a id=567></a>
+#### Chapitre II : Caisse de garantie du logement locatif social et redressement des organismes.<a id=575></a>
 
-##### Section 1 : Dispositions générales<a id=568></a>
+##### Section 1 : Dispositions générales<a id=576></a>
 
 ###### Article R452-1
 
@@ -80521,7 +81335,7 @@ _Cité par_:
   - Arrêté du 18 mars 2002 - art. 4 (V)
 
 
-##### Section 2 : Organisation et administration<a id=569></a>
+##### Section 2 : Organisation et administration<a id=577></a>
 
 ###### Article R452-4
 
@@ -81139,7 +81953,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L452-1 (V)
 
 
-##### Section 3 : Régime financier<a id=570></a>
+##### Section 3 : Régime financier<a id=578></a>
 
 ###### Article R452-21
 
@@ -81299,7 +82113,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L452-4-1 (M)
 
 
-##### Section 4 : Contrôle externe<a id=571></a>
+##### Section 4 : Contrôle externe<a id=579></a>
 
 ###### Article R452-26
 
@@ -81371,7 +82185,7 @@ _Cite_:
   - Code monétaire et financier - art. L511-38 (V)
 
 
-#### Chapitre III : Garantie des opérations d'accession à la propriété.<a id=572></a>
+#### Chapitre III : Garantie des opérations d'accession à la propriété.<a id=580></a>
 
 ###### Article R453-1
 
@@ -81617,11 +82431,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L453-1 (V)
 
 
-### Titre VI : Organismes consultatifs.<a id=573></a>
+### Titre VI : Organismes consultatifs.<a id=581></a>
 
-#### Chapitre unique.<a id=574></a>
+#### Chapitre unique.<a id=582></a>
 
-##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=575></a>
+##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=583></a>
 
 ###### Article R*461-1
 
@@ -81715,7 +82529,7 @@ _Modifié par_:
   - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
 
-##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=576></a>
+##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=584></a>
 
 ###### Article R461-8
 
@@ -81842,9 +82656,9 @@ _Codifié par_:
   - Décret n°78-622 du 31 mai 1978, v. init.
 
 
-### Titre VII : Dispositions particulières à certaines parties du territoire.<a id=577></a>
+### Titre VII : Dispositions particulières à certaines parties du territoire.<a id=585></a>
 
-#### Chapitre II : Départements d'outre-mer.<a id=578></a>
+#### Chapitre II : Départements d'outre-mer.<a id=586></a>
 
 ###### Article R472-1
 
@@ -81914,7 +82728,7 @@ _Cité par_:
   - Arrêté du 8 mars 2016 - art. 1 (V)
 
 
-### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.<a id=579></a>
+### Titre VIII : Dispositions particulières aux sociétés d'économie mixte.<a id=587></a>
 
 ###### Article R*481-1
 
@@ -82074,9 +82888,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R441-31 (Ab)
 
 
-### Titre IX : Dispositions particulières relatives au maintien du caractère de logement social.<a id=580></a>
+### Titre IX : Dispositions particulières relatives au maintien du caractère de logement social.<a id=588></a>
 
-#### Chapitre unique.<a id=581></a>
+#### Chapitre unique.<a id=589></a>
 
 ###### Article R*491-1
 
@@ -82224,11 +83038,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*491-4 (V)
 
 
-## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=582></a>
+## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=590></a>
 
-### Titre Ier : Bâtiments menaçant ruine.<a id=583></a>
+### Titre Ier : Bâtiments menaçant ruine.<a id=591></a>
 
-#### Chapitre unique.<a id=584></a>
+#### Chapitre unique.<a id=592></a>
 
 ###### Article R511-1
 
@@ -82265,9 +83079,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2573-17 (V)
 
 
-### Titre II : Bâtiments insalubres.<a id=585></a>
+### Titre II : Bâtiments insalubres.<a id=593></a>
 
-#### Chapitre Ier : Relogement des habitants.<a id=586></a>
+#### Chapitre Ier : Relogement des habitants.<a id=594></a>
 
 ###### Article R*521-1
 
@@ -82456,7 +83270,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*521-5 (V)
 
 
-#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=587></a>
+#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=595></a>
 
 ###### Article R522-1
 
@@ -82583,7 +83397,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R522-2 (V)
 
 
-### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=588></a>
+### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=596></a>
 
 ###### Article R531-1
 
@@ -82648,11 +83462,11 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=589></a>
+## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=597></a>
 
-### Titre Ier : Dispositions générales.<a id=590></a>
+### Titre Ier : Dispositions générales.<a id=598></a>
 
-#### Chapitre II : Occupation du domaine public.<a id=591></a>
+#### Chapitre II : Occupation du domaine public.<a id=599></a>
 
 ###### Article R612-1
 
@@ -82676,7 +83490,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L612-1 (V)
 
 
-#### Chapitre V : Mesures de sauvegarde.<a id=592></a>
+#### Chapitre V : Mesures de sauvegarde.<a id=600></a>
 
 ###### Article R615-1
 
@@ -82797,9 +83611,9 @@ _Créé par_:
   - Décret n°97-122 du 11 février 1997 - art. 1 () JORF 12 février 1997
 
 
-### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=593></a>
+### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=601></a>
 
-#### Chapitre Ier : Service municipal du logement.<a id=594></a>
+#### Chapitre Ier : Service municipal du logement.<a id=602></a>
 
 ###### Article R621-1
 
@@ -82854,7 +83668,7 @@ _Anciens textes_:
   - Code de l'urbanisme 329
 
 
-#### Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière.<a id=595></a>
+#### Chapitre III : Aide aux associations, centres communaux et intercommunaux d'action sociale, autres organismes à but non lucratif et unions d'économie sociale pratiquant la sous-location ou la gestion immobilière.<a id=603></a>
 
 ###### Article R623-1
 
@@ -83071,11 +83885,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R623-4
 
 
-### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=596></a>
+### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=604></a>
 
-#### Chapitre unique<a id=597></a>
+#### Chapitre unique<a id=605></a>
 
-##### Section 1 : Aide financière de l'Etat.<a id=598></a>
+##### Section 1 : Aide financière de l'Etat.<a id=606></a>
 
 ###### Article R631-1
 
@@ -83164,7 +83978,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Communes où sévit une crise de logement.<a id=599></a>
+##### Section 2 : Communes où sévit une crise de logement.<a id=607></a>
 
 ###### Article R631-4
 
@@ -83308,9 +84122,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R631-7 (M)
 
 
-### Titre IV : Mise en oeuvre du droit au logement par la réquisition.<a id=600></a>
+### Titre IV : Mise en oeuvre du droit au logement par la réquisition.<a id=608></a>
 
-#### Chapitre Ier : Réquisition.<a id=601></a>
+#### Chapitre Ier : Réquisition.<a id=609></a>
 
 ###### Article R641-1
 
@@ -83979,9 +84793,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-23 (V)
 
 
-#### Chapitre II : Réquisition avec attributaire.<a id=602></a>
+#### Chapitre II : Réquisition avec attributaire.<a id=610></a>
 
-##### Section 1 : Principes généraux.<a id=603></a>
+##### Section 1 : Principes généraux.<a id=611></a>
 
 ###### Article R*642-1
 
@@ -84111,7 +84925,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-4 (V)
 
 
-##### Section 2 : Procédure.<a id=604></a>
+##### Section 2 : Procédure.<a id=612></a>
 
 ###### Article R*642-5
 
@@ -84224,7 +85038,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-9 (V)
 
 
-##### Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition.<a id=605></a>
+##### Section 3 : Relations entre le titulaire du droit d'usage et l'attributaire de la réquisition.<a id=613></a>
 
 ###### Article R*642-9
 
@@ -84279,7 +85093,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-18 (V)
 
 
-##### Section 4 : Plafonds de ressources et loyers.<a id=606></a>
+##### Section 4 : Plafonds de ressources et loyers.<a id=614></a>
 
 ###### Article R642-11
 
@@ -84344,9 +85158,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L642-1 (V)
 
 
-### Titre V : Sanctions et dispositions diverses.<a id=607></a>
+### Titre V : Sanctions et dispositions diverses.<a id=615></a>
 
-#### Chapitre unique.<a id=608></a>
+#### Chapitre unique.<a id=616></a>
 
 ###### Article R651-1
 
@@ -84405,9 +85219,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L651-10 (V)
 
 
-### Titre VI : Dispositions relatives à l'outre-mer.<a id=609></a>
+### Titre VI : Dispositions relatives à l'outre-mer.<a id=617></a>
 
-#### Chapitre II : Dispositions relatives à la Polynésie française.<a id=610></a>
+#### Chapitre II : Dispositions relatives à la Polynésie française.<a id=618></a>
 
 ###### Article R662-1
 
@@ -84461,9 +85275,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*261-8 (V)
 
 
-# Annexes<a id=611></a>
+# Annexes<a id=619></a>
 
-## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées.<a id=612></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées.<a id=620></a>
 
 ###### Article Annexe I à l'article R313-31
 
@@ -84600,7 +85414,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17.<a id=613></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17.<a id=621></a>
 
 ###### Article Annexe II à l'article R313-31-2
 
@@ -84719,7 +85533,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.<a id=614></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.<a id=622></a>
 
 ###### Article Annexe III aux articles R313-31, R313-31-2
 
@@ -84816,7 +85630,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative.<a id=615></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative.<a id=623></a>
 
 ###### Article Annexe IV à l'article R313-31-2
 
@@ -84905,7 +85719,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL).<a id=616></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL).<a id=624></a>
 
 ###### Article Annexe V aux articles R313-31, R313-31-2
 
@@ -84985,7 +85799,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.<a id=617></a>
+## Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.<a id=625></a>
 
 ###### Article Annexe VI à l'article R313-31-2
 
@@ -85088,7 +85902,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R313-9 (V)
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=618></a>
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=626></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -85418,7 +86232,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=619></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=627></a>
 
 ###### Article Annexe I à l'article R353-1
 
@@ -86055,7 +86869,7 @@ _Modifié par_:
   - Décret n°2002-848 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=620></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=628></a>
 
 ###### Article Annexe II à l'article R353-1
 
@@ -86162,7 +86976,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 1 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=621></a>
+## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=629></a>
 
 ###### Article Annexe III à l'article R353-1
 
@@ -86238,7 +87052,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=622></a>
+## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=630></a>
 
 ###### Article Annexe IV à l'article R353-1
 
@@ -86406,7 +87220,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=623></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=631></a>
 
 ###### Article Annexe I à l'article R353-32
 
@@ -87012,7 +87826,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=624></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=632></a>
 
 ###### Article Annexe I à l'article R353-59
 
@@ -87502,7 +88316,7 @@ _Modifié par_:
   - Décret n°2002-845 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Document prévu par l'article 1er de la présente convention.<a id=625></a>
+## Document prévu par l'article 1er de la présente convention.<a id=633></a>
 
 ###### Article Annexe II à l'article R353-59
 
@@ -87653,7 +88467,7 @@ _Créé par_:
   - Décret n°99-865 du 7 octobre 1999 - art. 3 () JORF 8 octobre 1999
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=626></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=634></a>
 
 ###### Article Annexe I à l'article R353-90
 
@@ -88159,7 +88973,7 @@ _Modifié par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=627></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=635></a>
 
 ###### Article Annexe II à l'article R353-90
 
@@ -88970,7 +89784,7 @@ _Créé par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=628></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=636></a>
 
 ###### Article Annexe I à l'article R353-127
 
@@ -89241,7 +90055,7 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=629></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=637></a>
 
 ###### Article Annexe III à l'article R353-127
 
@@ -89492,7 +90306,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 5 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Engagements de portée générale applicables à tout programme conventionné.<a id=630></a>
+## Engagements de portée générale applicables à tout programme conventionné.<a id=638></a>
 
 ###### Article Annexe V à l'article R353-127
 
@@ -89875,7 +90689,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=631></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=639></a>
 
 ###### Article Annexe 1 à l'article R353-161
 
@@ -90288,7 +91102,7 @@ _Créé par_:
   - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=632></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=640></a>
 
 ###### Article Annexe 2 à l'article R353-161
 
@@ -90671,7 +91485,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-## Convention type A.P.L. : résidences sociales.<a id=633></a>
+## Convention type A.P.L. : résidences sociales.<a id=641></a>
 
 ###### Article Annexe I à l'article R353-165-2
 
@@ -91152,7 +91966,7 @@ _Créé par_:
   - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
 
 
-### Résidence sociale de ....<a id=634></a>
+### Résidence sociale de ....<a id=642></a>
 
 ###### Article Annexe II à l'article R353-165-2
 
@@ -91215,7 +92029,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-### Agrément pour la gestion de résidence sociale.<a id=635></a>
+### Agrément pour la gestion de résidence sociale.<a id=643></a>
 
 ###### Article Annexe III à l'article R353-165-2
 
@@ -91266,7 +92080,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Description de la résidence sociale de ....<a id=636></a>
+### Description de la résidence sociale de ....<a id=644></a>
 
 ###### Article Annexe IV à l'article R353-165-2
 
@@ -91389,7 +92203,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Charges locatives récupérables.<a id=637></a>
+### Charges locatives récupérables.<a id=645></a>
 
 ###### Article Annexe V à l'article R353-165-2
 
@@ -91681,7 +92495,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=638></a>
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=646></a>
 
 ###### Article Annexe I à l'article R353-166
 
@@ -91900,7 +92714,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=639></a>
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=647></a>
 
 ###### Article Annexe II à l'article R353-166, art. 1
 
@@ -91939,7 +92753,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=640></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=648></a>
 
 ###### Article Annexe I à l'article R353-190
 
@@ -92449,7 +93263,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=641></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=649></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
@@ -92536,7 +93350,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=642></a>
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=650></a>
 
 ###### Article Annexe I à l'article R353-200
 
@@ -92789,7 +93603,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=643></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=651></a>
 
 ###### Article Annexe II à l'article R353-200, art. 1
 
@@ -92856,7 +93670,7 @@ _Créé par_:
   - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
 
 
-## Statuts types des sociétés anonymes d'habitations à loyer modéré.<a id=644></a>
+## Statuts types des sociétés anonymes d'habitations à loyer modéré.<a id=652></a>
 
 ###### Article Annexe à l'article R422-1
 
@@ -93184,7 +93998,7 @@ _Modifié par_:
   - Décret n°2004-641 du 1 juillet 2004 - art. 10 () JORF 3 juillet 2004
 
 
-## Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=645></a>
+## Statuts types des sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=653></a>
 
 ###### Article Annexe à l'article R422-6
 
@@ -93515,7 +94329,7 @@ _Créé par_:
   - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
 
 
-## Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=646></a>
+## Clauses types des statuts des sociétés anonymes coopératives d'intérêt collectif d'habitations à loyer modéré.<a id=654></a>
 
 ###### Article Annexe à l'article R422-7
 
@@ -93642,7 +94456,7 @@ _Créé par_:
   - Décret n°2004-1087 du 14 octobre 2004 - art. 11 () JORF 15 octobre 2004
 
 
-## Statuts types des sociétés anonymes de crédit immobilier.<a id=647></a>
+## Statuts types des sociétés anonymes de crédit immobilier.<a id=655></a>
 
 ###### Article Annexe à l'article R422-14
 
@@ -94102,7 +94916,7 @@ _Modifié par_:
   - Décret n°2002-1158 du 13 septembre 2002 - art. 8 () JORF 14 septembre 2002
 
 
-## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=648></a>
+## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=656></a>
 
 ###### Article Annexe à l'article R422-37
 
@@ -94314,7 +95128,7 @@ _Modifié par_:
   - Décret n°2004-1087 du 14 octobre 2004 - art. 12 () JORF 15 octobre 2004
 
 
-## Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.<a id=649></a>
+## Clauses types des statuts des sociétés anonymes de coordination d'organismes d'habitations à loyer modéré.<a id=657></a>
 
 ###### Article Annexe à l'article R423-85
 
@@ -94455,7 +95269,7 @@ _Créé par_:
   - Décret n°2004-943 du 2 septembre 2004 - art. 5 () JORF 7 septembre 2004
 
 
-## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=650></a>
+## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=658></a>
 
 ###### Article Annexe à l'article R443-11
 
@@ -94556,7 +95370,7 @@ _Créé par_:
   - Décret n°87-477 1987-07-01 annexe JORF 2 juillet 1987
 
 
-## Clauses types de la convention de garantie fixées en application de l'article R. 453-8.<a id=651></a>
+## Clauses types de la convention de garantie fixées en application de l'article R. 453-8.<a id=659></a>
 
 ###### Article Annexe à l'article R453-8
 
