@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-04-12
+Version Consolidée au 1983-06-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -448,11 +448,11 @@ Version Consolidée au 1983-04-12
             - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-3 à R*421-31)](#445)
             - [Sous-section 2 : Offices publics d'aménagement et de construction créés directement. (art. R421-32)](#446)
           - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-5 à R*421-72)](#447)
-            - [Sous-section 1 : Création et gestion. (art. R*421-59 à R*421-60)](#448)
+            - [Sous-section 1 : Création et gestion. (art. R*421-54 à R*421-62)](#448)
             - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-67 à R*421-72)](#449)
-          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-76 à R*421-80)](#450)
-          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-58)](#451)
-            - [SOUS-SECTION I : Création et gestion. (art. R*421-58)](#452)
+          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-73 à R*421-80)](#450)
+          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-53 à R*421-63)](#451)
+            - [SOUS-SECTION I : Création et gestion. (art. R*421-53 à R*421-63)](#452)
           - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-81)](#453)
         - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-1 à R422-42)](#454)
           - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. R*422-1 à R*422-5)](#455)
@@ -467,114 +467,119 @@ Version Consolidée au 1983-04-12
           - [Section 7 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R422-39 à R422-42)](#464)
         - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré (art. R423-1 à R423-83)](#465)
           - [Section 1 : Dispositions communes financières et comptables. (art. R423-1 à R423-78)](#466)
-            - [Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction. (art. R*423-2 à R423-33)](#467)
+            - [Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction. (art. R*423-2 à R*423-31)](#467)
               - [Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction. (art. R*423-2 à R*423-30)](#468)
               - [Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce. (art. R*423-31)](#469)
-              - [Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique. (art. R423-32 à R423-33)](#470)
-            - [Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-39 à R423-61)](#471)
-            - [Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité (art. R423-68 à R423-78)](#472)
-          - [Section 2 : Dispositions domaniales. (art. R*423-84 à R423-83)](#473)
-      - [Titre III : Dispositions financières. (art. R*431-7 à R*434-8)](#474)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-7 à R431-62)](#475)
-          - [Section 1 : Prêts et subventions de l'Etat. (art. R*431-7 à R431-29)](#476)
-            - [Sous-section 1 : Dispositions générales. (art. R*431-7 à R431-18)](#477)
-            - [Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier. (art. R431-19 à R431-24)](#478)
-            - [Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance. (art. R431-25 à R431-29)](#479)
-          - [Section 3 : Bonifications d'intérêts. (art. R*431-50 à R431-56)](#480)
-          - [Section 4 : Dispositions diverses (art. R431-57 à R431-62)](#481)
-            - [Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics. (art. R431-57 à R431-61)](#482)
-            - [Sous-section 2 : Garanties hypothécaires. (art. R431-62)](#483)
-        - [Chapitre II : Prêts aux autres organismes et collectivités (art. R*432-1 à R432-9)](#484)
-          - [Section 1 : Prêts de l'Etat aux communes. (art. R*432-1 à R*432-2)](#485)
-          - [Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels. (art. R432-4 à R432-8)](#486)
-          - [Section 3 : Dispositions communes. (art. R432-9)](#487)
-        - [Chapitre III : Marchés des organismes d'habitations à loyer modéré. (art. R*433-1 à R433-41)](#488)
-          - [Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré. (art. R*433-1 à R*433-4)](#489)
-          - [Section 2 : Dispositions applicables aux marchés des sociétés d'habitations à loyer modéré. (art. R433-5 à R433-40)](#490)
-          - [Section 3 : Délais et règles de procédure permettant d'accélérer le règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer modéré. (art. R*433-42 à R433-41)](#491)
-        - [Chapitre IV : Rémunération et honoraires des architectes, ingénieurs et techniciens. (art. R434-1 à R*434-8)](#492)
-          - [Section 1 : Offices publics. (art. R434-1)](#493)
-          - [Section 2 : Sociétés et fondations. (art. R*434-2 à R*434-8)](#494)
-      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-1 à R443-33)](#495)
-        - [Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation. (art. R*441-1 à R441-54)](#496)
-          - [Section 1 : Attribution des logements (art. R*441-1 à R441-18)](#497)
-          - [Section 2 : Commission de médiation et droit au logement opposable. (art. R441-13)](#498)
-          - [Section 4 : Commission de contrôle des attributions de logement. (art. R441-46 à R441-54)](#499)
-        - [Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation (art. R*441-32 à R441-38)](#500)
-          - [Section 2 : Indemnité d'occupation. (art. R*441-32 à R441-38)](#501)
-        - [Chapitre II : Loyers et divers. (art. *R442-3 à R442-12)](#502)
-          - [Section 1 : Dispositions générales. (art. *R442-3 à R442-5)](#503)
-          - [Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires. (art. R442-6 à R442-12)](#504)
-        - [Chapitre III : Accession à la propriété. (art. R443-1 à R443-33)](#505)
-          - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art. R443-1 à R443-3)](#506)
-          - [Section 2 : Accession à la propriété des locataires d'habitations à loyer modéré. (art. R443-10 à R443-22)](#507)
-          - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R443-23 à R443-33)](#508)
-      - [Titre V : Contrôle (art. R451-1 à R451-7)](#509)
-        - [Chapitre unique. (art. R451-1 à R451-7)](#510)
-      - [Titre VI : Organismes consultatifs. (art. R461-4 à R461-30)](#511)
-        - [Chapitre unique. (art. R461-4 à R461-30)](#512)
-          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R461-4 à R461-7)](#513)
-          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#514)
-          - [Section 3 : Comités départementaux des habitations à loyer modéré (art. R461-16 à R461-30)](#515)
-            - [Sous-section 1 : Dispositions générales - Création - Rôle. (art. R461-16 à R461-18)](#516)
-            - [Sous-section 2 : Composition. (art. R461-19 à R461-30)](#517)
-    - [Livre IV : Habitations à loyer modéré. (art. R*421-2 à R441-25)](#518)
-      - [Titre II : Organismes d'habitations à loyer modéré. (art. R*421-2 à R423-67)](#519)
-        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré. (art. R*421-2 à R*421-79)](#520)
-          - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-2 à R*421-30)](#521)
-          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-52 à R*421-69)](#522)
-            - [Sous-section 1 : Création et gestion. (art. R*421-52 à R421-66)](#523)
-            - [Sous-section 1 : Création et gestion. (art. R*421-51)](#524)
-            - [Sous-section 2 : Dispositions particulières à la région d'Ile-de-France. (art. R*421-69)](#525)
-          - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-9 à R*422-38)](#526)
-            - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-9)](#527)
-            - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-38)](#528)
-              - [Sous-section 3 : Statuts. (art. R*422-38)](#529)
-          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-73 à R*421-79)](#530)
-        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#531)
-          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#532)
-            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#533)
-      - [Titre III : Dispositions financières. (art. R*431-33 à R*431-48)](#534)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#535)
-          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#536)
-            - [Sous-section  1 : Organisation et fonctionnement (art. R*431-30 à R*431-36)](#537)
-            - [Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1. (art. R*431-37 à R*431-45)](#538)
-            - [Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°). (art. R*431-46 à R*431-48)](#539)
-      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-24 à R441-25)](#540)
-        - [Conditions d'attribution des logements (art. R*441-24 à R441-25)](#541)
-          - [Plafond des ressources (art. R441-25)](#542)
-            - [Attribution des logements. (art. R441-25)](#543)
-    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#544)
-      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#545)
-        - [Chapitre unique. (art. R511-1)](#546)
-      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#547)
-        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#548)
-        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#549)
-        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#550)
-      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#551)
-    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#552)
-      - [Titre Ier : Dispositions générales. (art. R612-1)](#553)
-        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#554)
-      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#555)
-        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#556)
-      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#557)
-        - [Chapitre unique (art. R631-1 à R631-5)](#558)
-          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#559)
-          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#560)
-      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#561)
-        - [Chapitre unique (art. R641-1 à R641-25)](#562)
-          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#563)
-          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#564)
-      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#565)
-        - [Chapitre unique. (art. R651-1)](#566)
-  - [Annexes (art. Annexe à l'article R322-20 à Annexe II à l'article R353-190, art. 1)](#567)
-    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#568)
-      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#569)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#570)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#571)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#572)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#573)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#574)
+            - [Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-39 à R423-61)](#470)
+            - [Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité (art. R423-68 à R423-78)](#471)
+          - [Section 2 : Dispositions domaniales. (art. R*423-84 à R423-83)](#472)
+      - [Titre II  : Organismes d'HLM. (art. R423-63 à R423-64)](#473)
+        - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organisme d'HLM (art. R423-63)](#474)
+          - [Section 1 : Dispositions communes financières et comptables (art. R423-63)](#475)
+            - [Sous-section 2 : Dispositions particulières aux offices publics d'habitation à loyer modéré (art. R423-63)](#476)
+        - [Chapitre III : Dispositions applicables à la gestion des diverses  catégories d'organismes d'HLM (art. R423-64)](#477)
+          - [Section 1 : Dispositions financières et comptables (art. R423-64)](#478)
+            - [Sous-section 2 : Dispositions particulières aux offices publics  d'habitations à loyer modéré (art. R423-64)](#479)
+      - [Titre III : Dispositions financières. (art. R*431-7 à R*434-8)](#480)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-7 à R431-62)](#481)
+          - [Section 1 : Prêts et subventions de l'Etat. (art. R*431-7 à R431-29)](#482)
+            - [Sous-section 1 : Dispositions générales. (art. R*431-7 à R431-18)](#483)
+            - [Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier. (art. R431-19 à R431-24)](#484)
+            - [Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance. (art. R431-25 à R431-29)](#485)
+          - [Section 3 : Bonifications d'intérêts. (art. R*431-50 à R431-56)](#486)
+          - [Section 4 : Dispositions diverses (art. R431-57 à R431-62)](#487)
+            - [Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics. (art. R431-57 à R431-61)](#488)
+            - [Sous-section 2 : Garanties hypothécaires. (art. R431-62)](#489)
+        - [Chapitre II : Prêts aux autres organismes et collectivités (art. R*432-1 à R432-9)](#490)
+          - [Section 1 : Prêts de l'Etat aux communes. (art. R*432-1 à R*432-2)](#491)
+          - [Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels. (art. R432-4 à R432-8)](#492)
+          - [Section 3 : Dispositions communes. (art. R432-9)](#493)
+        - [Chapitre III : Marchés des organismes d'habitations à loyer modéré. (art. R*433-1 à R433-41)](#494)
+          - [Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré. (art. R*433-1 à R*433-4)](#495)
+          - [Section 2 : Dispositions applicables aux marchés des sociétés d'habitations à loyer modéré. (art. R433-5 à R433-40)](#496)
+          - [Section 3 : Délais et règles de procédure permettant d'accélérer le règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer modéré. (art. R*433-42 à R433-41)](#497)
+        - [Chapitre IV : Rémunération et honoraires des architectes, ingénieurs et techniciens. (art. R434-1 à R*434-8)](#498)
+          - [Section 1 : Offices publics. (art. R434-1)](#499)
+          - [Section 2 : Sociétés et fondations. (art. R*434-2 à R*434-8)](#500)
+      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-1 à R443-33)](#501)
+        - [Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation. (art. R*441-1 à R441-54)](#502)
+          - [Section 1 : Attribution des logements (art. R*441-1 à R441-18)](#503)
+          - [Section 2 : Commission de médiation et droit au logement opposable. (art. R441-13)](#504)
+          - [Section 4 : Commission de contrôle des attributions de logement. (art. R441-46 à R441-54)](#505)
+        - [Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation (art. R*441-32 à R441-38)](#506)
+          - [Section 2 : Indemnité d'occupation. (art. R*441-32 à R441-38)](#507)
+        - [Chapitre II : Loyers et divers. (art. *R442-3 à R442-12)](#508)
+          - [Section 1 : Dispositions générales. (art. *R442-3 à R442-5)](#509)
+          - [Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires. (art. R442-6 à R442-12)](#510)
+        - [Chapitre III : Accession à la propriété. (art. R443-1 à R443-33)](#511)
+          - [Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires. (art. R443-1 à R443-3)](#512)
+          - [Section 2 : Accession à la propriété des locataires d'habitations à loyer modéré. (art. R443-10 à R443-22)](#513)
+          - [Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative. (art. R443-23 à R443-33)](#514)
+      - [Titre V : Contrôle (art. R451-1 à R451-7)](#515)
+        - [Chapitre unique. (art. R451-1 à R451-7)](#516)
+      - [Titre VI : Organismes consultatifs. (art. R461-4 à R461-30)](#517)
+        - [Chapitre unique. (art. R461-4 à R461-30)](#518)
+          - [Section 1 : Conseil supérieur des habitations à loyer modéré. (art. R461-4 à R461-7)](#519)
+          - [Section 2 : Comités régionaux des habitations à loyer modéré. (art. R461-8 à R461-15)](#520)
+          - [Section 3 : Comités départementaux des habitations à loyer modéré (art. R461-16 à R461-30)](#521)
+            - [Sous-section 1 : Dispositions générales - Création - Rôle. (art. R461-16 à R461-18)](#522)
+            - [Sous-section 2 : Composition. (art. R461-19 à R461-30)](#523)
+    - [Livre IV : Habitations à loyer modéré. (art. R*421-2 à R441-25)](#524)
+      - [Titre II : Organismes d'habitations à loyer modéré. (art. R*421-2 à R423-67)](#525)
+        - [Chapitre Ier : Etablissements publics d'habitations à loyer modéré. (art. R*421-2 à R*421-79)](#526)
+          - [Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré. (art. R*421-2 à R*421-30)](#527)
+          - [Section 2 : Offices publics d'habitations à loyer modéré (art. R*421-52 à R*421-51)](#528)
+            - [Sous-section 1 : Création et gestion. (art. R*421-52 à R421-66)](#529)
+            - [Sous-section 1 : Création et gestion. (art. R*421-51)](#530)
+          - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-9 à R*422-38)](#531)
+            - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-9)](#532)
+            - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-38)](#533)
+              - [Sous-section 3 : Statuts. (art. R*422-38)](#534)
+          - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-79)](#535)
+        - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#536)
+          - [Dispositions financières et comptables (art. R423-34 à R423-67)](#537)
+            - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#538)
+      - [Titre III : Dispositions financières. (art. R*431-33 à R*431-48)](#539)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#540)
+          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#541)
+            - [Sous-section  1 : Organisation et fonctionnement (art. R*431-30 à R*431-36)](#542)
+            - [Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1. (art. R*431-37 à R*431-45)](#543)
+            - [Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°). (art. R*431-46 à R*431-48)](#544)
+      - [Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires. (art. R*441-24 à R441-25)](#545)
+        - [Conditions d'attribution des logements (art. R*441-24 à R441-25)](#546)
+          - [Plafond des ressources (art. R441-25)](#547)
+            - [Attribution des logements. (art. R441-25)](#548)
+    - [Livre V : Bâtiments menaçant ruine et bâtiments insalubres. (art. R511-1 à R531-3)](#549)
+      - [Titre Ier : Bâtiments menaçant ruine. (art. R511-1)](#550)
+        - [Chapitre unique. (art. R511-1)](#551)
+      - [Titre II : Bâtiments insalubres. (art. R*521-1 à R523-12)](#552)
+        - [Chapitre Ier : Relogement des habitants. (art. R*521-1 à R*521-7)](#553)
+        - [Chapitre II : Concours financiers de l'Etat et dispositions transitoires. (art. R522-1 à R522-5)](#554)
+        - [Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux. (art. R523-1 à R523-12)](#555)
+      - [Titre III : Dispositions spéciales aux départements d'outre-mer. (art. R531-1 à R531-3)](#556)
+    - [Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement. (art. R612-1 à R651-1)](#557)
+      - [Titre Ier : Dispositions générales. (art. R612-1)](#558)
+        - [Chapitre II : Occupation du domaine public. (art. R612-1)](#559)
+      - [Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants. (art. R621-1 à R621-3)](#560)
+        - [Chapitre Ier : Service municipal du logement. (art. R621-1 à R621-3)](#561)
+      - [Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements. (art. R631-1 à R631-5)](#562)
+        - [Chapitre unique (art. R631-1 à R631-5)](#563)
+          - [Section 1 : Aide financière de l'Etat. (art. R631-1 à R631-3)](#564)
+          - [Section 2 : Communes où sévit une crise de logement. (art. R631-4 à R631-5)](#565)
+      - [Titre IV : Logement d'office (art. R641-1 à R641-25)](#566)
+        - [Chapitre unique (art. R641-1 à R641-25)](#567)
+          - [Section 1 : Locaux d'habitation. (art. R641-1 à R641-22)](#568)
+          - [Section 2 : Locaux d'habitation accessoires à des locaux commerciaux. (art. R641-23 à R641-25)](#569)
+      - [Titre V : Sanctions et dispositions diverses. (art. R651-1)](#570)
+        - [Chapitre unique. (art. R651-1)](#571)
+  - [Annexes (art. Annexe à l'article R322-20 à Annexe II à l'article R353-190, art. 1)](#572)
+    - [Normes minimales d'habitabilité (art. Annexe à l'article R322-20)](#573)
+      - [I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble. (art. Annexe à l'article R322-20)](#574)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#575)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe III à l'article R353-32)](#576)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe II à l'article R353-127)](#577)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe II à l'article R353-190, art. 1)](#578)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#579)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -45462,6 +45467,93 @@ _Cité par_:
 
 ##### Sous-section 1 : Création et gestion.<a id=448></a>
 
+###### Article R*421-54
+
+Les offices publics d'habitations à loyer modéré sont gérés par un conseil d'administration de quinze membres.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 1
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+_Abrogé par_:
+
+  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-55
+
+Le conseil d'administration est ainsi composé :
+
+1° Cinq membres désignés par l'organe délibérant de la collectivité locale ou de l'établissement public de rattachement de
+l'office.
+
+2° Cinq membres, dont un représentant de l'union départementale des associations familiales, désignés par le préfet du
+département du siège parmi les personnes ayant exercé ou exerçant des responsabilités dans les domaines du logement, de
+l'urbanisme, de l'environnement ou en matière sociale et culturelle, et parmi les personnes siégeant dans des organismes
+financiers traitant habituellement avec l'office. S'il y a lieu un membre est choisi en raison de ses compétences
+particulières en matière de problèmes sociaux propres aux immigrés.
+
+Le représentant de l'union départementale des associations familiales est choisi sur une liste de trois noms établie par le
+conseil d'administration de cet organisme.
+
+Ces désignations interviennent après avis de l'organe exécutif de la collectivité locale ou de l'établissement public de
+rattachement de l'office.
+
+3° Trois membres élus par les locataires.
+
+4° Deux membres désignés par les institutions ci-après, existant dans la circonscription de l'office ou, à défaut, dans le
+département ou la région du siège de l'office : un membre par les conseils d'administration des caisses d'allocations
+familiales ; un membre désigné par les organismes collecteurs de la participation des employeurs à la construction visés à
+l'article R. 313-9 2° a du code de la construction et de l'habitation, ayant leur siège social dans le département.
+
+Aucun des administrateurs ne peut être membre du personnel de l'office.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 1, art. 13
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 rectificatif JORF 7 mai 1983 en vigueur le 1er juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+_Abrogé par_:
+
+  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation.
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R*421-57 (Ab)
+
+
 ###### Article R*421-59
 
 En cas d'irrégularités, de faute grave ou de carence, le conseil d'administration des offices publics peut être dissout ou
@@ -45521,6 +45613,101 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-2 (M)
   - Code de la construction et de l'habitation. - art. R371-1-1 (Ab)
   - Code de la construction et de l'habitation. - art. R423-66 (Ab)
+
+
+###### Article R*421-61-1
+
+Le conseil d'administration se réunit au moins trois fois par an.
+
+La convocation du conseil est de droit lorsqu'elle est demandée par la moitié au moins de ses membres.
+
+L'ordre du jour des délibérations est porté à la connaissance des membres des conseils au moins dix jours à l'avance, sauf
+urgence dûment motivée.
+
+Les décisions sont prises à la majorité des membres présents ou représentés du conseil, la délibération n'étant valable que
+si les deux tiers des membres au moins participent à la séance ou sont représentés.
+
+Au cas où le quorum n'est pas atteint, les décisions sur les questions portées à l'ordre du jour de la séance peuvent être
+prises, après convocation régulière, à la séance suivante à la majorité des membres présents ou représentés.
+
+En cas de partage, la voix du président est prépondérante.
+
+Un administrateur ne peut se faire représenter que par un autre administrateur. Chaque administrateur ne peut recevoir qu'un
+seul mandat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°83-221 1983-03-22 ART. 2 JORF 24 MARS 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+
+###### Article R*421-62
+
+Le conseil d'administration élit en son sein, à la majorité absolue des membres en fonction, un président qui doit
+nécessairement être choisi parmi les membres désignés par la collectivité locale ou l'établissement public de rattachement.
+Le conseil d'administration forme en son sein un bureau qui comprend le président et trois autres membres élus au scrutin
+majoritaire. Nul ne peut être élu au premier tour de scrutin s'il n'a réuni la majorité absolue. Le président du conseil
+d'administration est président de droit, et sa voix est prépondérante en cas de partage. 
+
+Sur les trois membres ainsi élus, l'un d'eux doit être choisi parmi les membres désignés par le préfet, un autre doit être un
+représentant des locataires. 
+
+Le bureau est élu pour trois ans. Il est procédé à une nouvelle élection après chaque renouvellement de l'organe délibérant
+de la collectivité locale ou de l'établissement public de rattachement de l'office. Le conseil d'administration peut
+toutefois révoquer le bureau ou un de ses membres sans attendre le terme ci-dessus, sous réserve de prendre cette décision à
+la majorité des trois quarts des membres en fonction et de désigner immédiatement un nouveau bureau. 
+
+Sur proposition du président, le conseil d'administration confère à un autre des membres du bureau le titre de vice-président
+délégué. Le président peut lui déléguer dans la limite des délégations faites à lui-même par le conseil d'administration
+certaines des charges qui lui ont été confiées et relatives au bon fonctionnement des services, à l'établissement de tous
+actes, contrats, traités, marchés et à la représentation en justice. Il en informe le conseil d'administration. Il peut
+également déléguer les fonctions prévues aux articles R. 423-34, R. 423-49, R. 423-52, R. 423-62, 
+R. 423-64. 
+
+Certaines de ces charges peuvent être également déléguées par le président à un ou plusieurs administrateurs, membres du
+bureau ou non. 
+
+Pour l'exercice d'attributions qu'il détermine expressément, le président peut donner, avec l'assentiment du conseil
+d'administration, procuration au directeur de l'établissement.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 9
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 3 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+_Abrogé par_:
+
+  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R423-34 (V)
+  - Code de la construction et de l'habitation. - art. R423-49 (M)
+  - Code de la construction et de l'habitation. - art. R423-52 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-62 (V)
+  - Code de la construction et de l'habitation. - art. R423-64 (V)
 
 
 ##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.<a id=449></a>
@@ -45643,6 +45830,59 @@ _Cite_:
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=450></a>
 
+###### Article R*421-73
+
+A la demande de la collectivité territoriale intéressée ou de l'établissement public local intéressé, le préfet du
+département étend la compétence des offices publics d'habitations à loyer modéré aux opérations ci-après :
+
+1° a) Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention
+ou d'un traité de concession passés avec les collectivités locales, les établissements publics regroupant les communes ayant
+compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
+l'article L. 321-1 du code de l'urbanisme ;
+
+b) Réaliser directement ou à titre de prestataire de services les opérations de restauration immobilière prévues par les
+articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
+
+2° Assurer, à titre de prestataire de services pour le compte de tous organismes d'habitations à loyer modéré ou d'emprunteur
+des sociétés de crédit immobilier, tout ou partie des opérations juridiques, administratives et financières concourant à la
+réalisation d'un programme de construction, de restauration ou d'amélioration de bâtiments destinés à l'habitation ;
+
+3° Réaliser, pour le compte de personnes physiques ou morales et à titre d'accessoire à un programme de construction
+d'habitations à loyer modéré, des immeubles à usage locatif ou destinés à l'accession à la propriété, ne répondant pas
+obligatoirement aux normes des habitations à loyer modéré et sans le bénéfice des avantages financiers du présent livre (1ère
+et 2ème parties).
+
+Toutefois, les opérations prévues aux 1° et 3° ci-dessus ne peuvent être entreprises qu'avec l'accord des communes
+intéressées.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1469 1958-12-31 art. 9
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 13 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+_Cite_:
+
+  - Code de l'urbanisme - art. L313-3 (M)
+  - Code de l'urbanisme - art. L313-4 (M)
+  - Code de l'urbanisme - art. L321-1 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
+  - Code de la construction et de l'habitation. - art. R*421-76 (Ab)
+  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
+  - Code de la construction et de l'habitation. - art. R*421-78 (Ab)
+
+
 ###### Article R*421-76
 
 Les offices admis au bénéfice des dispositions de l'article R. 421-73 sont soumis à la législation générale applicable aux
@@ -45697,6 +45937,30 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*421-73 (Ab)
 
 
+###### Article R*421-78
+
+Lorsqu'un office qui a obtenu le bénéfice des dispositions de l'article R. 421-73 joue le rôle de prestataire de services, le
+conseil d'administration s'adjoint à titre consultatif un représentant de l'organisme pour le compte duquel agit l'office.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1469 1958-12-31 art. 13
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°2008-566 du 18 juin 2008 - art. 1
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R*421-73 (Ab)
+
+
 ###### Article R*421-80
 
 Le préfet du département du siège est commissaire du Gouvernement. Il peut se faire représenter.
@@ -45740,6 +46004,121 @@ _Abrogé par_:
 ##### Section 2 : Offices publics d'habitations à loyer modéré<a id=451></a>
 
 ##### SOUS-SECTION I : Création et gestion.<a id=452></a>
+
+###### Article R*421-53
+
+Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
+répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
+en assurer la gestion.
+
+Ils peuvent également assurer la gestion, notamment en qualité de syndic, d'immeubles réalisés en vue de l'accession à la
+propriété par les collectivités ou organismes visés à l'article R. 421-51 ;
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°58-1469 1958-12-31 art. 8
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 1 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°83-221 1983-03-22 art. 13 : date d'entrée en vigueur
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L411-1, R421-51
+  - Code de la construction et de l'habitation. - art. L411-1 (M)
+
+
+###### Article R*421-56
+
+Le mandat de tous les administrateurs est gratuit. Le conseil d'administration de l'office peut allouer aux administrateurs
+exerçant une activité salariée une indemnité forfaitaire destinée à compenser la perte de salaire qu'ils subissent du fait de
+leur absence pendant les heures de travail à l'occasion de leur participation aux réunions des conseils, du bureau ou des
+commissions de l'office, et décider le remboursement des frais de déplacement des membres du conseil d'administration.
+
+Le montant maximum de cette indemnité ainsi que le mode de calcul des frais de déplacement est fixé par arrêté du ministre
+chargé de la construction et de l'habitation et du ministre chargé du budget.
+
+Les administrateurs fonctionnaires ou agents de l'Etat bénéficient du régime des autorisations d'absence.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 6
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
+
+
+###### Article R*421-57
+
+Les membres désignés par les collectivités locales et les établissements publics suivent le sort de l'organe délibérant qui
+les a élus. Ils font l'objet d'une nouvelle désignation après chaque renouvellement dudit organe. En cas de suspension ou de
+dissolution de cet organe, le mandat est prolongé jusqu'au jour de l'élection de ses délégués par le nouvel organe.
+
+Les membres désignés par les caisses d'allocations familiales et les organismes collecteurs de la participation des
+employeurs à la construction, ainsi que les membres désignés par le commissaire de la République, font l'objet d'une nouvelle
+désignation chaque fois que les collectivités locales ou les établissements publics doivent eux-mêmes procéder à une
+désignation de leurs représentants au conseil d'administration. Toutefois, leur mandat, éventuellement renouvelable, ne peut
+excéder trois ans.
+
+Les membres sortants du conseil peuvent être désignés à nouveau.
+
+Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, l'union départementale
+des associations familiales n'a pas établi la liste de trois noms prévue à l'article R. 421-55 2°, le commissaire de la
+République procède directement au choix d'un administrateur de cette institution.
+
+Si, après une mise en demeure du commissaire de la République non suivie d'effet dans la quinzaine, les caisses d'allocations
+familiales ou les organismes collecteurs de la participation des employeurs à la construction, lorsqu'ils sont appelés à
+désigner directement un administrateur, n'ont pas désigné leur représentant, le conseil d'administration de l'office se
+complète lui-même en pourvoyant aux postes vacants parmi les administrateurs de ces institutions.
+
+Si un membre vient à cesser ses fonctions au conseil d'administration avant l'expiration de la durée normale de son mandat,
+il est procédé immédiatement à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles
+du membre qu'il a remplacé.
+
+Ne peuvent être désignés comme administrateurs ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans
+un cas d'incapacité ou d'indignité prévu par les lois électorales, à l'exception des incapacités relatives à la nationalité
+ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 3, art. 4
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 1 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R421-55 2°
+  - Code de la construction et de l'habitation. - art. L423-12 (V)
+
 
 ###### Article R*421-58
 
@@ -45813,6 +46192,58 @@ _Cite_:
 _Modifié par_:
 
   - Décret n°83-221 1983-03-22 ART. 1, ART. 13 rectificatif JORF 7 MAI 1983 JORF 24 MARS 1983
+
+
+###### Article R*421-63
+
+Il est institué en son sein par le conseil d'administration de tout office public d'habitations à loyer modéré une commission
+d'attribution des logements composée de six membres, à savoir :
+
+Deux représentants de la collectivité locale ou de l'établissement public de rattachement de l'office ;
+
+Deux membres choisis parmi les administrateurs nommés par le commissaire de la République du département ;
+
+Un représentant des locataires ;
+
+Le représentant des caisses d'allocations familiales.
+
+Les six membres composant ainsi la commission d'attribution des logements élisent en leur sein à la majorité absolue un
+président. En cas de partage des voix, c'est le candidat le plus âgé qui est élu.
+
+Dans l'exercice de ses fonctions, le président dispose d'une voix prépondérante.
+
+Le maire de la commune où sont situés les immeubles dans lesquels des logements sont mis en location ou bien son représentant
+participe aux délibérations.
+
+Un représentant des bureaux d'aide sociale peut, en outre, être appelé à siéger, à titre consultatif, par le président de la
+commission ; en l'absence d'un bureau d'aide sociale, un représentant de la direction départementale de l'action sanitaire et
+sociale peut siéger dans les mêmes conditions.
+
+La commission se substitue pour l'application des articles R. 441-2, R. 441-3 et R. 441-36 à R. 441-38 au conseil
+d'administration de l'office public d'habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°78-213 1978-02-16 art. 11
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 4 JORF 24 MARS 1983 date d'entrée en vigueur ART. 13 1ER JUIN 1983
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R441-2, R441-3 à R441-38
+  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R441-9 (M)
 
 
 ##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=453></a>
@@ -47794,49 +48225,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique.<a id=470></a>
-
-###### Article R423-32
-
-(texte non reproduit).
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-297 1951-03-03 art. 1
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-
-###### Article R423-33
-
-Dans la limite des délégations qu'il reçoit du conseil d'administration, l'administrateur délégué peut être chargé de veiller
-au bon fonctionnement des services, de passer au nom de l'établissement tous actes, contrats, traités ou marchés et de
-représenter l'office en justice.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-297 1951-03-03 art. 2
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-
-##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=471></a>
+##### Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=470></a>
 
 ###### Article R423-39
 
@@ -47969,7 +48358,7 @@ Sous réserve des dispositions spéciales de la présente sous-section, les règ
 des communes, en ce qui concerne le recouvrement des recettes ainsi que l'ordonnancement et le paiement des dépenses, sont
 applicables aux offices publics d'habitations à loyer modéré.
 
-Les titres de recettes et de dépenses sont transmis directement au receveur par l'administrateur délégué.
+Les titres de recettes et de dépenses sont transmis directement au receveur par le président du conseil d'administration.
 
 **Liens relatifs à cet article**
 
@@ -47981,37 +48370,45 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
 
+_Abrogé par_:
+
+  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
+
 
 ###### Article R423-56
 
-A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, l'administrateur délégué peut, sous sa
-responsabilité et par écrit, requérir le receveur d'avoir à passer outre à des irrégularités alléguées par ce comptable pour
-refuser le paiement d'un mandat et de procéder au paiement de ce mandat sans autre délai.
+A charge d'en saisir le conseil d'administration à sa plus prochaine réunion, le président du conseil d'administration peut,
+sous sa responsabilité et par écrit, requérir le receveur d'avoir à passer outre à des irrégularités alléguées par ce
+comptable pour refuser le paiement d'un mandat et de procéder au paiement de ce mandat sans autre délai.
 
-L'administrateur délégué est tenu de rendre compte immédiatement au préfet des circonstances et des motifs qui ont nécessité
-de sa part l'application de cette mesure. Le receveur de son côté en donne avis au receveur des finances.
+Le président du conseil d'administration est tenu de rendre compte immédiatement au préfet des circonstances et des motifs
+qui ont nécessité de sa part l'application de cette mesure. Le receveur de son côté en donne avis au receveur des finances.
 
 L'acte de réquisition et une copie de la déclaration de refus de paiement sont annexés au mandat.
 
 Cette procédure ne peut jamais s'exercer quand le refus de paiement est fondé sur un des motifs ci-après :
 
-1. Insuffisance de fonds appartenant à l'office ;
+1° Insuffisance de fonds appartenant à l'office ;
 
-2. Absence ou insuffisance de crédit budgétaire ;
+2° Absence ou insuffisance de crédit budgétaire ;
 
-3. Opposition dûment signifiée ;
+3° Opposition dûment signifiée ;
 
-4. Difficultés touchant à la validité de la quittance ;
+4° Difficultés touchant à la validité de la quittance ;
 
-5. Défaut de justification du service fait ;
+5° Défaut de justification du service fait ;
 
-6. Extinction de la dette de l'office ;
+6° Extinction de la dette de l'office ;
 
-7. Inobservation de formalités nécessitant l'intervention d'une autorité supérieure en vertu d'un texte législatif ou
+7° Inobservation de formalités nécessitant l'intervention d'une autorité supérieure en vertu d'un texte législatif ou
 réglementaire.
 
 **Liens relatifs à cet article**
@@ -48023,6 +48420,14 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+_Abrogé par_:
+
+  - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
 ###### Article R423-59
@@ -48085,7 +48490,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité<a id=472></a>
+##### Sous-section 3 : Dispositions particulières applicables aux sociétés d'habitations à loyer modéré ou de crédit immobilier - Comptabilité<a id=471></a>
 
 ###### Article R423-68
 
@@ -48377,7 +48782,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R423-73 (T)
 
 
-##### Section 2 : Dispositions domaniales.<a id=473></a>
+##### Section 2 : Dispositions domaniales.<a id=472></a>
 
 ###### Article R*423-84
 
@@ -48516,13 +48921,84 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D423-83, v. 0.1 (VD)
 
 
-### Titre III : Dispositions financières.<a id=474></a>
+### Titre II  : Organismes d'HLM.<a id=473></a>
 
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=475></a>
+#### Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organisme d'HLM<a id=474></a>
 
-##### Section 1 : Prêts et subventions de l'Etat.<a id=476></a>
+##### Section 1 : Dispositions communes financières et comptables<a id=475></a>
 
-##### Sous-section 1 : Dispositions générales.<a id=477></a>
+##### Sous-section 2 : Dispositions particulières aux offices publics d'habitation à loyer modéré<a id=476></a>
+
+###### Article R423-63
+
+Le compte financier réunit le compte administratif du président du conseil d'administration et le compte de gestion du
+receveur.
+
+Il comprend :
+
+1° Le détail des opérations de l'année ;
+
+2° Le Bilan ;
+
+3° Les états annexes.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°51-297 1951-03-03 art. 32
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+
+#### Chapitre III : Dispositions applicables à la gestion des diverses  catégories d'organismes d'HLM<a id=477></a>
+
+##### Section 1 : Dispositions financières et comptables<a id=478></a>
+
+##### Sous-section 2 : Dispositions particulières aux offices publics  d'habitations à loyer modéré<a id=479></a>
+
+###### Article R423-64
+
+Le compte financier est préparé par le receveur et visé par le président du conseil d'administration, qui certifie sa
+conformité avec ses écritures d'ordonnateur.
+
+Il est obligatoirement accompagné d'un rapport du président du conseil d'administration sur l'activité de l'office pendant
+l'année écoulée.
+
+Il est délibéré par le conseil d'administration et réglé par le préfet.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°51-297 1951-03-03 art. 33
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
+
+
+### Titre III : Dispositions financières.<a id=480></a>
+
+#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=481></a>
+
+##### Section 1 : Prêts et subventions de l'Etat.<a id=482></a>
+
+##### Sous-section 1 : Dispositions générales.<a id=483></a>
 
 ###### Article R*431-7
 
@@ -49187,7 +49663,7 @@ _Modifié par_:
   - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier.<a id=478></a>
+##### Sous-section 2 : Dispositions particulières aux sociétés de crédit immobilier.<a id=484></a>
 
 ###### Article R431-19
 
@@ -49403,7 +49879,7 @@ _Modifié par_:
   - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance.<a id=479></a>
+##### Sous-section 3 : Prêts aux sociétés coopératives d'habitations à loyer modéré par l'intermédiaire de la caisse nationale de prévoyance.<a id=485></a>
 
 ###### Article R431-25
 
@@ -49538,7 +50014,7 @@ _Modifié par_:
   - Décret n°81-166 1981-02-20 art. 1 JORF 22 février 1981
 
 
-##### Section 3 : Bonifications d'intérêts.<a id=480></a>
+##### Section 3 : Bonifications d'intérêts.<a id=486></a>
 
 ###### Article R*431-50
 
@@ -49788,9 +50264,9 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D431-56, v. 0.1 (VD)
 
 
-##### Section 4 : Dispositions diverses<a id=481></a>
+##### Section 4 : Dispositions diverses<a id=487></a>
 
-##### Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics.<a id=482></a>
+##### Sous-section 1 : Garantie et concours financiers divers des collectivités locales et de leurs établissements publics.<a id=488></a>
 
 ###### Article R431-57
 
@@ -49929,7 +50405,7 @@ _Anciens textes_:
   - Décret n°1907-01-10 art. 11
 
 
-##### Sous-section 2 : Garanties hypothécaires.<a id=483></a>
+##### Sous-section 2 : Garanties hypothécaires.<a id=489></a>
 
 ###### Article R431-62
 
@@ -49954,9 +50430,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L431-1 (V)
 
 
-#### Chapitre II : Prêts aux autres organismes et collectivités<a id=484></a>
+#### Chapitre II : Prêts aux autres organismes et collectivités<a id=490></a>
 
-##### Section 1 : Prêts de l'Etat aux communes.<a id=485></a>
+##### Section 1 : Prêts de l'Etat aux communes.<a id=491></a>
 
 ###### Article R*432-1
 
@@ -50039,7 +50515,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.<a id=486></a>
+##### Section 2 : Prêts de l'Etat aux associations reconnues d'utilité publique et aux sociétés et unions de sociétés de secours mutuels.<a id=492></a>
 
 ###### Article R432-4
 
@@ -50145,7 +50621,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 3 : Dispositions communes.<a id=487></a>
+##### Section 3 : Dispositions communes.<a id=493></a>
 
 ###### Article R432-9
 
@@ -50163,9 +50639,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-#### Chapitre III : Marchés des organismes d'habitations à loyer modéré.<a id=488></a>
+#### Chapitre III : Marchés des organismes d'habitations à loyer modéré.<a id=494></a>
 
-##### Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré.<a id=489></a>
+##### Section 1 : Coordination des marchés des offices publics et sociétés d'habitations à loyer modéré.<a id=495></a>
 
 ###### Article R*433-1
 
@@ -50255,7 +50731,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Dispositions applicables aux marchés des sociétés d'habitations à loyer modéré.<a id=490></a>
+##### Section 2 : Dispositions applicables aux marchés des sociétés d'habitations à loyer modéré.<a id=496></a>
 
 ###### Article R433-5
 
@@ -51259,7 +51735,7 @@ _Abrogé par_:
   - Décret n°93-746 1993-03-27 art. 2 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
-##### Section 3 : Délais et règles de procédure permettant d'accélérer le règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer modéré.<a id=491></a>
+##### Section 3 : Délais et règles de procédure permettant d'accélérer le règlement des marchés de travaux de construction effectués pour le compte des organismes d'habitations à loyer modéré.<a id=497></a>
 
 ###### Article R*433-42
 
@@ -51477,9 +51953,9 @@ _Abrogé par_:
   - Décret n°93-746 1993-03-27 art. 4 JORF 30 mars 1993 en vigueur le 1er septembre 1993
 
 
-#### Chapitre IV : Rémunération et honoraires des architectes, ingénieurs et techniciens.<a id=492></a>
+#### Chapitre IV : Rémunération et honoraires des architectes, ingénieurs et techniciens.<a id=498></a>
 
-##### Section 1 : Offices publics.<a id=493></a>
+##### Section 1 : Offices publics.<a id=499></a>
 
 ###### Article R434-1
 
@@ -51503,7 +51979,7 @@ _Abrogé par_:
   - Décret n°93-1268 du 29 novembre 1993 - art. 32 (VT) JORF 1er décembre 1993 en vigueur le 1er juin 1994
 
 
-##### Section 2 : Sociétés et fondations.<a id=494></a>
+##### Section 2 : Sociétés et fondations.<a id=500></a>
 
 ###### Article R*434-2
 
@@ -51703,11 +52179,11 @@ _Abrogé par_:
   - Décret n°93-1268 du 29 novembre 1993 - art. 32 (VT) JORF 1er décembre 1993 en vigueur le 1er juin 1994
 
 
-### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=495></a>
+### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=501></a>
 
-#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation.<a id=496></a>
+#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation.<a id=502></a>
 
-##### Section 1 : Attribution des logements<a id=497></a>
+##### Section 1 : Attribution des logements<a id=503></a>
 
 ###### Article R*441-1
 
@@ -51792,6 +52268,55 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R441-6 (M)
 
 
+###### Article R*441-5
+
+Compte tenu des articles R. 441-2 et R. 441-3 et du règlement intérieur, une liste de classement des candidats est arrêtée
+par le conseil d'administration de l'office ou de la société d'habitations à loyer modéré le 1er octobre de chaque année pour
+l'année suivante.
+
+Cette liste comprend un nombre de candidats excédant d'au moins 50 p. 100 le nombre de logements susceptibles d'être mis en
+location ; ces candidats doivent remplir les conditions définies aux articles R. 441-2 et R. 441-3.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°54-346 1954-03-27 art. 4
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 art. 13 JORF 24 mars 1983 en vigueur le 1er juin 1983
+
+_Cité par_:
+
+  - Arrêté du 7 mars 2008 - art. 1 (Ab)
+  - Décret n°2011-176 du 15 février 2011 - art. 11 (V)
+  - Arrêté du 10 mars 2011 - art. 1 (V)
+  - Décret n°2020-145 du 20 février 2020 - art. 5 (V)
+  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (M)
+  - Code de la construction et de l'habitation. - art. R*441-12 (V)
+  - Code de la construction et de l'habitation. - art. R*441-24 (Ab)
+  - Code de la construction et de l'habitation. - art. R*445-15 (Ab)
+  - Code de la construction et de l'habitation. - art. R331-25-1 (M)
+  - Code de la construction et de l'habitation. - art. R411-3 (V)
+  - Code de la construction et de l'habitation. - art. R441-10 (M)
+  - Code de la construction et de l'habitation. - art. R441-2-1 (M)
+  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
+  - Code de la construction et de l'habitation. - art. R441-6 (M)
+  - Code de la construction et de l'habitation. - art. R441-7 (M)
+  - Code de la construction et de l'habitation. - art. R441-8 (M)
+  - Code de la construction et de l'habitation. - art. R445-6 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R*441-2 (M)
+  - Code de la construction et de l'habitation. - art. R441-3 (M)
+
+
 ###### Article R441-3
 
 L'attribution des logements mis en location par les offices publics et les sociétés d'habitations à loyer modéré est
@@ -51837,70 +52362,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R441-30 (Ab)
   - Code de la construction et de l'habitation. - art. R441-4 (M)
   - Code de la construction et de l'habitation. - art. R441-8 (M)
-
-
-###### Article R441-5
-
-Compte tenu des articles R. 441-2 et R. 441-3 et du règlement intérieur, une liste de classement des candidats est arrêtée
-par le conseil d'administration de l'office ou de la société d'habitations à loyer modéré le 1er octobre de chaque année pour
-l'année suivante.
-
-Dans le cas où le conseil d'administration d'un office désigne une sous-commission prise parmi ses membres pour procéder à
-l'établissement de la liste de classement susindiquée, celle-ci doit être composée en nombre égal :
-
-- d'administrateurs, nommés par le préfet et n'appartenant pas à l'une des catégories ci-après ;
-
-- d'administrateurs désignés par le conseil municipal, par le syndicat de communes ou par le conseil général ;
-
-- d'administrateurs élus par les conseils d'administration des offices publics d'habitations à loyer modéré composés
-conformément à l'article R. 421-55.
-
-La sous-commission est complétée par l'un des représentants des locataires au sein du conseil d'administration. Elle est
-présidée par le président de l'office public d'habitations à loyer modéré ou par un administrateur désigné par lui.
-
-La liste prévue à l'alinéa 1er comprend un nombre de candidats excédant d'au moins 50 p. 100 le nombre de logements
-susceptibles d'être mis en location ; ces candidats doivent remplir les conditions définies aux articles R. 441-2 et R.
-441-3.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°54-346 1954-03-27 art. 4
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Créé par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978, rectificatif JORF 31 janvier 1979
-
-_Cité par_:
-
-  - Arrêté du 7 mars 2008 - art. 1 (Ab)
-  - Décret n°2011-176 du 15 février 2011 - art. 11 (V)
-  - Arrêté du 10 mars 2011 - art. 1 (V)
-  - Décret n°2020-145 du 20 février 2020 - art. 5 (V)
-  - Code de la construction et de l'habitation. - art. Annexe I à l'article R353-1 (M)
-  - Code de la construction et de l'habitation. - art. R*441-12 (V)
-  - Code de la construction et de l'habitation. - art. R*441-24 (Ab)
-  - Code de la construction et de l'habitation. - art. R*445-15 (Ab)
-  - Code de la construction et de l'habitation. - art. R331-25-1 (M)
-  - Code de la construction et de l'habitation. - art. R411-3 (V)
-  - Code de la construction et de l'habitation. - art. R441-10 (M)
-  - Code de la construction et de l'habitation. - art. R441-2-1 (M)
-  - Code de la construction et de l'habitation. - art. R441-2-9 (M)
-  - Code de la construction et de l'habitation. - art. R441-6 (M)
-  - Code de la construction et de l'habitation. - art. R441-7 (M)
-  - Code de la construction et de l'habitation. - art. R441-8 (M)
-  - Code de la construction et de l'habitation. - art. R445-6 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-55
-  - Code de la construction et de l'habitation. - art. R*441-2 (M)
-  - Code de la construction et de l'habitation. - art. R441-3 (M)
 
 
 ###### Article R441-6
@@ -52223,7 +52684,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R422-9-1 (M)
 
 
-##### Section 2 : Commission de médiation et droit au logement opposable.<a id=498></a>
+##### Section 2 : Commission de médiation et droit au logement opposable.<a id=504></a>
 
 ###### Article R441-13
 
@@ -52255,7 +52716,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R441-12 (M)
 
 
-##### Section 4 : Commission de contrôle des attributions de logement.<a id=499></a>
+##### Section 4 : Commission de contrôle des attributions de logement.<a id=505></a>
 
 ###### Article R441-46
 
@@ -52497,9 +52958,9 @@ _Abrogé par_:
   - Décret n°86-670 1986-03-19 art. 3 JORF 20 mars 1986
 
 
-#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation<a id=500></a>
+#### Chapitre Ier : Conditions d'attribution des logements - Plafond des ressources - Indemnité d'occupation<a id=506></a>
 
-##### Section 2 : Indemnité d'occupation.<a id=501></a>
+##### Section 2 : Indemnité d'occupation.<a id=507></a>
 
 ###### Article R*441-32
 
@@ -52675,9 +53136,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R441-26 (Ab)
 
 
-#### Chapitre II : Loyers et divers.<a id=502></a>
+#### Chapitre II : Loyers et divers.<a id=508></a>
 
-##### Section 1 : Dispositions générales.<a id=503></a>
+##### Section 1 : Dispositions générales.<a id=509></a>
 
 ###### Article *R442-3
 
@@ -52846,7 +53307,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L442-9 (M)
 
 
-##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.<a id=504></a>
+##### Section 2 : Dispositions applicables aux associés des sociétés coopératives d'habitations à loyer modéré de location-coopérative qui prennent la qualité de locataires.<a id=510></a>
 
 ###### Article R442-6
 
@@ -53096,9 +53557,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L442-1
 
 
-#### Chapitre III : Accession à la propriété.<a id=505></a>
+#### Chapitre III : Accession à la propriété.<a id=511></a>
 
-##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=506></a>
+##### Section 1 : Dispositions applicables aux bénéficiaires d'opérations d'accession à la propriété autres que les locataires.<a id=512></a>
 
 ###### Article R443-1
 
@@ -53187,7 +53648,7 @@ _Anciens textes_:
   - Code de l'urbanisme 229
 
 
-##### Section 2 : Accession à la propriété des locataires d'habitations à loyer modéré.<a id=507></a>
+##### Section 2 : Accession à la propriété des locataires d'habitations à loyer modéré.<a id=513></a>
 
 ###### Article R443-10
 
@@ -53547,7 +54008,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R481-8-2 (VD)
 
 
-##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=508></a>
+##### Section 4 : Accession à la propriété des associés de sociétés anonymes coopératives d'habitations à loyer modéré de location-coopérative.<a id=514></a>
 
 ###### Article R443-23
 
@@ -53883,9 +54344,9 @@ _Modifié par_:
   - Décret n°85-1176 1985-11-12 art. 1 JORF 13 novembre 1985
 
 
-### Titre V : Contrôle<a id=509></a>
+### Titre V : Contrôle<a id=515></a>
 
-#### Chapitre unique.<a id=510></a>
+#### Chapitre unique.<a id=516></a>
 
 ###### Article R451-1
 
@@ -54050,11 +54511,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L451-5 (Ab)
 
 
-### Titre VI : Organismes consultatifs.<a id=511></a>
+### Titre VI : Organismes consultatifs.<a id=517></a>
 
-#### Chapitre unique.<a id=512></a>
+#### Chapitre unique.<a id=518></a>
 
-##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=513></a>
+##### Section 1 : Conseil supérieur des habitations à loyer modéré.<a id=519></a>
 
 ###### Article R461-4
 
@@ -54171,7 +54632,7 @@ _Abrogé par_:
   - Décret n°2001-645 du 18 juillet 2001 - art. 1 () JORF 20 juillet 2001
 
 
-##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=514></a>
+##### Section 2 : Comités régionaux des habitations à loyer modéré.<a id=520></a>
 
 ###### Article R461-8
 
@@ -54298,9 +54759,9 @@ _Codifié par_:
   - Décret n°78-622 du 31 mai 1978, v. init.
 
 
-##### Section 3 : Comités départementaux des habitations à loyer modéré<a id=515></a>
+##### Section 3 : Comités départementaux des habitations à loyer modéré<a id=521></a>
 
-##### Sous-section 1 : Dispositions générales - Création - Rôle.<a id=516></a>
+##### Sous-section 1 : Dispositions générales - Création - Rôle.<a id=522></a>
 
 ###### Article R461-16
 
@@ -54394,7 +54855,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R461-16 (Ab)
 
 
-##### Sous-section 2 : Composition.<a id=517></a>
+##### Sous-section 2 : Composition.<a id=523></a>
 
 ###### Article R461-19
 
@@ -54768,13 +55229,13 @@ _Abrogé par_:
   - Décret n°84-702 1984-06-30 art. 3 JORF 24 juillet 1984
 
 
-## Livre IV : Habitations à loyer modéré.<a id=518></a>
+## Livre IV : Habitations à loyer modéré.<a id=524></a>
 
-### Titre II : Organismes d'habitations à loyer modéré.<a id=519></a>
+### Titre II : Organismes d'habitations à loyer modéré.<a id=525></a>
 
-#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.<a id=520></a>
+#### Chapitre Ier : Etablissements publics d'habitations à loyer modéré.<a id=526></a>
 
-##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=521></a>
+##### Sous-section 1 : Offices publics d'aménagement et de construction créés par transformation d'offices publics d'habitations à loyer modéré.<a id=527></a>
 
 ###### Article R*421-2
 
@@ -55527,9 +55988,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Offices publics d'habitations à loyer modéré<a id=522></a>
+##### Section 2 : Offices publics d'habitations à loyer modéré<a id=528></a>
 
-##### Sous-section 1 : Création et gestion.<a id=523></a>
+##### Sous-section 1 : Création et gestion.<a id=529></a>
 
 ###### Article R*421-52
 
@@ -55561,145 +56022,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
 
 
-###### Article R*421-53
-
-Les offices publics d'habitations à loyer modéré peuvent construire, en vue de l'accession à la propriété, des habitations
-répondant aux conditions prévues à l'article L. 411-1 ou financées en application du livre III, titre V, du présent code et
-en assurer la gestion notamment en qualité de syndic.
-
-Ils peuvent également assurer la gestion, en qualité de syndic, d'immeubles appartenant à l'Etat, à des collectivités
-locales, à d'autres organismes d'habitations à loyer modéré, à des sociétés d'économie mixte ou à des organismes sans but
-lucratif.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1469 1958-12-31 art. 8
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L411-1 (M)
-
-
-###### Article R*421-54
-
-Les offices publics d'habitations à loyer modéré sont gérés par un conseil d'administration de vingt membres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 1
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-55
-
-Chaque conseil d'administration est ainsi composé :
-
-1. Six membres élus par l'organe délibérant de la collectivité locale ou de l'établissement public de rattachement de
-l'office ;
-
-2. Deux membres désignés par les institutions ci-après, existant dans la circonscription de l'office ou, à défaut, dans le
-département du siège de l'office : un membre, par les conseils d'administration des caisses d'épargne, un membre par les
-conseils d'administration des caisses d'allocations familiales ;
-
-3. Dix membres nommés par le préfet du département du siège parmi les personnes compétentes dans les domaines du logement, de
-l'urbanisme, de l'environnement et en matière sociale et culturelle ; un de ces membres doit être choisi sur une liste d'au
-moins trois noms établie par l'union départementale des associations familiales, un autre sur une liste d'au moins trois noms
-établie par les centres pour la protection, l'amélioration, la conservation et la transformation de l'habitat ancien. S'il y
-a lieu, un membres est choisi en raison de ses compétences particulières en matière de problèmes sociaux propres aux
-immigrés ;
-
-4. Deux membres élus par les locataires.
-
-Les nouveaux conseils d'administration des offices publics d'habitation à loyer modéré, conformes aux dispositions qui
-précèdent, devront être mis en place au plus tard le 1er décembre 1978.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 1, art. 13
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*421-51-1 (Ab)
-  - Code de la construction et de l'habitation. - art. R*421-57 (Ab)
-
-
-###### Article R*421-56
-
-Le mandat de tous les administrateurs est gratuit.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 6
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. Annexe à l'article R422-1 (V)
-
-
-###### Article R*421-57
-
-Les membres élus par les collectivités locales et les établissements publics sont élus au scrutin secret. La majorité absolue
-des voix est requise aux deux premiers tours de scrutin. La majorité relative suffit au troisième tour. En cas de partage, le
-candidat le plus âgé est déclaré élu. Ces membres suivent le sort de l'organe délibérant qui les a élus. En cas de suspension
-ou de dissolution de cette assemblée, le mandat est continué jusqu'au jour de l'élection de ses délégués par la nouvelle
-assemblée.
-
-Ne sont pas éligibles ou sont déclarés démissionnaires d'office les personnes qui se trouvent dans un cas d'incapacité ou
-d'indignité prévu par les lois électorales ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
-
-Les membres désignés par les caisses d'épargne et les caisses d'allocations familiales ainsi que les membres choisis par le
-préfet sont nommés pour quatre ans. Ils sont renouvelables par moitié tous les deux ans. Il est procédé par voie de tirage au
-sort à la désignation, pour chaque catégorie, de la série qui est renouvelée à l'expiration de la première période biennale.
-Les membres sortants du conseil peuvent être nommés ou désignés à nouveau.
-
-Lorsqu'après une mise en demeure du préfet non suivie d'effet dans la quinzaine les caisses d'épargne ou d'allocations
-familiales n'ont pas désigné leurs représentants, le conseil d'administration de l'office se complète lui-même en pourvoyant
-aux postes vacants parmi les administrateurs de ces caisses.
-
-Si un membre vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est procédé immédiatement
-à son remplacement. Les fonctions du nouveau membre expirent à l'époque où auraient cessé celles du membre qu'il a remplacé.
-
-Sont déclarés démissionnaires d'office les membres qui se trouvent dans un cas d'incapacité ou d'indignité prévu par les lois
-électorales ou qui tomberaient sous le coup des dispositions de l'article L. 423-12.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 3, art. 4
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L423-12 (V)
-
-
 ###### Article R*421-61
 
 Le conseil d'administration règle par ses délibérations les affaires de l'office.
@@ -55729,79 +56051,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-62
-
-Le conseil d'administration élit en son sein, à la majorité absolue des membres le composant, un bureau qui comprend un
-président, un premier vice-président, un second vice-président et un administrateur délégué. Deux des trois titulaires des
-fonctions de président ou de vice-président doivent être choisis respectivement parmi les représentants de la collectivité
-locale ou de l'établissement public de rattachement de l'office et parmi les membres nommés par le préfet. L'administrateur
-délégué est choisi parmi les membres nommés par le préfet.
-
-Les vice-présidents assistent le président dans ses fonctions et le suppléent en cas d'absence ou d'empêchement.
-
-Sur la proposition du président, le conseil d'administration peut déléguer à l'administrateur délégué certaines des charges
-confiées au président.
-
-Le conseil d'administration peut en outre déléguer certains de ses pouvoirs, limitativement énumérés, à un conseil restreint
-composé des membres du bureau et de trois administrateurs élus par le conseil en son sein à la majorité absolue de ses
-membres.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 9
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R*421-63
-
-Il est institué au sein du conseil d'administration de tout office public d'habitations à loyer modéré une commission
-d'attribution des logements composée de six membres, à savoir :
-
-1. L'administrateur délégué, président, dont la voix est prépondérante en cas de partage ;
-
-2. Le représentant des caisses d'allocations familiales ;
-
-3. Quatre membres désignés par le conseil, l'un parmi les représentants de la collectivité locale ou de l'établissement
-public de rattachement, deux parmi les administrateurs nommés par le préfet et un parmi les représentants des locataires.
-
-Un représentant des bureaux d'aide sociale peut en outre être appelé à siéger, à titre consultatif, par le président de la
-commission.
-
-La commission se substitue, pour l'application des articles R. 441-2 à R. 441-31 et R. 441-36 à R. 441-38, au conseil
-d'administration de l'office public d'habitations à loyer modéré, ou à la sous-commission prise parmi ses membres prévue à
-l'article R. 441-5, alinéa 2.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 11
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Créé par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R441-5 AL. 2
-  - Code de la construction et de l'habitation. - art. R441-36 (Ab)
-  - Code de la construction et de l'habitation. - art. R441-37 (Ab)
-  - Code de la construction et de l'habitation. - art. R441-38 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R441-9 (M)
 
 
 ###### Article R421-65
@@ -55867,7 +56116,7 @@ _Abrogé par_:
   - Décret n°88-921 1988-09-15 art. 21 JORF 15 septembre 1988
 
 
-##### Sous-section 1 : Création et gestion.<a id=524></a>
+##### Sous-section 1 : Création et gestion.<a id=530></a>
 
 ###### Article R*421-51
 
@@ -55905,49 +56154,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*421-53 (Ab)
 
 
-##### Sous-section 2 : Dispositions particulières à la région d'Ile-de-France.<a id=525></a>
+##### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=531></a>
 
-###### Article R*421-69
-
-Par dérogation à l'article R. 421-55, le conseil d'administration de l'office public d'habitations à loyer modéré
-interdépartemental de l'Essonne, du Val d'oise et des Yvelines est composé de vingt membres, à savoir :
-
-1. Six membres élus par les conseils généraux, à raison de deux par département ;
-
-2. Deux membres élus par les institutions ci-après existant dans les trois départements susmentionnés :
-
-Un par les conseils d'administration des caisses d'épargne ;
-
-Un par les conseils d'administration des caisses d'allocations familiales ;
-
-Dix membres nommés par les préfets, à raison de quatre pour le département des Yvelines et de trois pour chacun des
-départements de l'Essonne et du Val-d'Oise choisis parmi les personnes particulièrement compétentes dans les domaines de
-l'environnement, de l'urbanisme, du logement et en matière sociale et culturelle ;
-
-4. Deux membres élus par les locataires.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°78-213 1978-02-16 art. 2 II
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-55
-
-
-##### Chapitre II : Organismes privés d'habitations à loyer modéré.<a id=526></a>
-
-##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=527></a>
+##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=532></a>
 
 ###### Article R*422-9
 
@@ -55982,9 +56191,9 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=528></a>
+##### Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution<a id=533></a>
 
-##### Sous-section 3 : Statuts.<a id=529></a>
+##### Sous-section 3 : Statuts.<a id=534></a>
 
 ###### Article R*422-38
 
@@ -56006,159 +56215,12 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=530></a>
-
-###### Article R*421-73
-
-Sur avis de la collectivité locale intéressée ou de l'établissement public local intéressé et du conseil supérieur des
-habitations à loyer modéré le ministre chargé de la construction et de l'habitation, le ministre chargé des finances et le
-ministre de l'intérieur peuvent étendre la compétence d'un office public d'habitations à loyer modéré aux opérations ci-
-après :
-
-1. a) Réaliser, soit directement après accord de la ou des collectivités locales intéressées, soit en vertu d'une convention
-ou d'un traité de concession passés avec les collectivités locales, les établissements publics regroupant les communes ayant
-compétence en matière d'urbanisme et les syndicats mixtes, toutes opérations d'aménagement prévues au premier alinéa de
-l'article L. 321-1 du code de l'urbanisme sans que soient applicables les dispositions des articles L. 423-4 à L. 423-6 du
-présent code ;
-
-b) Réaliser directement ou à titre de prestataires de services les opérations de restauration immobilière prévues par les
-articles L. 313-3 et L. 313-4 du code de l'urbanisme ;
-
-2. Assurer, à titre de prestataires de service pour le compte de tous organismes d'habitations à loyer modéré ou
-d'emprunteurs des sociétés de crédit immobilier et conformément aux conventions types approuvées par le ministre chargé de la
-construction et de l'habitation, après avis du conseil supérieur des habitations à loyer modéré, les études de tous
-programmes de constructions locatives ou d'accession à la propriété, la préparation des appels à la concurrence et des
-marchés, le contrôle et la surveillance de l'exécution des travaux, la préparation des règlements aux entrepreneurs,
-architectes et techniciens ainsi que celles des réceptions de travaux ;
-
-3. Réaliser, pour le compte de personnes physiques ou morales et à titre d'accessoire à un programme de construction
-d'habitations à loyer modéré, des immeubles à usage locatif ou destinés à l'accession à la propriété, ne répondant pas
-obligatoirement aux normes des habitations à loyer modéré et sans le bénéfice des avantages financiers du présent livre (1er
-et 2e partie) ; ces opérations ne peuvent être faites que dans les conditions fixées par des conventions approuvées par le
-ministre chargé de la construction et de l'habitation et le ministre chargé des finances et, dans le cas d'octroi de
-garanties par une collectivité locale, par le ministre de l'intérieur.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1469 1958-12-31 art. 9
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L313-3 (M)
-  - Code de l'urbanisme - art. L313-4 (M)
-  - Code de l'urbanisme L321-1 AL. 1
-  - Code de la construction et de l'habitation. - art. L423-4 (Ab)
-  - Code de la construction et de l'habitation. - art. L423-5 (Ab)
-  - Code de la construction et de l'habitation. - art. L423-6 (Ab)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*421-67 (Ab)
-  - Code de la construction et de l'habitation. - art. R*421-76 (Ab)
-  - Code de la construction et de l'habitation. - art. R*421-77 (Ab)
-  - Code de la construction et de l'habitation. - art. R*421-78 (Ab)
-
-
-###### Article R*421-74
-
-La compétence territoriale des offices publics départementaux d'habitations à loyer modéré habilités à réaliser les
-opérations prévues à l'article R. 421-73 est étendue aux départements limitrophes du département où se trouve leur siège
-social.
-
-La compétence territoriale des offices publics d'habitations à loyer modéré municipaux, intercommunaux, de district ou de
-communauté urbaine habilités à réaliser les opérations prévues à l'article R. 421-73 est étendue à l'ensemble du territoire
-du département où se trouve leur siège social.
-
-Toutefois, les opérations prévues aux 1. et 3. de l'article R. 421-73 ne peuvent être entreprises qu'avec l'accord des
-communes intéressées.
-
-Les dispositions du présent article ne sont pas applicables aux offices publics d'habitations à loyer modéré de la région
-d'Ile-de-France faisant l'objet des articles R. 421-67 à R. 421-72.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1469 1958-12-31 art. 10
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-71
-
-
-###### Article R*421-75
-
-Peuvent solliciter le bénéfice des dispositions des articles R. 421-73 et R. 421-74 les offices qui répondent au moins à deux
-des critères ci-après :
-
-- avoir en gérance ou en cours de construction des immeubles comportant au total au moins 3.000 logements ;
-
-- être en mesure de réaliser dans un délai maximum de trois ans un programme total d'au moins 1.200 logements ;
-
-- avoir compétence, soit dans une circonscription territoriale d'au moins 100.000 habitants, soit dans une circonscription
-territoriale où doivent être réalisés des programmes de rénovation urbaine, de décentralisation industrielle ou d'intérêt
-national.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1469 1958-12-31 art. 11
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°83-221 1983-03-22 art. 7 JORF 24 mars 1983 date d'entrée en vigueur 1er juin 1983
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-74
-
-
-###### Article R*421-78
-
-Le conseil d'administration des offices d'habitations à loyer modéré à compétence étendue est composé ainsi qu'il est prévu à
-l'article R. 421-55.
-
-Lorsque l'office joue le rôle de prestataire de services, le conseil d'administration ou le conseil restreint s'adjoint, à
-titre consultatif, un représentant de l'organisme pour le compte duquel agit l'office.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°58-1469 1958-12-31 art. 13
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R421-55
-
+##### Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue.<a id=535></a>
 
 ###### Article R*421-79
 
-Le président et l'administrateur délégué peuvent bénéficier d'une indemnité de fonction forfaitaire dont le montant maximum
-est fixé par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé des finances.
+Le conseil d'administration de l'office peut allouer au président une indemnité de fonction forfaitaire dont le montant
+maximum est fixé par arrêté du ministre chargé de la construction et de l'habitation et du ministre chargé du budget.
 
 **Liens relatifs à cet article**
 
@@ -56168,19 +56230,23 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°86-518 du 14 mars 1986 - art. 10 () JORF 16 mars 1986
 
 
-#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=531></a>
+#### Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré<a id=536></a>
 
-##### Dispositions financières et comptables<a id=532></a>
+##### Dispositions financières et comptables<a id=537></a>
 
-##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=533></a>
+##### Dispositions particulières aux offices publics d'habitations à loyer modéré.<a id=538></a>
 
 ###### Article R423-34
 
-L'administrateur délégué procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation et à
-l'ordonnancement des dépenses.
+Le président du conseil d'administration procède à l'établissement des ordres de recettes, à l'engagement, à la liquidation
+et à l'ordonnancement des dépenses.
 
 Il est qualifié pour recevoir tous exploits et significations concernant l'office autres que ceux mentionnés à l'article R.
 423-55.
@@ -56197,6 +56263,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 _Cite_:
 
@@ -56264,8 +56334,8 @@ _Cite_:
 
 ###### Article R423-37
 
-Le receveur veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, à
-l'administrateur délégué toute représentation utile pour que soit assurée cette conservation.
+Le receveur veille à la conservation des domaines, droits, privilèges et hypothèques de l'office et fait, le cas échéant, au
+président du conseil d'administration toute représentation utile pour que soit assurée cette conservation.
 
 Il est tenu de faire, sous sa responsabilité personnelle, toutes diligences nécessaires pour assurer la rentrée des sommes
 dues à l'office.
@@ -56279,6 +56349,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-38
@@ -56481,13 +56555,13 @@ _Cite_:
 Les poursuites exercées par les receveurs pour le recouvrement des produits revenant aux offices ont lieu comme en matière
 d'impôts directs.
 
-Le recouvrement des créances des offices ne résultant pas d'un contrat exécutoire est poursuivi sur proposition de
-l'administrateur délégué en vertu d'un arrêté du préfet pour les produits dus aux offices départementaux et en vertu d'états
-exécutoires émis par le maire et visés par le préfet ou le sous-préfet pour les produits dus aux offices communaux.
+Le recouvrement des créances des offices ne résultant pas d'un contrat exécutoire est poursuivi sur proposition du président
+du conseil d'administration en vertu d'un arrêté du préfet pour les produits dus aux offices départementaux et en vertu
+d'états exécutoires émis par le maire et visés par le préfet ou le sous-préfet pour les produits dus aux offices communaux.
 
 Si les poursuites engagées dans les conditions prévues aux deux alinéas précédents ne permettent pas d'assurer le
-recouvrement des sommes dues à l'office, le receveur en rend compte immédiatement à l'administrateur délégué à qui il
-appartient de prendre toutes mesures pour faire prononcer la résiliation des contrats à raison de l'inexécution des
+recouvrement des sommes dues à l'office, le receveur en rend compte immédiatement au président du conseil d'administration à
+qui il appartient de prendre toutes mesures pour faire prononcer la résiliation des contrats à raison de l'inexécution des
 engagements souscrits par les débiteurs de l'office.
 
 **Liens relatifs à cet article**
@@ -56499,6 +56573,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-54
@@ -56591,8 +56669,8 @@ _Cité par_:
 
 ###### Article R423-62
 
-En fin d'année, l'administrateur délégué arrête les livres du receveur, dont il peut prendre à tout moment connaissance et se
-fait présenter les rentes et valeurs mobilières appartenant à l'office.
+En fin d'année, le président du conseil d'administration arrête les livres du receveur, dont il peut prendre à tout moment
+connaissance et se fait présenter les rentes et valeurs mobilières appartenant à l'office.
 
 S'il s'agit d'un receveur spécial, il constate l'existence des valeurs en caisse, ainsi que les soldes des comptes courants.
 
@@ -56608,53 +56686,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Cité par_:
+_Modifié par_:
 
-  - Code de la construction et de l'habitation. - art. R*421-62 (Ab)
-
-
-###### Article R423-63
-
-Le compte financier réunit le compte administratif de l'administrateur délégué et le compte de gestion du receveur.
-
-Il comprend :
-
-1. Le détail des opérations de l'année ;
-
-2. Le bilan ;
-
-3. Les états annexes.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-297 1951-03-03 art. 32
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-###### Article R423-64
-
-Le compte financier est préparé par le receveur et visé par l'administrateur délégué, qui certifie sa conformité avec ses
-écritures d'ordonnateur.
-
-Il est obligatoirement accompagné d'un rapport de l'administrateur délégué sur l'activité de l'office pendant l'année
-écoulée.
-
-Il est délibéré par le conseil d'administration et réglé par le préfet.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°51-297 1951-03-03 art. 33
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 _Cité par_:
 
@@ -56685,8 +56719,8 @@ _Cité par_:
 
 ###### Article R423-66
 
-Dans le même délai, des copies du compte financier et du rapport de l'administrateur délégué sont adressées au préfet, au
-ministre chargé de la construction et de l'habitation et à la caisse des dépôts et consignations.
+Dans le même délai, des copies du compte financier et du rapport du président du conseil d'administration sont adressées au
+préfet, au ministre chargé de la construction et de l'habitation et à la caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
 
@@ -56697,6 +56731,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°83-221 1983-03-22 ART. 11 JORF 24 MARS 1983 date d'entrée en vigueur 1ER JUIN 1983
 
 
 ###### Article R423-67
@@ -56724,11 +56762,11 @@ _Cite_:
   - Loi   1884-04-15 ART. 159
 
 
-### Titre III : Dispositions financières.<a id=534></a>
+### Titre III : Dispositions financières.<a id=539></a>
 
-#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=535></a>
+#### Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré.<a id=540></a>
 
-##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.<a id=536></a>
+##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.<a id=541></a>
 
 ###### Article R*431-33
 
@@ -56768,7 +56806,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 
-##### Sous-section  1 : Organisation et fonctionnement<a id=537></a>
+##### Sous-section  1 : Organisation et fonctionnement<a id=542></a>
 
 ###### Article R*431-30
 
@@ -56906,7 +56944,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1.<a id=538></a>
+##### Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1.<a id=543></a>
 
 ###### Article R*431-37
 
@@ -57160,7 +57198,7 @@ _Abrogé par_:
   - Décret n°85-1449 1985-12-30 art. 1 JORF 31 décembre 1985
 
 
-##### Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°).<a id=539></a>
+##### Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°).<a id=544></a>
 
 ###### Article R*431-46
 
@@ -57241,9 +57279,9 @@ _Cite_:
   - Code de la construction et de l'habitation R431-42
 
 
-### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=540></a>
+### Titre IV : Rapports des organismes d'habitations à loyer modéré et des bénéficiaires.<a id=545></a>
 
-#### Conditions d'attribution des logements<a id=541></a>
+#### Conditions d'attribution des logements<a id=546></a>
 
 ###### Article R*441-24
 
@@ -57594,9 +57632,9 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R481-4 (V)
 
 
-##### Plafond des ressources<a id=542></a>
+##### Plafond des ressources<a id=547></a>
 
-##### Attribution des logements.<a id=543></a>
+##### Attribution des logements.<a id=548></a>
 
 ###### Article R441-25
 
@@ -57627,11 +57665,11 @@ _Abrogé par_:
   - Décret n°86-670 1986-03-19 art. 1 JORF 20 mars 1986
 
 
-## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=544></a>
+## Livre V : Bâtiments menaçant ruine et bâtiments insalubres.<a id=549></a>
 
-### Titre Ier : Bâtiments menaçant ruine.<a id=545></a>
+### Titre Ier : Bâtiments menaçant ruine.<a id=550></a>
 
-#### Chapitre unique.<a id=546></a>
+#### Chapitre unique.<a id=551></a>
 
 ###### Article R511-1
 
@@ -57668,9 +57706,9 @@ _Cité par_:
   - Code général des collectivités territoriales - art. D2573-17 (V)
 
 
-### Titre II : Bâtiments insalubres.<a id=547></a>
+### Titre II : Bâtiments insalubres.<a id=552></a>
 
-#### Chapitre Ier : Relogement des habitants.<a id=548></a>
+#### Chapitre Ier : Relogement des habitants.<a id=553></a>
 
 ###### Article R*521-1
 
@@ -57859,7 +57897,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R*521-5 (V)
 
 
-#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=549></a>
+#### Chapitre II : Concours financiers de l'Etat et dispositions transitoires.<a id=554></a>
 
 ###### Article R522-1
 
@@ -57985,7 +58023,7 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R522-2 (V)
 
 
-#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=550></a>
+#### Chapitre III : Concours financier de l'Etat pour la suppression de l'insalubrité par travaux.<a id=555></a>
 
 ###### Article R523-1
 
@@ -58382,7 +58420,7 @@ _Abrogé par_:
   - SPEC_APPLI: Décret n°2001-351 du 20 avril 2001 - art. 3 (M)
 
 
-### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=551></a>
+### Titre III : Dispositions spéciales aux départements d'outre-mer.<a id=556></a>
 
 ###### Article R531-1
 
@@ -58467,11 +58505,11 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D531-3, v. 0.1 (VD)
 
 
-## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=552></a>
+## Livre VI : Dispositions permettant de faire face à des difficultés particulières de logement.<a id=557></a>
 
-### Titre Ier : Dispositions générales.<a id=553></a>
+### Titre Ier : Dispositions générales.<a id=558></a>
 
-#### Chapitre II : Occupation du domaine public.<a id=554></a>
+#### Chapitre II : Occupation du domaine public.<a id=559></a>
 
 ###### Article R612-1
 
@@ -58495,9 +58533,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L612-1 (V)
 
 
-### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=555></a>
+### Titre II : Dispositions tendant à faciliter et à orienter la répartition des logements existants.<a id=560></a>
 
-#### Chapitre Ier : Service municipal du logement.<a id=556></a>
+#### Chapitre Ier : Service municipal du logement.<a id=561></a>
 
 ###### Article R621-1
 
@@ -58552,11 +58590,11 @@ _Anciens textes_:
   - Code de l'urbanisme 329
 
 
-### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=557></a>
+### Titre III : Dispositions tendant à maintenir ou à augmenter le nombre des logements.<a id=562></a>
 
-#### Chapitre unique<a id=558></a>
+#### Chapitre unique<a id=563></a>
 
-##### Section 1 : Aide financière de l'Etat.<a id=559></a>
+##### Section 1 : Aide financière de l'Etat.<a id=564></a>
 
 ###### Article R631-1
 
@@ -58645,7 +58683,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
-##### Section 2 : Communes où sévit une crise de logement.<a id=560></a>
+##### Section 2 : Communes où sévit une crise de logement.<a id=565></a>
 
 ###### Article R631-4
 
@@ -58689,11 +58727,11 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L631-9 (M)
 
 
-### Titre IV : Logement d'office<a id=561></a>
+### Titre IV : Logement d'office<a id=566></a>
 
-#### Chapitre unique<a id=562></a>
+#### Chapitre unique<a id=567></a>
 
-##### Section 1 : Locaux d'habitation.<a id=563></a>
+##### Section 1 : Locaux d'habitation.<a id=568></a>
 
 ###### Article R641-1
 
@@ -59277,7 +59315,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-12 (M)
 
 
-##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=564></a>
+##### Section 2 : Locaux d'habitation accessoires à des locaux commerciaux.<a id=569></a>
 
 ###### Article R641-23
 
@@ -59360,9 +59398,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R641-24 (M)
 
 
-### Titre V : Sanctions et dispositions diverses.<a id=565></a>
+### Titre V : Sanctions et dispositions diverses.<a id=570></a>
 
-#### Chapitre unique.<a id=566></a>
+#### Chapitre unique.<a id=571></a>
 
 ###### Article R651-1
 
@@ -59386,11 +59424,11 @@ _Anciens textes_:
   - Code de l'urbanisme 357
 
 
-# Annexes<a id=567></a>
+# Annexes<a id=572></a>
 
-## Normes minimales d'habitabilité<a id=568></a>
+## Normes minimales d'habitabilité<a id=573></a>
 
-### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=569></a>
+### I. - Normes générales relatives à la sécurité, à la salubrité et à l'équipement de l'immeuble.<a id=574></a>
 
 ###### Article Annexe à l'article R322-20
 
@@ -59442,7 +59480,7 @@ _Abrogé par_:
   - Décret n°2001-351 2001-04-20 art. 3 JORF 22 avril 2001
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=570></a>
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=575></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -59772,7 +59810,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=571></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=576></a>
 
 ###### Article Annexe III à l'article R353-32
 
@@ -60162,7 +60200,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=572></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=577></a>
 
 ###### Article Annexe II à l'article R353-127
 
@@ -60226,9 +60264,9 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=573></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=578></a>
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=574></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=579></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
