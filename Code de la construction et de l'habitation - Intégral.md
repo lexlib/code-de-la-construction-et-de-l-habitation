@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-12-29 00:00:01 +0100
+Version Consolidée au 1996-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -11886,31 +11886,32 @@ _Abrogé par_:
 L'aide personnalisée au logement est accordée au titre de la résidence principale, quel que soit le lieu de son implantation
 sur le territoire national. Son domaine d'application comprend :
 
-1. Les logements occupés par leurs propriétaires, construits, améliorés, acquis ou améliorés, à compter du 5 janvier 1977, au
-moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont fixées
-par décret ;
+1° Les logements occupés par leurs propriétaires, construits, acquis ou améliorés, à compter du 5 janvier 1977, au moyen de
+formes spécifiques d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont fixées par
+décret ;
 
-2. Les logements à usage locatif appartenant à des organismes d'habitations à loyer modéré ou gérés par eux ou appartenant à
+2° Les logements à usage locatif appartenant à des organismes d'habitations à loyer modéré ou gérés par eux ou appartenant à
 des sociétés d'économie mixte, ou appartenant à d'autres bailleurs lorsque, dans ce dernier cas, les logements ont été
 construits, acquis ou améliorés avec le concours financier de l'Etat, à condition que les bailleurs s'engagent à respecter
 certaines obligations définies par décrets et précisées par des conventions régies par le chapitre III du présent titre ;
 celles-ci doivent être conformes à des conventions types annexées aux décrets ;
 
-3. Les logements à usage locatif construits, acquis ou améliorés à compter du 5 janvier 1977 au moyen de formes spécifiques
-d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont déterminées par décrets ; l'octroi de
-ces aides est subordonné à l'engagement pris par les bailleurs de respecter certaines obligations définies par décrets et
-précisées par des conventions régies par le chapitre III du présent titre ; celles-ci doivent être conformes à des
-conventions types annexées aux décrets ;
+3° Les logements à usage locatif construits, acquis ou améliorés à compter du 5 janvier 1977 au moyen de formes spécifiques
+d'aides de l'Etat ou de prêts dont les caractéristiques et les conditions d'octroi sont déterminées par décrets ainsi que les
+logements à usage locatif construits à compter du 1er octobre 1996 ayant bénéficié d'une décision favorable dans des
+conditions fixées par le présent code  ; l'octroi de ces aides ou de la décision favorable est subordonné à l'engagement pris
+par les bailleurs de respecter certaines obligations définies par décrets et précisées par des conventions régies par le
+chapitre III du présent titre ; celles-ci doivent être conformes à des conventions types annexées aux décrets ;
 
-4. Les logements à usage locatif construits ou améliorés après le 4 janvier 1977 dans des conditions fixées par décret et
+4° Les logements à usage locatif construits ou améliorés après le 4 janvier 1977 dans des conditions fixées par décret et
 dont les bailleurs s'engagent à respecter certaines obligations définies par décrets et précisées par des conventions régies
 par le chapitre III du présent titre ; celles-ci doivent être conformes à des conventions types annexées aux décrets ;
 
-5. Les logements-foyers de jeunes travailleurs et les logements-foyers assimilés dans des conditions fixées par décret en
+5° Les logements-foyers de jeunes travailleurs et les logements-foyers assimilés dans des conditions fixées par décret en
 Conseil d'Etat aux logements mentionnés aux 2° et 3° ci-dessus, dès lors qu'ils font l'objet des conventions régies par le
-chapitre III du présent titre ; "
+chapitre III du présent titre ;
 
-6. Les logements occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi
+6° Les logements occupés par des titulaires de contrats de location-accession conclus dans les conditions prévues par la loi
 n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété immobilière, lorsque ces logements ont été
 construits, améliorés ou acquis et améliorés au moyen de formes spécifiques d'aides de l'Etat ou de prêts dont les
 caractéristiques et les conditions d'octroi sont fixées par décret.
@@ -11969,12 +11970,12 @@ _Cité par_:
   - Décret n°2015-587 du 29 mai 2015 - art. (V)
   - Décret n°2015-587 du 29 mai 2015 - art. 1 (V)
   - Décret n°2015-587 du 29 mai 2015 - art. Annexe 1 (VD)
-  - Loi n°2015-1776 du 28 décembre 2015 - art. 67
-  - Décret n°2016-555 du 6 mai 2016 - art. 1
   - Arrêté du 7 juin 2016 - art. 2 (V)
   - Arrêté du 13 décembre 2017 - art. (V)
-  - Loi n°2017-1775 du 28 décembre 2017 - art. 28 (V)
   - Arrêté du 27 février 2018 (V)
+  - Loi n°2015-1776 du 28 décembre 2015 - art. 67
+  - Décret n°2016-555 du 6 mai 2016 - art. 1
+  - Loi n°2017-1775 du 28 décembre 2017 - art. 28 (V)
   - Arrêté du 27 février 2018 - art. 1
   - Décret n°2018-1216 du 24 décembre 2018 - art. 5
   - Ordonnance n°2019-453 du 15 mai 2019 - art. 1 (V)
@@ -12217,6 +12218,7 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°84-595 1984-07-12
+  - Code de la construction et de l'habitation annexe
 
 **Liens**:
 
@@ -12240,7 +12242,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Loi n°91-457 du 15 mai 1991 - art. 8 () JORF 17 mai 1991
+  - Loi n°96-1181 du 30 décembre 1996 - art. 17 (V) JORF 31 décembre 1996
 
 
 ###### Article L351-2-1
