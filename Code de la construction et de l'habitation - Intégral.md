@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-07-07
+Version Consolidée au 1983-07-08
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -111,7 +111,7 @@ Version Consolidée au 1983-07-07
         - [Chapitre IV : Conseil départemental de l'habitat. (art. L364-1)](#108)
       - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer, à Saint-Pierre-et-Miquelon et à Mayotte. (art. L371-1 à L371-3)](#109)
         - [Chapitre unique. (art. L371-1 à L371-3)](#110)
-    - [Livre IV : Habitations à loyer modéré. (art. L411-1 à L481-1)](#111)
+    - [Livre IV : Habitations à loyer modéré. (art. L411-1 à L481-2)](#111)
       - [Titre Ier : Dispositions générales. (art. L411-1 à L411-2)](#112)
         - [Chapitre unique. (art. L411-1 à L411-2)](#113)
       - [Titre II : Organismes d'habitations à loyer modéré. (art. L421-1 à L424-1)](#114)
@@ -148,8 +148,8 @@ Version Consolidée au 1983-07-07
       - [Titre VII : Dispositions particulières à certaines parties du territoire. (art. L471-1 à L472-2)](#145)
         - [Chapitre Ier : Départements du Haut-Rhin, du Bas-Rhin et de la Moselle. (art. L471-1)](#146)
         - [Chapitre II : Départements d'Outre-Mer. (art. L472-1 à L472-2)](#147)
-      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. L481-1)](#148)
-        - [Chapitre unique. (art. L481-1)](#149)
+      - [Titre VIII : Dispositions particulières aux sociétés d'économie mixte. (art. L481-1 à L481-2)](#148)
+        - [Chapitre unique. (art. L481-1 à L481-2)](#149)
     - [Livre V : Bâtiments menaçant ruine ou insalubres. (art. L511-1 à L531-2)](#150)
       - [Titre Ier : Bâtiments menaçant ruine. (art. L511-1 à L511-4)](#151)
         - [Chapitre unique. (art. L511-1 à L511-4)](#152)
@@ -13956,6 +13956,34 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L472-1 (V)
+
+
+###### Article L481-2
+
+Sur le produit de la redevance acquittée par les sociétés d'économie mixte, dont l'emploi est prévu à l'article précédent, il
+peut être prélevé une participation aux frais de la fédération groupant les sociétés d'économie mixte en vue d'assurer
+notamment leur meilleur fonctionnement, la coordination de leurs activités et le développement de l'information en faveur de
+l'habitation familiale populaire. Les conditions et l'importance de cette participation sont déterminées par décision
+administrative.
+
+**Liens relatifs à cet article**
+
+_Cité par_:
+
+  - Loi n°65-557 du 10 juillet 1965 - art. 29-11 (V)
+  - Arrêté du 28 novembre 2011 - art. 1 (V)
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Loi n°2000-1208 du 13 décembre 2000 - art. 167 () JORF 14 décembre 2000 à partir du 31 décembre 2000
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L481-1 (M)
 
 
 ## Livre V : Bâtiments menaçant ruine ou insalubres.<a id=150></a>
