@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-07-02
+Version Consolidée au 1994-07-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -12032,6 +12032,52 @@ _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. L822-3 (V)
   - Code de la construction et de l'habitation. - art. L822-8 (V)
+
+
+###### Article L351-2-2
+
+Les organismes visés à l'article L. 411-2 ainsi que les sociétés d'économie mixte pour leurs logements conventionnés,
+lorsqu'ils bénéficient de prêts visés aux 2°, 3° et 5° de l'article L. 351-2 dans le cadre de programmes de construction,
+d'acquisition ou d'amélioration de logements locatifs sont autorisés à constater en charges différées dans leurs comptes
+sociaux le montant correspondant à la somme que l'établissement prêteur est en droit de leur réclamer en cas de remboursement
+anticipé d'un prêt, de manière que sa rémunération, eu égard aux modalités de progressivité des annuités sur la durée totale
+du prêt, soit assurée au taux actuariel fixé dans le contrat conclu avec l'emprunteur. 
+
+Les organismes visés à l'article L. 411-2 ainsi que les sociétés d'économie mixte pour leurs logements locatifs sociaux,
+lorsqu'ils bénéficient de prêts aidés par l'Etat pour la réalisation de logements locatifs sociaux dans les départements
+d'outre-mer, sont autorisés à constater en charges différées dans leurs comptes sociaux le montant correspondant à la somme
+que l'établissement prêteur est en droit de leur réclamer en cas de remboursement anticipé d'un prêt, de manière que sa
+rémunération, eu égard aux modalités de progressivité des annuités sur la durée totale du prêt, soit assurée au taux
+actuariel fixé dans le contrat conclu avec l'emprunteur.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°94-624 1994-07-21 art. 38 II JORF 24 juillet 1994
+  - TRANSFERE: Ordonnance n°2019-770 du 17 juillet 2019 - art. 5
+
+_Créé par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 38 (V) JORF 24 juillet 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L351-2
+  - Code de la construction et de l'habitation. - art. L411-2
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. L431-1-1 (VD)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R423-1-4 (VD)
+  - Code de la construction et de l'habitation. - art. R452-25-1 (V)
 
 
 ###### Article L351-3
