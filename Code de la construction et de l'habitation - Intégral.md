@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1988-12-28
+Version Consolidée au 1989-01-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -14212,7 +14212,11 @@ _Cité par_:
 
 Les articles L. 442-1 à L. 442-9 s'appliquent aux logements construits ou acquis en application de la législation sur les
 habitations à loyer modéré appartenant soit à des organismes d'habitations à loyer modéré, soit à l'Etat, à des collectivités
-locales ou à des groupements de collectivités locales et gérés par lesdits organismes.
+locales ou à des groupements de collectivités locales et gérés par lesdits organismes. Toutefois, les chapitres Ier et II du
+titre IV du livre IV, les sections I et II du chapitre III du même titre ainsi que la section II du chapitre III du titre V
+du livre III sont applicables aux logements construits en application du titre II de la loi du 13 juillet 1928 établissant un
+programme de construction ou d'habitation à bon marché et de logements, en vue de remédier à la crise de l'habitation, qui ne
+sont pas gérés par un organisme d'H.L.M. "
 
 **Liens relatifs à cet article**
 
@@ -14224,9 +14228,9 @@ _Anciens textes_:
 
   - Loi n°86-1290 1986-12-23
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 40 () JORF du 24 décembre 1986
+  - Loi n°89-18 du 13 janvier 1989 - art. 5 () JORF 14 janvier 1989
 
 _Cité par_:
 
@@ -14237,6 +14241,7 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation L442-1 à L442-9
+  - Loi n°1928-07-13
 
 
 #### Chapitre III : Accession à la propriété et autres cessions.<a id=138></a>
