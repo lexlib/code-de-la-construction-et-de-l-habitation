@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-06-01
+Version Consolidée au 2001-06-30
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -52948,6 +52948,34 @@ _Modifié par_:
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. D331-54-1, v. 0.1 (VD)
+
+
+###### Article R331-54-1 bis
+
+Par dérogation aux dispositions des articles R. 331-54, R. 331-54-1 et R. 331-54-2, le taux d'intérêt des prêts à taux
+révisables, prévus à l'article R. 331-54-1, peut être converti en taux fixe et réduit, et la progressivité des annuités peut
+être abaissée ou supprimée en augmentant, le cas échéant, la durée initiale des prêts dans les conditions prévues par des
+conventions conclues sur le fondement des articles R. 331-38 et R. 331-39.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2001-560 du 27 juin 2001 - art. 1 () JORF 30 juin 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-38
+  - Code de la construction et de l'habitation. - art. R331-54
+  - Code de la construction et de l'habitation. - art. R331-54-1
 
 
 ###### Article R331-54-2
