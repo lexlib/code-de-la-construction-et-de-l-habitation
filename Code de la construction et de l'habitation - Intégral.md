@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-11-27
+Version Consolidée au 1994-12-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -285,7 +285,7 @@ Version Consolidée au 1994-11-27
           - [Section 5 : Contrat préliminaire. (art. R*261-25 à R*261-33)](#282)
       - [Titre VII : Dispositions particulières aux départements d'outre-mer (art. R271-1)](#283)
         - [Chapitre unique. (art. R271-1)](#284)
-    - [Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement. (art. R302-17 à R371-7)](#285)
+    - [Livre III : Aides diverses à la construction d'habitations et à l'amélioration de l'habitat - Aide personnalisée au logement. (art. R302-17 à R371-8)](#285)
       - [Titre préliminaire : Politique d'aide au logement. (art. R302-17 à R302-26)](#286)
         - [Chapitre II : Politique locale de l'habitat. (art. R302-17 à R302-23)](#287)
           - [Section 4 : Convention d'application du programme local de l'habitat. (art. R302-17)](#288)
@@ -455,14 +455,14 @@ Version Consolidée au 1994-11-27
       - [Titre VI : Organismes consultatifs. (art. R*361-1 à R362-20)](#452)
         - [Chapitre Ier : Conseil national de l'habitat. (art. R*361-1 à R*361-20)](#453)
         - [Chapitre II : Conseil départemental de l'habitat. (art. R362-1 à R362-20)](#454)
-          - [Section 1 : Compétences. (art. R362-1 à R362-6)](#455)
-          - [Section 1 : Compétences. (art. R362-2 à R362-8)](#456)
+          - [Section 1 : Compétences. (art. R362-1 à R362-8)](#455)
+          - [Section 1 : Compétences. (art. R362-2 à R362-7)](#456)
           - [Section 2 : Composition et fonctionnement. (art. R362-10 à R362-19)](#457)
           - [Section 2 : Composition et fonctionnement. (art. R362-9 à R362-20)](#458)
-      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer. (art. R371-1 à R371-7)](#459)
-        - [Chapitre Ier : Conseil départemental de l'habitat. (art. R371-1 à R371-7)](#460)
+      - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer. (art. R371-1 à R371-8)](#459)
+        - [Chapitre Ier : Conseil départemental de l'habitat. (art. R371-1 à R371-8)](#460)
           - [Section 1 : Compétences. (art. R371-1 à R371-2)](#461)
-          - [Section 2 : Composition et fonctionnement. (art. R371-3 à R371-7)](#462)
+          - [Section 2 : Composition et fonctionnement. (art. R371-3 à R371-8)](#462)
     - [Livre IV : Habitations à loyer modéré (art. R411-1 à R*481-3)](#463)
       - [Titre Ier : Dispositions générales (art. R411-1)](#464)
         - [Chapitre unique. (art. R411-1)](#465)
@@ -55359,6 +55359,25 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R362-5 (M)
 
 
+###### Article R362-8
+
+Le conseil départemental de l'habitat est substitué au comité départemental des habitations à loyer modéré.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°94-1105 du 14 décembre 1994 - art. 2 () JORF 21 décembre 1994
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R362-2 (M)
+
+
 ##### Section 1 : Compétences.<a id=456></a>
 
 ###### Article R362-2
@@ -55381,18 +55400,15 @@ e) Sur les programmes d'actions en faveur du logement des immigrés et des popul
 f) Sur les modalités selon lesquelles les aides à la personne en matière de logement sont mises en oeuvre dans le
 département ;
 
-" g) Sur toute modification intervenant dans la compétence des offices publics d'habitations à loyer modéré, des offices
-publics d'aménagement et de construction, des sociétés anonymes d'habitations à loyer modéré et des sociétés coopératives
-d'habitations à loyer modéré exerçant leur activité dans le département. Dans ce cas, l'avis du conseil départemental de
-l'habitat est réputé favorable s'il n'est pas formulé dans un délai de trois mois à compter de la date à laquelle le conseil
-est saisi par le préfet. "
+g) Sur toute création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou
+demandant à être autorisés à exercer leur activité dans le département.
 
 h) Sur les programmes locaux de l'habitat et leur réalisation.
 
 Il exerce la compétence prévue à l'article L. 351-14 du code de la construction et de l'habitation en matière d'aide
-personnalisée au logement dans les conditions fixées à l'article R. 362-7.    " La commission spécialisée des rapports
-locatifs créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41
-ter de la même loi dans les conditions définies par l'article R. 362-20. "
+personnalisée au logement dans les conditions fixées à l'article R. 362-7.    La commission spécialisée des rapports locatifs
+créée par l'article 41 bis de la loi du 23 décembre 1986 modifiée exerce les compétences prévues par l'article 41 ter de la
+même loi dans les conditions définies par l'article R. 362-20.
 
 **Liens relatifs à cet article**
 
@@ -55403,14 +55419,14 @@ _Codifié par_:
 _Cite_:
 
   - Loi n°86-1290 1986-12-23 art. 41 bis, art. 41 ter
-  - Code de la construction et de l'habitation L351-14, R362-3 à R362-8, R362-7, R362-20
+  - Code de la construction et de l'habitation R362-3 à R362-8, L351-14, R362-7, R362-20
   - Code de la construction et de l'habitation. - art. L351-14 (M)
   - Code de la construction et de l'habitation. - art. R362-20 (Ab)
   - Code de la construction et de l'habitation. - art. R362-7 (M)
 
 _Modifié par_:
 
-  - Décret n°92-726 du 29 juillet 1992 - art. 1 () JORF 30 juillet 1992
+  - Décret n°94-1105 du 14 décembre 1994 - art. 1 () JORF 21 décembre 1994
 
 _Cité par_:
 
@@ -55455,29 +55471,6 @@ _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R362-2 (M)
   - Code de la construction et de l'habitation. - art. R371-1 (M)
-
-
-###### Article R362-8
-
-Le conseil départemental de l'habitat [*attributions*] est substitué au comité départemental des habitations à loyer modéré.
-Il est notamment saisi pour avis de toute création, dissolution, modification de compétences des organismes d'habitations à
-loyer modéré exerçant ou demandant d'être autorisés à exercer leur activité dans le département. Ces avis sont réputés
-favorables s'ils ne sont pas formulés dans un délai de trois mois à compter de la date à laquelle le conseil est saisi par le
-préfet. "
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°92-726 du 29 juillet 1992 - art. 2 () JORF 30 juillet 1992
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R362-2 (M)
 
 
 ##### Section 2 : Composition et fonctionnement.<a id=457></a>
@@ -55525,6 +55518,45 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R362-19 (M)
+
+
+###### Article R362-18-1
+
+Il est créé au sein du conseil départemental de l'habitat un comité permanent, qui émet en son nom un avis sur toute
+création, dissolution ou modification de compétences des organismes d'habitations à loyer modéré exerçant ou demandant à être
+autorisés à exercer leur activité dans le département.
+
+Ce comité comprend deux membres de chacun des groupes définis à l'article R. 362-10 a et un membre de la section prévue au b
+du même article, désignés par le préfet. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
+
+Le comité permanent est présidé par le préfet ou son représentant.
+
+Il se réunit, sur convocation de son président, dans les deux mois suivant la réception par celui-ci des projets de création,
+dissolution ou modification de compétences présentés par les organismes d'habitations à loyer modéré.
+
+En cas de partage des voix au sein du comité, la voix du président est prépondérante.
+
+Le secrétariat du comité est assuré dans les mêmes conditions que celui du conseil départemental de l'habitat.
+
+Le comité rend compte de son activité au conseil départemental de l'habitat.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1105 du 14 décembre 1994 - art. 3 () JORF 21 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R362-10 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R371-8 (M)
 
 
 ###### Article R362-19
@@ -56091,6 +56123,31 @@ _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R371-3 (V)
   - Code de la construction et de l'habitation. - art. R371-4 (T)
+
+
+###### Article R371-8
+
+Dans les départements d'outre-mer, le comité mentionné à l'article R. 362-18-1 est composé de deux membres de chacun des
+groupes définis à l'article R. 371-4. Des suppléants sont désignés dans les mêmes conditions que les titulaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°94-1105 du 14 décembre 1994 - art. 4 () JORF 21 décembre 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R362-18-1 (M)
+  - Code de la construction et de l'habitation. - art. R371-4 (M)
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. R371-9 (T)
 
 
 ## Livre IV : Habitations à loyer modéré<a id=463></a>
