@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1990-02-17
+Version Consolidée au 1990-03-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -487,7 +487,7 @@ Version Consolidée au 1990-02-17
         - [Chapitre III : Dispositions applicables à la gestion des diverses catégories d'organismes d'habitations à loyer modéré (art. R423-1 à R423-83)](#484)
           - [Section 1 : Dispositions communes financières et comptables. (art. R423-1 à R423-78)](#485)
             - [Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction. (art. R*423-2 à R423-33)](#486)
-              - [Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction. (art. R*423-2 à R*423-30)](#487)
+              - [Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction. (art. R*423-2 à R423-14-5)](#487)
               - [Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce. (art. R*423-31)](#488)
               - [Paragraphe 3 : Dispositions particulières aux offices publics d'aménagement et de construction soumis en matière financière et comptable aux règles de la comptabilité publique. (art. R423-32 à R423-33)](#489)
             - [Sous-section 2 : Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R*423-63 à R423-67)](#490)
@@ -56556,6 +56556,41 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L423-3 (AbD)
 
 
+###### Article R423-1-1
+
+Les fonds déposés à la Caisse des dépôts et consignations en application des articles R. 423-14-1, R. 423-60-1 et R. 423-74-1
+sont affectés exclusivement au financement du logement social. Une convention conclue entre le ministre chargé de l'économie
+et des finances et la Caisse des dépôts et consignations précise les modalités de gestion et d'utilisation de ces fonds. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 5 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cité par_:
+
+  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. D423-1-1, v. 0.1 (VD)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-60-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-74-1 (M)
+
+
 ##### Sous-section 1 : Dispositions particulières aux offices publics d'aménagement et de construction.<a id=486></a>
 
 ##### Paragraphe 1 : Dispositions applicables à tous les offices publics d'aménagement et de construction.<a id=487></a>
@@ -57145,6 +57180,203 @@ _Modifié par_:
 _Abrogé par_:
 
   - Décret n°2008-648 du 1er juillet 2008 - art. 1
+
+
+###### Article R423-14-1
+
+L'office est tenu de se faire ouvrir, auprès de la Caisse des dépôts et consignations, un compte sur livret dénommé " livret
+A-H.L.M. sur lequel sont déposés les fonds correspondant au total des sommes inscrites journellement sur les comptes suivants
+de la nomenclature comptable :
+
+" 272. Titres immobilisés (droits de créance).
+
+" Ensemble des comptes de la classe 5 figurant à l'actif et au passif du bilan.
+
+" Le respect de cette obligation de dépôt s'apprécie en fonction de la moyenne mensuelle des sommes inscrites sur les comptes
+en cause.
+
+" Une franchise, dont le montant est calculé le 1er janvier de chaque année dans les conditions prévues à l'article R.
+423-14-2, vient en déduction du montant du dépôt prévu à l'alinéa premier.
+
+" Le taux de rémunération des sommes placées sur le compte sur livret mentionné à l'alinéa premier est égal à celui qui est
+servi sur le premier livret des caisses d'épargne, sans que soient applicables les dispositions du premier alinéa de
+l'article 6 du code des caisses d'épargne.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cité par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 6 (V)
+  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-3 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
+
+_Cite_:
+
+  - Code des caisses d'épargne - art. 6 (M)
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+
+###### Article R423-14-2
+
+Le montant de la franchise F prévue à l'article R. 423-14-1 est calculé, chaque année, par l'office par application de la
+formule :
+
+" F = D + EC + GR
+
+" dans laquelle :
+
+" D   représente le douzième des décaissements de l'année calendaire précédente ;
+
+" EC   représente le montant des charges prévisionnelles annuelles d'entretien courant, y compris les charges de personnel
+concourant à cet entretien ;
+
+" GR   représente le montant des charges prévisionnelles annuelles de grosses réparations.
+
+" Le montant de la franchise est au minimum de trente millions de francs.
+
+" Les comptes de la nomenclature comptable à prendre en considération pour le calcul de la franchise sont définis par arrêté
+du ministre chargé de l'économie et des finances et du ministre chargé du logement. Le calcul du montant de la franchise fait
+l'objet d'une déclaration annuelle de la part de l'office reposant sur ses prévisions budgétaires. Cette déclaration est
+adressée au ministre chargé du logement et au préfet avant le 15 janvier de chaque année ou, le cas échéant, quinze jours au
+plus tard après le vote du budget.
+
+" A défaut de déclaration et après mise en demeure de l'organisme, la franchise applicable à l'office est égale à D,
+nonobstant les dispositions de l'alinéa 2 ci-dessus.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°90-213 1990-03-09 art. 6
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cité par_:
+
+  - Arrêté du 9 mars 1990 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+
+###### Article R423-14-3
+
+Sont exonérés de l'obligation de dépôt définie à l'article R. 423-14-1 :
+
+" a) Les offices en administration provisoire, conformément à l'article R. 421-13, à compter de la date d'effet de la
+décision. Cette exonération n'est applicable que dans le cas où l'administration provisoire a été décidée en raison des
+difficultés financières de l'office.
+
+" b) Les offices qui font l'objet d'un plan de redressement approuvé par le ministre chargé du logement, à compter de la date
+de cette approbation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R421-13, R423-14-1
+  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+
+###### Article R423-14-4
+
+A compter de l'exercice 1990, l'office devra distinguer dans ses comptes les produits financiers provenant du compte sur
+livret dénommé " livret A-HLM  ouvert auprès de la Caisse des dépôts et consignations et les produits provenant d'autres
+placements.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+
+###### Article R423-14-5
+
+Si les comptes du dernier exercice connu font apparaître que l'office a réalisé des travaux d'entretien courant et de grosses
+réparations pour des montants inférieurs à ceux déclarés lors du calcul de la franchise telle qu'elle est définie à l'article
+R. 423-14-2, l'office procède au calcul de cet écart.
+
+" Il est tenu de déposer, sur le compte sur livret dénommé " livret A-HLM , en sus des dépôts prévus à l'article R. 423-14-1,
+une somme égale à cet écart, pendant un an à compter du 1er janvier suivant. "
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 1 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R423-74-1 (Ab)
 
 
 ##### Paragraphe 2 : Dispositions particulières aux offices publics d'aménagement et de construction soumis aux règles applicables aux entreprises de commerce.<a id=488></a>
@@ -58164,8 +58396,9 @@ _Cite_:
 
 ###### Article R423-60
 
-Les fonds libres appartenant à l'office doivent être déposés au Trésor, à un compte de chèques postaux, à une caisse
-d'épargne, ou, sur autorisation spéciale du ministre chargé des finances, à la Banque de France.
+Les fonds libres appartenant à l'office doivent être déposés au Trésor, à un compte de chèques postaux, à la Caisse des
+dépôts et consignations, à une caisse d'épargne, ou, sur autorisation spéciale du ministre chargé des finances, à la Banque
+de France.
 
 **Liens relatifs à cet article**
 
@@ -58175,7 +58408,47 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 2 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Abrogé par_:
+
+  - Décret n°2004-628 du 28 juin 2004 - art. 3 () JORF 1er juillet 2004
+
+
+###### Article R423-60-1
+
+Les dispositions des articles R. 423-14-1 à R. 423-14-5 s'appliquent aux offices publics d'H.L.M. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°51-297 1951-03-03 ART. 29
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R423-14-1 à R423-14-5
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
+  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
+
+_Abrogé par_:
+
+  - Décret n°93-1414 1994-12-30 art. 1 JORF 31 décembre 1993 en vigueur le 1er janvier 1994
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 3 () JORF 10 mars 1990 en vigueur le 15 mars 1990
 
 
 ###### Article R423-61
@@ -58500,6 +58773,44 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R*422-32 (Ab)
   - Code de la construction et de l'habitation. - art. R313-29-7 (V)
   - Code de la construction et de l'habitation. - art. R313-40 (V)
+
+
+###### Article R423-74-1
+
+Les dispositions des articles R. 423-14-1 et 2, R. 423-14-4 et 5 s'appliquent aux sociétés anonymes d'H.L.M. n'ayant pas le
+statut de coopératives.
+
+" Les sociétés sont exonérées de l'obligation de dépôt définie à l'article R. 423-14-1 lorsqu'elles sont placées en
+administration provisoire ou mises en liquidation administrative en raison des difficultés financières, lorsqu'elles font
+l'objet d'un plan de redressement approuvé par le ministre chargé du logement, à compter de la date de cette approbation, ou
+lorsqu'elles font l'objet d'une liquidation ou d'une administration judiciaire. "
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°51-1161 1951-10-04 ART. 7
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°90-213 du 9 mars 1990 - art. 4 () JORF 10 mars 1990 en vigueur le 15 mars 1990
+
+_Cité par_:
+
+  - Décret n°93-1414 du 30 décembre 1993 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. R423-1-1 (Ab)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R423-14-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-2 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-3 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-4 (Ab)
+  - Code de la construction et de l'habitation. - art. R423-14-5 (Ab)
 
 
 ###### Article R423-75
