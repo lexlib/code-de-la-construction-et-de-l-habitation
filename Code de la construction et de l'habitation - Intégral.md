@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1982-01-06
+Version Consolidée au 1982-01-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -361,9 +361,9 @@ Version Consolidée au 1982-01-06
           - [Sous-section 4 : Préfinancement. (art. R331-57 à R331-59)](#358)
           - [Sous-section 5 : Sanctions. (art. R331-60 à R331-61)](#359)
           - [Sous-section 6 : Départements d'outre-mer. (art. R331-31 à R331-62)](#360)
-        - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements (art. R331-63 à R331-74)](#361)
-          - [Sous-section 1 : Conditions d'octroi. (art. R331-63 à R331-70)](#362)
-          - [Sous-section 2 : Caractéristiques. (art. R331-71 à R331-74)](#363)
+        - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements (art. R331-63 à R331-76)](#361)
+          - [Sous-section 1 : Conditions d'octroi. (art. R331-64 à R331-70)](#362)
+          - [Sous-section 2 : Caractéristiques. (art. R331-71 à R331-76)](#363)
         - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration des logements (art. R331-75 à R331-77)](#364)
           - [Sous-section 2 : Caractéristiques. (art. R331-75 à R331-77)](#365)
       - [Titre IV : Organismes consultatifs. (art. R362-20 à R362-23)](#366)
@@ -36244,18 +36244,24 @@ _Codifié par_:
 
 #### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements<a id=361></a>
 
-##### Sous-section 1 : Conditions d'octroi.<a id=362></a>
-
 ###### Article R331-63
 
-Des prêts conventionnés peuvent être accordés, dans les conditions prévues par la présente section pour financer :
+Des prêts conventionnés peuvent être accordés, dans les conditions fixées par la présente section, pour financer :
 
-1. L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
+1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
 logements ou leur acquisition ;
 
-2. L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général approuvé par le préfet ;
+2° L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
 
-3. L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants.
+3° L'acquisition de logements en vue de leur amélioration, ainsi que les travaux d'amélioration correspondants ;
+
+4° Les travaux destinés à réduire les dépenses d'énergie dans des logements dont la demande d'autorisation de construire a
+été déposée avant le 1er janvier 1976 ; ces travaux doivent être réalisés par des entreprises garantissant contractuellement
+l'économie d'énergie ou la consommation d'énergie finale qui en résulteront.
+
+Un arrêté du ministre chargé de la construction et de l'habitation précise les conditions d'application du 4°, notamment les
+modalités de calcul et de contrôle des économies d'énergie et, si ces économies ne sont pas obtenues, les modalités de mise
+en oeuvre de la garantie.
 
 **Liens relatifs à cet article**
 
@@ -36299,18 +36305,27 @@ _Cité par_:
   - Code de la sécurité sociale. - art. R831-22 (V)
   - Code général des impôts, CGI. - art. 1383 (VD)
 
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°82-90 1982-01-26 art. 1 JORF 27 janvier 1982
-
 **Liens**:
 
+  - TXT_ASSOCIE: Code de la construction R331-68
   - TXT_SOURCE: Arrêté du 8 mars 1985
+  - TXT_ASSOCIE: Code de la construction R331-69
+  - TXT_ASSOCIE: Code de la construction R331-76 durée d'amortissement
 
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°82-90 1982-01-26 ART. 1 JORF 27 JANVIER 1982
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R331-64 à R331-77
+
+
+##### Sous-section 1 : Conditions d'octroi.<a id=362></a>
 
 ###### Article R331-64
 
@@ -36605,30 +36620,29 @@ _Cité par_:
 
 ###### Article R331-73
 
-Les prêts conventionnés doivent comporter un barême d'annuités de remboursement progressives ; la progressivité des annuités
-est de 3,5 p. 100 l'an pendant la période d'amortissement du prêt.
+Les établissements prêteurs doivent proposer dans tous les cas au moins un barème de remboursement des prêts conventionnés
+par annuités progressives selon des modalités définies par la convention type visée à l'article R. 331-65.
 
-En outre, les établissements prêteurs ont la faculté d'offrir des prêts à annuités constantes ainsi que des prêts à taux
-révisables.
+Ils peuvent également offrir des prêts à annuités constantes et des prêts à taux révisables.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Décret n°77-1287 1977-11-22 art. 11
-
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°82-90 1982-01-26 art. 4 JORF 27 janvier 1982
+  - Décret n°82-90 1982-01-26 ART. 4 JORF 27 JANVIER 1982
 
 _Cité par_:
 
   - Arrêté du 4 octobre 2001 - art. 9 (V)
   - Code de la construction et de l'habitation. - art. R331-75 (M)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-65 (M)
 
 
 ###### Article R331-74
@@ -36670,6 +36684,33 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R331-65 (M)
+
+
+###### Article R331-76
+
+Les prêts sont amortissables [*durée amortissement*] :
+
+En dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63 (1° et 3°) ;
+
+En cinq ans au minimum et douze ans au maximum pour les opérations prévues à l'article R. 331-63 (2° et 4°).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°82-90 1982-01-26 ART. 5 JORF 27 JANVIER 1982
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R331-73 (V)
 
 
 #### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration des logements<a id=364></a>
@@ -36714,37 +36755,6 @@ _Cite_:
 
   - Code de la construction et de l'habitation. - art. R331-65 (M)
   - Code de la construction et de l'habitation. - art. R331-73 (M)
-
-
-###### Article R331-76
-
-Les prêts sont amortissables :
-
-- en dix ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63, 1° et 3° ;
-
-- en cinq ans au minimum et vingt ans au maximum pour les opérations prévues à l'article R. 331-63, 2°.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1287 1977-11-22 art. 14
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°82-90 1982-01-26 art. 5 JORF 27 janvier 1982
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-63 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R331-73 (V)
 
 
 ###### Article R331-77
