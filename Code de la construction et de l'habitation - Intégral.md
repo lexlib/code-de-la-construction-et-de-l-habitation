@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-07-27
+Version Consolidée au 1991-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -17848,16 +17848,22 @@ _Cité par_:
 
 ###### Article L613-1
 
-Le juge des référés de la situation de l'immeuble peut, par dérogation aux dispositions de l'article 1244 du code civil,
-accorder des délais renouvelables excédant une année aux occupants de locaux d'habitation ou à usage professionnel, dont
-l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des intéressés ne pourra avoir lieu dans des
-conditions normales, sans que lesdits occupants aient à justifier d'un titre à l'origine de l'occupation.    " Le juge qui
-ordonne l'expulsion peut, même d'office, accorder les mêmes délais, dans les mêmes conditions. "
+Le juge des référés ou le juge de l'exécution, selon le cas, du lieu de la situation de l'immeuble peut, par dérogation aux
+dispositions de l'article 1244 du code civil, accorder des délais renouvelables excédant une année aux occupants de locaux
+d'habitation ou à usage professionnel, dont l'expulsion aura été ordonnée judiciairement, chaque fois que le relogement des
+intéressés ne pourra avoir lieu dans des conditions normales, sans que lesdits occupants aient à justifier d'un titre à
+l'origine de l'occupation.
+
+Le juge qui ordonne l'expulsion peut, même d'office, accorder les mêmes délais, dans les mêmes conditions.
 
 Cette disposition n'est pas applicable lorsque le propriétaire exerce son droit de reprise dans les conditions prévues à
 l'article 19 de la loi n. 48-1360 du 1er septembre 1948 portant modification et codification de la législation relative aux
 rapports des bailleurs et locataires ou occupants de locaux d'habitation ou à usage professionnel et instituant des
 allocations de logement.
+
+**Nota:**
+
+.
 
 **Liens relatifs à cet article**
 
@@ -17882,9 +17888,13 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-650 1991-07-09 art. 97
+
 _Modifié par_:
 
-  - Loi n°90-449 du 31 mai 1990 - art. 25 () JORF 2 juin 1990
+  - Loi n°91-650 du 9 juillet 1991 - art. 63 () JORF 14 juillet 1991 en vigueur le 1er août 1991
 
 _Nouveaux textes_:
 
@@ -17955,7 +17965,8 @@ jusqu'au 15 mars de l'année suivante, à moins que le relogement des intéress�
 respectant l'unité et les besoins de la famille.
 
 Les dispositions du présent article ne sont toutefois pas applicables lorsque les personnes dont l'expulsion a été ordonnée
-occupent des locaux situés dans un immeuble ayant fait l'objet d'un arrêté de péril.
+sont entrées dans les locaux par voie de fait ou lorsque ceux-ci sont situés dans un immeuble ayant fait l'objet d'un arrêté
+de péril.
 
 **Liens relatifs à cet article**
 
@@ -17967,14 +17978,26 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-650 1991-07-09 art. 97
+
 _Modifié par_:
 
-  - Loi n°90-449 du 31 mai 1990 - art. 21 () JORF 2 juin 1990
+  - Loi n°91-650 du 9 juillet 1991 - art. 64 () JORF 14 juillet 1991 en vigueur le 1er août 1991
+
+_Abrogé par_:
+
+  - Ordonnance n°2011-1895 du 19 décembre 2011 - art. 3
 
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. L661-1 (V)
   - Code de la construction et de l'habitation. - art. L661-2 (VT)
+
+_Nouveaux textes_:
+
+  - Code des procédures civiles d'exécution - art. L412-6 (VD)
 
 
 ###### Article L613-4
