@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-10-01
+Version Consolidée au 1991-10-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -378,7 +378,7 @@ Version Consolidée au 1991-10-01
             - [Sous-section 5 : Sanctions. (art. R331-60 à R331-61)](#375)
             - [Sous-section 6 : Départements d'outre-mer. (art. R331-62)](#376)
           - [Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété. (art. R331-38 à R331-54-2)](#377)
-            - [Sous-section 1 : Conditions d'octroi des prêts. (art. R331-38 à R331-41)](#378)
+            - [Sous-section 1 : Conditions d'octroi des prêts. (art. R331-38)](#378)
             - [Sous-section 2 : Caractéristiques des prêts. (art. R331-54-2)](#379)
           - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-76-1 à R331-76-5)](#380)
             - [Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété. (art. R331-76-1 à R331-76-5)](#381)
@@ -40297,6 +40297,100 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-53 (V)
 
 
+###### Article R331-40
+
+Sous réserve des dispositions prévues à l'article R. 331-41, les logements financés à l'aide des prêts prévus à l'article R.
+321-32 doivent être occupés à titre de résidence principale au moins huit mois par an, sauf cas de force majeure, par des
+personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 ou par leurs ascendants, leurs descendants ou
+ceux de leur conjoint. 
+
+Cette occupation doit être effective dans le délai maximum d'un an suivant, soit la déclaration d'achèvement des travaux,
+soit l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque
+le logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un
+département ou d'un territoire d'outre-mer ou de l'étranger, à condition qu'il soit loué en application du 2° de l'article R.
+331-41.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°91-1017 du 30 septembre 1991 - art. 1 () JORF 5 octobre 1991
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*313-12 (V)
+  - Code de la construction et de l'habitation. - art. R331-39 (V)
+  - Code de la construction et de l'habitation. - art. R331-41 (V)
+  - Code rural - art. R716-33 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-32 (V)
+
+
+###### Article R331-41
+
+Les personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 qui ne peuvent satisfaire aux dispositions
+de l'article R. 331-40 doivent louer leur logement : 
+
+1° Après déclaration au représentant de l'Etat dans le département et à l'établissement prêteur, pour une durée maximum de
+six ans lorsque la cessation d'occupation est due à des raisons professionnelles ou familiales ; 
+
+2° Après déclaration au représentant de l'Etat dans le département et à l'établissement prêteur, pour une durée maximum de
+six ans comprise entre la date de déclaration d'achèvement des travaux ou d'acquisition du logement et celle de l'occupation
+régulière par le bénéficiaire du prêt après sa mise à la retraite par limite d'âge ou pour motif économique ou son retour
+d'un département ou d'un territoire d'outre-mer ou de l'étranger. 
+
+Dans les cas prévus aux 1° et 2° ci-dessus, ces loyers doivent respecter des maxima fixés par arrêté des ministres chargés de
+la construction et de l'habitation et des finances. Une prorogation de la durée autorisée de location peut être accordée dans
+la limite de six ans par le représentant de l'Etat dans le département au vu de justificatifs. 
+
+3° Après passation d'une convention régie par le livre III, titre V, chapitre III du présent code (première partie) et
+conforme à une convention type définie par décret lorsqu'elles occupent un logement lié à l'exercice d'une fonction ou à leur
+statut.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°91-1017 du 30 septembre 1991 - art. 1 () JORF 5 octobre 1991
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*313-12 (V)
+  - Code de la construction et de l'habitation. - art. R322-16 (M)
+  - Code de la construction et de l'habitation. - art. R322-16 bis (Ab)
+  - Code de la construction et de l'habitation. - art. R331-40 (V)
+  - Code de la construction et de l'habitation. - art. R331-41 bis (V)
+  - Code de la construction et de l'habitation. - art. R331-59-17 (V)
+  - Code de la construction et de l'habitation. - art. R331-59-4 (V)
+  - Code de la construction et de l'habitation. - art. R353-166 (V)
+  - Code de la construction et de l'habitation. - art. R353-167 (M)
+  - Code de la construction et de l'habitation. - art. R353-168 (M)
+  - Code de la construction et de l'habitation. - art. R353-169 (M)
+  - Code de la construction et de l'habitation. - art. R353-171 (M)
+  - Code de la construction et de l'habitation. - art. R353-172 (M)
+  - Code de la construction et de l'habitation. - art. R353-173 (M)
+  - Code de la construction et de l'habitation. - art. R353-174 (M)
+  - Code de la construction et de l'habitation. - art. R353-175 (M)
+  - Code de la construction et de l'habitation. - art. R353-176 (M)
+  - Code de la construction et de l'habitation. - art. R353-177 (M)
+  - Code de la construction et de l'habitation. - art. R353-178 (M)
+  - Code rural - art. R716-33 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-39 (V)
+
+
 ###### Article R331-41 bis
 
 Les personnes physiques accédant à la propriété mentionnées à l'article R. 331-39, qui passent un contrat conforme à
@@ -41771,110 +41865,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-54-2 (V)
   - Code de la construction et de l'habitation. - art. R331-54-3 (V)
   - Code de la construction et de l'habitation. - art. R331-56 (M)
-
-
-###### Article R331-40
-
-Sous réserve des dispositions prévues à l'article R. 331-41, les logements financés à l'aide des prêts prévus à l'article R.
-321-32 doivent être occupés à titre de résidence principale au moins huit mois par an, sauf cas de force majeure,
-
-par des personnes physiques accédant à la propriété mentionnées à l'article R. 331-39 ou par leurs ascendants, leurs
-descendants ou ceux de leur conjoint.
-
-Cette occupation doit être effective dans le délai maximum d'un an suivant, soit la déclaration d'achèvement des travaux,
-soit l'acquisition des logements si celle-ci est postérieure à ladite déclaration. Ce délai peut être porté à six ans lorsque
-le logement est destiné à être occupé par le bénéficiaire du prêt dès sa mise à la retraite ou dès son retour d'un
-département ou territoire d'outre-mer ou de l'étranger.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*313-12 (V)
-  - Code de la construction et de l'habitation. - art. R331-39 (V)
-  - Code de la construction et de l'habitation. - art. R331-41 (V)
-  - Code rural - art. R716-33 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-32 (M)
-
-
-###### Article R331-41
-
-Les personnes physiques accédant à la propriété mentionnées à l'article R.331-39 qui ne peuvent satisfaire aux dispositions
-de l'article R.331-40 doivent louer leur logement :
-
-1° Après déclaration au commissaire de la République et à l'établissement prêteur lorsque la cessation d'occupation est due à
-des raisons professionnelles ou familiales et que le contrat de location est conclu pour une durée de trois ans.
-
-La conclusion d'un contrat initial de six ans ou le renouvellement pour trois ans du contrat initial de trois ans est
-subordonné à l'autorisation du commissaire de la République.
-
-2° Sur autorisation du commissaire de la République pour une durée maximum de six ans comprise entre la date de la
-déclaration d'achèvement des travaux ou d'acquisition du logement et celle de l'occupation régulière par le bénéficiaire du
-prêt après sa mise à la retraite par limite d'âge ou pour des motifs économiques ou son retour d'un département ou territoire
-d'outre-mer ou de l'étranger.
-
-Dans les cas prévus aux 1° et 2° ci-dessus, les loyers doivent respecter des maxima fixés par arrêté conjoint du ministre
-chargé des finances et du ministre chargé de la construction et de l'habitation.
-
-3° Après passation d'une convention régie par [*logements locatifs conventionnés*] le livre III, titre V, chapitre III du
-présent code (première partie) et conforme à une convention type définie par décret lorsqu'elles occupent un logement lié à
-l'exercice d'une fonction ou à leur statut.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*313-12 (V)
-  - Code de la construction et de l'habitation. - art. R322-16 (M)
-  - Code de la construction et de l'habitation. - art. R322-16 bis (Ab)
-  - Code de la construction et de l'habitation. - art. R331-40 (V)
-  - Code de la construction et de l'habitation. - art. R331-41 bis (V)
-  - Code de la construction et de l'habitation. - art. R331-59-17 (V)
-  - Code de la construction et de l'habitation. - art. R331-59-4 (V)
-  - Code de la construction et de l'habitation. - art. R353-166 (V)
-  - Code de la construction et de l'habitation. - art. R353-167 (M)
-  - Code de la construction et de l'habitation. - art. R353-168 (M)
-  - Code de la construction et de l'habitation. - art. R353-169 (M)
-  - Code de la construction et de l'habitation. - art. R353-171 (M)
-  - Code de la construction et de l'habitation. - art. R353-172 (M)
-  - Code de la construction et de l'habitation. - art. R353-173 (M)
-  - Code de la construction et de l'habitation. - art. R353-174 (M)
-  - Code de la construction et de l'habitation. - art. R353-175 (M)
-  - Code de la construction et de l'habitation. - art. R353-176 (M)
-  - Code de la construction et de l'habitation. - art. R353-177 (M)
-  - Code de la construction et de l'habitation. - art. R353-178 (M)
-  - Code rural - art. R716-33 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-39 (M)
 
 
 ##### Sous-section 2 : Caractéristiques des prêts.<a id=379></a>
