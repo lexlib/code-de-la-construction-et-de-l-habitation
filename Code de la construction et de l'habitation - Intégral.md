@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1996-07-01
+Version Consolidée au 1996-07-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -40618,7 +40618,7 @@ _Cite_:
 
 Une commission instituée auprès du ministre chargé des finances, et qui se réunit au moins une fois par an, a qualité pour
 formuler toutes suggestions ou tous voeux ayant pour objet l'épargne-construction. Les administrations intéressées peuvent,
-de leur côté, provoquer l'avis de la commission sur toutes questions ayant le même objet.
+de leur côté, provoquer l'avis de la commission sur toutes questions ayant le même objet. 
 
 Cette commission est composée comme suit :
 
@@ -40639,7 +40639,7 @@ de l'habitation ;
 
 - le directeur de la caisse nationale d'épargne ou son suppléant ;
 
-- deux représentants des organismes agréés mentionnés à l'article L. 315-19 désignés par le conseil national du crédit ;
+- deux représentants des organismes agréés mentionnés à l'article L. 315-19 désignés par le Conseil national du crédit ;
 
 - le directeur du budget ou son suppléant ;
 
@@ -40649,9 +40649,9 @@ de l'habitation ;
 
 - un représentant du ministre chargé des finances ;
 
-- un représentant du ministre chargé de l'agriculture.
+- un représentant du ministre chargé de l'agriculture. 
 
-La commission élit son président et un vice-président.
+La commission élit son président et un vice-président. 
 
 Un administrateur civil du ministère chargé des finances remplit les fonctions de secrétaire, avec voix consultative.
 
@@ -40663,11 +40663,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Loi n°96-597 du 2 juillet 1996 - art. 10 () JORF 4 juillet 1996
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. L315-19 (M)
+  - Code de la construction et de l'habitation. - art. L315-19 (Ab)
 
 
 ###### Article R315-75
