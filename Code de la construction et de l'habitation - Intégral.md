@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-10-12
+Version Consolidée au 1979-10-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-1)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -212,16 +212,16 @@ Version Consolidée au 1979-10-12
           - [Section 6 : Dispositions diverses. (art. R*123-53 à R*123-55)](#209)
         - [Chapitre IV : Adaptation des constructions pour le temps de guerre. (art. R124-1)](#210)
       - [Titre III : Chauffage et ravalement des immeubles (art. R*131-1 à R*132-1)](#211)
-        - [Chapitre Ier : Chauffage des immeubles (art. R*131-1 à R131-24)](#212)
+        - [Chapitre Ier : Chauffage des immeubles (art. R*131-1 à R*131-20)](#212)
           - [Section 1 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-1)](#213)
           - [Section 2 : Frais d'eau chaude dans les immeubles collectifs. (art. R*131-9 à R*131-14)](#214)
           - [Section 3 : Régulation des installations de chauffage. (art. R*131-18)](#215)
           - [Section 4 : Limitation de la température de chauffage. (art. R*131-19 à R131-24)](#216)
-        - [Chapitre Ier : Chauffage des immeubles. (art. R*131-2 à R*131-20)](#217)
-          - [Section 1 : Equipement. (art. R*131-2 à R*131-3)](#218)
-          - [Section 2 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-4 à R*131-8)](#219)
-          - [Section 3 : Régulation des installations de chauffage. (art. R*131-15 à R*131-17)](#220)
-          - [Section 4 : Limitation de la température de chauffage. (art. R*131-20)](#221)
+          - [Section 4 : Limitation de la température de chauffage. (art. R*131-20)](#217)
+        - [Chapitre Ier : Chauffage des immeubles. (art. R*131-2 à R*131-17)](#218)
+          - [Section 1 : Equipement. (art. R*131-2 à R*131-3)](#219)
+          - [Section 2 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-4 à R*131-8)](#220)
+          - [Section 3 : Régulation des installations de chauffage. (art. R*131-15 à R*131-17)](#221)
         - [Chapitre II : Ravalement des immeubles. (art. R*132-1)](#222)
       - [Titre IV : Dispositions relatives à l'industrie du bâtiment. (art. R*141-1 à R*142-14)](#223)
         - [Chapitre Ier : Aide à la productivité - Coordination des programmes d'équipement. (art. R*141-1 à R141-4)](#224)
@@ -20044,9 +20044,41 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L131-4 (M)
 
 
-#### Chapitre Ier : Chauffage des immeubles.<a id=217></a>
+##### Section 4 : Limitation de la température de chauffage.<a id=217></a>
 
-##### Section 1 : Equipement.<a id=218></a>
+###### Article R*131-20
+
+Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
+l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
+chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-20, fixées en moyenne à 19° C : 
+
+- pour l'ensemble des pièces d'un logement ; 
+
+- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+
+_Modifié par_:
+
+  - Décret n°79-907 1979-10-22 ART. 1 JORF 23 OCTOBRE 1979
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R131-20
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
+  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
+
+
+#### Chapitre Ier : Chauffage des immeubles.<a id=218></a>
+
+##### Section 1 : Equipement.<a id=219></a>
 
 ###### Article R*131-2
 
@@ -20101,7 +20133,7 @@ _Cite_:
   - Code de la construction et de l'habitation R131-2
 
 
-##### Section 2 : Equipement et répartition des frais dans les immeubles collectifs.<a id=219></a>
+##### Section 2 : Equipement et répartition des frais dans les immeubles collectifs.<a id=220></a>
 
 ###### Article R*131-4
 
@@ -20237,7 +20269,7 @@ _Cite_:
   - Code de l'urbanisme - art. R460-1 (M)
 
 
-##### Section 3 : Régulation des installations de chauffage.<a id=220></a>
+##### Section 3 : Régulation des installations de chauffage.<a id=221></a>
 
 ###### Article R*131-15
 
@@ -20305,41 +20337,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-
-##### Section 4 : Limitation de la température de chauffage.<a id=221></a>
-
-###### Article R*131-20
-
-Dans les locaux à usage d'habitation, d'enseignement, de bureaux ou recevant du public et dans tous autres locaux, à
-l'exception de ceux qui sont indiqués aux articles R. 131-22 et R. 131-23, les limites supérieures de température de
-chauffage sont, en dehors des périodes d'inoccupation définies à l'article R. 131-21, fixées en moyenne à 20° C :
-
-- pour l'ensemble des pièces d'un logement ;
-
-- pour l'ensemble des locaux affectés à un usage autre que l'habitation et compris dans un même bâtiment.
-
-De plus, la température de chauffage d'aucune pièce d'un logement ni d'aucun local affecté à un usage autre que l'habitation
-ne peut dépasser 22° C.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-1025 1974-12-03 art. 2
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R131-22, R131-23, R131-21
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R*131-20 (Ab)
-  - Code de la construction et de l'habitation. - art. R*131-21 (Ab)
 
 
 #### Chapitre II : Ravalement des immeubles.<a id=222></a>
