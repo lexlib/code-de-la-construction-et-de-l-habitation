@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-07-21
+Version Consolidée au 1994-07-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -12568,12 +12568,24 @@ _Cité par_:
 
 ###### Article L351-14
 
-En cas de contestation, les décisions des organismes ou services chargés du paiement de l'aide personnalisée au logement ou
-de la prime de déménagement sont, dans un délai de deux mois à compter de leur notification par lesdits organismes ou
-services, soumises à une commission départementale présidée par le préfet ou son représentant et dont la composition est
-fixée par décret.
+Il est créé dans chaque département une commission compétente pour :
 
-Les recours relatifs aux décisions de cette commission sont portés devant la juridiction administrative.
+1° Décider, selon des modalités fixées par décret, du maintien du versement de l'aide personnalisée au logement lorsque le
+bénéficiaire ne règle pas la part de dépense de logement restant à sa charge ;
+
+2° Statuer sur les demandes de remise de dettes présentées à titre gracieux par les bénéficiaires de l'aide personnalisée au
+logement en cas de réclamation d'un trop-perçu effectuée par l'organisme payeur ;
+
+3° Statuer sur les contestations des décisions des organismes ou services chargés du paiement de l'aide personnalisée au
+logement ou de la prime de déménagement.
+
+Cette commission est présidée par le préfet ou son représentant.
+
+Un décret détermine sa composition, le délai dans lequel elle doit être saisie et les conditions dans lesquelles elle peut
+déléguer aux services chargés du paiement de l'aide personnalisée au logement ou de la prime de déménagement tout ou partie
+de ses compétences à l'exception de celle mentionnée au 1° ci-dessus.
+
+Les recours relatifs à ces décisions sont portés devant la juridiction administrative.
 
 **Liens relatifs à cet article**
 
@@ -12583,7 +12595,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -12603,6 +12615,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R362-2 (M)
   - Code de la construction et de l'habitation. - art. R362-20 (Ab)
   - Code de la construction et de l'habitation. - art. R362-7 (M)
+
+_Modifié par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 37 () JORF 24 juillet 1994
 
 
 ###### Article L351-15
@@ -13246,6 +13262,11 @@ Par dérogation à l'article L. 442-6, seules les dispositions des chapitres Ier
 l'article 32 bis et de l'alinéa premier de l'article 78 de la loi n° 48-1360 du 1er septembre 1948 modifiée, sont applicables
 aux locataires ou occupants de bonne foi des logements mentionnés à l'article L. 353-14.
 
+Par dérogation au I de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs et
+portant modification de la loi n° 86-1290 du 23 décembre 1986, le délai de préavis applicable au congé donné par un locataire
+d'un logement mentionné à l'article L. 353-14 qui bénéficie de l'attribution d'un autre logement mentionné au même article
+est ramené à deux mois.
+
 A compter du 13 novembre 1982 et nonobstant toute disposition ou stipulation contraire, les charges récupérables sont
 exigibles dans les conditions prévues à l'article L. 442-3.
 
@@ -13253,7 +13274,10 @@ exigibles dans les conditions prévues à l'article L. 442-3.
 
 _Cite_:
 
-  - Loi n°48-1360 1948-09-01 ART. 78 AL. 1, ART. 32 BIS AL. 1 AL. 2, ART. 4 à ART. 17, ART. 46 à ART. 86
+  - Loi n°48-1360 du 1 septembre 1948 - art. 78 (M)
+  - Loi n°86-1290 1986-12-23
+  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+  - Code de la construction et de l'habitation L442-6, 32 bis, L353-14, L442-3
   - Code de la construction et de l'habitation. - art. L353-14 (M)
   - Code de la construction et de l'habitation. - art. L442-3 (M)
   - Code de la construction et de l'habitation. - art. L442-6 (M)
@@ -13273,7 +13297,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°83-440 du 2 juin 1983 - art. 12 () JORF 3 JUIN 1983 rectificatif JORF 14 JUILLET 1983
+  - Loi n°94-624 du 21 juillet 1994 - art. 38 (V) JORF 24 juillet 1994
 
 
 ###### Article L353-16
@@ -13413,32 +13437,27 @@ _Codifié par_:
 ###### Article L353-20
 
 Nonobstant toutes dispositions ou stipulations contraires, les bailleurs, autres que ceux mentionnés à l'article L. 353-14,
-peuvent louer les logements régis par une convention conclue en application de l'article L. 351-2 aux associations
-mentionnées au premier alinéa de l'article L. 442-8-1 et aux associations ou établissements publics mentionnés à l'article L.
-442-8-4.
+peuvent louer les logements régis par une convention conclue en application de l'article L. 351-2 auc centres communaux
+d'action sociale, organismes et associations mentionnés au premier alinéa de l'article L. 442-8-1 et aux associations ou
+établissements publics mentionnés à l'article L. 442-8-4.
 
-" Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnalisée au logement prévue par
-l'article L. 351-1.
+Les sous-locataires sont assimilés à des locataires pour bénéficier de l'aide personnalisée au logement prévue par l'article
+L. 351-1.
 
-" Ne peuvent se prévaloir des dispositions de l'article L. 353-2 relatives à la reconduction des baux à la volonté du
-locataire pendant la durée de la convention :
+Ne peuvent se prévaloir des dispositions de l'article L. 353-2 relatives à la reconduction des baux à la volonté du locataire
+pendant la durée de la convention :
 
-" 1° Les sous-locataires des associations mentionnées au premier alinéa de l'article L. 442-8-1, après le refus d'une offre
-de relogement définitif correspondant à leurs besoins et à leurs possibilités ;
+1° Les sous-locataires des associations mentionnées au premier alinéa de l'article L. 442-8-1, après le refus d'une offre de
+relogement définitif correspondant à leurs besoins et à leurs possibilités ;
 
-" 2° Les sous-locataires des associations ou établissements publics mentionnés à l'article L. 442-8-4, dès lors qu'ils ne
+2° Les sous-locataires des associations ou établissements publics mentionnés à l'article L. 442-8-4, dès lors qu'ils ne
 répondent plus aux conditions pour être logés par ces personnes morales telles que précisées par le contrat de sous-location.
-"
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
-
-_Créé par_:
-
-  - Loi n°90-449 du 31 mai 1990 - art. 19 () JORF 2 juin 1990
+  - Loi n°94-624 du 21 juillet 1994 - art. 25 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -13462,6 +13481,10 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L353-2 (M)
   - Code de la construction et de l'habitation. - art. L442-8-1 (M)
   - Code de la construction et de l'habitation. - art. L442-8-4 (V)
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-21 JORF 8 JUIN 1978
 
 
 ### Titre VI : Organismes consultatifs et organismes concourant aux objectifs de la politique d'aide au logement.<a id=117></a>
@@ -14028,6 +14051,13 @@ A titre subsidiaire, et en qualité de prestataires de services, ils peuvent en 
 - pour le compte de l'Etat, des collectivités locales ou des établissements publics, réaliser et assurer l'entretien des
 constructions liées à l'habitat ;
 
+- réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires ;
+
+- avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le département, gérer, en qualité
+d'administrateurs de biens, des logements situés dans des copropriétés connaissant des difficultés importantes de
+fonctionnement ou être syndics de ces copropriétés.
+
 - réaliser des hébergements de loisirs à vocation sociale, en assurant, le cas échéant, l'ensemble des tâches incombant au
 maître d'ouvrage. Un décret en Conseil d'Etat définit les conditions de financement de ces hébergements et la nature des
 organismes pour le compte desquels ils sont réalisés.
@@ -14075,13 +14105,10 @@ _Cité par_:
 _Cite_:
 
   - Loi n°82-526 1982-06-22 art. 37
-  - Code de la construction et de l'habitation. - art. L351-2 (M)
-  - Code de la construction et de l'habitation. - art. L411-1 (M)
-  - Code de la construction et de l'habitation. - art. L443-14 (M)
 
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
+  - Loi n°94-624 du 21 juillet 1994 - art. 40 () JORF 24 juillet 1994
 
 _Anciens textes_:
 
@@ -14374,14 +14401,27 @@ _Anciens textes_:
 Les sociétés anonymes d'habitations à loyer modéré ont pour objet de réaliser, dans les conditions fixées par leurs statuts,
 principalement en vue de la location, les opérations prévues à l'article L. 411-1.
 
-Elles ont également pour objet de réaliser toutes les opérations d'aménagement définies par le code de l'urbanisme, pour leur
-compte, avec l'accord de la ou des collectivités locales concernées, et pour le compte de tiers, lorsqu'elles ont été agréées
-à cet effet, dans les conditions fixées par leur statut. Dans le cas où elles interviennent pour le compte de tiers, les
-dispositions de l'article L. 443-14 du présent code ne sont pas applicables aux cessions de terrains non bâtis rendues
-nécéssaires par la réalisation de ces opérations.
+Elles ont également pour objet :
 
-Elles peuvent, en outre, réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L.
-421-1.
+- de réaliser, dans les conditions fixées par leur statut, toutes les opérations d'aménagement définies par le code de
+l'urbanisme, soit pour leur compte avec l'accord de la ou des collectivités locales concernées, soit pour le compte de tiers
+lorsqu'elles ont été agréées à cet effet. Dans le cas où elles interviennent pour le compte de tiers, les dispositions de
+l'article L. 443-14 du présent code ne sont pas applicables aux cessions de terrains non bâtis rendues nécessaires par la
+réalisation de ces opérations ;
+
+- de réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des missions
+rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires.
+
+Elles peuvent, en outre :
+
+- intervenir, dans les conditions fixées par leur statut, comme prestataires de services des sociétés d'économie mixte pour
+la réalisation d'opérations d'aménagement, lorsqu'elles ont été agréées à cet effet ;
+
+- avec l'accord du maire de la commune d'implantation et du représentant de l'Etat dans le département, gérer, en qualité
+d'administrateurs de biens, des logements situés dans des copropriétés connaissant des difficultés importantes de
+fonctionnement ou être syndics de ces copropriétés ;
+
+- réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1.
 
 **Liens relatifs à cet article**
 
@@ -14422,13 +14462,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°83-597 1983-07-07 ART. 14 1°
-
 _Modifié par_:
 
-  - Loi n°85-729 du 18 juillet 1985 - art. 29 ()
+  - Loi n°94-624 du 21 juillet 1994 - art. 41 () JORF 24 juillet 1994
 
 _Anciens textes_:
 
@@ -14489,32 +14525,33 @@ _Cité par_:
 
 Les sociétés anonymes coopératives de production d'habitations à loyer modéré ont pour objet :
 
-" 1° D'assister, à titre de prestataires de services, des personnes physiques et des sociétés coopératives de construction,
+1° D'assister, à titre de prestataires de services, des personnes physiques et des sociétés coopératives de construction,
 constituées en application du chapitre III du titre Ier du livre II, pour la réalisation et la gestion de programmes de
 construction en accession à la propriété ;
 
-" 2° En vue de l'accession à la propriété, de construire, acquérir, réaliser des travaux, vendre et gérer des immeubles à
-usage d'habitation ou à usage professionnel ou d'habitation ou destinés à cet usage ;
+2° En vue de l'accession à la propriété, de construire, acquérir, réaliser des travaux, vendre et gérer des immeubles à usage
+d'habitation ou à usage professionnel ou d'habitation ou destinés à cet usage ;
 
-" 3° D'assister, à titre de prestataires de services, des personnes physiques ou morales en vue de la réalisation de tous
+3° D'assister, à titre de prestataires de services, des personnes physiques ou morales en vue de la réalisation de tous
 travaux portant sur des immeubles existants et destinés à usage d'habitation ou à usage professionnel et d'habitation ;
 
-" 4° De réaliser des lotissements ;
+4° De réaliser des lotissements ;
 
-" 5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1.
+5° De réaliser des hébergements de loisir à vocation sociale selon les modalités prévues à l'article L. 421-1.
 
-" Toute opération réalisée en application du 2° du présent article doit faire l'objet d'une garantie de financement et d'une
+Elles peuvent réaliser pour le compte d'autres organismes d'habitations à loyer modéré des prestations de services pour des
+missions rentrant dans l'objet social et la compétence territoriale desdits organismes et des organismes prestataires.
+
+Toute opération réalisée en application du 2° du présent article doit faire l'objet d'une garantie de financement et d'une
 garantie d'acquisition des locaux non vendus.
 
-" Les sociétés anonymes coopératives de production d'habitations à loyer modéré font procéder périodiquement à l'examen
+Les sociétés anonymes coopératives de production d'habitations à loyer modéré font procéder périodiquement à l'examen
 analytique de leur situation financière et de leur gestion. Un décret en Conseil d'Etat, pris après avis du comité permanent
 du Conseil supérieur des habitations à loyer modéré, détermine les modalités de mise en oeuvre de la procédure, dite de
-révision coopérative,
+révision coopérative, définie au présent alinéa, ainsi que les conditions d'agrément garantissant le pluralisme de son
+exercice et le respect des principes coopératifs.
 
-définie au présent alinéa, ainsi que les conditions d'agrément garantissant le pluralisme de son exercice et le respect des
-principes coopératifs.
-
-" Un décret détermine les modalités d'application du présent article. "
+Un décret détermine les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
 
@@ -14524,7 +14561,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°92-643 du 13 juillet 1992 - art. 53 () JORF 14 juillet 1992
+  - Loi n°94-624 du 21 juillet 1994 - art. 42 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -14606,50 +14643,64 @@ _Cite_:
 Les sociétés anonymes de crédit immobilier sont habilitées, dans les conditions fixées par leurs statuts, à réaliser les
 opérations prévues par le présent article.
 
-" I. - Ces sociétés ont pour objet :
+I. - Ces sociétés ont pour objet :
 
-" a) De consentir aux personnes physiques des prêts ouvrant droit à l'aide personnalisée au logement ;
+a) De consentir aux personnes physiques des prêts ouvrant droit à l'aide personnalisée au logement ;
 
-" b) De consentir des prêts complémentaires aux prêts mentionnés au a ci-dessus ;
+b) De consentir des prêts complémentaires aux prêts mentionnés au a ci-dessus ;
 
-" c) D'accorder, aux fins mentionnées à l'article L. 411-1, tout prêt qu'elles seront habilitées à distribuer par arrêté
+c) D'accorder, aux fins mentionnées à l'article L. 411-1, tout prêt qu'elles seront habilitées à distribuer par arrêté
 conjoint du ministre chargé du Trésor et du ministre chargé du logement ;
 
-" d) D'effectuer, pour le compte d'organismes d'habitations à loyer modéré, le recouvrement des sommes dues par les
-acquéreurs de logements cédés dans les conditions prévues à l'article L. 443-13.
+d) D'effectuer, pour le compte d'organismes d'habitations à loyer modéré, le recouvrement des sommes dues par les acquéreurs
+de logements cédés dans les conditions prévues à l'article L. 443-13.
 
-" II. - Ces sociétés sont également habilitées, nonobstant les dispositions de l'article 7 de la loi n° 84-46 du 24 janvier
+II. - Ces sociétés sont également habilitées, nonobstant les dispositions de l'article 7 de la loi n° 84-46 du 24 janvier
 1984 relative à l'activité et au contrôle des établissements de crédit :
 
-" a) A réaliser des constructions destinées à l'accession à la propriété, susceptibles d'être financées à l'aide de prêts
+a) A réaliser des constructions destinées à l'accession à la propriété, susceptibles d'être financées à l'aide de prêts
 ouvrant droit à l'aide personnalisée au logement ;
 
-" b) A réaliser des lotissements ;
+b) A réaliser des lotissements ;
 
-" c) A réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
+c) A réaliser des hébergements de loisirs à vocation sociale dans les conditions prévues à l'article L. 421-1 ;
 
-" d) A réaliser des opérations de prestation de services liées aux activités visées aux I et II du présent article, dans des
+d) A réaliser des opérations de prestation de services liées aux activités visées aux I et II du présent article, dans des
 conditions fixées par les clauses types mentionnées au deuxième alinéa de l'article L. 422-5.
 
-" III. - Les sociétés anonymes de crédit immobilier peuvent, en dehors des cas prévus au I et au II, soit directement à titre
+III. - Les sociétés anonymes de crédit immobilier peuvent, en dehors des cas prévus au I et au II, soit directement à titre
 accessoire, soit par l'intermédiaire des filiales visées à l'article L. 422-4-2, réaliser toutes opérations de prêts
 immobiliers, de construction, de maîtrise d'ouvrage et de prestation de services, liées à la propriété de l'habitat, sans que
 ces opérations aient pour objet la constitution d'un patrimoine locatif pour ces sociétés ou leurs filiales, dans les
 conditions et limites précisées par les clauses types prévues audit article L. 422-4-2.
 
-" Elles peuvent également, selon les mêmes modalités et dans les mêmes conditions et limites, réaliser pour leur compte ou
-pour le compte de tiers, toutes les opérations d'aménagement définies par le code de l'urbanisme, avec l'accord de la ou des
-collectivités concernées. "
+Elles peuvent également, selon les mêmes modalités et dans les mêmes conditions et limites, réaliser pour leur compte ou pour
+le compte de tiers, toutes les opérations d'aménagement définies par le code de l'urbanisme, avec l'accord de la ou des
+collectivités concernées.
+
+Les sociétés anonymes de crédit immobilier peuvent, en dehors des cas prévus au I et au II, soit directement à titre
+accessoire, soit par l'intermédiaire des filiales visées à l'article L. 422-4-2 du présent code, réaliser toutes opérations
+de prêts immobiliers, de construction, de réhabilitation, de maîtrise d'ouvrage et de prestations de services liées à
+l'habitat dans les conditions et limites précisées par les clauses types.
+
+Les opérations réalisées au titre des I, II et III du présent article ne peuvent avoir pour objet la constitution d'un
+patrimoine locatif pour les sociétés anonymes de crédit immobilier ou pour les sociétés visées à l'article L. 422-4-2
+précité. Toutefois, ne sont pas considérées comme constituant un patrimoine locatif au sens du présent article la location
+des immeubles invendus d'une opération d'accession à la propriété comptabilisés en éléments du stock, la location, en attente
+de la revente, des immeubles acquis sur adjudication et la location des parties inoccupées des sièges sociaux des sociétés
+visées au présent article, lorsqu'elles sont réalisées dans les conditions définies par les clauses types mentionnées au
+deuxième alinéa de l'article L. 422-5 du présent code.
+
+**Nota:**
+
+Décret n° 2006-665 art. 61 : Spécificités d'application.  La présente version de cet article est en vigueur jusqu'au 1er
+janvier 2008.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-**Liens**:
-
-  - TXT_ASSOCIE: Loi n°83-597 1983-07-07 ART. 14 1°
 
 _Cité par_:
 
@@ -14670,19 +14721,25 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 207 (V)
   - Code général des impôts, CGI. - art. 827 (V)
 
+_Cite_:
+
+  - Loi n°84-46 du 24 janvier 1984 - art. 7 (M)
+  - Code de la construction et de l'habitation. - art. L411-1 (M)
+  - Code de la construction et de l'habitation. - art. L421-1 (M)
+  - Code de la construction et de l'habitation. - art. L422-5 (M)
+  - Code de la construction et de l'habitation. - art. L443-13 (M)
+
 _Modifié par_:
 
-  - Loi n°91-457 du 15 mai 1991 - art. 1 () JORF 17 mai 1991
+  - Loi n°94-624 du 21 juillet 1994 - art. 43 () JORF 24 juillet 1994
+
+_Abrogé par_:
+
+  - Ordonnance n°2006-1048 du 25 août 2006 - art. 7 (VD) JORF 26 août 2006 en vigueur le 1er janvier 2008
 
 _Anciens textes_:
 
   - Code de l'urbanisme 175
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L411-1 (M)
-  - Code de la construction et de l'habitation. - art. L421-1 (M)
-  - Code de la construction et de l'habitation. - art. L443-13 (M)
 
 
 ###### Article L422-4-1
@@ -14830,12 +14887,14 @@ _Cite_:
 
 ###### Article L422-5
 
-Les sociétés d'habitations à loyer modéré et de crédit immobilier doivent être agréées par décision administrative.
+Les sociétés d'habitations à loyer modéré doivent être agréées par décision administrative. Les sociétés de crédit immobilier
+sont soumises à l'agrément du comité des établissements de crédit.
 
 Leurs statuts contiennent des clauses conformes aux clauses types approuvées par décret en Conseil d'Etat.
 
-Les actes par lesquels ces sociétés contractent des emprunts doivent être approuvés dans des conditions fixées par décision
-administrative.
+**Nota:**
+
+NOTA : La présente version de cet article est en vigueur jusqu'au 1er janvier 2008.
 
 **Liens relatifs à cet article**
 
@@ -14843,9 +14902,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 78 () JORF 24 décembre 1986
+  - Loi n°94-624 du 21 juillet 1994 - art. 44 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -15992,6 +16051,16 @@ de vente à terme conformément au deuxième alinéa de l'article L. 261-10.
 Conformément à l'article 1378 sexies du code général des impôts, elles sont soumises au même régime fiscal que les organismes
 d'habitations à loyer modéré.
 
+Chaque associé ne peut être tenu de contribuer aux dépenses nécessaires à la réalisation de l'objet social et au
+remboursement des prêts mentionnés à l'alinéa premier qu'en proportion de la quote-part afférente au lot destiné à lui être
+attribué ou vendu.
+
+En cas de défaillance d'un associé, le remboursement de ses dettes de toute nature à l'égard de la société coopérative de
+construction s'impute sur la réserve constituée par les résultats nets cumulés des exercices successifs.
+
+A la dissolution de la société, le solde de la réserve est réparti entre les associés en proportion de la quote-part
+afférente aux lots qui leur ont été attribués ou vendus.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -16002,11 +16071,11 @@ _Cite_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978 rectificatif JORF 31 janvier 1979
+  - Loi n°94-624 du 21 juillet 1994 - art. 48 () JORF 24 juillet 1994
 
 _Anciens textes_:
 
@@ -16822,12 +16891,14 @@ _Cité par_:
 
 Dans tous les immeubles destinés à la location et construits au moyen de crédits ouverts par le présent livre, il est
 interdit de louer en meublé ou de sous-louer un logement en meublé ou non meublé sous quelque forme que ce soit, sous peine
-d'une amende de 60000 F.
+d'une amende de 60 000 F.
 
 Les contrevenants sont exclus de tous les avantages et bénéfices concédés par le présent livre.
 
 Les dispositions des alinéas qui précèdent ne sont pas applicables aux oeuvres de caractère social, telles que les maisons
-d'étudiants et les foyers de travailleurs, dès lors qu'elles ne poursuivent aucun but lucratif.
+d'étudiants et les foyers de travailleurs, dès lors qu'elles ne poursuivent aucun but lucratif. Ces dispositions ne sont pas
+non plus applicables aux logements pour étudiants et aux logements-foyers gérés directement par un organisme d'habitations à
+loyer modéré et qui répondent à des conditions fixées par décret en Conseil d'Etat.
 
 Le loyer des maisons destinées à l'habitation collective qui sont affectées à des locations meublées peut être majoré du prix
 de location des meubles. Ce dernier prix ne doit pas lui-même dépasser le montant du loyer principal calculé suivant les
@@ -16842,13 +16913,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-
 _Modifié par_:
 
-  - Loi n°92-1336 du 16 décembre 1992 - art. 322 (V) JORF 23 décembre 1992 en vigueur le 1er mars 1994
+  - Loi n°94-624 du 21 juillet 1994 - art. 28 () JORF 24 juillet 1994
 
 _Anciens textes_:
 
@@ -16870,39 +16937,41 @@ _Cité par_:
 
 Par dérogation au premier alinéa de l'article L. 442-8, les organismes mentionnés à l'article L. 411-2 peuvent louer des
 logements à des associations déclarées ayant pour objet de les sous-louer à titre temporaire à des personnes en difficulté et
-d'exercer les actions nécessaires à leur réinsertion.    " Par dérogation au premier alinéa de l'article L. 442-8, les
-locataires des organismes mentionnés à l'article L. 411-2 peuvent, après en avoir informé l'organisme bailleur, par lettre
-recommandée avec accusé de réception, sous-louer une partie de leur logement à des personnes âgées ou des personnes
-handicapées adultes avec lesquelles ils ont conclu un contrat conforme aux dispositions du cinquième alinéa de l'article 6 de
-la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par des particuliers, à leur domicile, à titre onéreux, de personnes
-âgées ou handicapées adultes. Le prix du loyer de la ou des pièces principales sous-louées est calculé au prorata du loyer
-total rapporté à la surface habitable du logement. "
+d'exercer les actions nécessaires à leur réinsertion, aux autres organismes aynat la même mission et agréés par l'autorité
+administrative, ainsi qu'aux centres communaux d'action sociale.
+
+Par dérogation au premier alinéa de l'article L. 442-8, les locataires des organismes mentionnés à l'article L. 411-2
+peuvent, après en avoir informé l'organisme bailleur, par lettre recommandée avec accusé de réception, sous-louer une partie
+de leur logement à des personnes âgées ou des personnes handicapées adultes avec lesquelles ils ont conclu un contrat
+conforme aux dispositions du cinquième alinéa de l'article 6 de la loi n° 89-475 du 10 juillet 1989 relative à l'accueil par
+des particuliers, à leur domicile, à titre onéreux, de personnes âgées ou handicapées adultes. Le prix du loyer de la ou des
+pièces principales sous-louées est calculé au prorata du loyer total rapporté à la surface habitable du logement.
 
 Les dispositions des articles L. 442-1 à L. 442-6 sont applicables aux logements loués dans les conditions du présent
 article. Les sous-locataires mentionnés aux deux premiers alinéa du présent article sont assimilés à des locataires pour
 bénéficier de l'aide personnelle au logement prévue par l'article L. 510 du code de la sécurité sociale, par l'article 1er de
-la loi du 16 juillet 1971 relative à l'allocation de logement ou par l'article L. 351-1 du code de la construction et de
-l'habitation.
+la loi n° 71-582 du 16 juillet 1971 relative à l'allocation de logement ou par l'article L. 351-1 du code de la construction
+et de l'habitation.
 
 **Liens relatifs à cet article**
 
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
 _Cite_:
 
-  - Loi n°71-582 du 16 juillet 1971 - art. 1, v. init.
   - Loi n°89-475 1989-07-10 art. 6
   - Code de la sécurité sociale L510
   - Code de la construction et de l'habitation L442-8, L411-2, L442-1 à L442-6, L351-1
   - Code de la construction et de l'habitation. - art. L351-1 (V)
   - Code de la construction et de l'habitation. - art. L411-2 (M)
   - Code de la construction et de l'habitation. - art. L442-8 (M)
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+  - Loi n°71-852 1971-07-16 art. 1
 
 _Modifié par_:
 
-  - Loi n°90-449 du 31 mai 1990 - art. 13 () JORF 2 juin 1990
+  - Loi n°94-624 du 21 juillet 1994 - art. 25 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -17292,7 +17361,7 @@ _Anciens textes_:
 
 ###### Article L443-7
 
-Les organismes d'habitations à loyer modéré peuvent aliéner aux bénéficiaires prévus à l'article L."443-11 des logements
+Les organismes d'habitations à loyer modéré peuvent aliéner aux bénéficiaires prévus à l'article L. 443-11 des logements
 construits ou acquis depuis plus de dix ans par un organisme d'habitations à loyer modéré. Ces logements doivent répondre à
 des normes d'habitabilité minimale fixées par décret en Conseil d'Etat.
 
@@ -17303,10 +17372,23 @@ locatifs existant sur le territoire de la commune ou de l'agglomération concern
 La décision d'aliéner est transmise au représentant de l'Etat dans le département qui consulte la commune d'implantation
 ainsi que les collectivités publiques qui ont accordé leur garantie aux emprunts contractés pour la construction,
 l'acquisition ou l'amélioration des logements. A défaut d'opposition motivée du représentant de l'Etat dans le département
-dans un délai de deux mois, la décision est exécutoire pour une durée de cinq ans.
+dans un délai de deux mois, la décision est exécutoire.
 
 Toutefois, lorsque le logement est affecté à la location saisonnière, la décision d'aliéner ne peut être prise qu'après
 accord de la commune d'implantation.
+
+Le conseil d'administration ou de surveillance de chaque organisme d'habitations à loyer modéré délibère annuellement sur les
+orientations de sa politique de vente de logements, fixe les objectifs à atteindre en nombre de logements mis en vente et
+apprécie les résultats obtenus l'année précédente.
+
+Le conseil départemental de l'habitat est saisi chaque année d'un rapport du représentant de l'Etat portant sur la vente de
+logements d'habitation à loyer modéré. Ce rapport analyse si le réinvestissement des fonds provenant de la vente permet le
+maintien quantitatif et qualitatif de l'offre locative. Il peut émettre à cette occasion des recommandations.
+
+L'organisme d'habitations à loyer modéré indique par écrit à l'acquéreur personne physique, préalablement à la vente, le
+montant des charges locatives et, le cas échéant, de copropriété des deux dernières années, la récapitulation des travaux
+réalisés les cinq dernières années sur les parties communes et fournit, en tant que de besoin, une liste des travaux
+d'amélioration des parties communes et des éléments d'équipement commun qu'il serait souhaitable d'entreprendre.
 
 **Liens relatifs à cet article**
 
@@ -17318,13 +17400,11 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 1 () JORF 24 juillet 1994
+  - Loi n°94-624 du 21 juillet 1994 - art. 2 () JORF 24 juillet 1994
+  - Loi n°94-624 du 21 juillet 1994 - art. 8 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -17371,10 +17451,10 @@ _Cité par_:
 ###### Article L443-8
 
 Lorsque des circonstances économiques ou sociales particulières le justifient, la vente de logements locatifs ne répondant
-pas aux conditions d'ancienneté définies à l'article L. 443-7 peut ^etre autorisée par décision du ministre chargé de la
-construction et de l'habitation et du ministre chargé de l'économie et des finances, après consultation de la commune
-d'implantation. La décision fixe les conditions de remboursement de tout ou partie des aides accordées par l'Etat pour la
-construction, l'acquisition ou l'amélioration de ce logement.
+pas aux conditions d'ancienneté définies à l'article L. 443-7 peut être autorisée par décision motivée du représentant de
+l'Etat dans le département d'implantation du logement, après consultation de la commune d'implantation. La décision fixe les
+conditions de remboursement de tout ou partie des aides accordées par l'Etat pour la construction, l'acquisition ou
+l'amélioration de ce logement.
 
 **Liens relatifs à cet article**
 
@@ -17388,11 +17468,11 @@ _Codifié par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+  - SPEC_APPLI: Décret n°87-477 du 1 juillet 1987 - art. 3 (V)
 
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 3 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -17419,12 +17499,11 @@ _Cite_:
 
 ###### Article L443-9
 
-Les logements répondant aux conditions prévu aux articles L. 443-7 et L. 443-8 et réservés par convention au profit d'une
-personne morale peuvent ^etre vendus. Dans ce cas, l'organisme vendeur est tenu, à moins que les parties n'en décident
-autrement, de mettre à la disposition du réservataire, au moment de la vente, un logement équivalent. A défaut de pouvoir y
-procéder immédiatement, il doit indiquer au réservataire la date à laquelle il sera en mesure de satisfaire à cette
-obligation. Le logement de remplacement sera par priorité situé dans le même ensemble immobilier ou, à défaut, dans la m^eme
-commune que celui qui est aliéné, sauf accord du réservataire pour une localisation différente.
+Les logements répondant aux conditions prévues aux articles L. 443-7 et L. 443-8 et réservés par convention au profit d'une
+personne morale peuvent être vendus. Dans ce cas, l'organisme vendeur est tenu, à moins que les parties n'en décident
+autrement, de mettre à la disposition du réservataire, au moment de la vente, un logement équivalent. Le logement de
+remplacement sera par priorité situé dans le même ensemble immobilier ou, à défaut, dans la même commune que celui qui est
+aliéné, sauf accord du réservataire pour une localisation différente.
 
 **Liens relatifs à cet article**
 
@@ -17435,14 +17514,6 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31
-
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
-_Modifié par_:
-
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
 
 _Cité par_:
 
@@ -17456,10 +17527,19 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R443-12 (M)
   - Code général des collectivités territoriales - art. L5218-2 (V)
 
+_Modifié par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 4 () JORF 24 juillet 1994
+
 
 ###### Article L443-10
 
 Les dispositions des articles L. 443-7 à L. 443-9 s'appliquent nonobstant toutes stipulations contraires.
+
+En cas de vente d'un logement à une personne physique, à une collectivité locale ou un groupement de collectivités locales ou
+à un organisme sans but lucratif qui s'engage à mettre le logement acquis à la disposition de personnes défavorisées, par
+dérogation aux deuxième et troisième alinéas de l'article L. 353-17 et aux articles L. 353-4 et L. 353-5, la convention visée
+à l'article L. 353-2 n'est pas opposable aux propriétaires successifs du logement.
 
 **Liens relatifs à cet article**
 
@@ -17471,17 +17551,17 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 5 () JORF 24 juillet 1994
 
 _Cite_:
 
-  - Code de la construction et de l'habitation L443-7 à L443-9
+  - Code de la construction et de l'habitation L443-7 à L443-9, L353-17, L353-4, L353-5, L353-2
+  - Code de la construction et de l'habitation. - art. L353-17 (V)
+  - Code de la construction et de l'habitation. - art. L353-2 (M)
+  - Code de la construction et de l'habitation. - art. L353-4 (V)
+  - Code de la construction et de l'habitation. - art. L353-5 (V)
 
 _Cité par_:
 
@@ -17494,24 +17574,30 @@ _Cité par_:
 
 ###### Article L443-11
 
-Un logement occupé ne peut être vendu qu'à sonlocataire.    Lorsque l'organisme d'habitations à loyer modéré met en vente un
-logement vacant, il doit l'offrir en priorité à l'ensemble des locataires de l'organisme dans le département par voie d'une
-publicité dont les modalités sont fixées par décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le logement peut
-^etre offert à toute autre personne physique.
+Un logement occupé ne peut être vendu qu'à son locataire. Toutefois, sur demande du locataire, le logement peut être vendu à
+son conjoint ou, s'ils ne disposent pas de ressources supérieures à celles qui sont fixées pour l'octroi des prêts aidés par
+l'Etat pour la construction de logements en accession à la propriété, à ses ascendants et descendants.
 
-L'acquéreur doit occuper le logement à titre principal pendant une durée minimale de cinq ans. Toutefois, à titre
-exceptionnel, cette durée n'est pas opposable à l'acquéreur dont la situation personnelle, notamment professionnelle, aura
-connu, postérieurement à l'acquisition du logement, un changement fondamental.
+Tout locataire peut adresser à l'organisme propriétaire une demande d'acquisition de son logement. La réponse de l'organisme
+doit être motivée et adressée à l'intéressé dans les deux mois suivant la demande.
 
-Nonobstant les dispositions du premier ou du deuxième alinéa du présent article, les logements peuvent ^etre vendus à un
-autre organisme d'habitations à loyer modéré ou à une société d'économie mixte sans qu'il soit fait application des
-conditions d'ancienneté et d'habitabilité prévues à l'article L. 443-7. Les locataires en place continuent à bénéficier des
-conditions antérieures de location.
+Lorsque l'organisme d'habitations à loyer modéré met en vente un logement vacant, il doit l'offrir en priorité à l'ensemble
+des locataires de logements de l'organisme dans le département par voie d'une publicité dont les modalités sont fixées par
+décret en Conseil d'Etat. A défaut d'acquéreur prioritaire, le logement peut être offert à toute autre personne physique ou à
+une collectivité locale ou un groupement de collectivités locales ou un organisme sans but lucratif qui s'engage à mettre ce
+logement pendant au moins quinze ans à la disposition de personnes défavorisées mentionnées à l'article 1er de la loi n°
+90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement et qui est agréé à cet effet par l'autorité
+administrative.
+
+Nonobstant les dispositions du premier ou du deuxième alinéa du présent article, les logements peuvent être vendus à un autre
+organisme d'habitations à loyer modéré ou à une société d'économie mixte sans qu'il soit fait application des conditions
+d'ancienneté et d'habitabilité prévues à l'article L. 443-7. Les locataires en place continuent à bénéficier des conditions
+antérieures de location.
 
 Afin d'assurer l'équilibre économique et social d'un ou plusieurs ensembles d'habitations ou d'un quartier connaissant des
 difficultés particulières, l'organisme d'habitations à loyer modéré propriétaire peut, après accord du représentant de l'Etat
 dans le département, qui consulte la commune d'implantation, vendre des logements vacants à toute personne physique ou
-morale, ou les louer à ces m^emes personnes pour des usages autres que l'habitation.
+morale, ou les louer à ces mêmes personnes pour des usages autres que l'habitation.
 
 Dans ce cas, les dispositions prévues aux articles L. 311-3 et L. 631-7 ne s'appliquent pas.
 
@@ -17525,13 +17611,15 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31
 
-**Liens**:
+_Cite_:
 
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
+  - Loi n°90-449 1990-05-31 art. 1
+  - Code de la construction et de l'habitation. - art. L311-3 (M)
+  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur  le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 6 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -17556,11 +17644,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R443-13 (V)
   - Code de la construction et de l'habitation. - art. R443-15 (V)
   - Code de la construction et de l'habitation. - art. R443-18 (Ab)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. L311-3 (M)
-  - Code de la construction et de l'habitation. - art. L631-7 (M)
 
 
 ###### Article L443-12
@@ -17606,23 +17689,20 @@ En cas de cession d'un élément de patrimoine immobilier d'un organisme d'habit
 correspondante des emprunts éventuellement contractés pour la construction, l'acquisition ou l'amélioration de l'ensemble
 auquel appartient le bien vendu devient immédiatement exigible.
 
-Toutefois, lorsqu'un organisme d'habitations à loyer modéré vend un logement à un de ses locataires, il peut continuer à
-rembourser les pr^ets comportant une aide de l'Etat selon l'échéancier initialement prévu sous réserve que les remboursements
-continuent à ^etre garantis. L'acquéreur peut se libérer d'une partie du prix de vente par des versements échelonnés dans le
-temps selon des modalités fixées par décret en Conseil d'Etat. Les dispositions du présent alinéa s'appliquent également
-lorsque l'acquéreur est une personne physique ne disposant pas de ressources supérieures à celles qui sont fixées pour
-l'octroi des pr^ets aidés par l'Etat pour la construction de logements en accession à la propriété.
+Toutefois, l'organisme d'habitations à loyer modéré peut continuer à rembourser selon l'échéancier initialement prévu les
+prêts comportant une aide de l'Etat sous réserve que leur remboursement demeure garanti dans les conditions qui avaient
+permis l'obtention du prêt.
 
 Toutefois, dans le cas d'une vente à un autre organisme d'habitations à loyer modéré ou à une société d'économie mixte, les
 emprunts sont transférés avec maintien des garanties y afférentes consenties par des collectivités territoriales, par leurs
 groupements ou par des chambres de commerce et d'industrie, sauf opposition des créanciers ou des garants dans les trois mois
-qui suivent la notification du projet de transfert du pr^et lié à la vente.
+qui suivent la notification du projet de transfert du prêt lié à la vente.
 
 Le surplus des sommes perçues est affecté en priorité au financement de programmes nouveaux de construction, à des travaux
 destinés à améliorer de façon substantielle un ensemble déterminé d'habitations ou à des acquisitions de logements en vue
 d'un usage locatif.
 
-Dans le cas d'une vente réalisée en application de l'avant-dernier alinéa de l'article L."443-11, l'organisme est tenu de
+Dans le cas d'une vente réalisée en application de l'avant-dernier alinéa de l'article L. 443-11, l'organisme est tenu de
 verser à l'Etat une somme équivalente au montant des aides financières accordées par l'Etat pour la construction,
 l'acquisition ou l'amélioration du bien vendu, dans des conditions fixées par décret en Conseil d'Etat.
 
@@ -17639,13 +17719,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 7 () JORF 24 juillet 1994
 
 _Cité par_:
 
@@ -17791,6 +17867,16 @@ _Modifié par_:
 Les dispositions de la présente section s'appliquent à l'aliénation des logements acquis par des sociétés d'économie mixte en
 application du quatrième alinéa de l'article L. 443-11.
 
+Les dispositions de la présente section, à l'exception de celles de l'article L. 443-14, sont applicables aux logements
+locatifs des sociétés d'économie mixte faisant l'objet des conventions conclues en application de l'article L. 351-2 et
+autres que ceux mentionnés à l'alinéa précédent. Toutefois, lorsqu'une société d'économie mixte met en vente un logement
+conventionné vacant, elle doit l'offrir à l'ensemble des locataires de son patrimoine conventionné dans le département par
+voie de la publicité prévue au deuxième alinéa de l'article L. 443-11. En outre, le surplus des sommes perçues par la société
+d'économie mixte au sens du quatrième alinéa de l'article L. 443-13 est affecté au financement de programmes nouveaux de
+construction de logements locatifs conventionnés, à des travaux destinés à améliorer de façon substantielle un ensemble
+déterminé d'habitations locatives conventionnées, ou à des acquisitions de logements devant être conventionnés, en vue d'un
+usage locatif.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -17801,13 +17887,9 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°86-1290 1986-12-23 art. 62 Décret 87-477 1987-07-01 art. 3
-
 _Modifié par_:
 
-  - Loi n°86-1290 du 23 décembre 1986 - art. 61 () JORF du 24 décembre 1986 en vigueur le 1er juillet 1987
+  - Loi n°94-624 du 21 juillet 1994 - art. 9 () JORF 2 juillet 1994
 
 _Cité par_:
 
@@ -17819,6 +17901,8 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L443-11 (M)
+  - Code de la construction et de l'habitation. - art. L443-13 (M)
+  - Code de la construction et de l'habitation. - art. L443-14 (M)
 
 
 ###### Article L443-15-3
@@ -19820,6 +19904,70 @@ _Cité par_:
 _Anciens textes_:
 
   - Code de l'urbanisme 340
+
+
+###### Article L631-7-1
+
+Les locaux régulièrement affectés à un usage autre que l'habitation peuvent être temporairement affectés à l'habitation pour
+une durée n'excédant pas treize ans. Ce délai commence à courir à compter de la déclaration d'affectation temporaire des
+locaux.
+
+Jusqu'à l'expiration du délai mentionné à l'alinéa précédent, les locaux peuvent, nonobstant les dispositions de l'article L.
+631-7, retrouver leur affectation antérieure sur simple déclaration. Les locaux qui, à l'expiration de ce délai, demeurent
+affectés à l'habitation sont régis par les dispositions applicables aux locaux à usage d'habitation.
+
+Les déclarations mentionnées au présent article sont adressées conjointement au maire et au préfet.
+
+En cas de location d'un local temporairement affecté à l'habitation en application du présent article, le contrat doit
+mentionner le caractère temporaire de cette affectation. Sous cette réserve, le retour des locaux à leur usage primitif est
+un motif légitime et sérieux au sens de l'article 15 de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports
+locatifs et portant modification de la loi n° 86-1290 du 23 décembre 1986. Il ne constitue pas un événement au sens de
+l'article 11 de cette même loi.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°86-1290 1986-12-23
+  - Loi n°89-462 du 6 juillet 1989 - art. 15 (M)
+
+_Créé par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 31 () JORF 24 juillet 1994
+
+_Cité par_:
+
+  - Loi n°2008-776 du 4 août 2008 - art. 13 (V)
+  - Code de la construction et de l'habitation. - art. L631-7 (V)
+  - Code de la construction et de l'habitation. - art. L631-7-2 (V)
+  - Code de la construction et de l'habitation. - art. L661-2 (V)
+  - Code de la construction et de l'habitation. - art. R631-6 (V)
+  - Code de la construction et de l'habitation. - art. R631-7 (V)
+
+
+###### Article L631-7-2
+
+Sur requête de tout intéressé, le représentant de l'Etat dans le département délivre, après avis du maire et dans le délai de
+deux mois, un certificat indiquant si le local peut être régulièrement ou non affecté à l'usage mentionné dans la demande.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Loi n°94-624 du 21 juillet 1994 - art. 32 () JORF 24 juillet 1994
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. L631-7-3 (V)
+  - Code de la construction et de l'habitation. - art. L631-7-5 (VD)
 
 
 ###### Article L631-8
