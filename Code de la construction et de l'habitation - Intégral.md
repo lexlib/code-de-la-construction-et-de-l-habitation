@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1999-03-13
+Version Consolidée au 1999-03-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -486,7 +486,7 @@ Version Consolidée au 1999-03-13
         - [Chapitre II : Conseil départemental de l'habitat. (art. R362-1 à R362-20)](#483)
           - [Section 1 : Compétences. (art. R362-1 à R362-8)](#484)
           - [Section 1 : Compétences. (art. R362-2)](#485)
-          - [Section 2 : Composition et fonctionnement. (art. R362-10 à R362-18-1)](#486)
+          - [Section 2 : Composition et fonctionnement. (art. R362-18-1)](#486)
           - [Section 2 : Composition et fonctionnement. (art. R362-9 à R362-20)](#487)
       - [Titre VII : Dispositions diverses ou particulières aux départements d'outre-mer. (art. R371-1 à R371-8)](#488)
         - [Chapitre Ier : Conseil départemental de l'habitat. (art. R371-1 à R371-8)](#489)
@@ -63335,10 +63335,19 @@ d) Pour les usagers, douze membres représentant :
 
 - la Confédération générale des cadres.
 
-e) Six personnalités choisies en raison de leur compétence par le ministre chargé de la construction et de l'habitation.
+e) Pour les associations d'insertion et de défense des personnes en situation d'exclusion par le logement, quatre membres, à
+savoir :
 
-Les membres mentionnés aux c et d du présent article sont désignés par l'organisme qu'ils représentent. Des suppléants des
-membres mentionnés aux b, c et d sont désignés en nombre égal et dans les mêmes conditions que les titulaires.
+- deux membres représentant l'Union nationale interfédérale des oeuvres et organismes privés sanitaires et sociaux ;
+
+- un membre représentant Aide à toute détresse Quart-Monde (ATD Quart-Monde) ;
+
+- un membre représentant Droit au logement (DAL).
+
+f) Six personnalités choisies en raison de leur compétence par le ministre chargé de la construction et de l'habitation.
+
+Les membres mentionnés aux c, d et e du présent article sont désignés par l'organisme qu'ils représentent. Des suppléants des
+membres mentionnés aux b, c, d et e sont désignés en nombre égal et dans les mêmes conditions que les titulaires.
 
 **Liens relatifs à cet article**
 
@@ -63349,6 +63358,10 @@ _Anciens textes_:
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°99-236 du 24 mars 1999 - art. 1 () JORF 27 mars 1999
 
 _Cité par_:
 
@@ -64066,50 +64079,6 @@ _Cité par_:
 
 ##### Section 2 : Composition et fonctionnement.<a id=486></a>
 
-###### Article R362-10
-
-Outre son président, le conseil départemental de l'habitat est composé :
-
-a) De trente-six membres nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
-
-1° Pour un tiers, de représentants du conseil général, des communes et des groupements de communes du département désignés
-dans les conditions fixées à l'article R. 362-12 ;
-
-2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
-mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14;
-
-3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés, de représentants des
-partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
-personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
-fixées à l'article R. 362-14.
-
-b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
-
-Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°95-638 du 6 mai 1995 - art. 5 () JORF 7 mai 1995
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R351-48 (M)
-
-_Cité par_:
-
-  - Code de la construction et de l'habitation. - art. R362-12 (M)
-  - Code de la construction et de l'habitation. - art. R362-14 (Ab)
-  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
-  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
-  - Code de la construction et de l'habitation. - art. R371-3 (M)
-
-
 ###### Article R362-18-1
 
 Il est créé au sein du conseil départemental de l'habitat un comité permanent, qui émet en son nom un avis sur toute
@@ -64167,6 +64136,51 @@ _Modifié par_:
 
 _Cité par_:
 
+  - Code de la construction et de l'habitation. - art. R371-3 (M)
+
+
+###### Article R362-10
+
+Outre son président, le conseil départemental de l'habitat est composé :
+
+a) De trente-six membres nommés par arrêté du préfet répartis en trois groupes de même importance, à savoir :
+
+1° Pour un tiers, de représentants du conseil général, des communes et des groupements de communes du département désignés
+dans les conditions fixées à l'article R. 362-12 ;
+
+2° Pour un tiers, de professionnels intervenant dans le département pour la construction, l'amélioration de l'habitat ou la
+mise en oeuvre des moyens financiers correspondants, désignés dans les conditions fixées à l'article R. 362-14 ;
+
+3° Pour un tiers, de représentants d'organisations d'usagers, de gestionnaires ou de bailleurs privés de représentants
+d'associations d'insertion et de défense des personnes en situation d'exclusion par le logement, de représentants des
+partenaires sociaux associés à la gestion de la participation des employeurs à l'effort de construction, ainsi que de
+personnalités ou représentants d'organismes choisis en raison de leurs compétences en matière d'habitat dans les conditions
+fixées à l'article R. 362-14.
+
+b) Des membres de la section des aides publiques au logement composée comme il est indiqué à l'article R. 351-48.
+
+Des suppléants peuvent être nommés dans les mêmes conditions que les titulaires.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Décret n°99-236 du 24 mars 1999 - art. 2 () JORF 27 mars 1999
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R351-48 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R362-12 (M)
+  - Code de la construction et de l'habitation. - art. R362-14 (Ab)
+  - Code de la construction et de l'habitation. - art. R362-18-1 (Ab)
+  - Code de la construction et de l'habitation. - art. R362-20 (Ab)
   - Code de la construction et de l'habitation. - art. R371-3 (M)
 
 
