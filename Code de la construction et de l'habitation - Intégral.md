@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1997-01-01
+Version Consolidée au 1997-01-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -41349,6 +41349,9 @@ _Modifié par_:
 Le montant de l'avance ne peut excéder 20 p. 100 du coût de l'opération retenu dans la limite d'un prix maximal déterminé en
 fonction de la composition familiale du ménage bénéficiaire et de la localisation du logement.
 
+Le taux mentionné à l'alinéa précédent est porté à 25 % dans les zones franches urbaines définies au B du 3 de l'article 42
+de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+
 Les conditions d'application du présent article sont fixées par arrêté conjoint du ministre chargé de l'économie et des
 finances, du ministre chargé du budget et du ministre chargé du logement.
 
@@ -41358,9 +41361,9 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Modifié par_:
+_Cite_:
 
-  - Décret n°95-1064 du 29 septembre 1995 - art. 3 () JORF 30 septembre 1995 en vigueur le 1er octobre 1995
+  - Loi n°95-115 du 4 février 1995 - art. 42 (M)
 
 **Liens**:
 
@@ -41371,6 +41374,10 @@ _Modifié par_:
 _Cité par_:
 
   - Arrêté du 2 octobre 1995 - art. 8 (V)
+
+_Modifié par_:
+
+  - Décret n°97-62 du 20 janvier 1997 - art. 1 () JORF 25 janvier 1997
 
 
 ##### Section 3 : Conventions avec les établissements de crédit.<a id=370></a>
