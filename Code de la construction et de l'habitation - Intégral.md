@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1983-06-03
+Version Consolidée au 1983-06-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -19010,15 +19010,11 @@ le règlement de sécurité. Les procès-verbaux de visite lui sont remis ; ils 
 de chaque administration. Il appartient à chacun d'eux de prendre toutes mesures d'urgence et d'en référer à l'autorité
 compétente. Un exemplaire du procès-verbal est transmis au maire de la commune intéressée.
 
-Le préfet établit, en exécution des arrêtés prévus au premier alinéa du présent article et des instructions complémentaires
-éventuellement données au chef de service compétent, la liste des fonctionnaires chargés de suivre l'application des
-dispositions réglementaires.
+Le représentant de l'Etat dans le département établit, en exécution des arrêtés prévus au premier alinéa du présent article
+et des instructions complémentaires éventuellement données au chef de service compétent, la liste des fonctionnaires chargés
+de suivre l'application des dispositions réglementaires.
 
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 _Cité par_:
 
@@ -19038,9 +19034,9 @@ _Cité par_:
   - Arrêté du 4 août 2015 - art. 5 (V)
   - Code de la construction et de l'habitation. - art. R*123-15 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Décret n°73-1007 1973-10-31 art. 16
+  - Loi n°83-440 du 2 juin 1983 - art. 6 (V)
 
 
 ###### Article R*123-17
