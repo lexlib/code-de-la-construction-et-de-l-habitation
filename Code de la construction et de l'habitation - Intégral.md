@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1979-08-25
+Version Consolidée au 1979-10-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-1)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -526,9 +526,9 @@ Version Consolidée au 1979-08-25
         - [Dispositions applicables à la gestion des diverses catégories d'habitations à loyer modéré (art. R423-34 à R423-67)](#523)
           - [Dispositions financières et comptables (art. R423-34 à R423-67)](#524)
             - [Dispositions particulières aux offices publics d'habitations à loyer modéré. (art. R423-34 à R423-67)](#525)
-      - [Titre III : Dispositions financières. (art. R*431-30 à R*431-48)](#526)
-        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-30 à R*431-48)](#527)
-          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-30 à R*431-48)](#528)
+      - [Titre III : Dispositions financières. (art. R*431-33 à R*431-48)](#526)
+        - [Chapitre Ier : Prêts et concours financiers divers aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#527)
+          - [Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré. (art. R*431-33 à R*431-48)](#528)
             - [Sous-section  1 : Organisation et fonctionnement (art. R*431-30 à R*431-36)](#529)
             - [Sous-section 2 : Modalités d'octroi des prêts pour les opérations effectuées en application des articles L. 411-1 et R. 411-1. (art. R*431-37 à R*431-45)](#530)
             - [Sous-section 3 : Prêts pour les opérations prévues à l'article L. 351-2 (1° et 3°). (art. R*431-46 à R*431-48)](#531)
@@ -54214,6 +54214,40 @@ _Cite_:
 
 ##### Section 2 : Caisse de prêts aux organismes d'habitations à loyer modéré.<a id=528></a>
 
+###### Article R*431-33
+
+La caisse est administrée par un conseil d'administration de neuf membres désignés par arrêté du ministre chargé des finances
+et du ministre chargé de la construction et de l'habitation. Ce conseil d'administration comprend [*composition*] :
+
+- un conseiller général des finances ou un inspecteur des finances ;
+
+- deux représentants du ministre de l'économie et des finances ;
+
+- deux représentants du ministre chargé de la construction et de l'habitation ;
+
+- le directeur général de la caisse des dépôts et consignations ou son représentant ;
+
+- deux représentants des organismes d'habitations à loyer modéré dont l'un ayant la qualité de représentant de collectivités
+locales.
+
+- Un représentant des sociétés d'économie mixte suceptibles de bénéficier des prêts de la caisse.
+
+Le conseil d'administration délibère notamment sur le budget de la caisse, sur son compte financier ainsi que sur ses
+opérations financières.
+
+Il se réunit au moins deux fois par an sur convocation de son président.
+
+Il peut désigner en son sein une commission permanente comprenant au moins un représentant des organismes d'habitations à
+loyer modéré et un représentant des sociétés d'économie mixte mentionnées à l'alinéa 1er et déléguer à cette commission une
+partie de ses pouvoirs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+
 ##### Sous-section  1 : Organisation et fonctionnement<a id=529></a>
 
 ###### Article R*431-30
@@ -54287,40 +54321,6 @@ _Codifié par_:
 _Cite_:
 
   - Code de la construction et de l'habitation L351-2 (3), R431-31
-
-
-###### Article R*431-33
-
-La caisse est administrée par un conseil d'administration de neuf membres désignés par arrêté du ministre chargé des finances
-et du ministre chargé de la construction et de l'habitation. Ce conseil d'administration comprend : [*composition*]    - un
-conseiller d'Etat ou un conseiller maître à la Cour des comptes, président ;
-
-- un inspecteur général des finances ou un inspecteur des finances ;
-
-- deux représentants du ministre de l'économie et des finances ;
-
-- deux représentants du ministre chargé de la construction et de l'habitation ;
-
-- le directeur général de la caisse des dépôts et consignations ou son représentant ;
-
-- deux représentants des organismes d'habitations à loyer modéré dont l'un ayant la qualité de représentant de collectivités
-locales. Le conseil d'administration délibère notamment sur le budget de la caisse, sur son compte financier ainsi que sur
-ses opérations financières.
-
-Il se réunit au moins deux fois par an sur convocation de son président.
-
-Il peut désigner en son sein une commission permanente comprenant au moins un représentant des organismes d'habitations à
-loyer modéré et lui déléguer une partie de ses pouvoirs.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°66-156 1966-03-19 art. 4
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
 
 ###### Article R*431-34
