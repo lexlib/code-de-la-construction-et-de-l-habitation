@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1985-09-03
+Version Consolidée au 1985-09-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -38827,20 +38827,20 @@ _Cité par_:
 
 ###### Article R331-73
 
-Les établissements prêteurs doivent proposer dans tous les cas au moins un barème de remboursement des prêts conventionnés
-par annuités progressives selon des modalités définies par la convention type visée à l'article R. 331-65.
-
-Ils peuvent également offrir des prêts à annuités constantes et des prêts à taux révisables.
+Les établissements de crédit habilités à consentir des prêts conventionnés doivent proposer dans tous les cas au moins un
+barème de remboursement de prêt à taux fixe et un barème de prêt à taux révisable. Ils peuvent également offrir des prêts à
+annuités constantes et des prêts à annuités progressives selon les modalités définies par la convention type visée à
+l'article R. 331-65.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°82-90 1982-01-26 ART. 4 JORF 27 JANVIER 1982
+  - Décret n°85-933 1985-08-30 art. 1 JORF 4 septembre 1985
 
 _Cité par_:
 
@@ -38959,21 +38959,14 @@ _Cite_:
 Lorsque les prêts sont consentis à taux revisables, ils sont soumis aux conditions suivantes :
 
 1. Le taux moyen du prêt avant la mise en jeu des clauses de révision ne peut excéder le taux maximum mentionné à l'article
-R. 331-73 ;
+R. 331-74 ;
 
 2. La variation de l'annuité résultant de la mise en jeu éventuelle des clauses de révision ne peut intervenir qu'à compter
-de la cinquième année de la période amortissable et ensuite au plus une fois par an ;
-
-3. Les annuités ne pourront, à l'occasion de chaque révision, être majorées ou minorées de plus de 10 p. 100 de l'annuité
-initiale.
+du deuxième anniversaire du contrat de prêt et ensuite au plus une fois par an [*périodicité*].
 
 La convention type prévue à l'article R. 331-65 précise les modalités d'application du présent article.
 
 **Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°77-1287 1977-11-22 art. 13
 
 _Cité par_:
 
@@ -38988,10 +38981,14 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 juin 1978
 
+_Modifié par_:
+
+  - Décret n°85-933 1985-08-30 art. 2 JORF 4 septembre 1985
+
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R331-65 (M)
-  - Code de la construction et de l'habitation. - art. R331-73 (M)
+  - Code de la construction et de l'habitation. - art. R331-74 (M)
 
 
 ###### Article R331-77
