@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2001-12-26
+Version Consolidée au 2001-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -398,10 +398,10 @@ Version Consolidée au 2001-12-26
             - [Sous-section 1 : Dispositions générales (art. R*321-4 à R321-3)](#395)
             - [Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat (art. R*321-10 à R*321-11)](#396)
           - [Section 2 : Conditions d'attribution des aides (art. R*321-12 à R321-22)](#397)
-        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-20)](#398)
+        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-21)](#398)
           - [Section 1 : Subventions à l'amélioration des logements locatifs sociaux. (art. R323-1 à R323-12)](#399)
-          - [Section 2 : Subventions subordonnées au respect de conditions réglementaires (art. R323-13 à R323-20)](#400)
-            - [Sous-section 1 : Subventions versées à certains propriétaires institutionnels. (art. R323-13 à R323-20)](#401)
+          - [Section 2 : Dispositions relatives aux départements d'outre-mer. (art. R323-13 à R323-21)](#400)
+            - [Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer (art. R323-13 à R323-21)](#401)
         - [Chapitre V : Restauration immobilière. (art. R*325-1 à R*325-6)](#402)
       - [Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement. (art. R331-1 à R331-84)](#403)
         - [Chapitre unique. (art. R331-1 à R331-84)](#404)
@@ -10909,7 +10909,8 @@ conditions fixées par décret en Conseil d'Etat, aux investissements prévus à
 n'ont pas procédé à ces investissements, assujettis à une cotisation de 2 p. 100 calculée sur les bases fixées à l'article L.
 313-1.
 
-Cette cotisation est établie et recouvrée comme en matière d'impôts directs.
+Cette cotisation est recouvrée selon les modalités et sous les suretés, garanties et sanctions applicables aux taxes sur le
+chiffre d'affaires.
 
 **Liens relatifs à cet article**
 
@@ -10919,7 +10920,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Loi - art. 74 (V) JORF 29 décembre 2001
 
 **Liens**:
 
@@ -50035,25 +50036,37 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. R323-13 (T)
 
 
-##### Section 2 : Subventions subordonnées au respect de conditions réglementaires<a id=400></a>
+##### Section 2 : Dispositions relatives aux départements d'outre-mer.<a id=400></a>
 
-##### Sous-section 1 : Subventions versées à certains propriétaires institutionnels.<a id=401></a>
+##### Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer<a id=401></a>
 
 ###### Article R323-13
 
-Les bénéficiaires de subventions mentionnées à l'article R. 323-12 doivent s'engager pour une période minimale de dix ans :
+Peuvent bénéficier de subventions à l'amélioration de l'habitat lorsqu'ils exécutent des travaux dans des immeubles à usage
+locatif dont ils sont propriétaires ou gestionnaires :
 
-1. A conserver les logements améliorés dans leur patrimoine ;
+1. Les collectivités locales ne disposant pas d'établissement public administratif sous leur tutelle et gestionnaires de
+logements ;
 
-2. A préserver l'usage d'habitation des logements ;
+2. Les établissements publics à caractère administratif sous tutelle des collectivités locales et gestionnaires de
+logements ;
 
-3. A faire occuper les logements, lorsqu'ils sont devenus vacants, par des personnes dont les ressources sont au plus égales
-à un montant déterminé dans les conditions fixées par arrêté des ministres chargés de la construction et de l'habitation et
-des finances ;
+3. Les organismes HLM énumérés à l'article L. 411-2 ;
 
-4. A percevoir des loyers au plus égaux à des plafonds fixés par arrêté des ministres susmentionnés.
+4. Les sociétés d'économie mixte ayant pour objet statutaire la réalisation de logements ;
+
+5. Les sociétés d'économie mixte de construction constituées dans les départements d'outre-mer en application de la loi n°
+46-860 du 30 avril 1946 tendant à l'établissement et à l'exécution de plans d'équipement et de développement économique et
+social des territoires et départements d'outre-mer.
+
+Les subventions ouvrent droit à un prêt complémentaire de la Caisse des dépôts et consignations.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-860 1946-04-30
+  - Code de la construction et de l'habitation. - art. L411-2 (M)
 
 _Anciens textes_:
 
@@ -50062,15 +50075,12 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 2 () JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -50087,15 +50097,20 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D323-13, v. 0.1 (VD)
   - Code de la construction et de l'habitation. - art. R323-14 (T)
 
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R323-12 (M)
-
 
 ###### Article R323-14
 
-Les immeubles sur lesquels portent les travaux doivent avoir été achevés avant le 31 décembre 1967, sauf dérogation accordée
-à titre exceptionnel par le préfet.
+Les bénéficiaires de subventions mentionnées à l'article R. 323-13 doivent s'engager pour une période minimale de dix ans : 
+
+1. A conserver les logements améliorés dans leur patrimoine ; 
+
+2. A préserver l'usage d'habitation des logements ; 
+
+3. A faire occuper les logements, lorsqu'ils sont devenus vacants, par des personnes dont les ressources sont au plus égales
+à un montant déterminé dans les conditions fixées par arrêté des ministres chargés de la construction et de l'habitation et
+des finances ; 
+
+4. A percevoir des loyers au plus égaux à des plafonds fixés par arrêté des ministres susmentionnés.
 
 **Liens relatifs à cet article**
 
@@ -50106,15 +50121,20 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 3 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R323-13
 
 _Nouveaux textes_:
 
@@ -50123,13 +50143,15 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R323-20 (T)
+  - Code de la construction et de l'habitation. - art. R323-21 (T)
 
 
 ###### Article R323-15
 
-Ne donnent pas lieu à l'attribution de subventions les travaux qui bénéficient de concours financiers de l'Etat sous forme de
-bonifications d'intérêt, de primes à la construction convertibles ou non en bonifications d'intérêt, de prêts bonifiés à
-moyen et long terme du crédit agricole mutuel ou de subventions de l'agence nationale pour l'amélioration de l'habitat.
+Les logements et immeubles sur lesquels portent les travaux doivent avoir été achevés depuis au moins quinze ans, sauf
+dérogation accordée par le représentant de l'Etat dans le département, pour les travaux destinés à économiser l'énergie, à la
+réalisation d'économies de charges, au renforcement de la sécurité des biens et des personnes dans les immeubles, à
+l'amélioration de la vie quotidienne ou à conforter les bâtiments vis-à-vis des risques sismiques.
 
 **Liens relatifs à cet article**
 
@@ -50140,15 +50162,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 4 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -50158,13 +50181,14 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R323-20 (T)
+  - Code de la construction et de l'habitation. - art. R323-21 (T)
 
 
 ###### Article R323-16
 
-Peuvent seuls donner lieu à l'attribution de subventions les travaux définis par arrêté du ministre chargé de la construction
-et de l'habitation et ayant pour effet de mettre les logements en conformité avec les normes minimales d'habitabilité ou d'en
-améliorer la qualité.
+Ne donnent pas lieu à l'attribution de subventions les travaux qui bénéficient de concours financiers de l'Etat sous forme de
+bonifications d'intérêt, de primes à la construction convertibles ou non en bonifications d'intérêt, de prêts bonifiés à
+moyen et long terme du crédit agricole mutuel ou de subventions de l'agence nationale pour l'amélioration de l'habitat.
 
 **Liens relatifs à cet article**
 
@@ -50175,18 +50199,14 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
   - Arrêté du 30 mars 1995 - art. 3 (Ab)
   - Code de la construction et de l'habitation. - art. R323-20 (T)
 
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
 
@@ -50198,8 +50218,9 @@ _Nouveaux textes_:
 
 ###### Article R323-17
 
-La décision d'octroi de subvention doit être antérieure au début des travaux. Toutefois le préfet peut accorder des
-subventions pour des travaux déjà engagés dans le cadre d'un programme national.
+Peuvent seuls donner lieu à l'attribution de subventions les travaux définis par arrêté du ministre chargé de la construction
+et de l'habitation et ayant pour effet de mettre les logements en conformité avec les normes minimales d'habitabilité ou d'en
+améliorer la qualité.
 
 **Liens relatifs à cet article**
 
@@ -50210,13 +50231,9 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
 
@@ -50224,6 +50241,11 @@ _Cité par_:
 
   - Arrêté du 27 décembre 2001 - art. 4 (V)
   - Code de la construction et de l'habitation. - art. R323-20 (T)
+  - Code de la construction et de l'habitation. - art. R323-21 (T)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -50233,7 +50255,8 @@ _Nouveaux textes_:
 
 ###### Article R323-18
 
-Les travaux doivent être commencés dans un délai d'un an à compter de la date de la décision d'octroi de subvention.
+La décision d'octroi de subvention doit être antérieure au début des travaux, sauf dérogation accordée par le représentant de
+l'Etat dans le département.
 
 **Liens relatifs à cet article**
 
@@ -50244,15 +50267,16 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 du 31 mai 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 5 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -50262,11 +50286,12 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R323-20 (T)
+  - Code de la construction et de l'habitation. - art. R323-21 (T)
 
 
 ###### Article R323-19
 
-Les travaux doivent être achevés dans un délai de deux ans à compter de la date de la décision d'octroi de subvention.
+Les travaux doivent être commencés dans un délai d'un an à compter de la date de la décision d'octroi de subvention.
 
 **Liens relatifs à cet article**
 
@@ -50277,15 +50302,15 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1 JORF 18 avril 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Nouveaux textes_:
 
@@ -50295,12 +50320,14 @@ _Nouveaux textes_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R323-20 (T)
+  - Code de la construction et de l'habitation. - art. R323-21 (T)
 
 
 ###### Article R323-20
 
-Le remboursement de la subvention peut être exigé si l'une des conditions définies par la présente sous-section n'est pas
-respectée.
+Les travaux doivent être achevés dans un délai de deux ans à compter de la date de la décision d'octroi de subvention.
+
+Une prorogation de ce délai peut être accordée par le représentant de l'Etat dans le département dans la limite d'un an.
 
 **Liens relatifs à cet article**
 
@@ -50313,13 +50340,10 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°85-435 1985-04-16 art. 1, art. 3 JORF 18 AVRIL 1985
-
-_Transféré par_:
+_Créé par_:
 
   - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 6 () JORF 29 décembre 2001
 
 _Cité par_:
 
@@ -50332,15 +50356,49 @@ _Nouveaux textes_:
   - Code de la construction et de l'habitation. - art. D323-20, v. 0.1 (VD)
   - Code de la construction et de l'habitation. - art. R323-21 (T)
 
+
+###### Article R323-21
+
+Le remboursement de la subvention peut être exigé si l'une des conditions définies par la présente sous-section n'est pas
+respectée.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Décret n°2001-1322 du 27 décembre 2001 - art. 1 () JORF 29 décembre 2001
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. D323-21, v. 0.1 (VD)
+
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R323-13 (T)
+  - Code de la construction et de l'habitation. - art. R323-13
   - Code de la construction et de l'habitation. - art. R323-14 (T)
   - Code de la construction et de l'habitation. - art. R323-15 (T)
   - Code de la construction et de l'habitation. - art. R323-16 (T)
   - Code de la construction et de l'habitation. - art. R323-17 (T)
   - Code de la construction et de l'habitation. - art. R323-18 (T)
   - Code de la construction et de l'habitation. - art. R323-19 (T)
+  - Code de la construction et de l'habitation. - art. R323-20
+
+_Anciens textes_:
+
+  - Code de la construction et de l'habitation. - art. R323-20 (T)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R323-23 (Ab)
+  - Code de la construction et de l'habitation. - art. R323-30 (Ab)
 
 
 #### Chapitre V : Restauration immobilière.<a id=402></a>
