@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1991-12-29
+Version Consolidée au 1992-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -231,8 +231,8 @@ Version Consolidée au 1991-12-29
           - [Section 5 : Sanctions administratives. (art. R*123-52)](#228)
           - [Section 6 : Dispositions diverses. (art. R*123-53 à R*123-55)](#229)
         - [Chapitre IV : Adaptation des constructions pour le temps de guerre. (art. R124-1)](#230)
-        - [Chapitre V : Sécurité de certains équipements d'immeubles par destination. (art. R125-5)](#231)
-          - [Section 2 : Sécurité des portes automatiques de garage. (art. R125-5)](#232)
+        - [Chapitre V : Sécurité de certains équipements d'immeubles par destination. (art. R125-4 à R125-5)](#231)
+          - [Section 2 : Sécurité des portes automatiques de garage. (art. R125-4 à R125-5)](#232)
       - [Titre III : Chauffage et ravalement des immeubles (art. R*131-1 à R*132-1)](#233)
         - [Chapitre Ier : Chauffage des immeubles (art. R*131-1 à R*131-20)](#234)
           - [Section 1 : Equipement et répartition des frais dans les immeubles collectifs. (art. R*131-1)](#235)
@@ -9304,6 +9304,12 @@ Les employeurs qui, en raison de l'accroissement de leur effectif atteignent ou 
 dispensés pendant trois ans du paiement de la cotisation relative à la participation. Le montant de la participation est
 réduit de 75 p. 100 la quatrième année, de 50 p. 100 la cinquième année, de 25 p. 100 la sixième année.
 
+Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
+de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
+
+Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
+au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -9416,7 +9422,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°91-716 du 26 juillet 1991 - art. 26 () JORF 27 juillet 1991
+  - Loi - art. 50 () JORF 31 décembre 1991 en vigueur le 1er janvier 1992
+
+**Liens**:
+
+  - SPEC_APPLI: Loi n°91-1323 1991-12-30 art 50 II
 
 _Anciens textes_:
 
@@ -24159,6 +24169,46 @@ _Codifié par_:
 #### Chapitre V : Sécurité de certains équipements d'immeubles par destination.<a id=231></a>
 
 ##### Section 2 : Sécurité des portes automatiques de garage.<a id=232></a>
+
+###### Article R125-4
+
+Dans les bâtiments et groupes de bâtiments d'habitation, les portes automatiques de garage installées avant l'entrée en
+vigueur des dispositions de l'article R. 125-3-1 doivent satisfaire aux prescriptions suivantes :
+
+- la porte doit être équipée de systèmes permettant d'arrêter son mouvement, ou de limiter la force qu'elle exerce, en cas de
+présence d'une personne dans les zones de fin d'ouverture et de fin de fermeture. Un arrêté des ministres chargés de
+l'industrie, du logement et de la consommation précise les modalités d'application de cette disposition ;
+
+- le système de commande de la porte doit être volontaire et personnalisé ;
+
+- le volume de débattement de la porte doit être correctement éclairé et l'aire de débattement doit faire l'objet d'un
+marquage au sol ;
+
+- tout mouvement de la porte doit être signalé tant à l'extérieur qu'à l'intérieur par un feu orange clignotant qui doit être
+visible de l'aire de débattement. La signalisation doit précéder le mouvement de la porte.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+**Liens**:
+
+  - SPEC_APPLI: Décret n°90-567 1990-07-05 art. 2
+
+_Créé par_:
+
+  - Décret n°90-567 du 5 juillet 1990 - art. 1 () JORF 7 juillet 1990 en vigueur le 1er janvier 1992
+
+_Cité par_:
+
+  - Arrêté du 1 février 1991 - art. 1 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R125-3-1 (M)
+
 
 ###### Article R125-5
 
