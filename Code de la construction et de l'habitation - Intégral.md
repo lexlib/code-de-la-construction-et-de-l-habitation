@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1981-07-26
+Version Consolidée au 1981-09-13
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -33507,19 +33507,30 @@ _Cité par_:
 Dans les limites et conditions fixées par la présente section, des prêts aidés par l'Etat peuvent être accordés pour
 financer :
 
-- l'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
+- L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
 construction de ces logements ;
 
-- l'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
+- L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
 d'amélioration correspondants ;
 
-- /M/les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique ou à construction par
-des collectivités locales ou leurs groupements ;/M/DECR.0019 :
+Par assimilation, l'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en
+logements.
 
-- les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
-collectivités locales ou leurs groupements ;//    - la réalisation des dépendances de ces immeubles ou de ces logements, et
-notamment les garages, jardins, locaux collectifs à usage commun, annexes, dans des limites fixées par arrêté du ministre
-chargé de la construction et de l'habitation.
+- Les terrains, droits immobiliers, logements ou immeubles acquis par des collectivités locales ou groupements de
+collectivités locales ou des organismes visés aux paragraphes 1 et 2 de l'article R. 331-8, en vue de la construction, de la
+transformation ou l'aménagement des immeubles, de l'amélioration des logements, ainsi que les travaux correspondants.
+Toutefois, en ce qui concerne les opérations d'acquisition-amélioration ou assimilées, cette disposition ne s'applique pas
+lorsque la réalisation des biens susvisés avait précédemment bénéficié de financement au titre de la législation sur les
+habitations à loyer modéré ou du livre III, titre Ier, chapitres Ier et II du présent code (1re partie) ou lorsque les biens
+concernés ont été acquis depuis plus de dix ans à la date de la demande de décision favorable à l'octroi du prêt visée à
+l'article R. 331-3.
+
+- Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
+collectivités locales ou leurs groupements, ainsi que les travaux de transformation ou d'aménagement en logements de locaux
+ou d'immeubles non affectés à cet usage.
+
+- La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux collectifs à
+usage commun, annexes, dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation.
 
 **Liens relatifs à cet article**
 
@@ -33529,7 +33540,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -33619,6 +33630,10 @@ _Cité par_:
   - Code général des impôts, CGI. - art. 257 (V)
   - Code général des impôts, CGI. - art. 278 sexies (V)
 
+_Modifié par_:
+
+  - Décret n°81-849 1981-09-11 ART. 1 JORF 13 SEPTEMBRE 1981
+
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 29 juillet 1987
@@ -33632,6 +33647,10 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. 8 (V)
   - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE I (M)
   - TXT_SOURCE: Arrêté du 29 juillet 1987 - art. ANNEXE II (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R331-8 PAR. 1, PAR. 2
 
 
 ###### Article R331-2
@@ -34643,49 +34662,95 @@ _Cité par_:
 
 ###### Article R331-26
 
-Les dépassements [*prix de référence*] prévus à l'article R. 331-19 peuvent être financés par une subvention de l'Etat et des
-prêts des caisses d'épargne, de la caisse des dépôts et consignations ou des établissements habilités à consentir des prêts
-aux collectivités locales.
+I. - Des subventions de l'Etat peuvent être accordées pour la prise en charge des dépassements [*prix de référence*] visés à
+l'article R. 331-19 :
 
-Les collectivités locales et leurs groupements peuvent seuls bénéficier de ce financement.
+1. Aux collectivités locales et aux groupements de collectivités locales lorsqu'ils acquièrent ou ont acquis depuis moins de
+trois ans à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble et s'engagent à
+le céder en toute propriété ou à bail emphytéotique ou à construction à l'une des personnes visées aux paragraphes 1 et 2 de
+l'article R. 331-8 [*organismes habitations à loyer modéré, sociétés d'économie mixte, rénovation urbaine, restauration
+immobilière*], pour la réalisation de travaux de construction, de transformation et d'aménagement, ou d'amélioration
+répondant aux conditions posées aux articles R. 331-15 à R. 331-19.
 
-Le montant de la subvention ainsi que celui du prêt ne peuvent, chacun, excéder, ni 40 p. 100 du dépassement, ni 40 p. 100
-des plafonds fixés à l'article R. 331-19.
+2. Aux bénéficiaires des prêts visés aux paragraphes 1 et 2 de l'article R. 331-8 lorsqu'ils acquièrent ou ont acquis depuis
+moins de trois ans à la date de la demande de décision favorable à l'octroi de la subvention un terrain ou un immeuble, et
+s'engagent à réaliser des travaux de construction, de transformation et d'aménagement, ou d'amélioration répondant aux
+conditions posées par les articles R. 331-15 à R. 331-19.
 
-Pour pouvoir bénéficier de ce financement, la collectivité locale ou son groupement doit s'engager :
+Une fraction du dépassement au moins égale à 20 p. 100 de son montant doit être prise en charge par une collectivité locale
+ou un groupement de collectivités locales.
 
-I - Lorsqu'elle acquiert le terrain ou l'immeuble :
+Le montant de la subvention de l'Etat ne peut dépasser :
 
-a) Soit à :
+Pour les opérations de construction neuve ou assimilées :
 
-1. Céder ceux-ci à un organisme d'habitations à loyer modéré ou une société d'économie mixte pour la réalisation de travaux
-de construction ou d'amélioration répondant aux conditions posées aux articles R. 331-15 à R. 331-19 ;
+Ni 50 p. 100 du dépassement ;
 
-2. Et prendre à sa charge la totalité du dépassement ;
+Ni le montant de la charge foncière de référence.
 
-b) Soit à passer avec une des personnes ou organismes mentionnés à l'article R. 331-8 un bail emphytéotique ou bail à
-construction pour la réalisation de travaux de construction ou d'amélioration répondant aux conditions posées aux articles R.
-331-15 à R. 331-19.
+Pour les opérations d'acquisition-amélioration ou assimilées :
 
-II - Lorsque le terrain ou l'immeuble sont acquis par une des personnes ou organismes mentionnés à l'article R. 331-8, à
-subventionner l'acquéreur pour la totalité du dépassement.
+Ni 50 p. 100 du dépassement ;
 
-Les modalités d'octroi de la subvention et des prêts sont fixées par arrêté des ministres chargés de la construction et de
-l'habitation et des finances.
+Ni 20 p. 100 du prix de référence.
+
+Pour les opérations d'acquisition-amélioration ou assimilées portant sur des immeubles déclarés insalubres en application de
+la loi n° 70-612 du 10 juillet 1970 :
+
+Ni 75 p. 100 du dépassement ;
+
+Ni 30 p. 100 du prix de référence.
+
+II. - Toutefois, jusqu'au 31 décembre 1982, les demandes complètes de décision favorable à l'octroi de la subvention pourront
+être établies en fonction des dispositions temporaires suivantes :
+
+La fraction du dépassement prise en charge par une collectivité locale ou un groupement de collectivités locales pourra être
+limitée à 10 p. 100 de son montant :
+
+Le montant de la subvention de l'Etat ne pourra dépasser :
+
+Pour les opérations de construction neuve ou assimilées :
+
+Ni 70 p. 100 du dépassement ;
+
+Ni 140 p. 100 du montant de la charge foncière de référence.
+
+Pour les opérations d'acquisition-amélioration ou assimilées :
+
+Ni 70 p. 100 du dépassement ;
+
+Ni 28 p. 100 du prix de référence.
+
+Pour les opérations d'acquisition-amélioration ou assimilées portant sur des immeubles déclarés insalubres en application de
+la loi n° 70-612 du 10 juillet 1970 :
+
+Ni 80 p. 100 du dépassement ;
+
+Ni 32 p. 100 du prix de référence.
+
+III. - Les modalités de détermination et d'octroi de la subvention sont fixées par arrêté du ministre de l'économie et des
+finances, du ministre délégué auprès du ministre de l'économie et des finances, chargé du budget, et du ministre de
+l'urbanisme et du logement.
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
+_Cite_:
 
-  - Décret n°77-934 1977-07-27 art. 26
+  - Loi n°70-612 1970-07-10
+  - Code de la construction et de l'habitation R331-8 PAR. 1, PAR. 2
+  - Code de la construction et de l'habitation. - art. R331-15 (M)
+  - Code de la construction et de l'habitation. - art. R331-16 (M)
+  - Code de la construction et de l'habitation. - art. R331-17 (M)
+  - Code de la construction et de l'habitation. - art. R331-18 (M)
+  - Code de la construction et de l'habitation. - art. R331-19 (M)
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
+_Créé par_:
 
-  - Décret n°81-849 1981-09-11 art. 2 JORF 13 septembre 1981
+  - Décret n°81-849 1981-09-11 ART. 2 JORF 13 SEPTEMBRE 1981
 
 _Cité par_:
 
@@ -34695,12 +34760,6 @@ _Cité par_:
   - Arrêté du 9 janvier 1980 - art. 3 (Ab)
   - Arrêté du 9 janvier 1980 - art. 4 (Ab)
   - Arrêté du 9 janvier 1980 - art. 5 (Ab)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R331-19, R331-15 à R331-19, R331-8
-  - Code de la construction et de l'habitation. - art. R331-19 (M)
-  - Code de la construction et de l'habitation. - art. R331-8 (M)
 
 
 ###### Article R331-27
