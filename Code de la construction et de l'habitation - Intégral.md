@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2003-04-23
+Version Consolidée au 2003-04-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -619,36 +619,42 @@ Version Consolidée au 2003-04-23
         - [Chapitre II : Dispositions relatives à la Polynésie française. (art. R662-1)](#616)
   - [Annexes (art. Annexe à l'article R231-13 à Annexe à l'article R443-11)](#617)
     - [Clauses types afférentes au contrat de construction d'une maison individuelle avec fourniture de plan rédigées en application de l'article R. 231-13 (art. Annexe à l'article R231-13)](#618)
-    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#619)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#620)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#621)
-    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#622)
-    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#623)
-    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#624)
-    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#625)
-    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#626)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#627)
-    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#628)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#629)
-    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#630)
-    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#631)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#632)
-    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#633)
-    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#634)
-      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#635)
-      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#636)
-      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#637)
-      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#638)
-    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#639)
-      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#640)
-    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#641)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#642)
-    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#643)
-      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#644)
-    - [Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré. (art. Annexe à l'article R422-9)](#645)
-    - [Statuts types des sociétés anonymes de crédit immobilier. (art. Annexe à l'article R422-14)](#646)
-    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#647)
-    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#648)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées. (art. Annexe I à l'article R313-31)](#619)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17. (art. Annexe II à l'article R313-31-2)](#620)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9. (art. Annexe III aux articles R313-31, R313-31-2)](#621)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative. (art. Annexe IV à l'article R313-31-2)](#622)
+    - [Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL). (art. Annexe V aux articles R313-31, R313-31-2)](#623)
+    - [Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2. (art. Annexe VI à l'article R313-31-2)](#624)
+    - [Convention type pour les établissements de crédit consentant des prêts conventionnés. (art. Annexe I à l'article R331-65)](#625)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré. (art. Annexe I à l'article R353-1)](#626)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale. (art. Annexe II à l'article R353-1)](#627)
+    - [Document prévu par l'article 1er des annexes I et II à l'article R. 353-1. (art. Annexe III à l'article R353-1)](#628)
+    - [Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1. (art. Annexe IV à l'article R353-1)](#629)
+    - [Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat. (art. Annexe I à l'article R353-32 à Annexe III à l'article R353-32)](#630)
+    - [Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction. (art. Annexe I à l'article R353-59)](#631)
+    - [Document prévu par l'article 1er de la présente convention. (art. Annexe II à l'article R353-59)](#632)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation. (art. Annexe I à l'article R353-90)](#633)
+    - [Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90. (art. Annexe II à l'article R353-90)](#634)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service. (art. Annexe I à l'article R353-127 à Annexe II à l'article R353-127)](#635)
+    - [Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements. (art. Annexe III à l'article R353-127)](#636)
+    - [Engagements de portée générale applicables à tout programme conventionné. (art. Annexe V à l'article R353-127)](#637)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées. (art. Annexe 1 à l'article R353-161)](#638)
+    - [Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées. (art. Annexe 2 à l'article R353-161)](#639)
+    - [Convention type A.P.L. : résidences sociales. (art. Annexe I à l'article R353-165-2 à Annexe V à l'article R353-165-2)](#640)
+      - [Résidence sociale de .... (art. Annexe II à l'article R353-165-2)](#641)
+      - [Agrément pour la gestion de résidence sociale. (art. Annexe III à l'article R353-165-2)](#642)
+      - [Description de la résidence sociale de .... (art. Annexe IV à l'article R353-165-2)](#643)
+      - [Charges locatives récupérables. (art. Annexe V à l'article R353-165-2)](#644)
+    - [Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°). (art. Annexe I à l'article R353-166 à Annexe II à l'article R353-166, art. 1)](#645)
+      - [Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-166, art. 1)](#646)
+    - [Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat. (art. Annexe I à l'article R353-190 à Annexe II à l'article R353-190, art. 1)](#647)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-190. (art. Annexe II à l'article R353-190, art. 1)](#648)
+    - [Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements. (art. Annexe I à l'article R353-200 à Annexe II à l'article R353-200, art. 1)](#649)
+      - [Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation. (art. Annexe II à l'article R353-200, art. 1)](#650)
+    - [Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré. (art. Annexe à l'article R422-9)](#651)
+    - [Statuts types des sociétés anonymes de crédit immobilier. (art. Annexe à l'article R422-14)](#652)
+    - [Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution. (art. Annexe à l'article R422-37)](#653)
+    - [Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11. (art. Annexe à l'article R443-11)](#654)
 # Partie législative<a id=1></a>
 
 ## Livre Ier : Dispositions générales.<a id=2></a>
@@ -44320,6 +44326,9 @@ d) Le produit net des intérêts de chacun des prêts visés à l'article R. 313
 e) Les produits résultant du placement des fonds en attente d'un emploi conforme aux articles R. 313-31, R. 313-34 et R.
 313-52 à R. 313-56 pour la part excédant une limite fixée par décret.
 
+f) Le surplus du produit net de la liquidation excédant la moitié du capital social des sociétés mentionnées à l'article R.
+313-31-2.
+
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
 l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
 logement, sont déduits de ces sommes.
@@ -44336,11 +44345,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°98-677 du 30 juillet 1998 - art. 4 () JORF 6 août 1998
+  - Décret n°2003-386 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31, R313-34, R313-52 à R313-56
+  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31, R313-34, R313-52 à R313-56, R313-31-2
 
 
 ###### Article R313-21
@@ -44497,6 +44506,9 @@ c) Les remboursements des prêts consentis à l'aide de la participation des emp
 d) La part du résultat non affectée au réserves prévues aux articles R. 313-31-1 et R. 313-33-3 ou au report à nouveau
 débiteur.
 
+e) Le surplus du produit net de la liquidation excédant la moitié du capital social des sociétés mentionnées à l'article R.
+313-31-2.
+
 Les versements faits par ces organismes à d'autres organismes collecteurs mentionnés à l'article R. 313-9 (2°, a et b), à
 l'Agence nationale pour la participation des employeurs à l'effort de construction et à l'Union d'économie sociale du
 logement, sont déduits de ces sommes.
@@ -44505,7 +44517,7 @@ logement, sont déduits de ces sommes.
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+  - Décret n°78-622 du 31 mai 1978
 
 _Cité par_:
 
@@ -44513,12 +44525,16 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°98-677 du 30 juillet 1998 - art. 5 () JORF 6 août 1998
+  - Décret n°2003-386 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
+
+_Abrogé par_:
+
+  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 _Cite_:
 
-  - Code de la construction et de l'habitation R313-9, R313-8 à R313-11, R313-31-1, R313-33-3
-  - Code de la construction et de l'habitation. - art. R313-33-3 (V)
+  - Code de la construction et de l'habitation.
+  - Code de la construction et de l'habitation. - art. R313-33-3
 
 
 ###### Article R*313-26
@@ -44894,8 +44910,9 @@ Les clauses types mentionnées à l'article L. 313-28 figurent en annexes à la 
 six et sont respectivement relatives aux clauses que doivent insérer dans leurs statuts :
 
 1° Pour l'annexe I, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés
-anonymes  ; ces sociétés peuvent réaliser des opérations locatives prévues à l'article R. 313-17 et des opérations à finalité
-d'accession à la propriété prévues à l'article R. 313-16 financées dans les conditions dudit article.
+anonymes ou de sociétés par actions simplifiées ; ces sociétés peuvent réaliser des opérations locatives prévues à l'article
+R. 313-17 et des opérations à finalité d'accession à la propriété prévues à l'article R. 313-16 financées dans les conditions
+dudit article.
 
 2° Pour l'annexe II, les sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de
 sociétés civiles et qui ne peuvent réaliser que des opérations locatives prévues à l'article R. 313-17.
@@ -44923,9 +44940,9 @@ publication du décret n° 93-750 du 27 mars 1993 au plus tard au terme de la ci
 
 **Nota:**
 
-NOTA : Selon un arrêt du Conseil d'Etat ( 1994-10-03 Société continentale foncière et mobilière) les mots ou acquis figurant
-au 6° inséré par l'article 1er du décret n° 93-750  du 27 mars 1993, et le deuxième alinéa du 3 de l"annexe VI du même décret
-sont annulés.
+Selon un arrêt du Conseil d'Etat (1994-10-03 Société continentale foncière et mobilière) les mots ou acquis figurant au 6°
+inséré par l'article 1er du décret n° 93-750 du 27 mars 1993, et le deuxième alinéa du 3 de l " annexe VI du même décret sont
+annulés.
 
 **Liens relatifs à cet article**
 
@@ -44935,18 +44952,17 @@ _Codifié par_:
 
 _Cite_:
 
-  - Décret n°93-750 1993-03-27
-  - Code de la construction et de l'habitation L313-28, R313-31, R313-17, R313-16, R313-18
-  - Code de la construction et de l'habitation. - art. L313-28 (V)
-
-_Créé par_:
-
-  - Décret n°93-750 du 27 mars 1993 - art. 1 () JORF 30 mars 1993
+  - Décret n°93-750 du 27 mars 1993
+  - Code de la construction et de l'habitation.
+  - Code de la construction et de l'habitation. - art. L313-28
 
 _Modifié par_:
 
-  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
-  - Décret n°97-143 du 14 février 1997 - art. 3 () JORF 16 février 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 1 () JORF 25 avril 2003
+
+_Abrogé par_:
+
+  - Décret n°2012-721 du 9 mai 2012 - art. 2
 
 _Cité par_:
 
@@ -44956,7 +44972,7 @@ _Cité par_:
 
 **Liens**:
 
-  - SPEC_APPLI: Conseil d'Etat décision n°148349 du 3 octobre 1994 Société Continentale Foncière et immobilière
+  - SPEC_APPLI: Conseil d'Etat 1994-10-03 n°148349 Continentale Foncière et Mobilière
 
 
 ###### Article R*313-31-3
@@ -84489,7 +84505,632 @@ _Cite_:
   - dispositions des articles L. 731-1 et suivants du code du travail
 
 
-## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=619></a>
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui ont pris la forme de sociétés anonymes ou de sociétés par actions simplifiées.<a id=619></a>
+
+###### Article Annexe I à l'article R313-31
+
+A. Clauses communes aux sociétés anonymes et aux sociétés par actions simplifiées. 
+
+1. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+2. Actions de la société. 
+
+Les actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Distribution de dividendes et affectation des résultats. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs mentionnés au premier alinéa de la clause 1 ci-
+dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la réglementation de la participation des
+employeurs à l'effort de construction. Les titres éventuellement souscrits ou acquis avec ces bénéfices ne peuvent être que
+ceux des sociétés mentionnées aux 2°, 2° bis et 9° du I de l'article R. 313-31 du code de la construction et de
+l'habitation. 
+
+4. Cession des actions. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions doit être autorisée par l'organe délibérant de la société
+anonyme, ou par l'organisme collecteur président de la société par actions simplifiée lorsque celle-ci comprend plusieurs
+actionnaires. 
+
+Elle est réalisée en priorité au profit d'un actionnaire existant ou d'un organisme collecteur visé aux a, b ou c du 2° de
+l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par la
+réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un expert
+désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces actions dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 %. 
+
+5. Cession des logements appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 1 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants visés ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1° et 2° de l'article R. 313-31-2 du code de la
+construction et de l'habitation ou d'un organisme collecteur mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs mentionnés ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+Les mêmes dispositions sont applicables aux logements construits en vue de l'accession à la propriété qui ont, faute
+d'acquéreur, été mis en location et qui font l'objet d'une mise en vente ultérieure. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire de la société anonyme, ou
+l'assemblée générale des actionnaires de la société par actions simplifiée, nomme un liquidateur qui doit être agréé par
+décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 1 ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction. 
+
+B. Clauses particulières aux sociétés par actions simplifiées. 
+
+7. Clause commune à toutes les sociétés par actions simplifiées. 
+
+La société par actions simplifiée est présidée par un organisme collecteur mentionné au a ou b du 2° de l'article R. 313-9 du
+code de la construction et de l'habitation. Le président dirige la société et la représente à l'égard des tiers. A ce titre,
+il est investi de tous les pouvoirs nécessaires pour agir au nom de la société dans la limite de son objet social et des
+pouvoirs expressément dévolus par la loi et les présents statuts à l'actionnaire unique ou aux décisions collectives des
+actionnaires. Le président peut déléguer, dans les conditions et limites qu'il détermine, ses pouvoirs de direction de la
+société à un directeur général, personne physique. 
+
+8. Clause particulière aux sociétés par actions simplifiées comprenant plusieurs actionnaires. 
+
+Les opérations ci-après doivent être décidées :
+
+- à la majorité des voix dont disposent les actionnaires présents ou représentés en assemblée générale :
+
+- approbation des comptes annuels ;
+
+- nomination du commissaire aux comptes ;
+
+- au deux tiers des voix dont disposent les actionnaires présents ou représentés en assemblée générale :
+
+- dissolution et liquidation de la société ;
+
+- augmentation et réduction du capital ;
+
+- fusion, scission et apport partiel d'actif ;
+
+- exclusion d'un actionnaire. 
+
+9. Clause particulière aux sociétés par actions simplifiées unipersonnelles. 
+
+L'associé unique exerce les pouvoirs qui sont dévolus par la loi à la collectivité des actionnaires lorsque la société
+comporte plusieurs actionnaires. Il ne peut déléguer ces pouvoirs.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R*313-31 (Ab)
+  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31-2 qui ont pris la forme de sociétés civiles réalisant des opérations à finalité locative prévue à l'article R. 313-17.<a id=620></a>
+
+###### Article Annexe II à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité locative prévues au 1er du I et au II de l'article
+R. 313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50% par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une part de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+Les parts de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6% du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs détenteurs du capital de la société et mentionnés
+au premier alinéa de la clause 2 ci-dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la
+réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des parts de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par
+la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un
+expert désigné, soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme de
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces parts dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 p. 100.
+
+5. Cession des logements appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants cités ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1° et 2° de l'article R. 313-31-2 du code de la
+construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité locative ou d'un organisme collecteur
+mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs mentionnés ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Gérance de la société. 
+
+La société est administrée par un gérant. Cette fonction est attribuée à un organisme collecteur visé au a ou b du 2° de
+l'article R. 313-9 du code de la construction et de l'habitation ou déléguée à une autre personne physique ou morale. En cas
+de délégation, le gérant est nommé par décision conjointe de chaque organe délibérant des organismes collecteurs mentionnés
+au premier alinéa de la clause 2 ci-dessus. Sa révocation est prononcée dans les mêmes formes. 
+
+Le gérant rend compte annuellement de sa gestion aux associés par un rapport écrit d'ensemble sur l'activité de la société au
+cours de l'exercice ou de l'année écoulée, ce rapport comportant l'indication des bénéfices réalisés ou prévisibles et des
+pertes encourues ou prévues. 
+
+7. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 2
+ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction. 
+
+8. Commission d'attribution. 
+
+(Clause à n'insérer dans les statuts que pour les sociétés ayant une partie au moins de leur patrimoine implanté dans de
+grands ensembles anciennement classés en zone à urbaniser par priorité). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer, ou son représentant, est membre de droit de cette
+commission, pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L313-28 (V)
+  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+  - Code de la construction et de l'habitation. - art. R313-17 (V)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I des articles R. 313-31 et R. 313-31-2 versant la participation financière aux organismes collecteurs mentionnés aux a et b du 2° de l'article R. 313-9.<a id=621></a>
+
+###### Article Annexe III aux articles R313-31, R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité d'accession à la propriété prévues à l'article R.
+313-16 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants qui, faute
+d'acquéreur, ont été mis en location. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une part de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Sur décision de chaque organe délibérant du ou des organismes collecteurs détenteurs du capital de la société et mentionnés
+au premier alinéa de la clause 2 ci-dessus, les bénéfices non distribués sont réinvestis dans des emplois prévus par la
+réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des parts de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et l'habitation, sous réserve des conditions et autorisations prévues par la
+réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un expert
+désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces parts dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50 %. 
+
+5. Cession des logements appartenant à la société. 
+
+Dans le cas où des logements construits en vue de la réalisation de l'objet de la société ont, faute d'acquéreur, été mis en
+location, leur vente ultérieure doit être préalablement autorisée par décision de chaque organe délibérant des organismes
+collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus. 
+
+Sauf autorisation motivée donnée par décision de chacun des organes délibérants visés ci-dessus, elle ne peut être réalisée
+qu'au profit des locataires, d'une autre société immobilière mentionnée à l'article R. 313-31-2 du code de la construction et
+de l'habitation ayant pour objet la réalisation d'opérations à finalité locative ou d'un organisme collecteur mentionné au c
+du 2° de l'article R. 313-9 du même code. 
+
+L'autorisation mentionnée à l'alinéa précédent est immédiatement transmise au représentant de l'Etat dans le département
+d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception de l'autorisation concernée par le
+représentant de l'Etat, celui-ci peut demander à chaque organe délibérant des organismes collecteurs cités ci-dessus de
+procéder à une seconde délibération relative à la cession des logements. 
+
+Lorsque cette autorisation porte sur la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes collecteurs mentionnés au premier alinéa de la clause 2
+ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L313-28 (V)
+  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+  - Code de la construction et de l'habitation. - art. R313-16 (V)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° bis du I de l'article R. 313-31 qui bénéficient de prêts prévus au 2° du I de l'article R. 313-17 qui ne peuvent réaliser qu'une opération à finalité locative.<a id=622></a>
+
+###### Article Annexe IV à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'une opération à finalité locative prévue au 1° du I de l'article R.
+313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+Pour la réalisation de cette opération, la société se place sous le contrôle du ou des organismes collecteurs mentionnés au a
+ou b du 2° de l'article R. 313-9 du code de la construction et de l'habitation par l'intermédiaire duquel (desquels) ont été
+effectuées les souscriptions de parts ou d'actions prévues au c de l'article R. 313-23 du même code. 
+
+L'(ou les) organismes (s) collecteur (s) peut (peuvent) en conséquence se faire communiquer tous documents d'ordre
+administratif, juridique, comptable et technique se rattachant à l'opération. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut être augmenté par incorporation de réserves. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés au
+deuxième alinéa de la clause 1 ci-dessus ne peut détenir directement ou indirectement plus d'une action ou d'une part de la
+société. 
+
+Les parts ou actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Chaque organe délibérant du ou des organismes collecteurs mentionnés au deuxième alinéa de la clause 1 ci-dessus décide de
+l'affectation des bénéfices de la société. Les bénéfices non distribués ne peuvent être réinvestis que dans des emplois
+prévus par la réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des logements locatifs appartenant à la société. 
+
+Toute cession de logements locatifs doit être préalablement autorisée par décision de l'organe délibérant de la société. 
+
+5. Cession des parts ou actions de la société. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers de parts ou d'actions doit être autorisée par l'organe délibérant de la
+société. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant des organismes mentionnés au deuxième alinéa de la clause 1 ci-dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à une autre société immobilière mentionnée à l'article R. 313-31-2 du code de la
+construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité locative. 
+
+7. Commission d'attribution. 
+
+(Cette clause n'est à insérer dans leurs statuts que par les sociétés de nature civile et dont l'opération est implantée dans
+de grands ensembles anciennement classés en zone à urbaniser). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer ou son représentant est membre de droit de cette commission
+pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+  - Code de la construction et de l'habitation. - art. R*313-31-2 (Ab)
+  - Code de la construction et de l'habitation. - art. R313-17 (V)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières mentionnées au 2° du I de l'article R. 313-31 qui réalisent des opérations prévues au b de l'article R. 313-18 (SOFAL).<a id=623></a>
+
+###### Article Annexe V aux articles R313-31, R313-31-2
+
+1. Objet et nature de la société. 
+
+L'objet exclusif de la société est l'acquisition en vue de la vente ou de la location de logements existants ainsi
+qu'éventuellement la gestion temporaire, pour le compte de leurs propriétaires, de tels logements. 
+
+La société est une société anonyme administrée par un conseil d'administration ou un conseil de surveillance et un
+directoire. 
+
+2. Capital de la société. 
+
+Le capital de la société doit être détenu à plus de 50 % par un ou plusieurs organismes collecteurs mentionnés aux a et b du
+2° de l'article R. 313-9 du code de la construction et de l'habitation. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un des organismes mentionnés à
+l'alinéa précédent ne peut détenir directement ou indirectement plus d'une action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut pas être augmenté par incorporation de réserves. 
+
+Les actions de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+3. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Chaque organe délibérant du ou des organismes collecteurs mentionnés au premier alinéa de la clause 2 ci-dessus décide de
+l'affectation des bénéfices de la société. Les bénéfices non distribués ne peuvent être réinvestis que dans des emplois
+prévus par la réglementation de la participation des employeurs à l'effort de construction. 
+
+4. Cession des actions. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur d'actions existant ou d'un organisme collecteur visé aux a, b ou c du 2°
+de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et autorisations prévues par
+la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci est déterminé par un
+expert désigné soit par les parties, soit, à défaut d'accord entre elles, par ordonnance du tribunal statuant en la forme des
+référés et sans recours possible. Le prix de la cession ne peut être, en tout état de cause et conformément à l'article L.
+313-28 du code de la construction et de l'habitation, ni supérieur à la valeur de ces actions dans la situation nette de la
+société, ni supérieur à leur valeur nominale majorée de 50%.
+
+5. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, l'assemblée générale extraordinaire nomme un liquidateur qui doit
+être agréé par décision de chaque organe délibérant de chacun des organismes mentionnés au deuxième alinéa de la clause 2 ci-
+dessus. 
+
+Après règlement du passif et remboursement du capital social, le surplus du produit net de la liquidation excédant la moitié
+du capital social ne peut être dévolu qu'à un organisme mentionné au a ou b du 2° de l'article R. 313-9 du code de la
+construction et de l'habitation, lequel doit l'imputer aux sommes recueillies au titre de la participation des employeurs à
+l'effort de construction.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L313-28 (V)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Clauses types applicables aux sociétés immobilières locatives mentionnées à l'article L. 313-1-2.<a id=624></a>
+
+###### Article Annexe VI à l'article R313-31-2
+
+1. Objet de la société. 
+
+L'objet exclusif de la société est la réalisation d'opérations à finalité locative prévues au 1er du I et au II de l'article
+R. 313-17 du code de la construction et de l'habitation ainsi que la gestion des logements correspondants. 
+
+2. Capital de la société. 
+
+Aucune personne physique chargée à un titre quelconque de l'administration ou de la gestion d'un organisme collecteur de la
+participation des employeurs à l'effort de construction ayant souscrit au capital de la société ou acquis des parts ou
+actions de celle-ci ne peut détenir directement ou indirectement plus d'une part ou action de la société. 
+
+Le capital de la société doit être immédiatement libéré. 
+
+Il ne peut être augmenté par incorporation de réserves. 
+
+3. Actions ou parts de la société. 
+
+Les actions ou parts de la société ne permettent pas l'attribution de logements en toute propriété ou en jouissance. 
+
+Sauf en cas de succession, de liquidation de communauté de biens entre époux ou de cession soit à un conjoint, soit à un
+ascendant ou à un descendant, la cession à un tiers d'actions ou de parts doit être autorisée par l'organe délibérant de la
+société. 
+
+La cession de parts ou d'actions doit être autorisée par l'organe délibérant de la société. 
+
+Elle est réalisée en priorité au profit d'un porteur de parts ou d'actions existant ou d'un organisme collecteur visé aux a,
+b ou c du 2° de l'article R. 313-9 du code de la construction et de l'habitation, sous réserve des conditions et
+autorisations prévues par la réglementation en vigueur. A défaut d'accord entre les parties sur le prix de cession, celui-ci
+est déterminé par un expert désigné soit par les parties, soit à défaut d'accord entre elles, par ordonnance du tribunal
+d'accord entre elles, par ordonnance du tribunal statuant en la forme des référés et sans recours possible. Le prix de la
+cession ne peut être, en tout état de cause et conformément à l'article L. 313-28 du code de la construction et de
+l'habitation, ni supérieur à la valeur de ces parts ou actions dans la situation nette de la société, ni supérieur à leur
+valeur nominale majorée de 50 %. 
+
+4. Versement de dividendes et affectation des bénéfices. 
+
+Le versement annuel des dividendes ne doit pas excéder 6 % du capital. 
+
+Les bénéfices non distribués sont réinvestis dans des emplois prévus par la réglementation de la participation des employeurs
+à l'effort de construction. 
+
+5. Cession des logements appartenant à la société. 
+
+La cession des logements locatifs de la société doit être décidée par l'organe délibérant de la société. 
+
+Elle ne peut être réalisée qu'au profit des locataires, d'une autre société immobilière mentionnée aux 1°, 2° et 5° de
+l'article R. 313-31-2 du code de la construction et de l'habitation ayant pour objet la réalisation d'opérations à finalité
+locative, ou d'un organisme collecteur mentionné au c du 2° de l'article R. 313-9 du même code. 
+
+Les cessions de logements locatifs décidées en dérogation avec les règles prévues à l'alinéa précédent sont transmises au
+représentant de l'Etat dans le département d'implantation des logements cédés. Dans le délai d'un mois qui suit la réception
+de la décision concernée par le représentant de l'Etat, celui-ci peut demander à une seconde délibération relative à la
+cession des logements. 
+
+Lorsque cette autorisation est relative à la mise en vente de plus de 50 logements sur le territoire d'une commune, elle est
+immédiatement transmise, pour son information, au maire de la commune concernée. 
+
+6. Dissolution de la société. 
+
+En cas de dissolution amiable ou statutaire de la société, après règlement du passif et remboursement du capital social, le
+surplus du produit net de la liquidation excédant la moitié du capital social ne peut être dévolu qu'à un organisme mentionné
+au a ou b du 2° de l'article R. 313-9 du code de la construction et de l'habitation, lequel doit l'imputer aux sommes
+recueillies au titre de la participation des employeurs à l'effort de construction. 
+
+7. Commission d'attribution. 
+
+(Cette clause n'est à insérer dans le statut que par les sociétés de nature civile et ayant une partie au moins de leur
+patrimoine implanté dans de grands ensembles anciennement classés en zone à urbaniser en priorité). 
+
+La société est dotée, en application de l'article L. 441-1-2 du code de la construction et de l'habitation, d'une commission
+d'attribution de ses logements locatifs, qui attribue nominativement chacun des logements mis ou remis en location. 
+
+Le maire de la commune d'implantation des logements à attribuer, ou son représentant, est membre de droit de cette
+commission, pour les séances où l'attribution de ces logements est à l'ordre du jour.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31
+
+_Créé par_:
+
+  - Décret n°93-750 1993-03-27 annexe JORF 30 mars 1993
+
+_Modifié par_:
+
+  - Décret n°95-551 1995-05-06 art. 1 JORF 6 mai 1995
+  - Loi n°96-1237 du 30 décembre 1996 - art. 6 () JORF 1er janvier 1997
+  - Décret n°2003-387 du 17 avril 2003 - art. 2 () JORF 25 avril 2003
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L313-28 (V)
+  - Code de la construction et de l'habitation. - art. L441-1-2 (V)
+  - Code de la construction et de l'habitation. - art. R313-17 (V)
+  - Code de la construction et de l'habitation. - art. R313-9 (V)
+
+
+## Convention type pour les établissements de crédit consentant des prêts conventionnés.<a id=625></a>
 
 ###### Article Annexe I à l'article R331-65
 
@@ -84819,7 +85460,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R331-74 (V)
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=620></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°)  du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré.<a id=626></a>
 
 ###### Article Annexe I à l'article R353-1
 
@@ -85456,7 +86097,7 @@ _Modifié par_:
   - Décret n°2002-848 du 3 mai 2002 - art. 7 () JORF 5 mai 2002
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=621></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré relative à une cité de promotion familiale.<a id=627></a>
 
 ###### Article Annexe II à l'article R353-1
 
@@ -85563,7 +86204,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 1 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=622></a>
+## Document prévu par l'article 1er des annexes I et II à l'article R. 353-1.<a id=628></a>
 
 ###### Article Annexe III à l'article R353-1
 
@@ -85639,7 +86280,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=623></a>
+## Engagements de portée générale prévus par les annexes I et II à l'article R. 353-1.<a id=629></a>
 
 ###### Article Annexe IV à l'article R353-1
 
@@ -85807,7 +86448,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=624></a>
+## Convention type conclue entre l'Etat et M. ... (ou la société ...) en application de l'article L. 351-2 (4°) du code de la construction et de l'habitation pour le programme de ... faisant l'objet de travaux d'amélioration achevés postérieurement au 4 janvier 1977, financés sans aide spécifique de l'Etat ou au moyen d'une subvention de l'agence nationale pour l'amélioration de l'habitat.<a id=630></a>
 
 ###### Article Annexe I à l'article R353-32
 
@@ -86411,7 +87052,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=625></a>
+## Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre l'Etat et la société mixte de construction.<a id=631></a>
 
 ###### Article Annexe I à l'article R353-59
 
@@ -86901,7 +87542,7 @@ _Modifié par_:
   - Décret n°2002-845 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Document prévu par l'article 1er de la présente convention.<a id=626></a>
+## Document prévu par l'article 1er de la présente convention.<a id=632></a>
 
 ###### Article Annexe II à l'article R353-59
 
@@ -87052,7 +87693,7 @@ _Créé par_:
   - Décret n°99-865 du 7 octobre 1999 - art. 3 () JORF 8 octobre 1999
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=627></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte pour la construction ou l'acquisition de logements à usage locatif, en application de l'article L. 351-2 (3°) applicable aux logements faisant l'objet d'une décision favorable prise dans les conditions prévues aux articles R. 331-3 et R. 331-6 du code de la construction et de l'habitation.<a id=633></a>
 
 ###### Article Annexe I à l'article R353-90
 
@@ -87558,7 +88199,7 @@ _Modifié par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 8 () JORF 5 mai 2002
 
 
-## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=628></a>
+## Conventions conclues entre l'Etat et les personnes physiques ou morales autres que les organismes d'HLM et les sociétés d'économie mixte en application de l'article L. 351-2 (2° et 3°), à l'exception de celles relatives aux opérations de construction de logements en vue de leur vente ou d'acquisition, bénéficiant du taux de TVA réduit mentionnés à l'article 278 sexies I (1, 2, 3) du code général des impôts et mentionnées à l'annexe I à l'article R. 353-90.<a id=634></a>
 
 ###### Article Annexe II à l'article R353-90
 
@@ -88369,7 +89010,7 @@ _Créé par_:
   - Décret n°2002-846 du 3 mai 2002 - art. 9 () JORF 5 mai 2002
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=629></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour la construction ou l'acquisition de logements non encore mis en service.<a id=635></a>
 
 ###### Article Annexe I à l'article R353-127
 
@@ -88640,7 +89281,7 @@ _Créé par_:
   - Décret n°78-1307 1978-12-29 annexe JONC 9 janvier 1979
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=630></a>
+## Convention conclue en application de l'article L. 351-2 (3°) du code de la construction et de l'habitation entre l'Etat et les personnes morales ou physiques qui bénéficient à titre principal d'un prêt conventionné pour l'amélioration des logements.<a id=636></a>
 
 ###### Article Annexe III à l'article R353-127
 
@@ -88891,7 +89532,7 @@ _Modifié par_:
   - Décret n°95-42 du 11 janvier 1995 - art. 5 () JORF 13 janvier 1995 en vigueur le 1er janvier 1995
 
 
-## Engagements de portée générale applicables à tout programme conventionné.<a id=631></a>
+## Engagements de portée générale applicables à tout programme conventionné.<a id=637></a>
 
 ###### Article Annexe V à l'article R353-127
 
@@ -89274,7 +89915,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=632></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour les personnes autres que les personnes âgées.<a id=638></a>
 
 ###### Article Annexe 1 à l'article R353-161
 
@@ -89687,7 +90328,7 @@ _Créé par_:
   - Décret n°79-297 1979-04-11 annexe JONC 13 avril 1979
 
 
-## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=633></a>
+## Convention conclue entre l'Etat, l'organisme propriétaire et l'organisme gestionnaire en application de l'article L. 353-13 du code de la construction et de l'habitation portant sur les logements foyers visés par l'article L. 351-2 (5°) pour personnes âgées.<a id=639></a>
 
 ###### Article Annexe 2 à l'article R353-161
 
@@ -90070,7 +90711,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-## Convention type A.P.L. : résidences sociales.<a id=634></a>
+## Convention type A.P.L. : résidences sociales.<a id=640></a>
 
 ###### Article Annexe I à l'article R353-165-2
 
@@ -90551,7 +91192,7 @@ _Créé par_:
   - Décret n°94-1129 1994-12-23 annexe JORF 27 décembre 1994
 
 
-### Résidence sociale de ....<a id=635></a>
+### Résidence sociale de ....<a id=641></a>
 
 ###### Article Annexe II à l'article R353-165-2
 
@@ -90614,7 +91255,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art. (V)
 
 
-### Agrément pour la gestion de résidence sociale.<a id=636></a>
+### Agrément pour la gestion de résidence sociale.<a id=642></a>
 
 ###### Article Annexe III à l'article R353-165-2
 
@@ -90665,7 +91306,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Description de la résidence sociale de ....<a id=637></a>
+### Description de la résidence sociale de ....<a id=643></a>
 
 ###### Article Annexe IV à l'article R353-165-2
 
@@ -90788,7 +91429,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-### Charges locatives récupérables.<a id=638></a>
+### Charges locatives récupérables.<a id=644></a>
 
 ###### Article Annexe V à l'article R353-165-2
 
@@ -91080,7 +91721,7 @@ _Abrogé par_:
   - Décret n°2011-356 du 30 mars 2011 - art.
 
 
-## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=639></a>
+## Convention conclue en application des articles L. 351-2 (3°) et R. 353-167 du code de la construction et de l'habitation entre l'Etat et les personnes physiques bénéficiaires d'un prêt aidé par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété et mentionnées à l'article R. 331-41 (3°).<a id=645></a>
 
 ###### Article Annexe I à l'article R353-166
 
@@ -91299,7 +91940,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=640></a>
+### Document prévu à l'article 1er de l'annexe à l'article R. 353-166 du code de la construction et de l'habitation.<a id=646></a>
 
 ###### Article Annexe II à l'article R353-166, art. 1
 
@@ -91338,7 +91979,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=641></a>
+## Convention conclue en application de l'article L. 351-2 (3°) entre l'Etat et les sociétés d'économie mixte ayant pour objet statutaire la rénovation urbaine et la restauration immobilière dans le cadre des opérations qui leur sont confiées par les collectivités physiques et relatives aux logements construits ou acquis et aménagés au moyen d'aides spécifiques de l'Etat.<a id=647></a>
 
 ###### Article Annexe I à l'article R353-190
 
@@ -91848,7 +92489,7 @@ _Modifié par_:
   - Décret n°91-162 du 12 février 1991 - art. 2 () JORF 14 février 1991
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=642></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-190.<a id=648></a>
 
 ###### Article Annexe II à l'article R353-190, art. 1
 
@@ -91935,7 +92576,7 @@ _Codifié par_:
   - Décret n°78-622 1978-05-31
 
 
-## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=643></a>
+## Convention conclue en application des articles L. 351-2 (3) et R. 353-200 du code de la construction et de l'habitation entre l'Etat et les bailleurs de logements.<a id=649></a>
 
 ###### Article Annexe I à l'article R353-200
 
@@ -92188,7 +92829,7 @@ _Modifié par_:
   - Décret n°90-635 du 18 juillet 1990 - art. 8 () JORF 19 juillet 1990
 
 
-### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=644></a>
+### Document prévu par l'article 1er de l'annexe à l'article R. 353-200 du code de la construction et de l'habitation.<a id=650></a>
 
 ###### Article Annexe II à l'article R353-200, art. 1
 
@@ -92255,7 +92896,7 @@ _Créé par_:
   - Décret n°83-1001 1983-11-22 art. 1 JORF 23 novembre 1983
 
 
-## Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.<a id=645></a>
+## Statuts types d'une société anonyme coopérative de production d'habitations à loyer modéré.<a id=651></a>
 
 ###### Article Annexe à l'article R422-9
 
@@ -92564,7 +93205,7 @@ _Transféré par_:
   - Décret n°2004-1087 du 14 octobre 2004 - art. 10 () JORF 15 octobre 2004
 
 
-## Statuts types des sociétés anonymes de crédit immobilier.<a id=646></a>
+## Statuts types des sociétés anonymes de crédit immobilier.<a id=652></a>
 
 ###### Article Annexe à l'article R422-14
 
@@ -93024,7 +93665,7 @@ _Modifié par_:
   - Décret n°2002-1158 du 13 septembre 2002 - art. 8 () JORF 14 septembre 2002
 
 
-## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=647></a>
+## Statuts types des sociétés anonymes coopératives d'habitations à loyer modéré pour les opérations de location-attribution.<a id=653></a>
 
 ###### Article Annexe à l'article R422-37
 
@@ -93239,7 +93880,7 @@ _Modifié par_:
   - Décret n°93-749 1993-03-27 annexe JORF 30 mars 1993
 
 
-## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=648></a>
+## Normes minimales d'habitabilité des logements vendus en application de l'article R. 443-11.<a id=654></a>
 
 ###### Article Annexe à l'article R443-11
 
