@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1992-05-23
+Version Consolidée au 1992-06-17
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -59781,33 +59781,6 @@ _Cité par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. L451-1 (M)
-
-
-###### Article R*422-12
-
-Si une société ayant bénéficié des dispositions du deuxième alinéa de l'article R. 422-10 et de l'article R. 422-11, n'est
-plus en mesure, du point de vue technique ou financier, d'assumer sa mission de façon satisfaisante, un arrêté du ministre
-chargé de la construction et de l'habitation et du ministre chargé des finances peut, après que la société aura été invitée à
-présenter ses observations et après avis du conseil supérieur des habitations à loyer modéré, supprimer tout ou partie de la
-faculté pour la société d'entreprendre de nouvelles opérations en dehors de la région où est situé son siège social.
-
-**Liens relatifs à cet article**
-
-_Anciens textes_:
-
-  - Décret n°74-212 1974-02-25 art. 3
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
-
-_Abrogé par_:
-
-  - Décret n°92-529 du 15 juin 1992 - art. 4 () JORF 17 juin 1992
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R422-10, R422-11
 
 
 ###### Article R*422-13
