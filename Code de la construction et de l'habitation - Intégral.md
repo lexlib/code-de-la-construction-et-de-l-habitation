@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-08-06
+Version Consolidée au 1998-09-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -51938,24 +51938,23 @@ _Modifié par_:
 ###### Article R331-78
 
 Dans les limites et conditions fixées par la section I (sous-sections I à V), sauf dispositions expresses particulières de la
-présente section, des prêts à taux préférentiel et révisable dont les caractéristiques sont définies à l'article R. 331-82
-peuvent être accordés pour financer :
+présente section, des prêts à taux préférentiel et révisable peuvent être accordés pour financer : 
 
 L'acquisition de droits de construire ou de terrains destinés à la construction de logements à usage locatif et la
-construction de ces logements ;
+construction de ces logements ; 
 
 L'acquisition de logements et d'immeubles destinés à l'habitation en vue de leur amélioration ainsi que les travaux
-d'amélioration correspondants ;
+d'amélioration correspondants ; 
 
 Par assimilation, l'acquisition de locaux ou d'immeubles non affectés à l'habitation et leur transformation ou aménagement en
-logements ;
+logements ; 
 
 Les travaux d'amélioration exécutés sur des immeubles ou des logements cédés à bail emphytéotique par l'Etat, des
 collectivités locales ou leurs groupements, ainsi que les travaux de transformation ou d'aménagement en logements de locaux
-ou d'immeubles non affectés à cet usage ;
+ou d'immeubles non affectés à cet usage ; 
 
 La réalisation des dépendances de ces immeubles ou de ces logements, et notamment les garages, jardins, locaux collectifs à
-usage commun, annexes, dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation ;
+usage commun, annexes, dans des limites fixées par arrêté du ministre chargé de la construction et de l'habitation ; 
 
 La réalisation des opérations de logements-foyers à usage locatif tels que définis à l'article R. 331-55.
 
@@ -51965,18 +51964,17 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
 **Liens**:
 
   - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
 
+_Modifié par_:
+
+  - Décret n°98-796 du 2 septembre 1998 - art. 1 () JORF 9 septembre 1998
+
 _Cite_:
 
-  - Code de la construction et de l'habitation R331-3 à R331-30
-  - Code de la construction et de l'habitation. - art. R331-55 (M)
+  - Code de la construction et de l'habitation. - art. R331-55 (V)
 
 _Cité par_:
 
@@ -52061,45 +52059,6 @@ _Modifié par_:
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R331-78 (V)
-
-
-###### Article R331-82
-
-Les prêts prévus à l'article R. 331-78 sont accordés pour une durée de trente-quatre ans avec deux ans de différé
-d'amortissement et sont assortis d'une remise d'intérêts de deux ans et trois mois. Les délais sont calculés à partir de la
-date de la signature du contrat.
-
-Ces prêts sont à taux révisables.
-
-Le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces périodes et les conditions de
-leur révisabilité, ainsi que le rythme de la progressivité des annuités en cours d'amortissement, sont fixés par arrêté des
-ministres chargés de la construction et de l'habitation et des finances, en tenant compte du coût des ressources concourant à
-leur financement.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
-
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-_Abrogé par_:
-
-  - Décret n°98-796 du 2 septembre 1998 - art. 2 (V) JORF 9 septembre 1998
-
-_Cité par_:
-
-  - Décret n°98-796 du 2 septembre 1998 - art. 2 (V)
-  - Arrêté du 25 octobre 1984 - art. 1 (Ab)
-  - Arrêté du 25 octobre 1984 - art. 2 (Ab)
-  - Code de la construction et de l'habitation. - art. R331-78 (M)
 
 
 ###### Article R331-83
