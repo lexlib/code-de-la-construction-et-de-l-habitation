@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1993-06-19
+Version Consolidée au 1993-07-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -392,7 +392,7 @@ Version Consolidée au 1993-06-19
           - [Section 2 : Prêts aidés par l'Etat pour la construction, l'acquisition et l'amélioration des logements en accession à la propriété. (art. R331-38 à R331-54-2)](#389)
             - [Sous-section 1 : Conditions d'octroi des prêts. (art. R331-38)](#390)
             - [Sous-section 2 : Caractéristiques des prêts. (art. R331-54-2)](#391)
-          - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-67 à R331-76-5)](#392)
+          - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-64 à R331-76-5)](#392)
             - [Sous-section 1 : Conditions d'octroi. (art. R331-67)](#393)
             - [Sous-section 2 bis : Conditions d'octroi des prêts conventionnés pour les opérations de location-accession à la propriété immobilière régies par la loi n° 84-595 du 12 juillet 1984 définissant la location-accession à la propriété. (art. R331-76-1 à R331-76-5)](#394)
           - [Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements. (art. R331-63 à R331-77)](#395)
@@ -44480,6 +44480,30 @@ _Cite_:
 
 ##### Section 3 : Prêts conventionnés des banques et établissements financiers pour la construction, l'acquisition et l'amélioration de logements.<a id=392></a>
 
+###### Article R331-64
+
+Les occupants des logements faisant l'objet des prêts conventionnés ont droit à l'aide personnalisée au logement dans les
+conditions prévues par les titres préliminaires et III à V du présent livre (1ère et 2e parties), sauf lorsqu'ils réalisent
+des travaux d'amélioration de leur résidence principale en application du 4° de l'article R. 331-63 ou lorsqu'en application
+de l'article R. 331-67 l'octroi des prêts n'a pas été précédé de la passation d'une convention régie par le titre V, chapitre
+III, du présent livre (1re partie).
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. R331-63 (V)
+  - Code de la construction et de l'habitation. - art. R331-67 (V)
+
+_Modifié par_:
+
+  - Décret n°1993-03-18 art. 3 JORF 19 mars 1993 en vigueur le 1er juillet 1993
+
+
 ##### Sous-section 1 : Conditions d'octroi.<a id=393></a>
 
 ###### Article R331-67
@@ -44676,18 +44700,20 @@ financer [*opérations*] :
 
 1° L'acquisition de droits de construire ou de terrains destinés à la construction de logements, la construction de ces
 logements ou leur acquisition ; sont assimilés à la construction de logements l'aménagement à usage de logement de locaux non
-destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation.
+destinés à l'habitation et l'agrandissement de logements existants, par extension ou surélévation;
 
-2° L'amélioration de logements lorsque ceux-ci font partie d'un programme d'intérêt général ;
+2° [*abrogé*].
 
-" 3° L'acquisition de logements existants et, le cas échéant, les travaux d'amélioration nécessaires. "
+3° L'acquisition de logements existants et, le cas échéant, les travaux d'amélioration nécessaires.
 
 4° Les travaux d'amélioration de logements achevés depuis au moins dix ans et Les travaux destinés à réduire les dépenses
 d'énergie dans des logements existants au 1er juillet 1981 ou ayant fait l'objet, avant cette date, d'une demande de permis
-de construire.    Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux
-visés au 4° du présent article.
+de construire.
 
-5° Le remboursement anticipé total d'un prêt conventionné à annuités progréssives consenti avant le 31 décembre 1984 [*date
+Un arrêté conjoint des ministres chargés des finances et du logement fixe le montant minimal des travaux visés au 4° du
+présent article.
+
+5° Le remboursement anticipé total d'un prêt conventionné à annuités progressives consenti avant le 31 décembre 1984 [*date
 limite*] dans le cadre des 1° et 3° du présent article.
 
 **Liens relatifs à cet article**
@@ -44732,42 +44758,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°91-1111 1991-10-25 art. 1 I, II JORF 26 octobre 1991
-  - Décret n°91-1111 du 25 octobre 1991 - art. 1 () JORF 26 octobre 1991
-
 **Liens**:
 
   - TXT_SOURCE: Arrêté du 8 mars 1985
-  - TXT_ASSOCIE: Code de la construction R331-63 A Code de la construction R331-77
-
-
-###### Article R331-64
-
-Les occupants des logements faisant l'objet des prêts conventionnés ont droit à l'aide personnalisée au logement dans les
-conditions prévues par les titres, préliminaires et III à V du présent livre (1ère et 2ème partie), sauf lorsque ces prêts
-financent les travaux visés à l'article R. 331-63 (4°) ou lorsqu'en application de l'article R. 331-67 l'octroi des prêts n'a
-pas été précédé de la passation d'une convention régie par le titre V, chapitre III, du présent livre (1ère partie).
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Modifié par_:
 
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation R331-63 4
-  - Code de la construction et de l'habitation. - art. R331-67 (M)
+  - Décret n°1993-03-18 art. 2 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
 ##### Sous-section 1 : Conditions d'octroi.<a id=396></a>
@@ -44927,7 +44924,7 @@ des normes minimales de surface, les opérations d'agrandissement de logements e
 doivent conduire à une création de surface habitable minimale fixée par arrêté du ministre chargé de la construction et de
 l'habitation.
 
-Dans le cas des opérations prévues à l'article R. 331-63 (2° et 3°), les travaux d'amélioration doivent avoir pour effet de
+Dans le cas des opérations prévues au 3° de l'article R. 331-63, les travaux d'amélioration doivent avoir pour effet de
 mettre en conformité à des normes minimales d'habitabilité des logements qui ne le sont pas.
 
 Les opérations visées à l'article R. 331-63 (3°) portant sur des immeubles chevés depuis plus de vingt ans font l'objet d'un
@@ -44950,13 +44947,13 @@ _Cité par_:
   - Arrêté du 4 octobre 2001 - art. 7 (V)
   - Code de la construction et de l'habitation. - art. R318-3 (Ab)
 
-_Modifié par_:
-
-  - Décret n°91-1111 du 25 octobre 1991 - art. 5 () JORF 26 octobre 1991
-
 _Cite_:
 
   - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+_Modifié par_:
+
+  - Décret n°1993-03-18 art. 6 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
 ###### Article R331-70
@@ -45000,10 +44997,6 @@ _Cite_:
 Les prêts conventionnés peuvent atteindre au maximum 90 p. 100 du prix de vente ou, le cas échéant, du prix de revient de
 l'opération.
 
-Toutefois, dans le cas des opérations prévues à l'article R. 331-63, 2, le montant des travaux pris en compte pour le calcul
-du prêt ne peut excéder un plafond fixé par arrêté conjoint des ministres chargés des finances et de la construction et de
-l'habitation.
-
 Dans le cadre des opérations visées à l'article R. 331-63 5°, les prêts conventionnés peuvent atteindre l'intégralité des
 sommes dues au titre du remboursement anticipé.
 
@@ -45021,17 +45014,13 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Décret n°87-1112 du 24 décembre 1987 - art. 1 () JORF 31 décembre 1987 en vigueur le 1er janvier 1988
-
-**Liens**:
-
-  - SPEC_APPLI: Décret n°87-1112 du 24 décembre 1987 - art. 3 (V)
-
 _Cite_:
 
-  - Code de la construction et de l'habitation R331-63 2° et 5°
+  - Code de la construction et de l'habitation. - art. R331-63 (M)
+
+_Modifié par_:
+
+  - Décret n°1993-03-18 art. 7 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
 ###### Article R331-72
@@ -45183,17 +45172,13 @@ Les prêts sont amortissables [*durée amortissement*] :
 
 En dix ans au minimum et vingt-cinq ans au maximum pour les opérations prévues à l'article R. 331-63 1°, 3° et 5°;
 
-En cinq ans au minimum et quinze ans au maximum pour les opérations prévues à l'article R. 331-63 (2°, 4°).
+En cinq ans au minimum et quinze ans au maximum pour les opérations prévues au 4° de l'article R. 331-63.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Décret n°91-1111 du 25 octobre 1991 - art. 6 () JORF 26 octobre 1991
 
 _Cite_:
 
@@ -45202,6 +45187,10 @@ _Cite_:
 _Cité par_:
 
   - Code de la construction et de l'habitation. - art. R331-73 (V)
+
+_Modifié par_:
+
+  - Décret n°1993-03-18 art. 9 JORF 19 mars 1993 en vigueur le 1er juillet 1993
 
 
 ##### Sous-section 3 : Départements d'outre-mer.<a id=398></a>
