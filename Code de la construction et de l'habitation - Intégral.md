@@ -1,8 +1,8 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-12-23
+Version Consolidée au 1998-12-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
-    - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
+    - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
       - [Titre Ier : Construction des bâtiments. (art. L111-1 à L112-16)](#3)
         - [Chapitre Ier : Règles générales. (art. L111-1 à L111-41)](#4)
           - [Section 1 : Dispositions applicables à tous bâtiments. (art. L111-1 à L111-3)](#5)
@@ -43,8 +43,8 @@ Version Consolidée au 1998-12-23
       - [Titre V : Contrôle et sanctions pénales. (art. L151-1 à L152-11)](#40)
         - [Chapitre Ier : Mesures de contrôle applicables à toutes les catégories de bâtiments. (art. L151-1)](#41)
         - [Chapitre II : Sanctions pénales. (art. L152-1 à L152-11)](#42)
-      - [Titre VI : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre et Miquelon. (art. L161-1)](#43)
-        - [Chapitre unique. (art. L161-1)](#44)
+      - [Titre VI : Dispositions particulières aux départements d'outre-mer et à la collectivité territoriale de Saint-Pierre et Miquelon. (art. L161-1 à L161-2)](#43)
+        - [Chapitre unique. (art. L161-1 à L161-2)](#44)
     - [Livre II : Statut des constructeurs. (art. L210-1 à L281-1)](#45)
       - [Titre Ier : Statut des sociétés de construction. (art. L210-1 à L214-9)](#46)
         - [Chapitre Ier : Sociétés civiles constituées en vue de la vente d'immeubles. (art. L211-1 à L211-4)](#47)
@@ -3268,38 +3268,54 @@ _Cite_:
 
 ###### Article L161-1
 
-Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon, à l'exception des articles
-L. 111-5, L. 111-6, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L. 124-1, L. 131-1 à L. 131-6.
+Un décret en Conseil d'Etat détermine, en tant que de besoin, les adaptations nécessaires à la mise en oeuvre dans les
+départements d'outre-mer du titre Ier, chapitre Ier, sections IV et V, et du titre III, chapitre Ier, du présent livre.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Ordonnance 77-1100 1977-09-26 ART. 11 (rappel)
-  - Ordonnance 77-1106 1977-09-26 ART. 4 (rappel)
-  - Ordonnance 77-1102 1977-09-26 ART. 20 (rappel)
-  - Ordonnance 77-1099 1977-09-26 ART. 9 (rappel)
-  - Ordonnance 77-1103 1977-09-26 ART. 1 (rappel)
-  - Loi n°78-12 1978-01-04 (rappel)
-  - Code de la construction et de l'habitation L111-9 A L111-41
-  - Code de la construction et de l'habitation. - art. L111-5 (M)
-  - Code de la construction et de l'habitation. - art. L111-6 (M)
-  - Code de la construction et de l'habitation. - art. L112-10 (V)
-  - Code de la construction et de l'habitation. - art. L112-11 (V)
-  - Code de la construction et de l'habitation. - art. L112-15 (V)
-  - Code de la construction et de l'habitation. - art. L112-8 (V)
-  - Code de la construction et de l'habitation. - art. L112-9 (V)
-  - Code de la construction et de l'habitation. - art. L124-1 (V)
-  - Code de la construction et de l'habitation. - art. L131-1 (M)
-  - Code de la construction et de l'habitation. - art. L131-2 (M)
-  - Code de la construction et de l'habitation. - art. L131-3 (M)
-  - Code de la construction et de l'habitation. - art. L131-4 (M)
-  - Code de la construction et de l'habitation. - art. L131-5 (M)
-  - Code de la construction et de l'habitation. - art. L131-6 (M)
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Ordonnance n°98-521 du 24 juin 1998 - art. 1 () JORF 27 juin 1998 en vigueur le 27 décembre 1998
+
+
+###### Article L161-2
+
+Les dispositions du présent livre ne s'appliquent pas à la collectivité territoriale de Saint-Pierre-et-Miquelon à
+l'exception des articles L. 111-5, L. 111-6, L. 111-7 à L. 111-8-3, L. 111-9 à L. 111-41, L. 112-8 à L. 112-11, L. 112-15, L.
+124-1, L. 125-1, L. 125-2, L. 131-1 à L. 131-6 sous réserve des adaptations suivantes :
+
+- aux articles L. 111-8 et L. 111-8-2, les références au code de l'urbanisme sont supprimées et les mots : "permis de
+construire" sont remplacés par les mots : "autorisation de construire" ;
+
+- à l'article L. 118-8-2, les mots : "ladite autorisation" sont remplacés par les mots : "cette dernière autorisation" ;
+
+- à l'article L. 125-2, la date de mise en conformité des installations est fixée au 31 décembre 2001.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Créé par_:
+
+  - Ordonnance n°98-521 du 24 juin 1998 - art. 1 () JORF 27 juin 1998 en vigueur le 27 décembre 1998
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L111-5, L111-6, L111-7 à L111-8-3, L111-9 à L111-41, L112-8 à L112-11, L112-15, L124-1, L125-1, L125-2, L131-1 à L131-6, L111-8, L111-8-2, L118-8-2
+  - Code de la construction et de l'habitation. - art. L111-5 (M)
+  - Code de la construction et de l'habitation. - art. L111-6 (M)
+  - Code de la construction et de l'habitation. - art. L111-8 (MMN)
+  - Code de la construction et de l'habitation. - art. L111-8-2 (M)
+  - Code de la construction et de l'habitation. - art. L112-15 (V)
+  - Code de la construction et de l'habitation. - art. L124-1 (V)
+  - Code de la construction et de l'habitation. - art. L125-1 (M)
+  - Code de la construction et de l'habitation. - art. L125-2 (MMN)
 
 
 ## Livre II : Statut des constructeurs.<a id=45></a>
@@ -21578,7 +21594,11 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Ordonnance n°98-521 du 24 juin 1998 - art. 2 () JORF 27 juin 1998 en vigueur le 27 décembre 1998
 
 _Cité par_:
 
@@ -21587,17 +21607,27 @@ _Cité par_:
 
 ###### Article L531-2
 
-Les dispositions du présent livre ne s'appliquent pas au département de Saint-Pierre-et-Miquelon.
+Les dispositions du présent livre ne s'appliquent pas à la collectivité territoriale de Saint-Pierre-et-Miquelon à
+l'exception du titre Ier, sous réserve des adaptations suivantes :
+
+au premier alinéa de l'article L. 511-3 les mots: <<du d'instance="" tribunal="">> sont remplacés par les mots: <<du de=""
+première="" tribunal="" instance="">>.
+
+</du></du>
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°76-664 1976-07-19 ART. 5 ET 8
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Modifié par_:
+
+  - Ordonnance n°98-521 du 24 juin 1998 - art. 2 () JORF 27 juin 1998 en vigueur le 27 décembre 1998
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L511-3 (M)
 
 
 ## Livre VI : Mesures tendant à remédier à des difficultés exceptionnelles de logement.<a id=182></a>
