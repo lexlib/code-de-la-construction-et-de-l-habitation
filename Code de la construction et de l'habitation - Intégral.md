@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-01-06
+Version Consolidée au 1984-01-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -7111,19 +7111,17 @@ d'économie mixte dont l'objet principal est la construction et la vente d'immeu
 antérieurement au 1er janvier 1965, bénéficié de la garantie de l'Etat en ce qui concerne leurs engagements financiers, est
 obligatoirement assuré par un commissaire du Gouvernement.
 
+Les sociétés de crédit immobilier sont, en outre, soumises au contrôle de la commission bancaire.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°83-440 1983-06-02 ART. 3 PAR. II
-
 _Modifié par_:
 
-  - Loi n°83-440 du 2 juin 1983 - art. 3 () JORF 3 JUIN 1983
+  - Loi n°84-46 1984-01-24 art. 94 VII JORF 25 janvier 1984
 
 _Cité par_:
 
