@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-04-01
+Version Consolidée au 1984-04-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -37372,25 +37372,18 @@ _Modifié par_:
 
 ###### Article R331-54
 
-Les prêts sont accordés pour une durée maximum de vingt ans, non compris la durée du préfinancement prévue à l'article R.
-331-57.
+Les prêts sont consentis à taux fixes ou à taux révisables. Ils sont accordés pour une durée maximum de vingt ans, non
+compris la durée du préfinancement prévue à l'article R. 331-57.
 
-Jusqu'au 30 juin 1978, les taux d'intérêt de ces prêts sont de :
+Ils sont assortis d'un différé d'amortissement de deux ans.
 
-8,10 p. 100 pendant neuf ans ;
+A compter du 29 avril 1984, le nombre et la durée des périodes successives des prêts, les taux d'intérêt applicables à ces
+périodes et le rythme de la progressivité des charges en cours d'amortissement sont, nonobstant les dispositions de l'article
+R. 331-54-1, fixés par arrêté des ministres chargés de la construction et de l'habitation et des finances, en tenant compte
+du coût des ressources concourant à leur financement et du niveau de l'aide de l'Etat prévue à l'article R. 331-56.
 
-10,75 p. 100 pendant les années suivantes sauf pour les demandes de prêts déposées avant le 19 janvier 1978 pour lesquelles
-les taux ci-dessus sont 8 p. 100 et 10,70 p. 100.
-
-Ces prêts sont assortis d'un différé d'amortissement de deux ans. Pendant la période d'amortissement, les charges progressent
-au rythme de 3,50 p. 100 par an.
-
-Les caractéristiques des prêts seront révisées, le cas échéant, chaque année au 1er janvier, pour tenir compte de l'évolution
-constatée du coût des ressources du Crédit foncier de France et d'une modification éventuelle du niveau de l'aide de l'Etat
-prévue à l'article R. 331-56.
-
-Le remboursement anticipé, total ou partiel, du prêt est autorisé selon des modalités fixées par arrêté des ministres chargés
-de la construction et de l'habitation, et des finances.
+Le remboursement anticipé, total ou partiel du prêt, est autorisé selon des modalités fixées par arrêté des ministres chargés
+de la construction et de l'habitation et des finances.
 
 **Liens relatifs à cet article**
 
@@ -37400,7 +37393,7 @@ _Anciens textes_:
 
 _Codifié par_:
 
-  - Décret n°78-622 1978-05-31 JORF 8 juin 1978
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
 _Cité par_:
 
@@ -37414,8 +37407,49 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la construction et de l'habitation. - art. R331-54-1 (M)
   - Code de la construction et de l'habitation. - art. R331-56 (M)
   - Code de la construction et de l'habitation. - art. R331-57 (M)
+
+
+###### Article R331-54-1
+
+Lorsqu'ils sont consentis à taux révisables, les prêts sont soumis aux conditions suivantes :
+
+1° Les taux des périodes successives des prêts sont périodiquement révisés en fonction d'un indice tenant compte du coût des
+ressources concourant à leur financement ;
+
+2° La première révision des taux ne peut intervenir qu'à l'issue du différé d'amortissement ;
+
+3° La première annuité de la période d'amortissement ne peut être majorée du fait de la révision des taux ;
+
+4° Sans préjudice des dispositions du 3° qui précède, aucune annuité, à l'exception de la dernière, ne peut être au cours de
+la période d'amortissement, ni supérieure de plus de 8 p. 100, ni inférieure à l'annuité précédente.
+
+Un arrêté des ministres chargés de la construction et de l'habitation et des finances définit les conditions d'application du
+présent article.
+
+**Liens relatifs à cet article**
+
+_Anciens textes_:
+
+  - Décret n°77-944 1977-07-27 ART. 23 (Décret 78-48 1978-01-12 ART. 1ET 3)
+
+_Cité par_:
+
+  - Arrêté du 29 juillet 1977 - art. 11 (V)
+  - Arrêté du 29 juillet 1977 - art. 9 (V)
+  - Code de la construction et de l'habitation. - art. R331-54 (T)
+  - Code de la construction et de l'habitation. - art. R331-54-1 bis (T)
+  - Code de la construction et de l'habitation. - art. R351-16 bis (V)
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. D331-54-1, v. 0.1 (VD)
 
 
 ###### Article R331-55
@@ -37997,7 +38031,9 @@ _Nouveaux textes_:
 
 Les occupants des logements faisant l'objet des prêts conventionnés ont droit à l'aide personnalisée au logement dans les
 conditions prévues par les titres, préliminaires et III à V du présent livre (1ère et 2ème partie), sauf lorsque ces prêts
-financent les travaux visés à l'article R. 331-63 (4° et 5°).
+financent les travaux visés à l'article R. 331-63 (4° et 5°) ou lorsqu'en application de l'article R. 331-67 l'octroi des
+prêts n'a pas été précédé de la passation d'une convention régie par le titre V, chapitre III, du présent livre (1ère
+partie).
 
 **Liens relatifs à cet article**
 
@@ -38011,15 +38047,16 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°82-495 1982-06-10 ART. 2 JORF 12 JUIN 1982
+  - Décret n°84-317 1984-04-27 ART. 1 JORF 29 AVRIL 1984
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R331-63 4° 5°
+  - Code de la construction et de l'habitation. - art. R331-67 (M)
 
 _Nouveaux textes_:
 
   - Code de la construction et de l'habitation. - art. D331-64, v. 0.2 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 
 ##### Sous-section 1 : Conditions d'octroi.<a id=361></a>
@@ -38127,11 +38164,8 @@ _Cite_:
 ###### Article R331-67
 
 Les établissements prêteurs ont la faculté de consentir également ces prêts aux personnes physiques ou morales qui destinent
-un ou des logements à la location et qui passent au préalable une convention régie par le titre V, chapitre III, du présent
-livre (première partie) portant sur l'ensemble des immeubles ainsi financés.
-
-Toutefois l'octroi des prêts destinés au financement des travaux mentionnés aux 4° et 5° de l'article R. 331-63 n'est pas
-subordonné à la passation de la convention prévue à l'alinéa précédent.
+un ou des logements à la location. L'octroi de ces prêts n'est pas subordonné à la passation d'une convention régie par le
+titre V, chapitre III, du présent livre (1ère partie).
 
 **Liens relatifs à cet article**
 
@@ -38145,7 +38179,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°82-696 1982-08-04 ART. 1 JORF 6 AOUT 1982
+  - Décret n°84-317 1984-04-27 ART. 2 JORF 29 AVRIL 1984
 
 _Cité par_:
 
@@ -38159,10 +38193,6 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R331-68 (Ab)
   - Code de la construction et de l'habitation. - art. R331-77 (T)
   - Code de la construction et de l'habitation. - art. R353-126 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation. - art. R331-63 (M)
 
 
 ###### Article R331-68
