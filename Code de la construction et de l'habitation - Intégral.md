@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1998-12-27
+Version Consolidée au 1998-12-31
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -18739,7 +18739,8 @@ sont exigibles en contrepartie :
 - des dépenses d'entretien courant et des menues réparations sur les éléments d'usage commun de la chose louée, qui ne sont
 pas la conséquence d'une erreur de conception ou d'un vice de réalisation ;
 
-- du droit de bail et des impositions qui correspondent à des services dont le locataire profite directement.
+- de la contribution annuelle représentative du droit de bail et des impositions qui correspondent à des services dont le
+locataire profite directement.
 
 La liste de ces charges est fixée par décret en Conseil d'Etat.
 
@@ -18748,10 +18749,6 @@ La liste de ces charges est fixée par décret en Conseil d'Etat.
 _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
-
-_Modifié par_:
-
-  - Loi n°83-440 1983-06-02 Art. 2 2° JORF 3 JUIN 1983
 
 _Cité par_:
 
@@ -18765,6 +18762,10 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. L353-15 (V)
   - Code de la construction et de l'habitation. - art. L442-8-4 (V)
   - Code de la construction et de l'habitation. - art. L472-3 (VD)
+
+_Modifié par_:
+
+  - Loi - art. 12 (V) JORF 31 décembre 1998
 
 
 ###### Article L442-4
