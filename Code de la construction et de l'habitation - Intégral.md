@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1984-01-31
+Version Consolidée au 1984-03-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L152-4)](#2)
@@ -457,7 +457,7 @@ Version Consolidée au 1984-01-31
           - [Section 3 : Offices publics d'habitations à loyer modéré à compétence étendue. (art. R*421-81)](#454)
         - [Chapitre II : Organismes privés d'habitations à loyer modéré. (art. R*422-1 à R422-42)](#455)
           - [Section 2 : Sociétés anonymes d'habitations à loyer modéré. (art. R*422-1 à R*422-5)](#456)
-          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-7 à R*422-9)](#457)
+          - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-7 à R422-7-4)](#457)
           - [Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré. (art. R*422-6)](#458)
           - [Section 4 : Sociétés anonymes de crédit immobilier. (art. R*422-10 à R*422-15)](#459)
           - [Section 6 : Dispositions transitoires relatives aux sociétés anonymes coopératives d'habitations à loyer modéré de location-attribution (art. R*422-18 à R422-36)](#460)
@@ -46323,6 +46323,81 @@ _Cite_:
 _Modifié par_:
 
   - Loi n°83-754 1983-08-05 ART. 2 JORF 17 AOUT 1983
+
+
+###### Article R422-7-1
+
+Outre les opérations prévues à l'article R. 422-7, les sociétés anonymes coopératives de production d'habitations à loyer
+modéré peuvent être autorisées à réaliser les opérations prévues par les articles L. 422-3-1 et L. 422-3-2 dans les
+conditions définies par les articles R. 422-7-2 et R. 422-7-3 [*attributions*].
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°93-749 du 27 mars 1993 - art. 2 () JORF 30 mars 1993
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R422-7, L422-3-1, L422-3-2, R422-7-2, R422-7-3
+  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
+  - Code de la construction et de l'habitation. - art. R422-7-2 (M)
+  - Code de la construction et de l'habitation. - art. R422-7-3 (Ab)
+
+
+###### Article R422-7-3
+
+L'autorisation prévue à l'article L. 422-3-2 intervient après avis du conseil supérieur des habitations à loyer modéré.
+
+Le contrôle visé à l'article L. 422-3-2 doit porter au moins sur les gestions technique et financière de l'avant-dernière
+année sociale précédant l'année de la réception, par le préfet du département, de la demande d'extension de compétence si
+celle-ci est parvenue avant le premier juillet de ladite année, ou sur celles de la dernière année si elle a été reçue après
+cette date.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Abrogé par_:
+
+  - Décret n°2004-1087 du 14 octobre 2004 - art. 4 () JORF 15 octobre 2004
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R422-7-1 (Ab)
+
+
+###### Article R422-7-4
+
+Les autorisations visées aux articles L. 422-3-1 et L. 422-3-2 peuvent être retirées si, à l'occasion du contrôle [*de
+l'administration*] prévu aux articles L. 451-1 et R. 451-2, il est constaté que la société bénéficiaire n'est plus en mesure,
+du point de vue technique ou financier, d'assurer sa mission de façon satisfaisante. Ce retrait est prononcé après que la
+société a été invitée à présenter ses observations et selon la même procédure que celle qui a été utilisée pour accorder
+l'autorisation.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L422-3-1 (Ab)
+  - Code de la construction et de l'habitation. - art. L422-3-2 (M)
+  - Code de la construction et de l'habitation. - art. L451-1 (M)
+  - Code de la construction et de l'habitation. - art. R451-2 (M)
 
 
 ##### Section 3 : Sociétés anonymes coopératives de production d'habitations à loyer modéré.<a id=458></a>
