@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 1994-07-26
+Version Consolidée au 1994-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L661-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-1)](#2)
@@ -17655,6 +17655,15 @@ construction de logements locatifs conventionnés, à des travaux destinés à a
 déterminé d'habitations locatives conventionnées, ou à des acquisitions de logements devant être conventionnés, en vue d'un
 usage locatif.
 
+Les dispositions de la présente section, à l'exception de celles de l'article L. 443-14, sont également applicables, dans les
+départements d'outre-mer, à la vente des logements locatifs sociaux des sociétés d'économie mixte construits, acquis ou
+améliorés à l'aide de prêts aidés par l'Etat. Toutefois, lorsqu'une société d'économie mixte met en vente un logement social
+vacant, elle doit l'offrir en priorité à l'ensemble des locataires de son patrimoine social dans le département par voie de
+la publicité prévue au deuxième alinéa de l'article L. 443-11. En outre, le surplus des sommes perçues par la société
+d'économie mixte, au sens du quatrième alinéa de l'article L. 443-13, est affecté en priorité au financement de programmes
+nouveaux de construction de logements locatifs sociaux, à des travaux destinés à améliorer de façon substantielle un ensemble
+déterminé d'habitations locatives sociales ou à des acquisitions de logements en vue d'un usage locatif social.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -17667,7 +17676,8 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°94-624 du 21 juillet 1994 - art. 9 () JORF 2 juillet 1994
+  - Loi n°94-638 du 25 juillet 1994 - art. 39 () JORF 27 juillet 1994
+  - Loi n°94-638 du 25 juillet 1994 - art. 9 () JORF 27 juillet 1994
 
 _Cité par_:
 
@@ -17677,6 +17687,7 @@ _Cité par_:
 
 _Cite_:
 
+  - Code de la construction et de l'habitation. - art. L351-2 (M)
   - Code de la construction et de l'habitation. - art. L443-11 (M)
   - Code de la construction et de l'habitation. - art. L443-13 (M)
   - Code de la construction et de l'habitation. - art. L443-14 (M)
@@ -18275,6 +18286,47 @@ _Cité par_:
   - TXT_SOURCE: Arrêté du 13 mars 1986 - art. 9 (Ab)
   - TXT_SOURCE: Arrêté du 13 mars 1986 - art. annexe 1 (Ab)
   - SPEC_APPLI: Code de la construction L472-2
+
+
+###### Article L472-1-2
+
+Les sociétés d'économie mixte constituées dans les départements d'outre-mer en application de la loi n° 46-860 du 30 avril
+1946 et les sociétés d'économie mixte locales peuvent exiger des locataires dont les ressources dépassent les plafonds fixés
+pour l'attribution du logement qu'ils occupent le paiement d'un supplément en sus du loyer principal et des charges
+locatives. Le montant de ce supplément est déterminé selon un barème qu'elles établissent par immeuble ou groupe d'immeubles
+en fonction de l'importance du dépassement constaté, du loyer acquitté ainsi que du nombre et de l'âge des personnes vivant
+au foyer. A défaut d'opposition motivée du représentant de l'Etat dans le département dans le délai d'un mois après qu'il lui
+a été notifié, ce barème est exécutoire.
+
+Ce supplément peut être demandé, dès la date d'entrée en vigueur de la loi n° 94-638 du 25 juillet 1994 tendant à favoriser
+l'emploi, l'insertion et les activités économiques dans les départements d'outre-mer, à Saint-Pierre-et-Miquelon et à
+Mayotte, aux titulaires de baux en cours ou aux bénéficiaires du droit au maintien dans les lieux.
+
+**Liens relatifs à cet article**
+
+_Cite_:
+
+  - Loi n°46-860 1946-04-30
+  - Loi n°94-638 1994-07-25
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
+
+_Cité par_:
+
+  - Décret n°93-236 du 22 février 1993 - art. 3 (VT)
+  - Arrêté du 24 juin 2011 - art. (V)
+  - Arrêté du 28 novembre 2011 - art. 1 (V)
+  - Arrêté du 4 janvier 2012 - art. (V)
+  - Arrêté du 11 février 2013 - art. Annexe (V)
+  - Arrêté du 8 mars 2016 (V)
+  - Arrêté du 8 mars 2016 - art. 1 (V)
+  - Code de la construction et de l'habitation. - art. L472-1-4 (V)
+
+_Créé par_:
+
+  - Loi n°94-638 du 25 juillet 1994 - art. 40 () JORF 27 juillet 1994
 
 
 ###### Article L472-2
@@ -20462,16 +20514,13 @@ _Cité par_:
 ###### Article L661-1
 
 Les dispositions du présent livre ne s'appliquent pas aux départements de la Guadeloupe, de la Guyane, de la Martinique et de
-la Réunion, à l'exception du titre Ier, chapitres III et IV, et du titre II, chapitre II.
+la Réunion, à l'exception du titre Ier, chapitres III et IV, et du titre II, chapitre II. Les dispositions des articles L.
+631-7 à L. 631-9, L. 651-1, L. 651-2 et L. 651-4 sont toutefois applicables dans ces départements. Elles ont un caractère
+d'ordre public.
 
 Elles ne s'appliquent pas au département de Saint-Pierre-et-Miquelon, à l'exception de l'article L. 613-3.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Loi n°46-451 1946-03-19 ART. 2 ET 3
-  - Loi n°76-664 1976-07-19 ART. 5 ET 8
 
 _Codifié par_:
 
@@ -20479,7 +20528,15 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°80-1 1980-01-04 ART. 4 JORF 5 JANVIER 1980
+  - Loi n°94-638 du 25 juillet 1994 - art. 41 () JORF 27 juillet 1994
+
+_Cite_:
+
+  - Code de la construction et de l'habitation L631-7 à L631-9, L651-1, L651-2, L651-4, L613-3
+  - Code de la construction et de l'habitation. - art. L613-3 (M)
+  - Code de la construction et de l'habitation. - art. L651-1 (M)
+  - Code de la construction et de l'habitation. - art. L651-2 (M)
+  - Code de la construction et de l'habitation. - art. L651-4 (M)
 
 
 ###### Article L661-2
