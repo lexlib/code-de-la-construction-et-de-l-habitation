@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-05-10
+Version Consolidée au 2005-05-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -14116,20 +14116,18 @@ _Cite_:
 
 ###### Article L315-3
 
-Les dépôts d'épargne-logement sont reçus par la caisse nationale d'épargne et les caisses d'épargne ordinaires ainsi que dans
-les banques et organismes de crédit qui s'engagent par convention avec l'Etat à appliquer les règles fixées pour le
-fonctionnement de l'épargne-logement.
+Les dépôts d'épargne-logement sont reçus par les caisses d'épargne ordinaires ainsi que dans les banques et organismes de
+crédit qui s'engagent par convention avec l'Etat à appliquer les règles fixées pour le fonctionnement de l'épargne-logement.
 
 **Nota:**
 
-NOTA : Loi 2005-516 2005-05-20 art. 16 V :
+Loi 2005-516 2005-05-20 art. 16 V : 
 
-1 - Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du
-2 juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par
-ces dispositions.
+1-Jusqu'à leur échéance, les investissements réalisés conformément aux dispositions de l'article 15 de la loi n° 90-568 du 2
+juillet 1990 précitée dans sa rédaction en vigueur jusqu'à la date de publication de la présente loi demeurent régis par ces
+dispositions. 
 
-2 - Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II (Transfert publié par le décret n°
-2005-1068 du 30 août 2005, publié au Journal officiel du 31 août 2005.
+2-Les dispositions des I à IV entrent en vigueur à la date du transfert prévu au 1 du II.
 
 **Liens relatifs à cet article**
 
@@ -14141,10 +14139,6 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 JUIN 1978
 
-_Modifié par_:
-
-  - Loi n°83-440 du 2 juin 1983 - art. 11 () JORF 3 JUIN 1983
-
 _Cité par_:
 
   - Ordonnance n°98-521 du 24 juin 1998 - art. 3 (Ab)
@@ -14152,7 +14146,12 @@ _Cité par_:
 
 **Liens**:
 
+  - SPEC_APPLI: Loi n°2005-516 2005-05-20 art. 16 V : date d'entrée en vigueur indéterminée
   - PILOTE_SUIVEUR: Code monétaire et financier - art. L221-29 (V)
+
+_Modifié par_:
+
+  - Loi n°2005-516 du 20 mai 2005 - art. 16 () JORF 21 mai 2005
 
 
 ###### Article L315-4
