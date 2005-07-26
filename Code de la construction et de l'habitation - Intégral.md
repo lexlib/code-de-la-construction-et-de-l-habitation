@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-07-14
+Version Consolidée au 2005-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -12761,6 +12761,10 @@ e) D'aides à des organismes agréés d'information du public sur le logement.
 
 f) De subventions à l'Agence nationale pour la rénovation urbaine.
 
+g) De compensations versées aux entreprises d'assurance de dommages qui proposent la souscription de contrats d'assurance
+contre le risque de loyers impayés respectant un cahier des charges social établi par l'Union d'économie sociale du logement
+et approuvé par décret.
+
 Ces dispositions sont applicables aux établissements publics ayant un caractère industriel ou commercial, ainsi qu'aux
 organismes de l'Etat, des collectivités locales et de leurs établissements publics ayant le même caractère.
 
@@ -12781,14 +12785,10 @@ alinéa bénéficient de cette dispense jusqu'au 31 décembre 1999.
 Les dispositions de l'alinéa précédent ne sont pas applicables lorsque l'accroissement de l'effectif résulte de la reprise ou
 de l'absorption d'une entreprise ayant employé dix salariés ou plus au cours de l'une des trois années précédentes.
 
-Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dès l'année
+Dans ce cas, l'obligation visée au premier alinéa du présent article est due dans les conditions de droit commun dés l'année
 au cours de laquelle l'effectif de dix salariés est atteint ou dépassé.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - CGI 231
 
 _Cité par_:
 
@@ -12896,9 +12896,13 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
+_Cite_:
+
+  - CGI 231
+
 _Modifié par_:
 
-  - Loi n°2003-710 du 1 août 2003 - art. 13 () JORF 2 août 2003
+  - Loi n°2005-841 du 26 juillet 2005 - art. 32 () JORF 27 juillet 2005
 
 _Anciens textes_:
 
@@ -13907,6 +13911,9 @@ logement des salariés et d'améliorer la gestion des associés collecteurs ;
 des aides prévues au b de l'article L. 313-1 au bénéfice des emprunteurs ayant souscrit des prêts garantis par le fonds de
 garantie de l'accession sociale à la propriété mentionné au troisième alinéa de l'article L. 312-1 ;
 
+2° ter Assure, dans des conditions fixées par convention avec l'Etat, le financement des aides prévues au g de l'article L.
+313-1 ;
+
 3° Elabore, dans l'intérêt commun, des recommandations aux associés aux fins mentionnées au 2°. Ces recommandations ne
 peuvent déroger aux conventions ci-dessus mentionnées ;
 
@@ -14028,8 +14035,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 103 () JORF 19 janvier 2005
-  - Loi n°2005-32 du 18 janvier 2005 - art. 104 () JORF 19 janvier 2005
+  - Loi n°2005-841 du 26 juillet 2005 - art. 32 () JORF 27 juillet 2005
 
 _Cite_:
 
@@ -29419,6 +29425,9 @@ Toute personne qui loue un logement meublé, que la location s'accompagne ou non
 contrat établi par écrit d'une durée d'un an dès lors que le logement loué constitue sa résidence principale. A l'expiration
 de ce contrat, le bail est tacitement reconduit pour un an sous réserve des dispositions suivantes.
 
+Lorsque la location est consentie à un étudiant, la durée du bail peut être réduite à neuf mois. Dans ce cas, la clause de
+reconduction tacite prévue au premier alinéa est inapplicable.
+
 Le bailleur qui souhaite, à l'expiration du contrat, en modifier les conditions doit informer le locataire avec un préavis de
 trois mois. Si le locataire accepte les nouvelles conditions, le contrat est renouvelé pour un an.
 
@@ -29441,7 +29450,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2005-32 du 18 janvier 2005 - art. 115 () JORF 19 janvier 2005
+  - Loi n°2005-841 du 26 juillet 2005 - art. 33 () JORF 27 juillet 2005
 
 _Cité par_:
 
