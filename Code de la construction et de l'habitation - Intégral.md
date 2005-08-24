@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-08-03
+Version Consolidée au 2005-08-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -33339,13 +33339,13 @@ _Cite_:
 Sont soumises obligatoirement au contrôle technique prévu à l'article L. 111-23 les opérations de construction ayant pour
 objet la réalisation:
 
-1. D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1re, 2e, 3e et 4e catégories visées à
+1° D'établissements recevant du public, au sens de l'article R. 123-2, classés dans les 1re, 2e, 3e et 4e catégories visées à
 l'article R. 123-19 ;
 
-2. D'immeubles dont le plancher bas du dernier niveau est situé à plus de 28 mètres par rapport au niveau du sol le plus haut
+2° D'immeubles dont le plancher bas du dernier niveau est situé à plus de 28 mètres par rapport au niveau du sol le plus haut
 utilisable par les engins des services publics de secours et de lutte contre l'incendie ;
 
-3. De bâtiments, autres qu'à usage industriel :
+3° De bâtiments, autres qu'à usage industriel :
 
 Comportant des éléments en porte à faux de portée supérieure à 20 mètres ou des poutres ou arcs de portée supérieure à 40
 mètres, ou
@@ -33354,7 +33354,19 @@ Comportant, par rapport au sol naturel, des parties enterrées de profondeur sup
 profondeur supérieure à 30 mètres, ou
 
 Nécessitant des reprises en sous-oeuvre ou des travaux de soutènement d'ouvrages voisins, sur une hauteur supérieure à 5
-mètres.
+mètres ;
+
+4° Lorsqu'ils sont situés dans les zones de sismicité II et III délimitées par l'annexe au décret n° 91-461 du 14 mai 1991,
+des immeubles dont le plancher bas du dernier niveau est situé à plus de 8 mètres par rapport au niveau du sol ;
+
+5° Lorsqu'ils sont situés dans les zones de sismicité I a, I b, II et III délimitées par l'annexe au décret n° 91-461 du 14
+mai 1991, des bâtiments appartenant à la classe C au sens dudit décret et des établissements de santé, lorsqu'ils n'y sont
+pas déjà soumis au titre d'une autre disposition du présent article.
+
+**Nota:**
+
+NOTA : Décret n° 2005-1005, art. 2 : "Les dispositions du présent décret sont applicables aux bâtiments faisant l'objet d'une
+demande de permis de construire déposée à compter du premier jour du septième mois suivant sa publication."
 
 **Liens relatifs à cet article**
 
@@ -33362,9 +33374,15 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
+_Cite_:
+
+  - Décret n°91-461 1991-05-14 annexe
+  - Code de la construction et de l'habitation L111-23, R123-2, R123-19
+  - Code de la construction et de l'habitation. - art. L111-23 (M)
+
 _Modifié par_:
 
-  - Décret n°2002-244 du 20 février 2002 - art. 1 () JORF 23 février 2002
+  - Décret n°2005-1005 du 23 août 2005 - art. 1 () JORF 25 août 2005
 
 _Cité par_:
 
@@ -33374,11 +33392,6 @@ _Cité par_:
   - Code de l'urbanisme - art. A462-4 Annexe (V)
   - Code de l'urbanisme - art. R431-16 (VT)
   - Code de l'urbanisme - art. R462-4 (V)
-
-_Cite_:
-
-  - Code de la construction et de l'habitation L111-23, R123-2, R123-19
-  - Code de la construction et de l'habitation. - art. L111-23 (M)
 
 
 ###### Article R*111-39
