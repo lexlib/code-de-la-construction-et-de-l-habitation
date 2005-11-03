@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-11-01
+Version Consolidée au 2005-11-04
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -408,10 +408,10 @@ Version Consolidée au 2005-11-01
             - [Sous-section 1 : Dispositions générales (art. R*321-4 à R321-3)](#405)
             - [Sous-section 2 : Organisation et fonctionnement de la commission d'amélioration de l'habitat (art. R*321-10 à R*321-11)](#406)
           - [Section 2 : Conditions d'attribution des aides (art. R*321-12 à R321-22)](#407)
-        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-21)](#408)
+        - [Chapitre III : Subventions de l'Etat. (art. R323-1 à R323-22)](#408)
           - [Section 1 : Subventions à l'amélioration des logements locatifs sociaux. (art. R323-1 à R323-12-1)](#409)
-          - [Section 2 : Dispositions relatives aux départements d'outre-mer. (art. R323-13 à R323-21)](#410)
-            - [Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer (art. R323-13 à R323-21)](#411)
+          - [Section 2 : Dispositions relatives aux départements d'outre-mer. (art. R323-13 à R323-22)](#410)
+            - [Sous-section unique : Subventions à l'amélioration des logements sociaux locatifs dans les départements d'outre-mer (art. R323-13 à R323-22)](#411)
         - [Chapitre V : Restauration immobilière. (art. R*325-1 à R*325-6)](#412)
       - [Titre III : Subventions et prêts pour la construction, l'acquisition et l'amélioration d'habitations donnant lieu à l'aide personnalisée au logement. (art. R331-1 à R331-84)](#413)
         - [Chapitre unique. (art. R331-1 à R331-84)](#414)
@@ -56846,6 +56846,43 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R323-30 (Ab)
 
 
+###### Article R323-22
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par la présente section
+concernant les logements et les immeubles situés dans le périmètre de la convention de délégation. Cette convention prévoit
+si l'instruction des demandes de subvention est assurée par la direction départementale de l'équipement en application de
+l'article 112 de la loi n° 2004-809 du 13 août 2004 relative aux libertés et responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 112
+  - Code de la construction et de l'habitation. - art. L301-5-1
+
+_Créé par_:
+
+  - Décret n°2005-1373 du 27 octobre 2005 - art. 1 () JORF 4 novembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
+_Nouveaux textes_:
+
+  - Code de la construction et de l'habitation. - art. D323-22, v. 0.1 (VD)
+
+_Cité par_:
+
+  - Code de la construction et de l'habitation. - art. R323-30 (Ab)
+
+
 #### Chapitre V : Restauration immobilière.<a id=412></a>
 
 ###### Article R*325-1
@@ -72573,6 +72610,41 @@ _Cité par_:
   - Code de la construction et de l'habitation. - art. R372-6 (T)
 
 
+###### Article R372-4-1
+
+Lorsqu'un établissement public de coopération intercommunale ou un département a conclu avec l'Etat une convention de
+délégation de compétence en application des articles L. 301-5-1 ou L. 301-5-2, son représentant est substitué au représentant
+de l'Etat dans le département pour prendre toutes les décisions relatives aux aides prévues par le présent chapitre
+concernant la réalisation de logements ou d'immeubles situés dans le périmètre de la convention de délégation. Cette
+convention prévoit si l'instruction des demandes de décision favorable mentionnée à l'article R. 372-4 est assurée par la
+direction départementale de l'équipement en application de l'article 112 de la loi n° 2004-809 du 13 août 2004 relative aux
+libertés et responsabilités locales ou par le délégataire.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
+
+_Cite_:
+
+  - Loi n°2004-809 du 13 août 2004 - art. 112
+  - Code de la construction et de l'habitation. - art. L301-5-1
+  - Code de la construction et de l'habitation. - art. R372-4
+
+_Créé par_:
+
+  - Décret n°2005-1373 du 27 octobre 2005 - art. 2 () JORF 4 novembre 2005
+
+_Cité par_:
+
+  - Décret n°2010-1315 du 2 novembre 2010 - art. 1 (Ab)
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
+
+
 ###### Article R372-5
 
 Pour pouvoir faire l'objet d'une décision favorable, les demandeurs de subventions et de prêts doivent s'engager à ce que,
@@ -72844,7 +72916,10 @@ _Nouveaux textes_:
 
 ###### Article R372-12
 
-La subvention est versée par l'Etat à l'organisme bénéficiaire dans les conditions suivantes :
+La subvention est versée par l'Etat ou, pour les logements et les immeubles situés dans le périmètre d'une convention de
+délégation de compétence signée en application des articles L. 301-5-1 et L. 301-5-2, par l'établissement public de
+coopération intercommunale délégataire ou le conseil général délégataire à l'organisme bénéficiaire dans les conditions
+suivantes :
 
 - un acompte peut, dans la limite de 30 % de son montant, être versé aux organismes bénéficiaires, après passation des
 marchés et sur constatation du commencement d'exécution des travaux ;
@@ -72863,13 +72938,18 @@ _Codifié par_:
 
   - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2001-201 du 2 mars 2001 - art. 1 () JORF 3 mars 2001
+  - Décret n°2005-1373 du 27 octobre 2005 - art. 3 () JORF 4 novembre 2005
+
+**Liens**:
+
+  - TRANSFERE: Décret n°2019-873 du 21 août 2019 - art. 5
 
 _Cite_:
 
-  - Code de la construction et de l'habitation. - art. R372-10 (V)
+  - Code de la construction et de l'habitation. - art. L301-5-1
+  - Code de la construction et de l'habitation. - art. R372-10 (T)
 
 
 ###### Article R372-13
