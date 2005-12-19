@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2005-12-16
+Version Consolidée au 2005-12-20
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -16843,11 +16843,19 @@ c) Des contributions des régimes de prestations familiales.
 
 La contribution annuelle de chaque régime de prestations familiales est égale au montant des prestations qui auraient été
 versées par eux au titre de l'allocation de logement familiale et de la prime de déménagement. Cette contribution peut être
-calculée au moyen de formules forfaitaires selon des modalités fixées par décret en Conseil d'Etat.
+calculée au moyen de formules forfaitaires selon des modalités fixées par décret en Conseil d'Etat ;
+
+d) Une fraction de 1,48 % du droit de consommation prévu à l'article 575 du code général des impôts ; cette fraction est
+perçue par l'Agence centrale des organismes de sécurité sociale et affectée au Fonds national d'aide au logement.
 
 L'Etat assure l'équilibre des recettes et des dépenses du fonds national d'aide au logement.
 
 **Liens relatifs à cet article**
+
+_Cite_:
+
+  - CGI 575
+  - Code de la sécurité sociale. - art. L834-1 (M)
 
 _Anciens textes_:
 
@@ -16859,11 +16867,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2005-655 du 8 juin 2005 - art. 10 () JORF 9 juin 2005
-
-_Cite_:
-
-  - Code de la sécurité sociale. - art. L834-1 (M)
+  - Loi n°2005-1579 du 19 décembre 2005 - art. 23 (V) JORF 20 décembre 2005
 
 _Cité par_:
 
@@ -17116,8 +17120,8 @@ _Cite_:
 ###### Article L351-13
 
 Quiconque se rend coupable de fraude ou de fausse déclaration pour obtenir, faire obtenir, ou tenter d'obtenir ou de faire
-obtenir l'aide personnalisée au logement est puni d'une amende de 4 500 euros pouvant être portée au double en cas de
-récidive. Le tribunal ordonne, en outre, le remboursement des sommes indûment versées.
+obtenir l'aide personnalisée au logement est puni de l'amende prévue à l'article L. 114-13 du code de la sécurité sociale. Le
+tribunal ordonne, en outre, le remboursement des sommes indûment versées.
 
 S'il s'agit d'un administrateur de biens, les peines applicables sont un emprisonnement de six mois et une amende de 18 000
 euros ou l'un de ces deux peines seulement. En cas de récidive, ces peines peuvent être portées au double.
@@ -17135,15 +17139,13 @@ _Codifié par_:
 
   - Décret n°78-621 1978-05-31 JORF 8 juin 1978
 
-**Liens**:
-
-  - SPEC_APPLI: Loi n°92-1336 1992-12-16 art. 373
-  - TXT_SOURCE: Règlement CE 1103/97 1997-06-17
-  - TXT_SOURCE: Règlement CE 974/98 1998-05-03
-
 _Modifié par_:
 
-  - Ordonnance n°2000-916 du 19 septembre 2000 - art. 3 (V) JORF 22 septembre 2000 en vigueur le 1er janvier 2002
+  - Loi n°2005-1579 du 19 décembre 2005 - art. 92 () JORF 20 décembre 2005
+
+_Cite_:
+
+  - Code de la sécurité sociale. - art. L114-13 (V)
 
 _Cité par_:
 
