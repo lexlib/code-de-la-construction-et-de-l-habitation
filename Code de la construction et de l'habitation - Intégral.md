@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-02-17
+Version Consolidée au 2006-03-23
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -38876,7 +38876,7 @@ propositions respectives :
 
 - du ministre chargé de l'architecture ;
 
-- du ministre chargé du budget ;
+- du ministre chargé de l'environnement ;
 
 - du ministre chargé de l'industrie ;
 
@@ -38907,7 +38907,7 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°84-843 1984-09-12 ART. 1 JORF 19 SEPTEMBRE 1984
+  - Décret n°2006-336 du 22 mars 2006 - art. 1 () JORF 23 mars 2006
 
 _Cité par_:
 
