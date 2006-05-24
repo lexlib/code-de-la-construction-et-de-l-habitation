@@ -1,5 +1,5 @@
 # Code de la construction et de l'habitation  
-Version Consolidée au 2006-05-20
+Version Consolidée au 2006-05-25
 ## Contenu: 
   - [Partie législative (art. L111-1 à L662-2)](#1)
     - [Livre Ier : Dispositions générales. (art. L111-1 à L161-2)](#2)
@@ -221,7 +221,7 @@ Version Consolidée au 2006-05-20
         - [Chapitre II : Dispositions relatives à la Polynésie française. (art. L662-1 à L662-2)](#218)
   - [Partie réglementaire (art. R*111-1 à R662-1)](#219)
     - [Livre Ier : Dispositions générales. (art. R*111-1 à R*161-2)](#220)
-      - [Titre Ier : Construction des bâtiments. (art. R*111-1 à R112-1)](#221)
+      - [Titre Ier : Construction des bâtiments. (art. R*111-1 à R112-4)](#221)
         - [Chapitre Ier : Règles générales. (art. R*111-1 à R*111-42)](#222)
           - [Section 2 : Dispositions générales applicables aux bâtiments d'habitation. (art. R*111-1 à R111-7)](#223)
           - [Section 3 : Personnes handicapées. (art. R*111-18 à R*111-19-20)](#224)
@@ -233,17 +233,17 @@ Version Consolidée au 2006-05-20
             - [Sous-section 6 : Délivrance de l'autorisation de travaux prévue à l'article L. 111-8-1. (art. R*111-19-13 à R*111-19-18)](#230)
             - [Sous-section 8 : Attestation prévue à l'article L. 111-7-4. (art. R*111-19-21 à R*111-19-24)](#231)
             - [Sous-section 7 : Délivrance de l'autorisation d'ouverture prévue à l'article L. 111-8-3. (art. R*111-19-19 à R*111-19-20)](#232)
-          - [Section 4 : Caractéristiques thermiques et performances énergétiques. (art. R111-20 à R*111-21)](#233)
+          - [Section 4 : Caractéristiques thermiques et performances énergétiques. (art. R111-20)](#233)
             - [Sous-section 1 : Caractéristiques thermiques. (art. R111-20)](#234)
-            - [Sous-section 2 : Performances énergétiques et énergies renouvelables. (art. R*111-21)](#235)
-          - [Section 5 : Caractéristiques acoustiques. (art. R111-23-1 à R111-23-3)](#236)
-          - [Section 6 : Responsabilité des constructeurs d'ouvrage. (art. R*111-24 à R*111-28)](#237)
-            - [Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979. (art. R*111-24 à R*111-28)](#238)
-          - [Section 7 : Contrôle technique. (art. R*111-29 à R*111-42)](#239)
-            - [Sous-section 1 : Agrément des contrôleurs techniques. (art. R*111-29 à R*111-37)](#240)
-            - [Sous-section 2 : Contrôle technique obligatoire. (art. R*111-38 à R*111-42)](#241)
-        - [Chapitre II : Dispositions spéciales. (art. R112-1)](#242)
-          - [Section 1 : Dispositions spéciales relatives à la prévention du risque sismique. (art. R112-1)](#243)
+          - [Section 5 : Caractéristiques acoustiques. (art. R111-23-1 à R111-23-3)](#235)
+          - [Section 6 : Responsabilité des constructeurs d'ouvrage. (art. R*111-24 à R*111-28)](#236)
+            - [Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979. (art. R*111-24 à R*111-28)](#237)
+          - [Section 7 : Contrôle technique. (art. R*111-29 à R*111-42)](#238)
+            - [Sous-section 1 : Agrément des contrôleurs techniques. (art. R*111-29 à R*111-37)](#239)
+            - [Sous-section 2 : Contrôle technique obligatoire. (art. R*111-38 à R*111-42)](#240)
+        - [Chapitre II : Dispositions spéciales. (art. R112-1 à R112-4)](#241)
+          - [Section 1 : Dispositions spéciales relatives à la prévention du risque sismique. (art. R112-1)](#242)
+          - [Section 2 : Protection contre les risques xylophages. (art. R112-2 à R112-4)](#243)
       - [Titre II : Sécurité et protection contre l'incendie. (art. R121-1 à R*129-3)](#244)
         - [Chapitre Ier : Protection contre l'incendie - Classification des matériaux. (art. R121-1 à R121-13)](#245)
         - [Chapitre II : Dispositions de sécurité relatives aux immeubles de grande hauteur. (art. R122-1 à R122-29)](#246)
@@ -33956,43 +33956,52 @@ _Cite_:
 
 ###### Article R111-20
 
-I. - Les bâtiments nouveaux et parties nouvelles de bâtiments doivent être construits et aménagés de telle sorte qu'ils
-respectent des caractéristiques thermiques minimales et les conditions suivantes :
+I. - Les bâtiments nouveaux et les parties nouvelles de bâtiments doivent être construits et aménagés de telle sorte qu'ils
+respectent des caractéristiques thermiques minimales ainsi que les conditions suivantes :
 
-- la consommation conventionnelle d'énergie d'un bâtiment pour le chauffage, la ventilation, la climatisation, la production
-d'eau chaude sanitaire et, pour certains types de bâtiments, l'éclairage des locaux, est inférieure ou égale à la
-consommation conventionnelle d'énergie de référence de ce bâtiment ;
+1° La consommation conventionnelle d'énergie d'un bâtiment pour le chauffage, la ventilation, la climatisation, la production
+d'eau chaude sanitaire et l'éclairage des locaux doit être inférieure ou égale à la consommation conventionnelle d'énergie de
+référence de ce bâtiment et, pour certains types de bâtiments, à une consommation maximale ;
 
-- dans le cas d'un bâtiment non climatisé, la température intérieure conventionnelle atteinte en été est inférieure ou égale
+2° Pour certains types de bâtiments, la température intérieure conventionnelle atteinte en été doit être inférieure ou égale
 à la température intérieure conventionnelle de référence.
 
-II. - Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction et de l'habitation fixe :
+II. - Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction et de l'habitation fixe, en fonction
+des catégories de bâtiments :
 
-1. Les caractéristiques thermiques minimales ;
+1° Les caractéristiques thermiques minimales ;
 
-2. La méthode de calcul de la consommation conventionnelle d'énergie d'un bâtiment ;
+2° La méthode de calcul de la consommation conventionnelle d'énergie d'un bâtiment ;
 
-3. Les bâtiments pour lesquels l'éclairage n'est pas pris en compte dans la consommation conventionnelle d'énergie ;
+3° Les bâtiments pour lesquels la consommation conventionnelle d'énergie ne doit pas être supérieure à une consommation
+maximale ;
 
-4. La méthode de calcul de la température intérieure conventionnelle atteinte en été dans un bâtiment ;
+4° Pour les bâtiments visés au 3°, la valeur de la consommation maximale ;
 
-5. Les caractéristiques thermiques de référence pour le calcul de la consommation conventionnelle d'énergie de référence et
-le calcul de la température intérieure conventionnelle de référence atteinte en été ;
+5° Les bâtiments pour lesquels la température intérieure conventionnelle atteinte en été ne doit pas être supérieure à une
+température intérieure conventionnelle de référence ;
 
-6. Les conditions particulières d'évaluation de la performance thermique des projets de construction pour lesquels, en raison
-de leur spécificité établie, les caractéristiques thermiques, minimales ou de référence, ou les méthodes de calcul ne sont
-pas applicables ;
+6° Pour les bâtiments visés au 5°, la méthode de calcul de la température intérieure conventionnelle atteinte en été ;
 
-7. Les conditions d'approbation des procédés et solutions techniques de construction, d'aménagement et d'équipement
-susceptibles en eux-mêmes de justifier du respect des conditions définies au I.
+7° Les caractéristiques thermiques de référence pour le calcul de la consommation conventionnelle d'énergie de référence et
+de la température intérieure conventionnelle de référence atteinte en été ;
+
+8° Les conditions particulières d'évaluation de la performance thermique des systèmes ou projets de construction pour
+lesquels, en raison de leur spécificité, les caractéristiques thermiques, minimales ou de référence, ou les méthodes de
+calcul ne sont pas applicables ;
+
+9° Les conditions d'approbation des procédés et solutions techniques de construction, d'aménagement et d'équipement
+permettant de regarder comme remplies les conditions définies au I ;
+
+10° Les modalités de transmission des données utilisées pour ces calculs et communiquées à leur demande aux personnes
+habilitées visées à l'article L. 151-1.
 
 III. - Un arrêté du ministre chargé de l'énergie et du ministre chargé de la construction et de l'habitation détermine les
 conditions d'attribution à un bâtiment du label "haute performance énergétique".
 
 IV. - Les dispositions du présent article ne s'appliquent pas aux bâtiments et parties de bâtiment dont la température
-normale d'utilisation est inférieure ou égale à 12 °C, aux piscines, aux patinoires, aux bâtiments d'élevage ainsi qu'aux
-bâtiments chauffés ou climatisés exclusivement pour des raisons particulières liées au processus de conservation ou de
-fabrication qu'ils abritent.
+normale d'utilisation est inférieure ou égale à 12 °C et aux constructions provisoires prévues pour une durée d'utilisation
+de moins de deux ans.
 
 **Liens relatifs à cet article**
 
@@ -34037,81 +34046,14 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
-
-**Liens**:
-
-  - SPEC_APPLI: Code de la construction et de l'habitation. - art. R*111-21 (M)
-
-
-##### Sous-section 2 : Performances énergétiques et énergies renouvelables.<a id=235></a>
-
-###### Article R*111-21
-
-Les dispositions de la présente section sont applicables à tous les projets de construction ayant fait l'objet d'une demande
-de permis de construire déposée postérieurement au 1er juin 2001.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°78-622 1978-05-31 JORF 8 JUIN 1978
-
-_Cité par_:
-
-  - Arrêté du 11 mars 1988 - art. 11 (V)
-  - Arrêté du 11 mars 1988 - art. 2 (V)
-  - Arrêté du 11 mars 1988 - art. 21 (V)
-  - Arrêté du 11 mars 1988 - art. 33 (V)
-  - Arrêté du 13 avril 1988 - art. 11 (V)
-  - Arrêté du 13 avril 1988 - art. 2 (V)
-  - Arrêté du 13 avril 1988 - art. 21 (V)
-  - Arrêté du 13 avril 1988 - art. 33 (V)
-  - Arrêté du 4 mai 1988 - art. 11 (V)
-  - Arrêté du 4 mai 1988 - art. 2 (V)
-  - Arrêté du 4 mai 1988 - art. 21 (V)
-  - Arrêté du 4 mai 1988 - art. 33 (V)
-  - Arrêté du 6 mai 1988 - art. 10 (V)
-  - Arrêté du 6 mai 1988 - art. 2 (V)
-  - Arrêté du 6 mai 1988 - art. 20 (V)
-  - Arrêté du 6 mai 1988 - art. 32 (V)
-  - Décret n°2007-18 du 5 janvier 2007 - art. 26 (V)
-  - Décret n°2016-856 du 28 juin 2016 (V)
-  - Arrêté du 12 octobre 2016 - art. 1 (V)
-  - Arrêté du 12 octobre 2016 - art. 2 (V)
-  - Code de l'urbanisme - art. R*421-7-2 (V)
-  - Code de l'urbanisme - art. R*431-18 (V)
-  - Code de la construction et de l'habitation. - art. R*111-20 (M)
-
-_Modifié par_:
-
-  - Décret n°2000-1153 du 29 novembre 2000 - art. 2 () JORF 30 novembre 2000
-
-_Abrogé par_:
-
   - Décret n°2006-592 du 24 mai 2006 - art. 1 () JORF 25 mai 2006
 
-**Liens**:
+_Cite_:
 
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 1 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 2 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 3 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 4 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 5 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 5 BIS (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 6 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 7 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 8 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. 9 (Ab)
-  - TXT_SOURCE: Arrêté du 12 mars 1976 - art. ANNEXE (Ab)
-  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 1 (V)
-  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 2 (V)
-  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 3 (V)
-  - TXT_SOURCE: Arrêté du 25 juillet 1977 - art. 4 (V)
-  - SPEC_APPLI: Code de la construction et de l'habitation. - art. R*111-20 (M)
+  - Code de la construction et de l'habitation. - art. L151-1 (M)
 
 
-##### Section 5 : Caractéristiques acoustiques.<a id=236></a>
+##### Section 5 : Caractéristiques acoustiques.<a id=235></a>
 
 ###### Article R111-23-1
 
@@ -34186,9 +34128,9 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R111-23-1 (V)
 
 
-##### Section 6 : Responsabilité des constructeurs d'ouvrage.<a id=237></a>
+##### Section 6 : Responsabilité des constructeurs d'ouvrage.<a id=236></a>
 
-##### Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979.<a id=238></a>
+##### Sous-section 1 : Déclarations d'ouverture de chantiers antérieures au 1er janvier 1979.<a id=237></a>
 
 ###### Article R*111-24
 
@@ -34324,9 +34266,9 @@ _Modifié par_:
   - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
-##### Section 7 : Contrôle technique.<a id=239></a>
+##### Section 7 : Contrôle technique.<a id=238></a>
 
-##### Sous-section 1 : Agrément des contrôleurs techniques.<a id=240></a>
+##### Sous-section 1 : Agrément des contrôleurs techniques.<a id=239></a>
 
 ###### Article R*111-29
 
@@ -34625,7 +34567,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R122-16 (V)
 
 
-##### Sous-section 2 : Contrôle technique obligatoire.<a id=241></a>
+##### Sous-section 2 : Contrôle technique obligatoire.<a id=240></a>
 
 ###### Article R*111-38
 
@@ -34770,9 +34712,9 @@ _Modifié par_:
   - Décret n°95-20 du 9 janvier 1995 - art. 1 () JORF 10 janvier 1995
 
 
-#### Chapitre II : Dispositions spéciales.<a id=242></a>
+#### Chapitre II : Dispositions spéciales.<a id=241></a>
 
-##### Section 1 : Dispositions spéciales relatives à la prévention du risque sismique.<a id=243></a>
+##### Section 1 : Dispositions spéciales relatives à la prévention du risque sismique.<a id=242></a>
 
 ###### Article R112-1
 
@@ -34806,6 +34748,93 @@ _Cité par_:
   - Arrêté du 26 octobre 2010 - art. 19 (V)
   - Arrêté du 28 décembre 2012 - art. 16 (V)
   - Décret n°2019-184 du 11 mars 2019 - art. 2 (V)
+
+
+##### Section 2 : Protection contre les risques xylophages.<a id=243></a>
+
+###### Article R112-2
+
+Les bâtiments neufs doivent être conçus et construits de façon à résister à l'action des termites et autres insectes
+xylophages.
+
+A cet effet doivent être mis en oeuvre, pour les éléments participant à la solidité des structures, soit des bois
+naturellement résistant aux insectes ou des bois ou matériaux dérivés dont la durabilité a été renforcée, soit des
+dispositifs permettant le traitement ou le remplacement des éléments en bois ou matériaux dérivés.
+
+Les mêmes obligations s'imposent lors de l'introduction dans un bâtiment existant d'éléments en bois ou matériaux dérivés
+participant à la solidité de la structure.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2006-591 du 23 mai 2006 - art. 1 () JORF 25 mai 2006
+
+_Cité par_:
+
+  - Arrêté du 16 février 2010 - art. 1 (V)
+  - Arrêté du 28 novembre 2014 (V)
+  - Code de la construction et de l'habitation. - art. R112-4 (V)
+
+
+###### Article R112-3
+
+Dans les départements dans lesquels a été publié un arrêté préfectoral pris pour l'application de l'article L. 133-5, les
+bâtiments neufs doivent être protégés contre l'action des termites. A cet effet doit être mis en oeuvre une barrière de
+protection entre le sol et le bâtiment ou un dispositif de construction dont l'état est contrôlable.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2006-591 du 23 mai 2006 - art. 1 () JORF 25 mai 2006
+
+_Cité par_:
+
+  - Décret n°2006-591 du 23 mai 2006 - art. 2 (V)
+  - Arrêté du 28 novembre 2014 (V)
+  - Code de la construction et de l'habitation. - art. R112-4 (M)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation. - art. L133-5 (M)
+
+
+###### Article R112-4
+
+Le constructeur du bâtiment ou des éléments mentionnés aux articles R. 111-2 et R. 112-3 fournit au maître d'ouvrage, au plus
+tard à la réception des travaux, une notice technique indiquant les dispositifs, les protections ainsi que les références et
+caractéristiques des matériaux mis en oeuvre.
+
+Un arrêté conjoint des ministres chargés de la construction et de l'outre-mer précise les conditions d'application des
+dispositions de la présente section ainsi que les adaptations à la situation particulière des départements d'outre-mer.
+
+**Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Décret n°78-621 1978-05-31 JORF 8 juin 1978
+
+_Créé par_:
+
+  - Décret n°2006-591 du 23 mai 2006 - art. 1 () JORF 25 mai 2006
+
+_Cité par_:
+
+  - Décret n°2019-184 du 11 mars 2019 - art. 2 (V)
+
+_Cite_:
+
+  - Code de la construction et de l'habitation R111-2, R112-3
+  - Code de la construction et de l'habitation. - art. R112-3 (V)
 
 
 ### Titre II : Sécurité et protection contre l'incendie.<a id=244></a>
