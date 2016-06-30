@@ -367,7 +367,7 @@ suivant du même code.
 L'augmentation annuelle du prix de ces prestations est encadrée par un arrêté du ministre de l'économie et des finances en
 application de l'article L. 342-3 du même code.
 
-En application de l'article L. 113-3 du code de la consommation, les prix des différentes prestations offertes aux résidents
+En application de l'article L. 112-1 du code de la consommation, les prix des différentes prestations offertes aux résidents
 doivent être affichés dans l'établissement.
 
 Les prestations obligatoirement intégrées dans la redevance et non prises en compte pour le calcul de l'APL, et de ce fait
@@ -741,31 +741,6 @@ Fait à , le
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Arrêté 1977-07-29
-  - Loi n°48-1360 du 1er septembre 1948
-  - Code civil - art. 1244
-  - Code civil - art. 1719
-  - Code civil - art. 1720
-  - Code civil - art. 1721
-  - Code civil - art. 1728
-  - Code civil - art. 1754
-  - Code civil - art. 1755
-  - Code civil - art. 606
-  - Code de la construction et de l'habitation.
-  - Code de la construction et de l'habitation. - art. L351-2
-  - Code de la construction et de l'habitation. - art. L353-13
-  - Code de la construction et de l'habitation. - art. R331-20
-  - Code de la construction et de l'habitation. - art. R351-56
-  - Code de la construction et de l'habitation. - art. R353-154
-  - Code de la construction et de l'habitation. - art. R353-161
-  - Code de la construction et de l'habitation. - art. R353-164
-
-_Codifié par_:
-
-  - Décret n°78-622 du 31 mai 1978
-
 _Modifié par_:
 
-  - Décret n°2011-356 du 30 mars 2011 - art. (V)
+  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
