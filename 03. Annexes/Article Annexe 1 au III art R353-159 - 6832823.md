@@ -217,14 +217,15 @@ et le gestionnaire
 La résiliation du contrat par le gestionnaire ou le propriétaire ne peut intervenir que dans les cas suivants :
 
 - inexécution par le résident de l'une des obligations lui incombant au regard du contrat d'occupation ou manquement grave ou
-répété au règlement intérieur. La résiliation du contrat ne prend effet qu'un mois après la date de notification par lettre
+répété au règlement intérieur . La résiliation du contrat ne prend effet qu'un mois après la date de notification par lettre
 recommandée avec avis de réception.
 
 Lorsque la résiliation est motivée par un impayé de redevance, le délai de préavis ne débute que lorsque trois termes
 mensuels consécutifs, tel que prévu à l'article R. 633-3 du code de la construction et de l'habitation, du montant total à
 acquitter sont totalement impayés ou bien lorsqu'une somme au moins égale à deux fois le montant mensuel du montant à
-acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1244 et suivants du code
-civil s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
+acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1342-4 alinéa 1er et 1343-5
+du code civil s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge
+judiciaire ;
 
 - le résident cesse de remplir les conditions d'admission mentionnées à l'article 4. Le gestionnaire doit alors informer
 individuellement le résident concerné par lettre recommandée avec accusé de réception en respectant un préavis de trois mois
@@ -741,6 +742,49 @@ Fait à , le
 
 **Liens relatifs à cet article**
 
+_Cite_:
+
+  - Décret n°55-22 du 4 janvier 1955 - art. 3
+  - Loi n°86-1290 du 23 décembre 1986 - art. 18
+  - Décret n°87-713 du 26 août 1987
+  - Loi n°89-462 du 6 juillet 1989 - art. 17
+  - Code général des impôts, CGI. - art. 284
+  - Code civil - art. 1342-4
+  - Code civil - art. 1343-5
+  - Code civil - art. 1719
+  - Code civil - art. 1720
+  - Code civil - art. 1721
+  - Code civil - art. 1728
+  - Code civil - art. 1754
+  - Code civil - art. 1755
+  - Code civil - art. 606
+  - Code de l'action sociale et des familles - art. L311-6
+  - Code de l'action sociale et des familles - art. L313-3
+  - Code de l'action sociale et des familles - art. L342-1
+  - Code de l'action sociale et des familles - art. L342-2
+  - Code de la construction et de l'habitation. - art. L301-5-1
+  - Code de la construction et de l'habitation. - art. L301-5-2
+  - Code de la construction et de l'habitation. - art. L351-14
+  - Code de la construction et de l'habitation. - art. L353-2
+  - Code de la construction et de l'habitation. - art. L353-8
+  - Code de la construction et de l'habitation. - art. L353-9-2
+  - Code de la construction et de l'habitation. - art. L353-9-3
+  - Code de la construction et de l'habitation. - art. L441-1
+  - Code de la construction et de l'habitation. - art. L633-2
+  - Code de la construction et de l'habitation. - art. R331-1
+  - Code de la construction et de l'habitation. - art. R331-17
+  - Code de la construction et de l'habitation. - art. R351-56
+  - Code de la construction et de l'habitation. - art. R351-64
+  - Code de la construction et de l'habitation. - art. R353-159
+  - Code de la construction et de l'habitation. - art. R353-160
+  - Code de la construction et de l'habitation. - art. R353-174
+  - Code de la construction et de l'habitation. - art. R633-3
+
+_Codifié par_:
+
+  - Décret n°78-622 du 31 mai 1978
+
 _Modifié par_:
 
   - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
+  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)

@@ -208,8 +208,8 @@ recommandée avec avis de réception.
 Lorsque la résiliation est motivée par un impayé de redevance, le délai de préavis ne débute que lorsque trois termes
 mensuels consécutifs, tel que prévu à l'article R. 633-3 du code de la construction et de l'habitation, du montant total à
 acquitter sont totalement impayés ou bien lorsqu'une somme au moins égale à deux fois le montant mensuel du montant à
-acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1244 et suivants du code
-civil s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
+acquitter pour le logement et les charges est due au gestionnaire. Les dispositions des articles 1342-4 alinéa 1er et 1343-5
+s'appliquent. Les effets de la clause résolutoire sont suspendus en cas de délai accordé par le juge judiciaire ;
 
 - le résident cesse de remplir les conditions d'admission mentionnées à l'article 4. Le gestionnaire doit alors informer
 individuellement le résident concerné par lettre recommandée avec accusé de réception en respectant un préavis de trois mois
@@ -767,4 +767,4 @@ Projet de relogement [s'il y a lieu] :
 
 _Modifié par_:
 
-  - Ordonnance n°2016-301 du 14 mars 2016 - art. 2 (V)
+  - Décret n°2016-1278 du 29 septembre 2016 - art. 1 (V)
