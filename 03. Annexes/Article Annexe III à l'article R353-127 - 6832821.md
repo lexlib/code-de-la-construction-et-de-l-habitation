@@ -29,7 +29,7 @@ Les travaux d'amélioration doivent conduire à mettre les logements en conformi
 d'habitabilité définies par arrêté du 1er mars 1978, sauf en cas d'impératifs techniques tenant à la structure de l'immeuble.
 
 La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement
-dans les conditions définies dans le livre III, titre V (1ère partie) du code précité.
+dans les conditions définies dans le livre VIII du même code.
 
 Article 2.
 
@@ -118,7 +118,7 @@ Locaux commerciaux (nombre) : ...
 
 Bureaux commerciaux (nombre) : ...
 
-Autres : ....    (1) Dont ceux régis par la loi du 1er septembre 1948 en précisant la catégorie du logement.
+Autres : .... (1) Dont ceux régis par la loi du 1er septembre 1948 en précisant la catégorie du logement.
 
 Article 4.
 
@@ -247,4 +247,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 6
+  - Décret n°2019-772 du 24 juillet 2019 - art. 5
