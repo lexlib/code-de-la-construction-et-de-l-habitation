@@ -1,7 +1,7 @@
 # Article Annexe I à l'article R353-127
 
 Le ministre de l'environnement et du cadre de vie, agissant au nom de l'Etat en tant que ministre chargé de la construction
-et de l'habitation, représenté par le préfet, d'une part, et M. ... (1)    ou
+et de l'habitation, représenté par le préfet, d'une part, et M. ... (1) ou
 
 et la société ... (1), représentée par ... dénommé(e) ci-après le bailleur, d'autre part, sont convenus de ce qui suit :
 
@@ -31,7 +31,7 @@ Soit par ... personne ou organisme agréé(e) par arrêté en date du 9 mars 197
 habilités à gérer des immeubles faisant l'objet d'une convention régie par les articles L. 353-1 à L. 353-13 du code précité.
 
 La signature de la présente convention conditionne, pendant sa durée, l'ouverture du droit à l'aide personnalisée au logement
-dans les conditions définies dans le livre III, titre V (1ère partie) du code précité.
+dans les conditions définies dans le livre VIII du même code.
 
 Article 2.
 
@@ -203,4 +203,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 6
+  - Décret n°2019-772 du 24 juillet 2019 - art. 5
