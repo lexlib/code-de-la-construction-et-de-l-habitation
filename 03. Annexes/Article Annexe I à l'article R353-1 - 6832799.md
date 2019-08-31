@@ -1,7 +1,7 @@
 # Article Annexe I à l'article R353-1
 
-Convention type conclue en application de l'article L. 351-2 (2° ou 3°) du code de la construction et de l'habitation entre
-l'Etat et l'organisme d'habitations à loyer modéré
+Convention type conclue en application des articles L. 353-1 et L. 831-1 (2° ou 3°) du code de la construction et de
+l'habitation entre l'Etat et l'organisme d'habitations à loyer modéré
 
 Convention type conclue entre l'Etat et … (1) en application de l'article L. 351-2 (2° ou 3°) du code de la construction et
 de l'habitation pour l'opération de … (2)
@@ -32,7 +32,7 @@ La présente convention a pour objet de fixer les droits et les obligations des 
 la présente convention.
 
 La présente convention ouvre, pendant sa durée, le droit à l'aide personnalisée au logement (APL) dans les conditions
-définies par le titre V du livre III du code de la construction et de l'habitation.
+définies par le livre VIII du code de la construction et de l'habitation.
 
 Article 2
 
@@ -78,7 +78,7 @@ Article 6
 Aide personnalisée au logement (APL).
 
 Le bénéfice de l'APL est ouvert ou modifié respectivement à compter de la date d'effet de la convention ou de ses avenants
-conformément aux articles L. 351-3-1 et R. 351-3 du code de la construction et de l'habitation.
+conformément aux articles R. 823-10 à R. 823-14, R. 831-2 et R. 831-3 du code de la construction et de l'habitation.
 
 II.-Engagements du bailleur à l'égard de l'Etat relatifs aux conditions de location des logements.
 
@@ -320,7 +320,7 @@ Le bailleur indique sur la quittance le montant du loyer principal, du ou des lo
 charges locatives et, le cas échéant, le montant de l'APL, de la réduction de loyer de solidarité et de la contribution pour
 le partage des économies de charges.
 
-En application de l'article L. 351-9 du code de la construction et de l'habitation, pour chaque appel de loyer, le bailleur
+En application de l'article L. 832-2 du code de la construction et de l'habitation, pour chaque appel de loyer, le bailleur
 déduit s'il y a lieu le montant de l'APL qu'il perçoit pour le compte du locataire du montant du loyer et des dépenses
 accessoires de logement.
 
@@ -331,7 +331,7 @@ au locataire dans le délai d'un mois.
 En cas de retard du locataire dans le paiement du loyer et des charges locatives, le bailleur doit prendre toutes
 dispositions en vue de recouvrer sa créance.
 
-En cas d'impayé constitué au sens de l'article R. 351-30 du code de la construction et de l'habitation, et lorsque l'APL est
+En cas d'impayé constitué au sens de l'article R. 824-1 du code de la construction et de l'habitation, et lorsque l'APL est
 versée en tiers payant, le bailleur doit informer l'organisme payeur de la situation du locataire dans un délai de deux mois
 après la constitution de l'impayé.
 
@@ -348,11 +348,11 @@ Article 18
 
 Régime des rapports locatifs applicables aux logements.
 
-Lorsque la présente convention est conclue en application du 3° de l'article L. 351-2 du code de la construction et de
-l'habitation pour une résidence universitaire définie à l'article L. 631-12 du même code, les logements de la résidence
-universitaire sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les rapports locatifs,
-dans les conditions prévues par les III et VIII de l'article 40, aux dispositions du code de la construction et de
-l'habitation et aux stipulations de la présente convention.
+Lorsque la présente convention est conclue en application de l'article L. 353-1 et du 3° de l'article L. 831-1 du code de la
+construction et de l'habitation pour une résidence universitaire définie à l'article L. 631-12 du même code, les logements de
+la résidence universitaire sont soumis aux dispositions de la loi n° 89-462 du 6 juillet 1989 tendant à améliorer les
+rapports locatifs, dans les conditions prévues par les III et VIII de l'article 40, aux dispositions du code de la
+construction et de l'habitation et aux stipulations de la présente convention.
 
 Les stipulations particulières suivantes s'appliquent :
 
@@ -430,7 +430,7 @@ du 1er juillet de l'année en cours ;
 
 - un document attestant que tous les bénéficiaires sont à jour de leurs obligations vis-à-vis du bailleur ou, le cas échéant,
 la liste des bénéficiaires d'APL non à jour en certifiant que cette liste est exhaustive. Ce document mentionne également la
-date à laquelle l'organisme payeur a été saisi en cas d'impayé constitué selon la définition fixée par l'article R. 351-30 du
+date à laquelle l'organisme payeur a été saisi en cas d'impayé constitué selon la définition fixée par l'article R. 324-1 du
 code de la construction et de l'habitation.
 
 Ces transmissions peuvent s'effectuer grâce à un dispositif de collecte dématérialisé.
@@ -442,12 +442,12 @@ Article 21
 
 Obligations en cas d'impayé.
 
-En application des articles L. 351-12, R. 351-20 et R. 351-30 du code de la construction et de l'habitation, le bailleur
-auprès duquel l'aide est versée signale à l'organisme payeur lorsqu'un allocataire ne règle pas la part de la dépense de
-logement restant à sa charge, dans un délai de deux mois après la constitution de l'impayé défini au I de l'article R. 351-30
-précité, sauf si la somme due a été réglée entre-temps en totalité. Le bailleur doit justifier qu'il poursuit par tous les
-moyens possibles le recouvrement de sa créance. En outre, il communique le montant de l'impayé constitué au moment de la
-saisine de l'organisme payeur.
+En application des articles L. 824-1 et R. 824-4 du code de la construction et de l'habitation, le bailleur auprès duquel
+l'aide est versée signale à l'organisme payeur lorsqu'un allocataire ne règle pas la part de la dépense de logement restant à
+sa charge, dans un délai de deux mois après la constitution de l'impayé défini à l'article R. 824-1 du code de la
+construction et de l'habitation, sauf si la somme due a été réglée entre-temps en totalité. Le bailleur doit justifier qu'il
+poursuit par tous les moyens possibles le recouvrement de sa créance. En outre, il communique le montant de l'impayé
+constitué au moment de la saisine de l'organisme payeur.
 
 Parallèlement, en cas d'impayé, le bailleur doit poursuivre le recouvrement de sa créance en notifiant au locataire
 défaillant par lettre recommandée avec accusé de réception le montant de cette créance. Il doit également informer le
@@ -458,7 +458,7 @@ l'organisme payeur des APL en vue de prévenir leurs éventuelles suspensions pa
 prévention (article 7-2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en œuvre du droit au logement).
 
 La CCAPEX est réputée avoir été régulièrement saisie lorsque le bailleur a préalablement signalé l'impayé à l'organisme
-payeur des APL selon les modalités définies à l'article R. 351-30 précité.
+payeur des APL selon les modalités définies à l'article R. 824-4 précité.
 
 VI.-Dispositions relatives à l'application de la convention.
 
@@ -535,6 +535,11 @@ Le bailleur (6),
 Le préfet, le président de l'établissement public de coopération intercommunale, du conseil départemental, de la métropole de
 Lyon ou du conseil exécutif de Corse,
 
+**Nota:**
+
+Conformément aux dispositions de l'article 17 du décret n° 2019-831 du 3 août 2019, ces dispositions entrent en vigueur le
+1er septembre 2019.
+
 **Liens relatifs à cet article**
 
 _Cite_:
@@ -571,10 +576,6 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. R353-19
   - Code de la construction et de l'habitation. - art. R441-1
 
-_Codifié par_:
-
-  - Décret n°78-622 du 31 mai 1978
-
 _Modifié par_:
 
-  - Décret n°2019-831 du 3 août 2019 - art.
+  - Décret n°2019-831 du 3 août 2019 - art. 3 (V)

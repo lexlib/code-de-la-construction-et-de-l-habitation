@@ -41,12 +41,12 @@ personnes physiques à titre de résidences principales, soit lorsqu'une offre s
 dans un îlot, un quartier ou une commune, soit à la demande de la collectivité territoriale dans le cadre d'une action ou
 d'une opération d'aménagement ou de la mise en oeuvre des objectifs de renouvellement urbain et de mixité sociale prévus dans
 les contrats de ville. Ces logements sont destinés à des personnes physiques dont les ressources n'excèdent pas les plafonds
-fixés en application de l'article R. 443-34 du code de la construction et de l'habitation. Les prix de vente de ces immeubles
+fixés en application de l'article D. 443-34 du code de la construction et de l'habitation. Les prix de vente de ces immeubles
 respectent les maxima fixés en application du même article ;
 
 7° D'assister, à titre de prestataire de services, des personnes physiques et des sociétés coopératives de construction ou
 sociétés civiles immobilières ayant pour objet la réalisation d'immeubles à usage d'habitation ou à usage professionnel et
-d'habitation destinés à des accédants dont les ressources n'excèdent pas les plafonds fixés en application de l'article R.
+d'habitation destinés à des accédants dont les ressources n'excèdent pas les plafonds fixés en application de l'article D.
 443-34 du code de la construction et de l'habitation ;
 
 8° Après avoir souscrit ou acquis des parts d'une société civile immobilière ayant pour objet la réalisation d'immeubles à
@@ -203,7 +203,7 @@ construction et de l'habitation, sauf dérogation accordée dans les conditions 
 2° Chaque communauté de communes de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants,
 communauté urbaine, communauté d'agglomération, syndicat d'agglomération nouvelle, département ou région sur le territoire
 duquel ou de laquelle la société possède des logements ou des logements-foyers, lorsqu'il ou elle n'est pas actionnaire de la
-société, est en droit d'acquérir une action de l'actionnaire de référence.L'acquisition se fait au prix symbolique de dix
+société, est en droit d'acquérir une action de l'actionnaire de référence. L'acquisition se fait au prix symbolique de dix
 centimes d'euro.
 
 La cession est consentie par l'actionnaire de référence ou l'un quelconque des actionnaires le constituant dans les quinze
@@ -368,7 +368,7 @@ _Cite_:
   - Code de la construction et de l'habitation. - art. L444-1
   - Code de la construction et de l'habitation. - art. L615-1
   - Code de la construction et de l'habitation. - art. L631-11
-  - Code de la construction et de l'habitation. - art. R*421-2 (V)
+  - Code de la construction et de l'habitation. - art. R*421-2
   - Code de la construction et de l'habitation. - art. R*421-56
   - Code de la construction et de l'habitation. - art. R421-4
   - Code de la construction et de l'habitation. - art. R421-4-1
@@ -381,4 +381,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-751 du 6 juin 2016 - art. 2
+  - Décret n°2019-873 du 21 août 2019 - art. 7 (VD)
