@@ -26,12 +26,12 @@ professionnel et d'habitation ;
 2° De réaliser ou d'acquérir et d'améliorer, soit en qualité de maître d'ouvrage, soit par l'intermédiaire de sociétés
 civiles de construction mentionnées au précédent alinéa, en vue de leur vente à des personnes physiques, à titre de résidence
 principale, et de gérer, notamment en qualité de syndic, des immeubles à usage d'habitation ou à usage professionnel et
-d'habitation respectant les prix de vente maxima fixés en application du III de l'article R. 443-34 du code précité ;
+d'habitation respectant les prix de vente maxima fixés en application du III de l'article D. 443-34 du code précité ;
 
 3° En vue de leur location-accession dans les conditions fixées par la loi n° 84-595 du 12 juillet 1984 modifiée définissant
 la location-accession à la propriété immobilière, de construire, acquérir, réaliser des travaux et gérer des immeubles à
 usage d'habitation ou à usage professionnel et d'habitation respectant les prix de vente maxima fixés en application du III
-de l'article R. 443-34 du code de la construction et de l'habitation ;
+de l'article D. 443-34 du code de la construction et de l'habitation ;
 
 4° De réaliser des hébergements de loisirs à vocation sociale selon les modalités prévues au 6° de l'article L. 421-3 du code
 de la construction et de l'habitation ;
@@ -139,8 +139,8 @@ construction et de l'habitation, à l'association agréée mentionnée à l'arti
 l'habitation, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au moins par cette association, des
 immeubles à usage principal d'habitation destinés à la location ;
 
-31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'articleL. 313-34 du code de
-la construction et de l'habitation précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au
+31° De réaliser des prestations de services pour le compte de l'association agréée mentionnée à l'article L. 313-34 du code
+de la construction et de l'habitation précitée, ou des sociétés civiles immobilières dont les parts sont détenues à 99 % au
 moins par cette association ;
 
 32° De réaliser en vue de leur vente, dans les conditions prévues à l'article L. 261-3 du code de la construction et de
@@ -380,4 +380,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2016-751 du 6 juin 2016 - art. 2
+  - Décret n°2019-873 du 21 août 2019 - art. 7 (VD)
