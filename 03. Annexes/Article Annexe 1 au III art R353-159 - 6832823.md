@@ -140,9 +140,9 @@ Pour répondre à ces obligations, le gestionnaire s'engage à signaler les loge
 et, le cas échéant, aux délégataires des droits à réservation du préfet en application de l'article L. 441-1 du code de la
 construction et de l'habitation [rayer la mention inutile] :
 
-- soit dans les conditions du I de l'article R. 331-1 du code de la construction et de l'habitation ;
+- soit dans les conditions du I de l'article D. 331-1 du code de la construction et de l'habitation ;
 
-- soit dans les conditions de l'article R. 331-17 du code de la construction et de l'habitation.
+- soit dans les conditions de l'article D. 331-17 du code de la construction et de l'habitation.
 
 Par ailleurs :
 
@@ -486,7 +486,7 @@ En cas d'inexécution par le gestionnaire de ses engagements contractuels, l'adm
 recommandée avec avis de réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la
 résiliation de la présente convention.
 
-Il sera fait application des dispositions prévues à l'article R. 353-174 du code de la construction et de l'habitation. Pour
+Il sera fait application des dispositions prévues à l'article D. 353-174 du code de la construction et de l'habitation. Pour
 les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée par la
 convention, diminuée de l'APL, prise en charge désormais par le gestionnaire.
 
@@ -791,4 +791,4 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-772 du 24 juillet 2019 - art. 5
+  - Décret n°2019-873 du 21 août 2019 - art. 7 (VD)

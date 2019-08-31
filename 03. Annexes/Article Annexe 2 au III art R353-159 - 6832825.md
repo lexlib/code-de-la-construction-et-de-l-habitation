@@ -131,7 +131,7 @@ Les modalités de gestion de ces réservations sont les suivantes :
 Les modalités de choix des personnes accueillies sont les suivantes :
 
 Le gestionnaire s'engage à ce qu'au moins 75 % des ménages entrant dans les lieux disposent de ressources annuelles
-n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions du II de l'article R.
+n'excédant pas les plafonds applicables pour l'attribution des logements financés dans les conditions du II de l'article D.
 331-1 du code de la construction et de l'habitation.
 
 L'annexe II précise ces engagements ainsi que l'ensemble des actions menées au bénéfice des résidents.
@@ -454,7 +454,7 @@ En cas d'inexécution par le gestionnaire de ses engagements contractuels, l'adm
 recommandée avec avis de réception demeurée sans effet après un délai de deux mois, peut procéder unilatéralement à la
 résiliation de la présente convention.
 
-Il sera fait application des dispositions prévues à l'article R. 353-174 du code de la construction et de l'habitation. Pour
+Il sera fait application des dispositions prévues à l'article D. 353-174 du code de la construction et de l'habitation. Pour
 les occupants dans les lieux à la date à laquelle la résiliation est devenue définitive, la redevance est celle fixée par la
 convention, diminuée de l'APL, prise en charge désormais par le gestionnaire.
 
@@ -801,4 +801,4 @@ _Cite_:
 
 _Modifié par_:
 
-  - Décret n°2019-772 du 24 juillet 2019 - art. 5
+  - Décret n°2019-873 du 21 août 2019 - art. 7 (VD)
