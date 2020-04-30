@@ -44,6 +44,22 @@ Facultatif : " Le maître de l'ouvrage constitue le constructeur mandataire à l
 " Le constructeur communique au maître de l'ouvrage à titre indicatif le coût des taxes d'urbanisme et participations non
 comprises dans le prix convenu prévues par les articles L. 332-6 et L. 332-6-1 du code de l'urbanisme. "
 
+Clauses additionnelles à prévoir dans le cas où le constructeur assure la fabrication, la pose et l'assemblage sur le
+chantier d'éléments préfabriqués dans les conditions définies à l'article L. 111-1-1 du code de la construction et de
+l'habitation :
+
+“ Sont également annexés au présent contrat :
+
+“-la liste et la description, avec leur plan et leurs caractéristiques, des éléments préfabriqués qui font indissociablement
+corps avec les ouvrages de viabilité, de fondation, d'ossature, de clos et de couvert de la construction. Ces éléments
+peuvent intégrer l'isolation et les réserves pour les réseaux divers ;
+
+“-le document définissant les modalités selon lesquelles le constructeur informera le maître de l'ouvrage de l'achèvement et
+de la bonne exécution de la fabrication de ces éléments, soit en le mettant à même de constater ou de faire constater cette
+fabrication sur le site de production, soit en lui transmettant les éléments permettant d'attester la fabrication des
+éléments mentionnés et décrits au contrat, identifiables par tout moyen propre à l'entreprise, notamment par marquage des
+éléments préfabriqués au nom du maître d'ouvrage, code barre ou tout autre moyen pertinent d'identification. ”
+
 II. - Coût de la construction et prix convenu
 
 Clause :
@@ -81,7 +97,7 @@ l'ouvrage) dans le délai de deux jours.
 " Cette somme s'imputera sur les premiers paiements qui seront demandés selon l'échelonnement prévu à l'article R. 231-7 du
 code de la construction et de l'habitation ci-après reproduit :
 
-" Art. R. 231-7. - ... "
+" Art. R. 231-7 ... "
 
 La formule suivante peut être utilisée dans l'hypothèse où le contrat est assorti d'une garantie de remboursement :
 
@@ -98,6 +114,24 @@ l'habitation délivrée par ,et faisant l'objet d'une attestation annexée au pr
 l'habitation ci-après reproduit :
 
 " Art. R. 231-7 ... "
+
+La formule suivante peut être utilisée dans l'hypothèse où le contrat est assorti d'une clause de remboursement, lorsque le
+constructeur assure la fabrication, la pose et l'assemblage sur le chantier d'éléments préfabriqués dans les conditions
+définies à l'article L. 111-1-1 du code de la construction et de l'habitation :
+
+“ Le constructeur justifie de la garantie de remboursement prévue par l'article R. 231-8 du code de la construction et de
+l'habitation délivrée par …, et faisant l'objet d'une attestation annexée au présent contrat.
+
+“ En conséquence, l'échelonnement des paiements est fixé ainsi qu'il suit :
+
+“ 5 % à la signature du contrat ;
+
+“ 5 % à la délivrance du permis de construire.
+
+“ Les autres paiements seront effectués conformément aux dispositions de l'article R. 231-7-1 du code de la construction et
+de l'habitation ci-après reproduit :
+
+“ Art. R. 231-7-1 … ”.
 
 IV. - Délai d'exécution des travaux
 
@@ -126,7 +160,7 @@ Clause :
 " La garantie de livraison aux prix et délai convenus est donnée par l'établissement X..., qui prend à sa charge les
 obligations prévues à l'article L. 231-6 du code de la construction et de l'habitation ci-après reproduit :
 
-" Art. L. 231-6. - ...
+" Art. L. 231-6 ... "
 
 " Une attestation de cette garantie est annexée au présent contrat. "
 
@@ -135,21 +169,30 @@ Variante :
 " Le présent contrat est soumis à la condition suspensive de l'obtention par le constructeur de la garantie de livraison
 prévue à l'article L. 231-6 du code de la construction et de l'habitation ci-après reproduit :
 
-" Art. L. 231-6. - ...
+" Art. L. 231-6 ... "
 
 " Une attestation de cette garantie délivrée par un organisme habilité sera adressée à M. ,dans le délai prévu pour la
 réalisation des conditions suspensives.
 
 " M. ...... s'engage à communiquer cette attestation au prêteur dès sa réception. "
 
+**Nota:**
+
+Conformément à l'article 4 du décret n° 2020-102 du 6 février 2020, ces dispositions s'appliquent aux contrats conclus à
+compter du premier jour du troisième mois suivant sa publication.
+
 **Liens relatifs à cet article**
+
+_Modifié par_:
+
+  - Décret n°2020-102 du 6 février 2020 - art. 3
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L332-6 (M)
-  - Code de l'urbanisme - art. L332-6-1 (M)
-  - Code de la construction et de l'habitation. - art. L231-6 (V)
-  - Code de la construction et de l'habitation. - art. R231-7 (M)
-  - Code de la construction et de l'habitation. - art. R231-8 (V)
+  - Code de l'urbanisme - art. L332-6
+  - Code de l'urbanisme - art. L332-6-1
+  - Code de la construction et de l'habitation. - art. L231-6
+  - Code de la construction et de l'habitation. - art. R*231-7
+  - Code de la construction et de l'habitation. - art. R231-8
   - L. 231-4-III
   - dispositions des articles L. 731-1 et suivants du code du travail
